@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 13:46 JST",
+  "updated_at": "2026-10-17 14:07 JST",
   "date": "2026年10月17日",
   "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
   "total_count": 30,
@@ -34,18 +34,6 @@
       "clean_desc": "この記事はこんな人におすすめ TypeScriptプロジェクトでtscを実行したら大量のエラーが出た 既存エラーがある環境で、自分の変更による影響を切り分けたい 「コマンドが失敗した = 自分の変更が原因」と考えてしまったことがある AIに実装や検証を任せ...",
       "summary_bullets": [
         "この記事はこんな人におすすめ TypeScriptプロジェクトでtscを実行したら大量のエ"
-      ]
-    },
-    {
-      "id": "cc43a0b57e48",
-      "title": "Claude Code Auto modeの権限設定をClaudeに手伝わせたらかなり楽になった",
-      "url": "https://zenn.dev/koki_n22/articles/04174e8cca69ab",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T13:19:30+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "対象読者 Claude CodeのAuto modeを使いたいが、権限の境界をどう設定すればよいのかわからない人 操作の拒否や承認待ちで、自律開発が止まるのを減らしたい人 モチベーション Auto modeを使っていたが、徐々に操作を拒否されたり、許可を求められたりすることが増えて面倒だった バージョンアップで判定が厳しくなったのか、自分の実行する操作が変わったためなのかは不明 理由はどうであれ、Claude Codeに色々と任せたいのに都度作業が止まるのはしんどかった そんなとき、Claude",
-      "summary_bullets": [
-        "対象読者 Claude CodeのAuto modeを使いたいが、権限の境界をどう設定すれ"
       ]
     },
     {
@@ -137,17 +125,15 @@
       ]
     },
     {
-      "id": "5d549e692de2",
-      "title": "AI駆動開発の変更統治",
-      "url": "https://zenn.dev/kanaria007/books/0a82048cdf2210",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T12:18:55+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "AIが生成したPRはすべてレビュー済みでCIも緑。それなのに統合後に認可条件が消えたら、何を根拠に変更を止め、どの検査をやり直すべきでしょうか？ 本書は、複数PRを横断する変更集合、要求と検査の対応、証拠の失効と再検証、ALLOW・HOLD・DENYによる実行判断、候補と稼働構成の分離、段階的な有効化と復旧、失敗後の調査方法の改善を、一つの開発過程として体系化します。 文書管理SaaSの認可とCSV出力を一貫した題材に、Pythonの実行教材と107件のテストで、設計した判断の状態遷移を確かめま",
+      "id": "ba2218ee7283",
+      "title": "テンセントARC Lab、ゲームAI「Player-1」発表 Minecraft成功率38％で比較対象の約3倍 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mVmo1YThTdEpVZ3VIZTM5UzhyMGxCZEdhanVIVlh4eWlqUjdYT3ktTzlRb1J6aWhyN1FmX0NlMEVlX0FvNUIyZlpzQ2JjV3o0QS1j?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-17T12:20:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "テンセントARC Lab、ゲームAI「Player-1」発表 Minecraft成功率38％で比較対象の約3倍 ビジネス+IT",
       "summary_bullets": [
-        "AIが生成したPRはすべてレビュー済みでCIも緑",
-        "それなのに統合後に認可条件が消えたら、何を根拠に変更を止め、どの検査をやり直すべきでしょう",
-        "本書は、複数PRを横断する変更集合、要求と検査の対応、証拠の失効と再検証、ALLOW・HO"
+        "テンセントARC Lab、ゲームAI「Player-1」発表 Minecraft成功率38"
       ]
     },
     {
@@ -201,60 +187,6 @@
       ]
     },
     {
-      "id": "afa10830dab7",
-      "title": "〔米国金融証券週報・展望〕AI投資減速への警戒感高まる(時事通信) - Yahoo!ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWxjeGFXVzN2cDRqMzNHckRaN0tzaUlKUGVRc1J1Q3czUnkzME4wMDlHV05kWWJPcURFeGVGMERKNDNNOE5GX3FPX1hsaDUzQTUtNzNaRlFNMlVWdUhlSmlDaVNGai1TTHl4ZjlyeG9vOW5CYmVJZThLSkY5cWNDc2VHbzZSbXc?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T11:49:07+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "〔米国金融証券週報・展望〕AI投資減速への警戒感高まる(時事通信) Yahoo!ファイナンス",
-      "summary_bullets": [
-        "〔米国金融証券週報・展望〕AI投資減速への警戒感高まる(時事通信) Yahoo!ファイナン"
-      ]
-    },
-    {
-      "id": "1daf9a01843e",
-      "title": "柔術特化HIITアプリを個人開発した記録 ── 構想・仮説検証からVeoとWanによる動画生成パイプラインまで",
-      "url": "https://zenn.dev/toshipon/articles/bjj-flow-ai-development",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T11:39:33+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "はじめに ブラジリアン柔術（BJJ）の練習中、指導者から「試合で最後まで動けるスタミナをつけるには、毎日のHIITが一番効く」と助言を受けました。 柔術には、マットを這うエビやタックルを切るスプロール、足を利かせるガードワークなど、特有の動作が多くあります。一般的な筋トレやランニングとは使う筋肉も心拍の上がり方も異なります。 しかし、こうした柔術特有のドリルを毎日1人で続けるのは簡単ではありません。タイマーを測りながら種目を切り替え、フォームを確認し、負荷を管理する作業を自力でこなすには強い意志",
-      "summary_bullets": [
-        "はじめに ブラジリアン柔術（BJJ）の練習中、指導者から「試合で最後まで動けるスタミナをつ",
-        "柔術には、マットを這うエビやタックルを切るスプロール、足を利かせるガードワークなど、特有の",
-        "一般的な筋トレやランニングとは使う筋肉も心拍の上がり方も異なります"
-      ]
-    },
-    {
-      "id": "bcc01f2f3b85",
-      "title": "Claude Code の Hook を「誰が検査するのか」問題 ― 観点・テスト・変異テストで品質を育てる",
-      "url": "https://zenn.dev/zenn_kado/articles/8ebdf96850b1f2",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T11:29:00+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "はじめに Claude Code の Hook で「TODO.md の書式チェック」を作りました。動きはしたのですが、使っているうちに 「このチェック、本当に正しく検査できているのか？」 が気になり始めました。 Hook は「Claude の作業を検査する側」です。その検査する側が間違っていたら、誰も気づけません。この記事は、そこから 検査する側を検査する仕組み を作った記録です。 想定読者: Claude Code の Hook を書き始めた人、AI に書かせたコードの品質に不安がある人 題材",
-      "summary_bullets": [
-        "はじめに Claude Code の Hook で「TODO.md の書式チェック」を作り",
-        "動きはしたのですが、使っているうちに 「このチェック、本当に正しく検査できているのか",
-        "」 が気になり始めました"
-      ]
-    },
-    {
-      "id": "3d94384fc33e",
-      "title": "Playwright × OWASP ZAP × 静的解析のローカル統合による「動的VEX」と対自律型AIの防御設計",
-      "url": "https://zenn.dev/masahiroid/articles/frontier-ai-defense-dynamic-vex",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T11:25:55+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "課題の定義：自律型AIによる「Time-to-Exploit」の極小化と従来型テストの限界 高度な推論とツール実行能力を持つフロンティアAIの普及により、Webアプリケーションに対する脆弱性探索から悪用実証（Exploit）までのタイムラインが秒〜分単位へと圧縮されています。パッチの差分（Diff）やDOM構造、APIのエラーレスポンスをコンテキストとして理解する自律型エージェントの前では、従来のセキュリティ運用における2つの前提が崩れつつあります。 単体DAST（動的解析）の探索限界 OWAS",
-      "summary_bullets": [
-        "課題の定義：自律型AIによる「Time-to-Exploit」の極小化と従来型テストの限界",
-        "パッチの差分（Diff）やDOM構造、APIのエラーレスポンスをコンテキストとして理解する",
-        "単体DAST（動的解析）の探索限界 OWAS"
-      ]
-    },
-    {
       "id": "3af8a0d4f338",
       "title": "AIリスク議論 サイバー攻撃 システムぜい弱性検出後数秒で悪用 - NHKニュース",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlZUkxTUdGamZIb0R1VS00Y2QzRTJWSEJBVmlJamE4OS0xUy1KTXYyYlA1VExYNzNWOW1QSGlyLXVnQmxrY0t1Z2JLM0ZQQUNZRTVVaUFlMmZxZjBHVXZz?oc=5",
@@ -267,34 +199,6 @@
       ]
     },
     {
-      "id": "3470c3d07c88",
-      "title": "DevelopersIO 2026 Joetsuに参加しました ― 技術イベントはやっぱり現地が面白い",
-      "url": "https://zenn.dev/nfffff/articles/dd32939e1257ed",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T11:20:07+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "はじめに 2026年10月16日(金)に開催された「DevelopersIO 2026 Joetsu <AI×クラウド技術祭>」に参加してきました。 参加レポートを書きます。 なぜ参加したのか これまで技術系イベントに参加したことがなかったので，一度参加してみたかった 普段関わることの少ない社外のエンジニアが，どんな技術に触れているのか知りたかった 自分の業務ではあまり触れない技術について知り，視野を広げたかった DevelopersIO 2026 Joetsuについて DevelopersIO",
-      "summary_bullets": [
-        "はじめに 2026年10月16日(金)に開催された「DevelopersIO 2026 J",
-        "参加レポートを書きます",
-        "なぜ参加したのか これまで技術系イベントに参加したことがなかったので，一度参加してみたかっ"
-      ]
-    },
-    {
-      "id": "fb1d0c3e7483",
-      "title": "AI がコミットに「mutation-checked」と書いたテストを、もう一度壊して確かめました",
-      "url": "https://zenn.dev/rapls/articles/7c6221a96e847d",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T11:04:02+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "AI にコードを直してもらうと、テストも一緒に書いてくれます。そのテストが本当に効いているかは、テストが通ったことからは分かりません。直した行を壊しても通るテストは、何も見張っていないからです。 自作の WordPress プラグイン PDF Image Creator の 1.4.33 で、Claude はコミットメッセージの最後にこう書きました。 - Dead code removed; translations (263); tests for each fix, mutation-che",
-      "summary_bullets": [
-        "AI にコードを直してもらうと、テストも一緒に書いてくれます",
-        "そのテストが本当に効いているかは、テストが通ったことからは分かりません",
-        "直した行を壊しても通るテストは、何も見張っていないからです"
-      ]
-    },
-    {
       "id": "623398858b98",
       "title": "トランプ政権、AI政策新組織が初会合 重要インフラ保護策など検討 - 日本経済新聞",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWNFkxV0NSb2xwa0pBUWhORExCYVVCLTBoSlVkUWg0c0VMajBReHJkNXBoUThocFhmQ1NWSV96eHBxVG5jbXA4a04zZ1AtRWVJZzVuN1VLY2NOU3o1cUNtdFNTRk1ZVWdJRWRJMQ?oc=5",
@@ -304,48 +208,6 @@
       "clean_desc": "トランプ政権、AI政策新組織が初会合 重要インフラ保護策など検討 日本経済新聞",
       "summary_bullets": [
         "トランプ政権、AI政策新組織が初会合 重要インフラ保護策など検討 日本経済新聞"
-      ]
-    },
-    {
-      "id": "8fc41afb5bbb",
-      "title": "「AIに引用されやすい」と「実際に引用された」を分ける——AIO計測を4軸に分離した理由",
-      "url": "https://zenn.dev/asagiman/articles/aio-measurement-axes",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T10:52:09+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "AIOやGEOの改善で、かなり危険な言い換えがあります。 冒頭のcitability scoreが上がった ↓ AIに引用されやすくなった ↓ AI visibilityが改善した ↓ AI経由の成果が増える 途中に、観測していない段階がいくつもあります。 contentの構造を改善したことと、実際にAIが引用したことは別です。 AIが1回引用したことと、安定して引用されることも別です。 引用されたことと、検索流入やconversionが増えたことも別です。 netsujo-aio-seoでSe",
-      "summary_bullets": [
-        "AIOやGEOの改善で、かなり危険な言い換えがあります",
-        "冒頭のcitability scoreが上がった ↓ AIに引用されやすくなった ↓ AI",
-        "contentの構造を改善したことと、実際にAIが引用したことは別です"
-      ]
-    },
-    {
-      "id": "9ceb52b8d4b7",
-      "title": "ブラウザで遊べる無料の都市人生シミュレーター「Project Moon Life」を試してみた",
-      "url": "https://zenn.dev/jevaimodel/articles/0a4eb37d547627",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T10:34:46+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "Project Moon Life とは Project Moon Life は、ブラウザ上で直接遊べる無料・無制限の都市人生シミュレーターです。インストールもアカウント登録も課金も不要で、ページを開いた瞬間から別の人生を生き始められます。 主な特徴 ブラウザで即プレイ: ダウンロード不要で、タブを開くだけで始められます 分岐するストーリー: 進学・就職・人間関係などの選択が物語を分岐させ、プレイごとに異なる人生が描かれます ローカルセーブ: 進行状況は自分の端末に保存され、サインインなしで物語",
-      "summary_bullets": [
-        "Project Moon Life とは Project Moon Life は、ブラウザ",
-        "インストールもアカウント登録も課金も不要で、ページを開いた瞬間から別の人生を生き始められま",
-        "主な特徴 ブラウザで即プレイ: ダウンロード不要で、タブを開くだけで始められます 分岐する"
-      ]
-    },
-    {
-      "id": "5a49e54af850",
-      "title": "複数の Claude Code から Codex のブラウザ操作を順番に送る：Markdown と zsh",
-      "url": "https://zenn.dev/chiero/articles/7c302a18668597",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T10:17:11+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "株式会社CHIERO のチエロです。 私の会社では、動画制作や記事制作など、仕事の系統ごとに Claude Code のセッションを分けています。 ここでは、その系統を「線」と呼びます。 各セッションは、画面の操作が必要になると、1つの Codex に Chrome の仕事を頼みます。 操作する Chrome は共通なので、別々の依頼が重なると、作業が失敗することがあります。 前の記事では、依頼に .chrome という印を付け、使用中なら CODEX_BUSY を返す方法を書きました。 これで",
-      "summary_bullets": [
-        "株式会社CHIERO のチエロです",
-        "私の会社では、動画制作や記事制作など、仕事の系統ごとに Claude Code のセッショ",
-        "ここでは、その系統を「線」と呼びます"
       ]
     },
     {
@@ -375,20 +237,6 @@
       ]
     },
     {
-      "id": "c2348a66c084",
-      "title": "Claudeが暗号の謎を解明！ECDSA定数の起源とAIによる技術解析の未来",
-      "url": "https://zenn.dev/ament3/articles/ai-digest-2026-10-17-0012",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-17T09:12:57+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "Anthropicから、LLMの技術解析能力を示す衝撃的な研究成果「Claude reveals ECDSA curve origins」が発表されました。 長年暗号学界隈で議論されてきた「標準的な楕円曲線暗号（ECDSA）パラメータの起源」という未解決の謎に対し、Claudeを活用した解析によって新たな事実が明らかになりました。 本記事では、このニュースの概要と背景、そしてエンジニアがAIをセキュリティ解析やコード監査に活かすための実践例を解説します。 概要と注目されている背景 暗号界隈の長年",
-      "summary_bullets": [
-        "Anthropicから、LLMの技術解析能力を示す衝撃的な研究成果「Claude reve",
-        "長年暗号学界隈で議論されてきた「標準的な楕円曲線暗号（ECDSA）パラメータの起源」という",
-        "本記事では、このニュースの概要と背景、そしてエンジニアがAIをセキュリティ解析やコード監査"
-      ]
-    },
-    {
       "id": "f4ed6ac211c5",
       "title": "再現ドラマにも生成AIを使用、俳優の仕事はどうなる？ テレビ番組のAI化はどこまで進むのか #エキスパートトピ - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMG02S0hUbDgzLVhXM0RuWVFDbFBfdzg3RXBsRVlFYWhuTnR1RmR3alh5MDk1LXgyTjBiVHpoNkFhM01haG1hYWFMV3RXZm5aRk1RUTdoYTlVSUtqTUQxbEttdmU5bWZ0bDZVNmJ6amd5UFZPaDZ2MzF6ejR3U1ZuT1A3UEJMdUZF?oc=5",
@@ -399,6 +247,151 @@
       "summary_bullets": [
         "再現ドラマにも生成AIを使用、俳優の仕事はどうなる",
         "テレビ番組のAI化はどこまで進むのか #エキスパートトピ Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "f7c23d108fa4",
+      "title": "TDCソフト、組織のAIネイティブ化を「現在地可視化」から「アクション策定」まで一貫支援へ - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MOXZ4dkZNUDJxNlJ1QWx4UDNmSTRuSmZQMF95NEswYmRkUldVWUI2VlA2emxPNmJQNUxkVk5xSG10M0x6OGllS1M5SVZ6VDZpNlMyWDdWU2w1dw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-17T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "TDCソフト、組織のAIネイティブ化を「現在地可視化」から「アクション策定」まで一貫支援へ EnterpriseZine",
+      "summary_bullets": [
+        "TDCソフト、組織のAIネイティブ化を「現在地可視化」から「アクション策定」まで一貫支援へ"
+      ]
+    },
+    {
+      "id": "1001563461aa",
+      "title": "「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-17T08:20:09+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "サイバー攻撃による個人情報の流出が連日報じられ、異常とも言える状況に専門家は調査を続けている。見えてきたのが、これまで攻撃者が見向きもしなかった組織まで片っ端から狙われ、安全と思われたスマートフォンのアプリにまで被害が広がっている現実だ。人でも、ツールでもない何かに「気持ち悪さ」「人でもない、ツ...",
+      "summary_bullets": [
+        "サイバー攻撃による個人情報の流出が連日報じられ、異常とも言える状況に専門家は調査を続けてい",
+        "見えてきたのが、これまで攻撃者が見向きもしなかった組織まで片っ端から狙われ、安全と思われた",
+        "人でも、ツールでもない何かに「気持ち悪さ」「人でもない、ツ..."
+      ]
+    },
+    {
+      "id": "89d62f16232a",
+      "title": "AIの応答を待つ間に元データが変わったら？ Firestoreで古い改定案を確定させない設計",
+      "url": "https://zenn.dev/yun_bow/articles/72433e0a2d061f",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-17T08:00:05+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 「AIに開発ルールの改定案を依頼した。その応答を待っている間に、別の人が新しいルールを承認した」 AIは正常に応答し、JSONの形式も正しい。本文も、依頼した時点のルールには合っている。しかし、その回答を今のルールに対する提案として保存してよいとは限らない。 AIの応答が成功したことと、その判断に使った前提がまだ有効であることは別だ。 開発ルールを管理するRule Branchでは、改定案の生成とデータの保存の間に、こうした時間差がある。本稿では、ジョブに基準版を固定し、Firesto",
+      "summary_bullets": [
+        "はじめに 「AIに開発ルールの改定案を依頼した",
+        "その応答を待っている間に、別の人が新しいルールを承認した」 AIは正常に応答し、JSONの",
+        "本文も、依頼した時点のルールには合っている"
+      ]
+    },
+    {
+      "id": "099852732a39",
+      "title": "Claude Code 入門と逆引き：基本の7ステップと、やりたいことから探す応用",
+      "url": "https://zenn.dev/zundamon_tools/books/claude-code-reverse-dictionary",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-17T07:31:08+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "Claude Code を入れたばかりの人のための本です。第1部は基本の7ステップを順に、図と実際の画面で短く見せます。第2部はスキル・hooks・MCP などの応用の22の機能を、「同じ手順を毎回説明し直したくない」のような困りごとから引けます。各章のカードのすぐ下で、その機能の動画を見られます。章の末尾から、詳しい解説記事へ進めます。",
+      "summary_bullets": [
+        "Claude Code を入れたばかりの人のための本です",
+        "第1部は基本の7ステップを順に、図と実際の画面で短く見せます",
+        "第2部はスキル・hooks・MCP などの応用の22の機能を、「同じ手順を毎回説明し直した"
+      ]
+    },
+    {
+      "id": "3ab9fbc99652",
+      "title": "Claude Code 応用編まとめ その4（#16〜#20）：/goal・出力スタイル・キーバインド・設定の調べ方・コミット署名",
+      "url": "https://zenn.dev/zundamon_tools/articles/claude-code-advanced-guide-4",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-17T07:31:07+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "Claude Code を毎日使い、任せ方や使い心地、設定のつまずきを整えたい人に向けた記事です。 対象は /goal・出力スタイル・キーバインド・設定が効かないときの調べ方・コミットの署名と書き方の5つです。読み終えると、合うものを選んで最初の1手を打てます。 どれも小さな練習用リポジトリで実際に打ち、返ってきた画面で確かめました。 ! 画面と結果は Claude Code v2.1.292・Linux で 2026-10-07 に試したものです。公式の説明は、同じ日の公式ドキュメントに基づき",
+      "summary_bullets": [
+        "Claude Code を毎日使い、任せ方や使い心地、設定のつまずきを整えたい人に向けた記",
+        "対象は /goal・出力スタイル・キーバインド・設定が効かないときの調べ方・コミットの署名",
+        "読み終えると、合うものを選んで最初の1手を打てます"
+      ]
+    },
+    {
+      "id": "4b6f2202e3fa",
+      "title": "亡くなった声優の声、AIでの再現は原則禁止 日俳連が新指針 - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81VHd6MzNpT0lDdV9Jc215aFZra2RnVjhUT1F5VUJMLWxyS1JPTm1FZ0pnNFhrekdxMGx4U01yWXZxOFB0Wkt1Yy1NamhBelB0Tmc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-17T07:25:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "亡くなった声優の声、AIでの再現は原則禁止 日俳連が新指針 CNET Japan",
+      "summary_bullets": [
+        "亡くなった声優の声、AIでの再現は原則禁止 日俳連が新指針 CNET Japan"
+      ]
+    },
+    {
+      "id": "60f65de595b5",
+      "title": "PCに挿すだけでAI機能を拡張 ASUSのエッジAIアクセラレーター「UGen300」（BCN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PY2pXUDNXbDk2cG1FdGcxR0owZFhWWm1tWmJSWEoxX1hBaFNnazRCaENCc1BrQnhBa1hKc2ZlcHNlWTNTc2JkN0VwbDVJZXhSalBIVF9Gd2NDZmFUSXpjREcwcmxxNXJRdTlKVk5kRVJoMnk5MTc4bzVCZl9SOGc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-17T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "PCに挿すだけでAI機能を拡張 ASUSのエッジAIアクセラレーター「UGen300」（BCN） Yahoo!ニュース",
+      "summary_bullets": [
+        "PCに挿すだけでAI機能を拡張 ASUSのエッジAIアクセラレーター「UGen300」（B"
+      ]
+    },
+    {
+      "id": "078a15dff9f6",
+      "title": "AI「ミューズ」が侵食する旅行サイト　ブッキングなど株価軒並み下落 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOFD0801K0Y6A001C2000000/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-17T06:50:27+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "【ニューヨーク=石坪真衣】旅行予約を代行する米メタの「Muse（ミューズ）」の登場以降、米オンライン旅行会社の株価が軟調に推移している。ブッキング・ホールディングスは1割以上下落した。手数料や広告減を招く懸念が指摘されている。QUICK・ファクトセットによると、16日時点の株価はミューズ発表前の9月4日終値比で...",
+      "summary_bullets": [
+        "【ニューヨーク=石坪真衣】旅行予約を代行する米メタの「Muse（ミューズ）」の登場以降、米",
+        "ブッキング・ホールディングスは1割以上下落した",
+        "手数料や広告減を招く懸念が指摘されている"
+      ]
+    },
+    {
+      "id": "b0aa586558b0",
+      "title": "メール下書きの修正、AIに理由を1行添えさせると件名まで直った話",
+      "url": "https://zenn.dev/every_ai_recipe/articles/email-revision-reason-one-line",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-17T06:19:47+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "TL;DR 弱点を3つ仕込んだ短いお詫びメールの下書きを1つ用意し、会話履歴を共有しない独立したLLMインスタンスに、指示文だけを変えて修正させた 条件A「そのまま送れるように直してください」は、文末の言い回しと文の分割という表層的な修正のみ。件名（「ご報告」のまま）と曖昧な理由（「諸事情により」のまま）は放置された 条件B「直した箇所には理由を一言（15字程度）添えて」は、同じ下書きから件名と理由の曖昧さの両方を修正し、修正箇所ごとに一言メモを付けて返した 一方、下書きに情報として存在しない「",
+      "summary_bullets": [
+        "TL;DR 弱点を3つ仕込んだ短いお詫びメールの下書きを1つ用意し、会話履歴を共有しない独",
+        "件名（「ご報告」のまま）と曖昧な理由（「諸事情により」のまま）は放置された 条件B「直した"
+      ]
+    },
+    {
+      "id": "bcca422e9881",
+      "title": "Tech Watch 2026-10-16: 記憶と監査の見える化",
+      "url": "https://zenn.dev/laiken/articles/20261016-tech-watch",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-17T06:07:17+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています。 L: My Fishは、AIが記憶を何回使ったかだけでなく、その記憶を得た元の会話まで表示する。自分は、記憶の内容よりこの往復経路の方が気になった。AIとの関係で信頼を決めるのは、覚える能力より、利用者が記憶の根拠へ戻れることなのだろうか。 今日の 10 件 An update on independent evaluators Anthropicは、METRの6人に社内のリスク評価班に近い機器、執務場所、",
+      "summary_bullets": [
+        "AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています",
+        "L: My Fishは、AIが記憶を何回使ったかだけでなく、その記憶を得た元の会話まで表示",
+        "自分は、記憶の内容よりこの往復経路の方が気になった"
+      ]
+    },
+    {
+      "id": "4390fe0f7a4a",
+      "title": "米国株式市場＝反落、ＡＩ関連株の売り継続 コアウィーブ12％安 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONnZ5MEtBTVR2LUtUbWdqWDdneEF6b0EtMzhWQjlPd3JJaTMtRjRQUzR1QzdNNE5QNllwdENsdWdMaVZERnpsVnpxSVJiVTdoVG9kVTE1dFdsSGRvaHNVSVZPcFRNQlZmRDFRaWlUMVVkMERmNmpfdTlnUUNnOGw3QllEYzFOQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-17T06:00:39+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国株式市場＝反落、ＡＩ関連株の売り継続 コアウィーブ12％安 Reuters",
+      "summary_bullets": [
+        "米国株式市場＝反落、ＡＩ関連株の売り継続 コアウィーブ12％安 Reuters"
       ]
     }
   ]
