@@ -1,3 +1,4 @@
+from html_template import build_html
 import os
 import sys
 import json
@@ -340,6 +341,14 @@ def main():
     with open(archive_json_path, "w", encoding="utf-8") as f:
         json.dump(output_data, f, ensure_ascii=False, indent=2)
     print(f"Saved archive to: {archive_json_path}")
+
+    # Generate zero-network SSG index.html
+    docs_dir = os.path.join(base_dir, "docs")
+    index_html_path = os.path.join(docs_dir, "index.html")
+    html_content = build_html(output_data)
+    with open(index_html_path, "w", encoding="utf-8") as f:
+        f.write(html_content)
+    print(f"Generated standalone index.html to: {index_html_path}")
 
 if __name__ == "__main__":
     main()

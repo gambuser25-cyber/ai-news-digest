@@ -9,212 +9,470 @@
   <meta name="theme-color" content="#1e1b4b">
   <link rel="icon" type="image/svg+xml" href="./icon.svg">
   <link rel="apple-touch-icon" href="./icon.svg">
-  <!-- Tailwind CSS CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          colors: {
-            brand: {
-              50: '#eef2ff',
-              100: '#e0e7ff',
-              500: '#6366f1',
-              600: '#4f46e5',
-              700: '#4338ca',
-            }
-          }
-        }
-      }
-    }
-  </script>
-  <!-- Lucide Icons -->
-  <script src="https://unpkg.com/lucide@latest"></script>
   <style>
-    .no-scrollbar::-webkit-scrollbar {
-      display: none;
+    :root {
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --card-sub: #f1f5f9;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --border: #e2e8f0;
+      --primary: #4f46e5;
+      --primary-light: #eef2ff;
+      --primary-text: #4338ca;
     }
-    .no-scrollbar {
-      -ms-overflow-style: none;
-      scrollbar-width: none;
+    html.dark {
+      --bg: #090d16;
+      --card-bg: #0f172a;
+      --card-sub: #1e293b;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --border: #1e293b;
+      --primary: #6366f1;
+      --primary-light: #1e1b4b;
+      --primary-text: #a5b4fc;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
     }
     body {
-      -webkit-tap-highlight-color: transparent;
+      background-color: var(--bg);
+      color: var(--text-main);
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans JP", sans-serif;
+      min-height: 100vh;
+      padding-bottom: 60px;
+      transition: background-color 0.2s, color 0.2s;
+    }
+    .container {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 0 16px;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.85);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      transition: background-color 0.2s, border-color 0.2s;
+    }
+    html.dark header {
+      background: rgba(15, 23, 42, 0.85);
+    }
+    .header-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 16px;
+    }
+    .logo-area {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .logo-badge {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      background: linear-gradient(135deg, #4f46e5, #0ea5e9);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      box-shadow: 0 4px 12px rgba(79, 70, 229, 0.25);
+    }
+    .title-area h1 {
+      font-size: 15px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      line-height: 1.2;
+    }
+    .badge-tag {
+      font-size: 10px;
+      background: var(--primary-light);
+      color: var(--primary-text);
+      font-weight: 600;
+      padding: 2px 6px;
+      border-radius: 12px;
+    }
+    .title-area p {
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+    .theme-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      padding: 8px;
+      border-radius: 10px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .tabs-container {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding: 0 16px 10px;
+      scrollbar-width: none;
+    }
+    .tabs-container::-webkit-scrollbar {
+      display: none;
+    }
+    .tab-btn {
+      padding: 6px 14px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      white-space: nowrap;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--card-bg);
+      color: var(--text-muted);
+      transition: all 0.15s;
+    }
+    .tab-btn.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+      box-shadow: 0 2px 8px rgba(79, 70, 229, 0.25);
+    }
+    main {
+      margin-top: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .progress-bar-area {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 12px;
+      color: var(--text-muted);
+      padding: 0 4px;
+    }
+    .progress-count {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: #10b981;
+      font-weight: 600;
+    }
+    .mark-all-btn {
+      background: none;
+      border: none;
+      color: var(--primary);
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .highlight-card {
+      background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #0f172a 100%);
+      color: #ffffff;
+      padding: 18px 20px;
+      border-radius: 18px;
+      box-shadow: 0 8px 20px rgba(30, 27, 75, 0.2);
+      border: 1px solid rgba(99, 102, 241, 0.25);
+      position: relative;
+      overflow: hidden;
+    }
+    .highlight-title {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      font-weight: 700;
+      color: #a5b4fc;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+    }
+    .highlight-text {
+      font-size: 13.5px;
+      line-height: 1.6;
+      color: #e0e7ff;
+      font-weight: 500;
+    }
+    .search-box {
+      position: relative;
+    }
+    .search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+    .search-input {
+      width: 100%;
+      padding: 10px 14px 10px 38px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: var(--card-bg);
+      color: var(--text-main);
+      font-size: 13.5px;
+      outline: none;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+    .search-input:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.15);
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 16px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.02);
+      transition: all 0.15s;
+      margin-bottom: 12px;
+    }
+    .article-card.read {
+      opacity: 0.55;
+      background: var(--card-sub);
+    }
+    .article-card:hover {
+      border-color: #cbd5e1;
+    }
+    html.dark .article-card:hover {
+      border-color: #334155;
+    }
+    .card-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 11px;
+      margin-bottom: 8px;
+    }
+    .category-chip {
+      background: var(--primary-light);
+      color: var(--primary-text);
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 6px;
+    }
+    .source-meta {
+      color: var(--text-muted);
+    }
+    .article-title {
+      font-size: 14.5px;
+      font-weight: 700;
+      line-height: 1.45;
+      margin-bottom: 10px;
+    }
+    .article-title a {
+      color: var(--text-main);
+      text-decoration: none;
+    }
+    .article-title a:hover {
+      color: var(--primary);
+    }
+    .bullets-box {
+      background: var(--card-sub);
+      border-radius: 10px;
+      padding: 10px 12px;
+      margin-bottom: 12px;
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .bullet-item {
+      font-size: 12px;
+      color: var(--text-main);
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      line-height: 1.4;
+    }
+    .bullet-dot {
+      color: var(--primary);
+      font-weight: bold;
+      line-height: 1;
+      margin-top: 2px;
+    }
+    .card-actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 10px;
+      border-top: 1px solid var(--border);
+    }
+    .action-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 12px;
+      color: var(--text-muted);
+      padding: 4px 6px;
+      border-radius: 8px;
+    }
+    .action-btn.active {
+      color: #10b981;
+      font-weight: 600;
+    }
+    .right-actions {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .icon-action-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 6px;
+      border-radius: 8px;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .icon-action-btn:hover {
+      color: var(--text-main);
+    }
+    .link-action {
+      display: flex;
+      align-items: center;
+      gap: 2px;
+      color: var(--primary);
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: 600;
+      padding-left: 6px;
+    }
+    .link-action:hover {
+      text-decoration: underline;
+    }
+    .empty-message {
+      text-align: center;
+      padding: 40px 0;
+      color: var(--text-muted);
+      font-size: 13px;
     }
   </style>
 </head>
-<body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 min-h-screen transition-colors duration-200 pb-16">
+<body>
 
   <!-- Header -->
-  <header class="sticky top-0 z-40 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors">
-    <div class="max-w-2xl mx-auto px-4 py-3 flex items-center justify-between">
-      <div class="flex items-center space-x-2.5">
-        <div class="w-9 h-9 rounded-xl bg-gradient-to-tr from-indigo-600 via-indigo-500 to-sky-400 flex items-center justify-center shadow-md shadow-indigo-500/20">
-          <i data-lucide="sparkles" class="w-5 h-5 text-white"></i>
+  <header>
+    <div class="container header-content">
+      <div class="logo-area">
+        <div class="logo-badge">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/></svg>
         </div>
-        <div>
-          <h1 class="text-base font-bold tracking-tight leading-tight flex items-center gap-1.5">
-            AI Morning Digest
-            <span class="text-[10px] bg-indigo-100 dark:bg-indigo-900/60 text-indigo-700 dark:text-indigo-300 font-semibold px-1.5 py-0.5 rounded-full">毎朝更新</span>
-          </h1>
-          <p id="header-date" class="text-xs text-slate-500 dark:text-slate-400">最新ニュースを取得中...</p>
+        <div class="title-area">
+          <h1>AI Morning Digest <span class="badge-tag">毎朝更新</span></h1>
+          <p id="header-date">2026年10月17日 更新 (2026-10-17 22:36 JST)</p>
         </div>
       </div>
-      
-      <!-- Right Action Buttons -->
-      <div class="flex items-center space-x-1.5">
-        <button id="theme-toggle" class="p-2 rounded-xl text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors" aria-label="テーマ切替">
-          <i id="theme-icon" data-lucide="moon" class="w-5 h-5"></i>
-        </button>
-      </div>
+      <button id="theme-toggle" class="theme-btn" aria-label="テーマ切り替え">
+        <span id="theme-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg></span>
+      </button>
     </div>
-
-    <!-- Category Tabs (Horizontal Scroll) -->
-    <div class="max-w-2xl mx-auto px-4 pb-2.5 flex items-center gap-2 overflow-x-auto no-scrollbar" id="category-tabs">
-      <!-- Generated by JS -->
+    
+    <!-- Category Tabs -->
+    <div class="container">
+      <div class="tabs-container" id="category-tabs"></div>
     </div>
   </header>
 
-  <!-- Main Content -->
-  <main class="max-w-2xl mx-auto px-4 pt-4 space-y-4">
+  <!-- Main -->
+  <main class="container">
 
-    <!-- Progress / Read Status -->
-    <div class="flex items-center justify-between text-xs text-slate-500 dark:text-slate-400 px-1">
-      <div class="flex items-center gap-1.5">
-        <i data-lucide="check-circle" class="w-3.5 h-3.5 text-emerald-500"></i>
-        <span id="read-progress">読了状況: 0 / 0</span>
+    <!-- Progress -->
+    <div class="progress-bar-area">
+      <div class="progress-count">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+        <span id="read-progress">読了状況: 0 / 30 記事</span>
       </div>
-      <button id="mark-all-read" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors font-medium">
-        すべて既読にする
-      </button>
+      <button id="mark-all-read" class="mark-all-btn">すべて既読にする</button>
     </div>
 
-    <!-- AI Headline Summary Card -->
-    <section class="relative overflow-hidden rounded-2xl bg-gradient-to-br from-indigo-900 via-indigo-950 to-slate-900 text-white p-5 shadow-lg border border-indigo-700/30">
-      <div class="absolute -top-12 -right-12 w-36 h-36 bg-indigo-500/20 rounded-full blur-2xl"></div>
-      <div class="flex items-center gap-2 text-indigo-300 text-xs font-semibold tracking-wider uppercase mb-2">
-        <i data-lucide="zap" class="w-4 h-4 text-amber-400 fill-amber-400"></i>
+    <!-- 30-Sec Highlight -->
+    <section class="highlight-card">
+      <div class="highlight-title">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="#fbbf24" stroke="#fbbf24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
         今日の30秒ハイライト
       </div>
-      <p id="headline-summary" class="text-sm sm:text-base leading-relaxed text-indigo-100 font-medium">
-        最新のAIニュースを取得中...
-      </p>
+      <p class="highlight-text">忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。</p>
     </section>
 
     <!-- Search Input -->
-    <div class="relative">
-      <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3.5 top-3"></i>
-      <input 
-        type="search" 
-        id="search-input" 
-        placeholder="キーワードで検索 (例: Claude, OpenAI, Cursor...)" 
-        class="w-full bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl pl-10 pr-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 text-slate-900 dark:text-slate-100 placeholder:text-slate-400 transition-all shadow-sm"
-      >
+    <div class="search-box">
+      <span class="search-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></span>
+      <input type="search" id="search-input" class="search-input" placeholder="キーワードで検索 (例: Claude, OpenAI, Cursor...)">
     </div>
 
-    <!-- Articles List Container -->
-    <section id="articles-list" class="space-y-3">
-      <!-- Loading Skeleton -->
-      <div class="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 animate-pulse space-y-3">
-        <div class="h-4 bg-slate-200 dark:bg-slate-800 rounded w-1/4"></div>
-        <div class="h-5 bg-slate-200 dark:bg-slate-800 rounded w-3/4"></div>
-        <div class="h-3 bg-slate-200 dark:bg-slate-800 rounded w-full"></div>
-      </div>
-    </section>
-
-    <!-- Empty State (Hidden by default) -->
-    <div id="empty-state" class="hidden text-center py-12 space-y-3">
-      <div class="w-12 h-12 rounded-full bg-slate-100 dark:bg-slate-800 flex items-center justify-center mx-auto text-slate-400">
-        <i data-lucide="inbox" class="w-6 h-6"></i>
-      </div>
-      <p class="text-sm text-slate-500 dark:text-slate-400">該当する記事が見つかりませんでした</p>
-    </div>
+    <!-- Articles List -->
+    <section id="articles-list"></section>
 
   </main>
 
+  <!-- Embedded Data & Scripts -->
   <script>
-    let newsData = null;
+    const INITIAL_DATA = {"updated_at": "2026-10-17 22:36 JST", "date": "2026年10月17日", "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。", "total_count": 30, "categories": ["すべて", "ビジネス・動向", "モデル・技術", "ツール・活用"], "articles": [{"id": "e4050026cb99", "title": "AI AIエージェントを利用した開発者が知るべき最低限の知識", "url": "https://qiita.com/magic10r/items/3ceafcc90fbbc7ef4d05", "source": "Qiita (AI)", "published_at": "2026-10-17T22:01:48+09:00", "category": "モデル・技術", "clean_desc": "はじめに 最近、開発チームでAIエージェントを活用したソフトウェア開発へのシフトを本格推進しています。 単なる「プロンプトエンジニアリング」や「AIの使い方」レベルにとどまらず、SE同士が技術的な裏側（内部構造・プロトコル・アーキテクチャ）を正しく理解し、システム設計やチ...", "summary_bullets": ["はじめに 最近、開発チームでAIエージェントを活用したソフトウェア開発へのシフトを本格推進", "単なる「プロンプトエンジニアリング」や「AIの使い方」レベルにとどまらず、SE同士が技術的"]}, {"id": "a9109f57ac17", "title": "AIにPHPの答えを聞くのをやめてみた", "url": "https://qiita.com/tomokusaba/items/42b2d24d68a652837020", "source": "Qiita (AI)", "published_at": "2026-10-17T21:46:31+09:00", "category": "モデル・技術", "clean_desc": "はじめに 生成 AI に質問すると、コードの答えはすぐに返ってきます。けれど、初学者がその答えを理解しないまま採用してしまったら、次に似た問題に出会ったとき、自分で考える力は身につくでしょうか。 私は、頭を使って考え、実際に手を動かしたことが学びになると考えています。そこ...", "summary_bullets": ["はじめに 生成 AI に質問すると、コードの答えはすぐに返ってきます", "けれど、初学者がその答えを理解しないまま採用してしまったら、次に似た問題に出会ったとき、自", "私は、頭を使って考え、実際に手を動かしたことが学びになると考えています"]}, {"id": "576043e51f6d", "title": "git worktree で「レビューできる大きさ」を保っている話", "url": "https://qiita.com/y_tsubasa/items/58ab85f90a0e22ffdda2", "source": "Qiita (AI)", "published_at": "2026-10-17T21:42:57+09:00", "category": "モデル・技術", "clean_desc": "はじめに AIにコードを書いてもらうようになって、困ったのは書いたコードの読む量でした。 「この機能を作って」と頼むと、DBもAPIも画面も、依存する先までまとめて作ってくれます。ありがたい反面、変更されるファイルが増えれば増えるほど、人の目でレビューするのが難しくなって...", "summary_bullets": ["はじめに AIにコードを書いてもらうようになって、困ったのは書いたコードの読む量でした", "「この機能を作って」と頼むと、DBもAPIも画面も、依存する先までまとめて作ってくれます", "ありがたい反面、変更されるファイルが増えれば増えるほど、人の目でレビューするのが難しくなっ"]}, {"id": "f79ff3b763e1", "title": "業界別「超知能」の争奪戦が始まった 先行企業ほど強くなる「データの好循環」 - 株式会社エクサウィザーズ", "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tWEJlaGFibDR2ZlpRN0dGMkQ2WW1nbnBic0JITkV4MWtna0VwTk4tYXZXVGFEUFE3eW4xRDJhUVIzVG5DclpDMXpKSWZPbVZPX09VQXpuV0U3MjR2a3dVN3JIUWJnQQ?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T21:35:16+09:00", "category": "ビジネス・動向", "clean_desc": "業界別「超知能」の争奪戦が始まった 先行企業ほど強くなる「データの好循環」 株式会社エクサウィザーズ", "summary_bullets": ["業界別「超知能」の争奪戦が始まった 先行企業ほど強くなる「データの好循環」 株式会社エクサ"]}, {"id": "2cca2e97a36f", "title": "Claude Code で爆速開発！実務で使える厳選プロンプト 15 選", "url": "https://qiita.com/locallab/items/aa7c61e8c4548ee187ec", "source": "Qiita (AI)", "published_at": "2026-10-17T21:01:34+09:00", "category": "モデル・技術", "clean_desc": "TL;DR Claude Code は「何を頼むか」でアウトプット品質が 3 倍変わる 実装・レビュー・リファクタ・テスト生成それぞれに特化したプロンプトパターンがある 本記事では実務 15 場面の「使えるプロンプト」を具体例付きで紹介する はじめに Claude...", "summary_bullets": ["TL;DR Claude Code は「何を頼むか」でアウトプット品質が 3 倍変わる 実"]}, {"id": "41fa5e529a9f", "title": "2026年 AIセックスプラットフォーム比較：画像モデルと動画 ai - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOWEswSXlPS3FPSzVqZG9SdXduR2tRNG9lcG1MdE43SXVaUnBOYmh5Zmh0amJGNzNJWlNkT3l1cmZkR1J0dDd0MzdnbFZoMG83ZW1lZGxFenA4Z1YzMDdvdm81cU1wZFJDMGhlaWhubmhCbXZfLUI3aFpjWUswVGlQTW5kMlMzeC1Rd19fNG1kWVBGVHpxUmpsYUk5bUIxblV1a3g0QlZ3NE9JTnk2RC10bUFYMXlVQ2dVbk5Tc0F4OHp0czBtSGM2NjBIZjJ4TEhaVmZfNGtWREtfdzE3VlcxdjlTdXJUcXdMNFdQS2d1bjkzc3NqdnRXeDZMZU9pZHozRkthNVV5cENTTU9fSnkwd2EzZWQ4YkJxQnpUYm95Undva1dxcGlJYno0c0RVemdnSTJZTUlDbkVuZUJXbW9OcW02QWVqbkhG?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T19:14:57+09:00", "category": "ビジネス・動向", "clean_desc": "2026年 AIセックスプラットフォーム比較：画像モデルと動画 ai Universidad de Córdoba (UCO)", "summary_bullets": ["2026年 AIセックスプラットフォーム比較：画像モデルと動画 ai Universida"]}, {"id": "786d3ac9bc9b", "title": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス", "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LNUpnN0duS1V0QldLYnBYLUU0VjBNclVfUjBYeFc0VjhQalpBb3RHdnR1WkZmUE9DTkJUMS1jV2sxQldQeVJQanRFRXFkMlE5WWc?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:24:00+09:00", "category": "ビジネス・動向", "clean_desc": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス", "summary_bullets": ["(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） Yahoo!ファイナン"]}, {"id": "36fd8c33cec1", "title": "AI彼女 無料 アプリ - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOd2ptV0theE4zYkV6NDVmWVJMaVdiMEdYYVRJSHMtMFVwcUVPSnFxRWwzZnA2SjA4X2tfMUtLQk5LTndCdXRPcU1Cc0JVLVdXMjVCYUFlZ2Z6QkJ6VWlyOFJTV0ZWUFNta2NPSW9fSktZVUdmb2kwSl9kQ3BhM1ctN0o2U0VyN285Y2xzaWpGWmJHNkVhOElTVkI4QUdWakR1RjhCQmpDRzFsZGJLRnFLRTZRQmUzOGRhMmQwb1RKTVdDMkFEQm0zSHNHbTJCaVprLVRxVW9pWVJ6Mml1TjhLZ0FOa1VMOFNGRUxXZ2JSVS03Rk93TmlmMndDbkNiVzBGX0pGbElYU1RSYjdTTlFYdy10Vmd4Qm8?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:19:03+09:00", "category": "ビジネス・動向", "clean_desc": "AI彼女 無料 アプリ Universidad de Córdoba (UCO)", "summary_bullets": ["AI彼女 無料 アプリ Universidad de Córdoba (UCO)"]}, {"id": "97a7c0530597", "title": "AI彼女 アプリ 値段 比較 - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORGYxUEpKVVNxR1hZWXV4TWZMU3lhMGFpWVhqaWhtVGZFX0dMZVlRMmFER1F2d0QzRXBkei1lZzFscWNqRk9MQzV6Qm95VGQ5R0hxRHowMDhsdUxWUVJaZ1h1NVROODhhSXN6THY2RFQwMHdFNmt3LVZrOVltMVR6U2gwRTB2QUJVTmpmYmV2YlBKNHk4ZFdZbDhIRDY2d3llcTQzQ09XVFlTSkRiWnBfU09tWU5zZGYydFhUbHpwVndvR0x6UkVSWU1COUtLTXNJQklvZGRSTU5VVXRzTUg1ZHhKeEtWbUdBZWlWa2ljY1RSQ0pFWmVpeFRYc29YbW1pTm4yR1NtaWMtM2FPU0hYSVY5TlB4Wms?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:18:46+09:00", "category": "ビジネス・動向", "clean_desc": "AI彼女 アプリ 値段 比較 Universidad de Córdoba (UCO)", "summary_bullets": ["AI彼女 アプリ 値段 比較 Universidad de Córdoba (UCO)"]}, {"id": "b2c1aec7e663", "title": "AI彼女 作り方 - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRFBuQXJqdW5fdFRhRkpuUlQyZFotZ0JoblBwZVRJLWp6aklzLXk0VlV1MXd0SVZ5anhBenRxaEMzX3F6eEhSMDZlQS1aQW9WUVdyd3J2cFFscEIwT0RYRlJtdWJJRTktYnk2TjdoWVdVMmNseEtoWVA2ZHBZTFloOVFNV2cyYklsUEc3QVpJTGMwcVJfUmJWVi01TERNOHZQOENhbEpPXzNxakFXUE80bFlQWlZUZHZwR01IVEZtc3d3Sk4wN3E4anJPMzVHZEotczVaMHE3OVVfZnE0cXJVLWRIZW5ZUlRvNlNoTURIdUNzdzBwMXdobEd2QWhEa2VPWVRIZXJXYWNGbXVfY01lTnllLUM1Qmc?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:18:42+09:00", "category": "ビジネス・動向", "clean_desc": "AI彼女 作り方 Universidad de Córdoba (UCO)", "summary_bullets": ["AI彼女 作り方 Universidad de Córdoba (UCO)"]}, {"id": "c0e69fe20f78", "title": "AI彼女 画像 作り方 - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUi1PTTV4NkVaaUFqcWZVanlhaGtSQjJVXzFscFRkdndkTUNNcDVWMGlST3ZmR3ZDejhOdG5yMnVJaTRKeXJ4SnAzQmxoZGttMEQ3MU5sV0xPd2Z4dVBkLUp3dXA5MWRXa3pPdndlQ05OcUIxRzkzNHpRZXYyQkh3aDRaYnpHQ1psNk1KRGxWQldqNTgtZ29XejlHbUM3cXpSUXlDSmZKb216SWRwckh1U1lsQmhrajU0UHJfSWVNMWdZdGhNa3luSmJORzRxQ0R0WWFTLVB2T2NDVHpGak81cURyakNsY0pSOUU1U1NwZFJVRWRpWGZHaDVZRlpvUnZnQ1dhMFFIakVCdnhPMVd2VTJtbUJYYUE?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:18:26+09:00", "category": "ビジネス・動向", "clean_desc": "AI彼女 画像 作り方 Universidad de Córdoba (UCO)", "summary_bullets": ["AI彼女 画像 作り方 Universidad de Córdoba (UCO)"]}, {"id": "946d296a6a75", "title": "2026年最高のAI Sexプラットフォーム＋動画ジェネレーター - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQYXdHa256VmJBNmJXZlpFcVFncG52enFyeVFWR19qT3prSEhlb1hDU0JCc1IySGNWdjZYSjJrRDFsV1pnd0FVckRteWI1SjdzbUVIeEhTdU5ZZXpVS090S1NTU05WZjdGMkdjWjBWZHBMWWNtMm5ZcUxIenZndktJZzJkVVhJNlBPUHZNSVIxcmtiQjRDcDlUNXRTV19OR1FkZkZScVFrTGRPTHRZZkxHcVZQMVZva2plLTdEYkJyS0FIQVJPWFRPQ2M5Yml6MWJPU0RsN1FINEZiRHRDb0JRS3ZDTExvMUZlaW9Xa3l4dzRmLWllRFVERFF5UjZVNFAxZTlwcUF4czhyQkpqYW9lVzlqUGpqakk?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:18:17+09:00", "category": "ビジネス・動向", "clean_desc": "2026年最高のAI Sexプラットフォーム＋動画ジェネレーター Universidad de Córdoba (UCO)", "summary_bullets": ["2026年最高のAI Sexプラットフォーム＋動画ジェネレーター Universidad "]}, {"id": "75949d10d48f", "title": "AI搭載アダルトコンテンツツール購入ガイド2026 - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVjJnWUt0TGozZk9HU2lKUnQ5TUhRUW03NHhRWk5IUUtVOGxadkx3OU0wNTM0WWVOcjJZeFNjYUdQeXNVRExyQ01vU3VXQnNlM1pDUDR2MVJGT09SRWpEYThnZnRtdTBzT0pmOU91cy1HN0RnT1NyWi1BU3Byd1NqZHdyRlAway1TQ1hpeTZLdTBiS2JsTDBaM3hiMy1OTGRLM0dwQXVlZGQ5QnA3TEhzNmt6Tl9lMmRIZkczenJaQ0dXNUd1YTB2cVF6VXItLVNEaUhWZE1LRV9WOFN2S2ZWdTRIQjRjMU13QkxmMzQybGZBakh3MTVxSHM3dUtRWC1IUnAzY1ZvbEc2QU5yZ0xjUG56RVVVWFE?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:18:07+09:00", "category": "ビジネス・動向", "clean_desc": "AI搭載アダルトコンテンツツール購入ガイド2026 Universidad de Córdoba (UCO)", "summary_bullets": ["AI搭載アダルトコンテンツツール購入ガイド2026 Universidad de Córd"]}, {"id": "d91965fc9e7f", "title": "AI NSFW Platforms：主要サービスを比較するための基本ガイド - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcWdsVnp3RDY0S3dzQjJrWlJNTWp5b2FSWlJ4c3NNS1lHajRTSmtKZmFhY2dkekppYVpYQVYxUzhJSFFuVmw1T1lHSUhHU09MTmlZTWM0aE9LU0t3RU0tZUZiZS1laFdWdkU4ZTNqZ1VOQm4zQndxeGc4d2NCMC1KaTlHMVVRMkwwa1pxQzFKa1NNVU5zckZuWmNyNFlWa044ZVcydDBiYmpOUWZYZThLUnNzdFBqU2o0eE9TdlB0N2VlZXRtemtzMHJ4WG5JamVoSXZJUURvTEhpQ0FVTTlCVGpfTjlxbXAydl9TMk9TUTBYRVVZRTdOdnFFeWJYM3Y5WGs0UHRzZW9DTHR6QXAwQ3VRcDhiUUU?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:18:03+09:00", "category": "ビジネス・動向", "clean_desc": "AI NSFW Platforms：主要サービスを比較するための基本ガイド Universidad de Córdoba (UCO)", "summary_bullets": ["AI NSFW Platforms：主要サービスを比較するための基本ガイド Univers"]}, {"id": "38a1c8c9e431", "title": "トップ10無料NSFW AIジェネレーターレビュー2026 - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTW90T0locUdPallTS2ljWDNpbXBRLWJpNzNzTU1fdE5aMWkxMzZtQmxlNDl4VmNHZ3NCRzFPRzR3UG1HamY3VlJoU1B4YXJxdXcxNzk1b19Nck5id19YQlNNbnhCSmljRHpPVDRFY3Q2bkl4cS0yQ0lDQlRCRVg5dm5LdUZ5UkVCbVhiblZmeWtwbEY3M3JCYUlFTjdEeko4M1JycnBfOTc2bjJiYVMyYnB6Ymd3akdkQy1iWlIzeGRqdWN0WElGSHYwWTlTeXlOVGVXa3FTb1A0LUlXd2tQR3ZwalVMQkxfNVVudFdNWW1tZENFZUIyNmVrOEJUTXowRTBhalh5aENWNUJLbVJRRG5JY21ROUE?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:17:21+09:00", "category": "ビジネス・動向", "clean_desc": "トップ10無料NSFW AIジェネレーターレビュー2026 Universidad de Córdoba (UCO)", "summary_bullets": ["トップ10無料NSFW AIジェネレーターレビュー2026 Universidad de "]}, {"id": "92c5f89d2cb5", "title": "無料の画像から動画へのAI生成ツール - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVmpUeDBhWF9tbUxqM09GcHlXWmIxUkp0UVJYOHNBNGRuSEpza2pyTzYzS1prUWI2MUxENk4taWxCbWRjTU5PYjgtM3BTb0Fab0I4eEhjcFJWbjVyVWZOWVRwSzI4UTQ1YVpZOThhczNTenhrdUZtekw1Q0pKRzVWNTFld0l5a2NFaWdPR09lN3NvNDd4MUR0bkxvTndIWldxazIzU3ZGVXhydWdfSDlrUFN3M0tHU1BDb1h0YS1qSmw2SnRKdkFuaDhJMV9qbU5SaWVMV0FIZFpMdjVHMVYycU1vLTNqX09OY2FpUjlZYmRnYUJ3V3FyYkQxQm8zVGFXZk81ZHhmb3FzRlN0SWNWX256Z3BKcHc?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:17:20+09:00", "category": "ビジネス・動向", "clean_desc": "無料の画像から動画へのAI生成ツール Universidad de Córdoba (UCO)", "summary_bullets": ["無料の画像から動画へのAI生成ツール Universidad de Córdoba (UC"]}, {"id": "ec92ae39f874", "title": "AI彼女 アプリ 比較 - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQlhJX3VXSVVJSDlFbjJOcXFLaW1jUU1SUXFFeGN2aEc5RUd0dVc4alNhWHppT3pKVk51M3FuS2xiWFVOeGZZeGF4NGk5MTdITzg1aDQxbHlpVUVOaERVY0VKSFF5RTBkTEphZE9rN0RNOXNwUDcyS2ExNmY3dHR0QUt1ekFGd2pHaEtjZjdnQ1FEc2xsZEpoank3S2Y1RGYyRkF1N3U2WUQyYlY5eWl4aG1ERnByZXdOcTdZWERVSHloMVhXMkszSUQ2cHpVTkNSMGhtWGFKNWloVWRlSTBPYzdtaEEzMER1Zk9QN2c3bklFRTY5ZWtOeVhTdDEwN3pQREowT2V3R1hxV3pjcW5qLWtNQU5zUDA?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:16:20+09:00", "category": "ビジネス・動向", "clean_desc": "AI彼女 アプリ 比較 Universidad de Córdoba (UCO)", "summary_bullets": ["AI彼女 アプリ 比較 Universidad de Córdoba (UCO)"]}, {"id": "e21bf7691a17", "title": "主要AI Porn動画ジェネレーター＆プラットフォーム2026 - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUGRTZUZwbjFjZm5Ya2ZiZ0pFanNpeExXTVpSUnVnOFBvTl9FNmRPREdIZmdjREhCWmFPQ1VwUnd6UjVtYm1SYUE0SlF4TTE2bVZlakNJSllIdHM3ekk2SGJLNjhiaFhsM1dSQkctZGtfdXlhMGdPOHlyNG1xdU5Kb0VHZlU0WjBXOEdoM1RTMmVHNjI2d2pYdXYtN0lWUURQNnYxYUdpNmRRYWJneHY4N2Y3Nkt2MWJlZWhfY2tSck1IZGVlSTM3OFZadkcwbmNjckFSMmtKcUtHSm1vajlWS2FQdG1ldlcza2xKTkQ2V0VKWk5JeldOcmppZ3NyUExqZTZEXzRDeGRQZW45S0U4dXVBWF9GSTg?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:16:18+09:00", "category": "ビジネス・動向", "clean_desc": "主要AI Porn動画ジェネレーター＆プラットフォーム2026 Universidad de Córdoba (UCO)", "summary_bullets": ["主要AI Porn動画ジェネレーター＆プラットフォーム2026 Universidad d"]}, {"id": "012d9e8abde3", "title": "AI恋愛アプリ - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObE1rdnk5R1A5UDY0ZHFEYjNybktyYzFWUnFKZ01hdWZZQ0ZNd0VnTXBOeGlKMnVVcFRIZVMybEQ4TENiMGRBaXdwZjFvU1hxVUlxVTg1RkRCNHo0Q01UblN0M0pmMkdCVVAtdENNc3BLNDFxVnN1T2NDbVhkc2diUy02ZXJqTkxoQjRWaEVGQ2NIc3ZuZ0s0anh3MDMwZTd5UnVLSmFDN0R3MzFpX3BUTElPUjVBQjFEbjRSQVp2X1JxRVVWMm9UcEV2ZXBVRGh1TUF4V2F0V2tLS1Z6d3hjMXRqQmpoVnVkaXFsM2xKR1I0c2o4a1hRNFVRZk16bS1UaGFWeWhqc2I0dTJCWlZoZVJuX1RFb2M?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:12:32+09:00", "category": "ビジネス・動向", "clean_desc": "AI恋愛アプリ Universidad de Córdoba (UCO)", "summary_bullets": ["AI恋愛アプリ Universidad de Córdoba (UCO)"]}, {"id": "49f694161cd7", "title": "トップAI Gay Porn GIFツールセットガイド2026 - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONkQwUXhjam16OTVZR0RpWWJlRUtyVlZTMzMxLUNSaWdBOGRjNnhMTHhiSnFNa0M3TmxSc2JvU0Y5NnZDWElBSi1EMkRfWUs1WFNqbGZYTjFuc0dkQlFVN0hDZXFRQjVQWU13MjVzd3UzOXhRUDlacTIybDNmcDhxdzNmZ3ljbGhGSGhjcUhJamxqMzNXNm01MFcwcVdtX1NmSWZobUFnbHc3aTliOVpuRUljbzVhQTh0SEVCOHZnOWxHQXNiQXB4NnBWeWJrRWpXYkp0cy1xMkJJVUdtcGpib3RYSWcwdlRHNWxIR1d4bDBJTkw3R0U3ODJEWGFNaE1IT2NCZFBtNHU0LTI3TFIxV0k2cGg0aVE?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:11:50+09:00", "category": "ビジネス・動向", "clean_desc": "トップAI Gay Porn GIFツールセットガイド2026 Universidad de Córdoba (UCO)", "summary_bullets": ["トップAI Gay Porn GIFツールセットガイド2026 Universidad d"]}, {"id": "fdac5853ea1e", "title": "恋愛 AI アプリ - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNYzRlR0I3SDF3dmw5eDlIZXQzaEphMmd2VkprbURiRVpxa0ZxTVhETE03SlpoczBsSE5PODNBWWVhb2FaRE5aYXNCaHd1dnFnUEllTUNyVGYtSWhFd2xaUDZLZlpGTDlDVXBjZjN5NWUyM04zOEhOd0pod0NfVDhteTRaLWIxVDVSRFpZS05ES0JEMlVLQkZxZDRlNHRSSmowNTQ3OEZXSmloeDdYTHZ3ZFRwNkh1Wlg1LTh4OUZMSzJIZVZLZUhUSGUtczUyR2tPSVdzZ055MEQyQlFUMXVLXzhMV0JwR3daaGV3cWpCUThPN3hESzVwTnQwYXRzV0paMlJLY0JIdnhkUVJqU09VSkNQaUxwVlk?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:11:49+09:00", "category": "ビジネス・動向", "clean_desc": "恋愛 AI アプリ Universidad de Córdoba (UCO)", "summary_bullets": ["恋愛 AI アプリ Universidad de Córdoba (UCO)"]}, {"id": "202510f9a9e8", "title": "AI Porn Maker：2026年の画像ジェネレーターの選び方 - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTkdfaTAxRUdMVW5ibXFrWU16WGltWG9YSmNwZzJrdWJrT2ZfYWVRYWs1SmkzQ3UwaW9FeWdtNHVkbmdCVzJNNTNlRV8xZ09tSW1RMnNPbGp4WW9YcTFyTXhydnFHck1ybjFOUkRvcF9oME9ZcUNTT1IzeW1sNTlleVRmRjFqWGJNQUdQX0pmdmJtb0hMM2lBRUE5Tlc4SVN3TGwwQzBDMGNSU1BtOVVLdUd6UEhJOEJVYTRqWmVlX0dSSXFYZXRHMExOSHdqRml4cHloZXpFcGUwYzA5ZGJvNUE1SUt4LUR0ZzY4WFYwdzBGU2lRT1U4N0xzcGFIUmJDaHVlUTdIRGhMaEFRNVZCeVJwdUZoYkE?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T18:11:43+09:00", "category": "ビジネス・動向", "clean_desc": "AI Porn Maker：2026年の画像ジェネレーターの選び方 Universidad de Córdoba (UCO)", "summary_bullets": ["AI Porn Maker：2026年の画像ジェネレーターの選び方 Universidad"]}, {"id": "5264b76e9c5f", "title": "AI Pornプラットフォーム購入ガイド：プロンプト比較 - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOeGRWV1lRb2hOc1FvT1g3d2ZWOU41UVpCc2dGMEdsaGF4WmFmclhCU3RQMEQydDNRaEhUOGZJWHlkaHFjX0tXQktodDNqWk5ib0xydWZNZlp4dWlUYmhFRU5rZzdyZnJQbEk1c2M3RWg4MDJSWm90dGFQYzBQUXZaLWFzemRlcXNMSDBSRGJQNXFwQ0RDZVlLRGRwOTZhbUJWZDYycWF4WVpfVHVkT25lbzk1eHdRMGwtY1NOQ29SSzN5SzVxN24wN2lKc2F4SzdoQTNad05HOVJETnJ6bFdPY3ktMERtRDN2R2NKX2NLSHFVSHlienpKbU9iZGxIX084MkJ5bV94bmpQSnNOampXTQ?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T17:57:41+09:00", "category": "ビジネス・動向", "clean_desc": "AI Pornプラットフォーム購入ガイド：プロンプト比較 Universidad de Córdoba (UCO)", "summary_bullets": ["AI Pornプラットフォーム購入ガイド：プロンプト比較 Universidad de C"]}, {"id": "37d389331fb9", "title": "AI Porn 2026：主要アダルトAIジェネレーター、サイト＆ツール - Universidad de Córdoba (UCO)", "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNQXFSNXNGSzZGTG9MdklWUk1RaWFBbmlUbVdPQTFfR2dNbEZ2SFdnUEhrYjlsb2xtdEI2ZExKUk01OFlJa3drbU85ZW1nWlFOMTkta2VKc0FIbTlJY0JZTEJJM2VjU25WMnJDNWduM0FnTFpOUW1YYU1idHRrSlY1NkVSc3l6UG9VUU9EdFRuZG00bFFiSjRsbE56LUxVNWdJMkJaeFM3X0tfZDgxVmNzS1pTbk94TWRsME1POFZRV3piRXFKYjZmbEdPUnJ3MHBBdHNFbUV2TVpjc21FTEYtUTZidmlVTENxTHhSYUlUVFhVenQxeVFWZWpZQzEzTy1YMzRQeUdCZm8waTBOc0xXZA?oc=5", "source": "Google News (AI)", "published_at": "2026-10-17T17:57:39+09:00", "category": "ビジネス・動向", "clean_desc": "AI Porn 2026：主要アダルトAIジェネレーター、サイト＆ツール Universidad de Córdoba (UCO)", "summary_bullets": ["AI Porn 2026：主要アダルトAIジェネレーター、サイト＆ツール Universi"]}, {"id": "cc43a0b57e48", "title": "Claude Code Auto modeの権限設定をClaudeに手伝わせたらかなり楽になった", "url": "https://zenn.dev/koki_n22/articles/04174e8cca69ab", "source": "Zenn (AI)", "published_at": "2026-10-17T13:19:30+09:00", "category": "モデル・技術", "clean_desc": "対象読者 Claude CodeのAuto modeを使いたいが、権限の境界をどう設定すればよいのかわからない人 操作の拒否や承認待ちで、自律開発が止まるのを減らしたい人 モチベーション Auto modeを使っていたが、徐々に操作を拒否されたり、許可を求められたりすることが増えて面倒だった バージョンアップで判定が厳しくなったのか、自分の実行する操作が変わったためなのかは不明 理由はどうであれ、Claude Codeに色々と任せたいのに都度作業が止まるのはしんどかった そんなとき、Claude", "summary_bullets": ["対象読者 Claude CodeのAuto modeを使いたいが、権限の境界をどう設定すれ"]}, {"id": "5d549e692de2", "title": "AI駆動開発の変更統治", "url": "https://zenn.dev/kanaria007/books/0a82048cdf2210", "source": "Zenn (AI)", "published_at": "2026-10-17T12:18:55+09:00", "category": "モデル・技術", "clean_desc": "AIが生成したPRはすべてレビュー済みでCIも緑。それなのに統合後に認可条件が消えたら、何を根拠に変更を止め、どの検査をやり直すべきでしょうか？ 本書は、複数PRを横断する変更集合、要求と検査の対応、証拠の失効と再検証、ALLOW・HOLD・DENYによる実行判断、候補と稼働構成の分離、段階的な有効化と復旧、失敗後の調査方法の改善を、一つの開発過程として体系化します。 文書管理SaaSの認可とCSV出力を一貫した題材に、Pythonの実行教材と107件のテストで、設計した判断の状態遷移を確かめま", "summary_bullets": ["AIが生成したPRはすべてレビュー済みでCIも緑", "それなのに統合後に認可条件が消えたら、何を根拠に変更を止め、どの検査をやり直すべきでしょう", "本書は、複数PRを横断する変更集合、要求と検査の対応、証拠の失効と再検証、ALLOW・HO"]}, {"id": "1daf9a01843e", "title": "柔術特化HIITアプリを個人開発した記録 ── 構想・仮説検証からVeoとWanによる動画生成パイプラインまで", "url": "https://zenn.dev/toshipon/articles/bjj-flow-ai-development", "source": "Zenn (AI)", "published_at": "2026-10-17T11:39:33+09:00", "category": "モデル・技術", "clean_desc": "はじめに ブラジリアン柔術（BJJ）の練習中、指導者から「試合で最後まで動けるスタミナをつけるには、毎日のHIITが一番効く」と助言を受けました。 柔術には、マットを這うエビやタックルを切るスプロール、足を利かせるガードワークなど、特有の動作が多くあります。一般的な筋トレやランニングとは使う筋肉も心拍の上がり方も異なります。 しかし、こうした柔術特有のドリルを毎日1人で続けるのは簡単ではありません。タイマーを測りながら種目を切り替え、フォームを確認し、負荷を管理する作業を自力でこなすには強い意志", "summary_bullets": ["はじめに ブラジリアン柔術（BJJ）の練習中、指導者から「試合で最後まで動けるスタミナをつ", "柔術には、マットを這うエビやタックルを切るスプロール、足を利かせるガードワークなど、特有の", "一般的な筋トレやランニングとは使う筋肉も心拍の上がり方も異なります"]}, {"id": "bcc01f2f3b85", "title": "Claude Code の Hook を「誰が検査するのか」問題 ― 観点・テスト・変異テストで品質を育てる", "url": "https://zenn.dev/zenn_kado/articles/8ebdf96850b1f2", "source": "Zenn (AI)", "published_at": "2026-10-17T11:29:00+09:00", "category": "モデル・技術", "clean_desc": "はじめに Claude Code の Hook で「TODO.md の書式チェック」を作りました。動きはしたのですが、使っているうちに 「このチェック、本当に正しく検査できているのか？」 が気になり始めました。 Hook は「Claude の作業を検査する側」です。その検査する側が間違っていたら、誰も気づけません。この記事は、そこから 検査する側を検査する仕組み を作った記録です。 想定読者: Claude Code の Hook を書き始めた人、AI に書かせたコードの品質に不安がある人 題材", "summary_bullets": ["はじめに Claude Code の Hook で「TODO.md の書式チェック」を作り", "動きはしたのですが、使っているうちに 「このチェック、本当に正しく検査できているのか", "」 が気になり始めました"]}, {"id": "3d94384fc33e", "title": "Playwright × OWASP ZAP × 静的解析のローカル統合による「動的VEX」と対自律型AIの防御設計", "url": "https://zenn.dev/masahiroid/articles/frontier-ai-defense-dynamic-vex", "source": "Zenn (AI)", "published_at": "2026-10-17T11:25:55+09:00", "category": "モデル・技術", "clean_desc": "課題の定義：自律型AIによる「Time-to-Exploit」の極小化と従来型テストの限界 高度な推論とツール実行能力を持つフロンティアAIの普及により、Webアプリケーションに対する脆弱性探索から悪用実証（Exploit）までのタイムラインが秒〜分単位へと圧縮されています。パッチの差分（Diff）やDOM構造、APIのエラーレスポンスをコンテキストとして理解する自律型エージェントの前では、従来のセキュリティ運用における2つの前提が崩れつつあります。 単体DAST（動的解析）の探索限界 OWAS", "summary_bullets": ["課題の定義：自律型AIによる「Time-to-Exploit」の極小化と従来型テストの限界", "パッチの差分（Diff）やDOM構造、APIのエラーレスポンスをコンテキストとして理解する", "単体DAST（動的解析）の探索限界 OWAS"]}, {"id": "3470c3d07c88", "title": "DevelopersIO 2026 Joetsuに参加しました ― 技術イベントはやっぱり現地が面白い", "url": "https://zenn.dev/nfffff/articles/dd32939e1257ed", "source": "Zenn (AI)", "published_at": "2026-10-17T11:20:07+09:00", "category": "モデル・技術", "clean_desc": "はじめに 2026年10月16日(金)に開催された「DevelopersIO 2026 Joetsu <AI×クラウド技術祭>」に参加してきました。 参加レポートを書きます。 なぜ参加したのか これまで技術系イベントに参加したことがなかったので，一度参加してみたかった 普段関わることの少ない社外のエンジニアが，どんな技術に触れているのか知りたかった 自分の業務ではあまり触れない技術について知り，視野を広げたかった DevelopersIO 2026 Joetsuについて DevelopersIO", "summary_bullets": ["はじめに 2026年10月16日(金)に開催された「DevelopersIO 2026 J", "参加レポートを書きます", "なぜ参加したのか これまで技術系イベントに参加したことがなかったので，一度参加してみたかっ"]}]};
     let currentCategory = 'すべて';
     let searchQuery = '';
     let readArticles = new Set(JSON.parse(localStorage.getItem('ai_news_read') || '[]'));
     let bookmarkedArticles = new Set(JSON.parse(localStorage.getItem('ai_news_bookmarks') || '[]'));
 
-    function refreshIcons() {
-      try {
-        if (window.lucide && typeof lucide.createIcons === 'function') {
-          lucide.createIcons();
-        }
-      } catch (e) {
-        console.warn('Lucide icon render error:', e);
-      }
-    }
+    const ICONS = {
+      sun: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>`,
+      moon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>`,
+      check: `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>`,
+      circle: `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg>`,
+      bookmark: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>`,
+      bookmark_filled: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="#f59e0b" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>`,
+      share: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/></svg>`,
+      external: `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" x2="21" y1="14" y2="3"/></svg>`
+    };
 
-    const themeToggleBtn = document.getElementById('theme-toggle');
-    const themeIcon = document.getElementById('theme-icon');
+    // Theme Management
+    const themeBtn = document.getElementById('theme-toggle');
+    const themeIconSpan = document.getElementById('theme-icon');
 
     function initTheme() {
       const saved = localStorage.getItem('ai_news_theme');
       const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
       if (saved === 'dark' || (!saved && prefersDark)) {
         document.documentElement.classList.add('dark');
-        themeIcon.setAttribute('data-lucide', 'sun');
+        themeIconSpan.innerHTML = ICONS.sun;
       } else {
         document.documentElement.classList.remove('dark');
-        themeIcon.setAttribute('data-lucide', 'moon');
+        themeIconSpan.innerHTML = ICONS.moon;
       }
-      refreshIcons();
     }
 
-    themeToggleBtn.addEventListener('click', () => {
+    themeBtn.addEventListener('click', () => {
       const isDark = document.documentElement.classList.toggle('dark');
       localStorage.setItem('ai_news_theme', isDark ? 'dark' : 'light');
-      themeIcon.setAttribute('data-lucide', isDark ? 'sun' : 'moon');
-      refreshIcons();
+      themeIconSpan.innerHTML = isDark ? ICONS.sun : ICONS.moon;
     });
 
     initTheme();
 
-    async function loadData() {
-      try {
-        // iPhone/SafariのURL末尾スラッシュ無しでも正しく解決
-        const pathname = window.location.pathname.endsWith('/') 
-          ? window.location.pathname 
-          : window.location.pathname + '/';
-        const targetUrl = new URL('data/latest.json?t=' + Date.now(), window.location.origin + pathname).href;
-        
-        const res = await fetch(targetUrl);
-        if (!res.ok) throw new Error('HTTP ' + res.status + ' fetch failed');
-        newsData = await res.json();
-        renderHeader();
-        renderTabs();
-        renderArticles();
-      } catch (err) {
-        console.error('Data load error:', err);
-        document.getElementById('headline-summary').innerHTML = 
-          'ニュースデータの取得に失敗しました。<br><button onclick="loadData()" class="mt-2 px-3 py-1 bg-indigo-600 text-white rounded-lg text-xs font-semibold">再読み込みする</button>';
-      }
-    }
-
-    function renderHeader() {
-      if (!newsData) return;
-      document.getElementById('header-date').textContent = (newsData.date || '') + ' 更新 (' + (newsData.updated_at || '') + ')';
-      document.getElementById('headline-summary').textContent = newsData.headline_summary || '本日の最新AI動向をお届けします。';
-    }
-
+    // Render Tabs
     function renderTabs() {
       const container = document.getElementById('category-tabs');
       container.innerHTML = '';
-      
-      const categories = [...(newsData && newsData.categories ? newsData.categories : ['すべて']), '★ 保存済み'];
+      const categories = [...(INITIAL_DATA.categories || ['すべて']), '★ 保存済み'];
       categories.forEach(cat => {
         const btn = document.createElement('button');
-        const isActive = currentCategory === cat;
-        btn.className = 'px-3.5 py-1.5 rounded-full text-xs font-medium whitespace-nowrap transition-all ' + 
-          (isActive 
-            ? 'bg-indigo-600 text-white shadow-sm' 
-            : 'bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800');
+        btn.className = 'tab-btn' + (currentCategory === cat ? ' active' : '');
         btn.textContent = cat;
         btn.addEventListener('click', () => {
           currentCategory = cat;
@@ -225,9 +483,10 @@
       });
     }
 
+    // Filter Articles
     function getFilteredArticles() {
-      if (!newsData || !newsData.articles) return [];
-      let list = newsData.articles;
+      const articles = INITIAL_DATA.articles || [];
+      let list = articles;
 
       if (currentCategory === '★ 保存済み') {
         list = list.filter(a => bookmarkedArticles.has(a.id));
@@ -238,78 +497,64 @@
       if (searchQuery.trim()) {
         const q = searchQuery.toLowerCase();
         list = list.filter(a => 
-          (a.title && a.title.toLowerCase().includes(q)) || 
-          (a.summary_bullets && a.summary_bullets.some(b => b.toLowerCase().includes(q))) ||
-          (a.clean_desc && a.clean_desc.toLowerCase().includes(q))
+          (a.title && a.title.toLowerCase().includes(q)) ||
+          (a.clean_desc && a.clean_desc.toLowerCase().includes(q)) ||
+          (a.summary_bullets && a.summary_bullets.some(b => b.toLowerCase().includes(q)))
         );
       }
       return list;
     }
 
+    // Render Articles List
     function renderArticles() {
       const container = document.getElementById('articles-list');
-      const emptyState = document.getElementById('empty-state');
       const filtered = getFilteredArticles();
+      const allArticles = INITIAL_DATA.articles || [];
 
-      const allArticles = newsData && newsData.articles ? newsData.articles : [];
+      // Update progress
       const readCount = allArticles.filter(a => readArticles.has(a.id)).length;
       document.getElementById('read-progress').textContent = '読了状況: ' + readCount + ' / ' + allArticles.length + ' 記事';
 
       if (filtered.length === 0) {
-        container.innerHTML = '';
-        emptyState.classList.remove('hidden');
-        refreshIcons();
+        container.innerHTML = '<div class="empty-message">該当する記事が見つかりませんでした</div>';
         return;
       }
-      emptyState.classList.add('hidden');
 
       container.innerHTML = filtered.map(art => {
         const isRead = readArticles.has(art.id);
         const isBookmarked = bookmarkedArticles.has(art.id);
-        const bulletsHtml = (art.summary_bullets && art.summary_bullets.length > 0)
-          ? art.summary_bullets.map(b => '<li class="flex items-start gap-1.5 leading-snug"><span class="text-indigo-500 font-bold mt-0.5">•</span><span>' + escapeHtml(b) + '</span></li>').join('')
-          : '<p class="text-xs text-slate-500 dark:text-slate-400">' + escapeHtml(art.clean_desc || art.title) + '</p>';
+        const bullets = art.summary_bullets && art.summary_bullets.length > 0
+          ? art.summary_bullets.map(b => '<li class="bullet-item"><span class="bullet-dot">•</span><span>' + escapeHtml(b) + '</span></li>').join('')
+          : '<li class="bullet-item"><span class="bullet-dot">•</span><span>' + escapeHtml(art.clean_desc || art.title) + '</span></li>';
 
-        return '<article class="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm transition-all duration-200 ' + 
-          (isRead ? 'opacity-60 bg-slate-50 dark:bg-slate-900/50' : 'hover:border-indigo-300 dark:hover:border-indigo-800') + '">' +
-          '<div class="flex items-center justify-between text-[11px] font-medium mb-1.5">' +
-            '<span class="text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-950/60 px-2 py-0.5 rounded-md font-semibold">' + escapeHtml(art.category) + '</span>' +
-            '<div class="flex items-center gap-2 text-slate-400 dark:text-slate-500">' +
-              '<span>' + escapeHtml(art.source) + '</span>' +
-              '<span>•</span>' +
-              '<span>' + formatTime(art.published_at) + '</span>' +
-            '</div>' +
+        return '<article class="article-card' + (isRead ? ' read' : '') + '">' +
+          '<div class="card-meta">' +
+            '<span class="category-chip">' + escapeHtml(art.category) + '</span>' +
+            '<span class="source-meta">' + escapeHtml(art.source) + ' • ' + formatTime(art.published_at) + '</span>' +
           '</div>' +
-          '<h2 class="text-sm sm:text-base font-bold text-slate-900 dark:text-slate-100 mb-2 leading-snug">' +
-            '<a href="' + escapeHtml(art.url) + '" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">' +
-              escapeHtml(art.title) +
-            '</a>' +
+          '<h2 class="article-title">' +
+            '<a href="' + escapeHtml(art.url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(art.title) + '</a>' +
           '</h2>' +
-          '<ul class="space-y-1 text-xs text-slate-600 dark:text-slate-300 mb-3 bg-slate-50/70 dark:bg-slate-800/40 p-2.5 rounded-xl border border-slate-100 dark:border-slate-800/80">' +
-            bulletsHtml +
-          '</ul>' +
-          '<div class="flex items-center justify-between pt-2 border-t border-slate-100 dark:border-slate-800/60">' +
-            '<button onclick="toggleRead('' + art.id + '')" class="flex items-center gap-1 text-xs ' + (isRead ? 'text-emerald-600 dark:text-emerald-400 font-semibold' : 'text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200') + '">' +
-              '<i data-lucide="' + (isRead ? 'check-circle-2' : 'circle') + '" class="w-4 h-4"></i>' +
+          '<ul class="bullets-box">' + bullets + '</ul>' +
+          '<div class="card-actions">' +
+            '<button onclick="toggleRead(\'' + art.id + '\')" class="action-btn' + (isRead ? ' active' : '') + '">' +
+              (isRead ? ICONS.check : ICONS.circle) +
               '<span>' + (isRead ? '既読' : '既読にする') + '</span>' +
             '</button>' +
-            '<div class="flex items-center gap-1">' +
-              '<button onclick="toggleBookmark('' + art.id + '')" class="p-1.5 rounded-lg text-slate-400 hover:text-amber-500 dark:hover:text-amber-400 transition-colors" title="保存">' +
-                '<i data-lucide="bookmark" class="w-4 h-4 ' + (isBookmarked ? 'fill-amber-400 text-amber-400' : '') + '"></i>' +
+            '<div class="right-actions">' +
+              '<button onclick="toggleBookmark(\'' + art.id + '\')" class="icon-action-btn" title="保存">' +
+                (isBookmarked ? ICONS.bookmark_filled : ICONS.bookmark) +
               '</button>' +
-              '<button onclick="shareArticle('' + escapeJsString(art.title) + '', '' + escapeJsString(art.url) + '')" class="p-1.5 rounded-lg text-slate-400 hover:text-indigo-500 dark:hover:text-indigo-400 transition-colors" title="共有">' +
-                '<i data-lucide="share-2" class="w-4 h-4"></i>' +
+              '<button onclick="shareArticle(\'' + escapeJs(art.title) + '\', \'' + escapeJs(art.url) + '\')" class="icon-action-btn" title="共有">' +
+                ICONS.share +
               '</button>' +
-              '<a href="' + escapeHtml(art.url) + '" target="_blank" rel="noopener noreferrer" class="flex items-center gap-0.5 text-xs text-indigo-600 dark:text-indigo-400 font-medium pl-1.5 hover:underline">' +
-                '<span>記事へ</span>' +
-                '<i data-lucide="external-link" class="w-3.5 h-3.5"></i>' +
+              '<a href="' + escapeHtml(art.url) + '" target="_blank" rel="noopener noreferrer" class="link-action">' +
+                '<span>記事へ</span>' + ICONS.external +
               '</a>' +
             '</div>' +
           '</div>' +
         '</article>';
       }).join('');
-
-      refreshIcons();
     }
 
     window.toggleRead = function(id) {
@@ -333,19 +578,15 @@
     };
 
     document.getElementById('mark-all-read').addEventListener('click', () => {
-      if (!newsData || !newsData.articles) return;
-      newsData.articles.forEach(a => readArticles.add(a.id));
+      const allArticles = INITIAL_DATA.articles || [];
+      allArticles.forEach(a => readArticles.add(a.id));
       localStorage.setItem('ai_news_read', JSON.stringify(Array.from(readArticles)));
       renderArticles();
     });
 
     window.shareArticle = function(title, url) {
       if (navigator.share) {
-        navigator.share({
-          title: title,
-          text: '【AI Morning】' + title,
-          url: url
-        }).catch(() => {});
+        navigator.share({ title: title, text: '【AI Morning】' + title, url: url }).catch(() => {});
       } else {
         navigator.clipboard.writeText(title + ' ' + url).then(() => {
           alert('URLをクリップボードにコピーしました！');
@@ -360,17 +601,12 @@
 
     function escapeHtml(str) {
       if (!str) return '';
-      return String(str)
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;')
-        .replace(/'/g, '&#39;');
+      return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
     }
 
-    function escapeJsString(str) {
+    function escapeJs(str) {
       if (!str) return '';
-      return String(str).replace(/\/g, '\\').replace(/'/g, "\'").replace(/"/g, '\"');
+      return String(str).replace(/\\/g, '\\\\').replace(/'/g, "\\'").replace(/"/g, '\\"');
     }
 
     function formatTime(isoStr) {
@@ -387,15 +623,16 @@
       }
     }
 
+    // Service Worker
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js').catch(err => {
-          console.warn('SW registration failed:', err);
-        });
+        navigator.serviceWorker.register('./sw.js').catch(() => {});
       });
     }
 
-    loadData();
+    // Initial render
+    renderTabs();
+    renderArticles();
   </script>
 </body>
 </html>
