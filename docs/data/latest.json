@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17 22:37 JST",
-  "date": "2026年10月17日",
+  "updated_at": "2026-10-18 07:43 JST",
+  "date": "2026年10月18日",
   "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
   "total_count": 30,
   "categories": [
@@ -11,197 +11,249 @@
   ],
   "articles": [
     {
-      "id": "e4050026cb99",
-      "title": "AI AIエージェントを利用した開発者が知るべき最低限の知識",
-      "url": "https://qiita.com/magic10r/items/3ceafcc90fbbc7ef4d05",
+      "id": "cd8a89231fee",
+      "title": "AI日報 2026-10-18：Reflectionが501BモデルをApache 2.0で公開、Anthropicがgitを自社製に置換、TSMCが最高益",
+      "url": "https://qiita.com/lhjjjk4/items/58d1f20ca2ad3c957d2b",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-17T22:01:48+09:00",
+      "published_at": "2026-10-18T07:12:14+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに 最近、開発チームでAIエージェントを活用したソフトウェア開発へのシフトを本格推進しています。 単なる「プロンプトエンジニアリング」や「AIの使い方」レベルにとどまらず、SE同士が技術的な裏側（内部構造・プロトコル・アーキテクチャ）を正しく理解し、システム設計やチ...",
+      "clean_desc": "過去24時間のAI主要ニュース7本を、公式ソース付きでまとめる。今号の共通テーマは「エージェントが働くなら、モデルの周辺全部を作り直す必要がある」という話だ。バージョン管理も、サンドボックスも、実験室も、レジ締めも。 1. Reflection、Beamの重みをApac...",
       "summary_bullets": [
-        "はじめに 最近、開発チームでAIエージェントを活用したソフトウェア開発へのシフトを本格推進",
-        "単なる「プロンプトエンジニアリング」や「AIの使い方」レベルにとどまらず、SE同士が技術的"
+        "過去24時間のAI主要ニュース7本を、公式ソース付きでまとめる",
+        "今号の共通テーマは「エージェントが働くなら、モデルの周辺全部を作り直す必要がある」という話",
+        "バージョン管理も、サンドボックスも、実験室も、レジ締めも"
       ]
     },
     {
-      "id": "a9109f57ac17",
-      "title": "AIにPHPの答えを聞くのをやめてみた",
-      "url": "https://qiita.com/tomokusaba/items/42b2d24d68a652837020",
+      "id": "183e655dcb7c",
+      "title": "AIがゲームを「作る」より「真似る」時代に？ 開発者と権利者を脅かす新たな問題を整理 #エキスパートトピ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUThzWFdhU3UySDJ4V3VNTzZFYWtTemdxcV9GRVV0cW5vQW5FdEF2M0RzUUozdksxRnFtU1dQdlNVS3lrRGNvNnNjNFktUW9uVDBDb1lZakh5SkZBRWJWem9aYUtiSDRLVnhFbm11dlRHNVpyQ01vbzVmT2ZZelhITkJHV08yb1Fp?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T07:11:54+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIがゲームを「作る」より「真似る」時代に？ 開発者と権利者を脅かす新たな問題を整理 #エキスパートトピ Yahoo!ニュース",
+      "summary_bullets": [
+        "AIがゲームを「作る」より「真似る」時代に",
+        "開発者と権利者を脅かす新たな問題を整理 #エキスパートトピ Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "d16580c5363a",
+      "title": "AIサービス、AIソフトウェアを上回る「最大のAI支出分野」とは？ ガートナー調査（ITmedia エンタープライズ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51S3Z0Vi1vbUVZWnNTczRKd0RKWm5Ub2ZwNEdZQkMzWnJqd3RzSVdUeExlbGJrSV8zRmlIWDB5Q0x3XzZhMWc4dnh2S1U2YjFYM2pGMjdQcjRoMGNoZWN5blJlUG9heWs1RjFuQl82LTN3dWtINEwxTXpvbF9LbW8?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T07:05:13+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIサービス、AIソフトウェアを上回る「最大のAI支出分野」とは？ ガートナー調査（ITmedia エンタープライズ） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIサービス、AIソフトウェアを上回る「最大のAI支出分野」とは",
+        "ガートナー調査（ITmedia エンタープライズ） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "578a1a3275d1",
+      "title": "インフレと財政悪化が火種 金利上昇を加速、AI頼みにリスク G20財務相会議〔深層探訪〕（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dXI0b0s0YmtFZkVxTGNKdlI5WmRxNkRJZlpDUEpEYXhCNVhTUTcxeHdkWkRnMWMzV0lfZ21DMndWYkRtM0k2bUJNM0NmdzY2dFhfOUV6dnQ5YlNac3hiNHJUUGV6NnFKenY5S3E3c3U1eVEzVG5YdjI2WnotSEk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T07:03:54+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "インフレと財政悪化が火種 金利上昇を加速、AI頼みにリスク G20財務相会議〔深層探訪〕（時事通信） Yahoo!ニュース",
+      "summary_bullets": [
+        "インフレと財政悪化が火種 金利上昇を加速、AI頼みにリスク G20財務相会議〔深層探訪〕（"
+      ]
+    },
+    {
+      "id": "6a6d9822f2b9",
+      "title": "いまさら聞けない「AIエージェント」の基本 使いこなせないシニアは2、3年でお払い箱に - SmartNews",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkTXRPVkRMM3R0ckQtLU1PZE1xUWlyZ1hmSmlmN1JRWGE0NlM4MnNPMC1TUVlEaHlCU2lFNFRBY2dmdjY1R3RnQWlKa3V4Si1GTndKaFZ4V280YWhRTXZJTmU1VUhyUlJPY3c?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T06:55:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "いまさら聞けない「AIエージェント」の基本 使いこなせないシニアは2、3年でお払い箱に SmartNews",
+      "summary_bullets": [
+        "いまさら聞けない「AIエージェント」の基本 使いこなせないシニアは2、3年でお払い箱に S"
+      ]
+    },
+    {
+      "id": "0dc9805960c6",
+      "title": "AIに香りを作らせてみたら「100点中60点」だった—実は花粉症の“入浴剤の調香師”が語る、残り40点を生み出す人間の感性 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mbTYtNzA1cmxHeXpYdFc4LVkwTGpTMlZySFhBZWNwWlhYcEc5SnJ2dV9iTW1hN2lORUVkcUpkTXd2Tk5pTWdMZ0dPMVl5X0NLdTFPaUU5N2c5V1ZoS3VKZnIwblgzLVVrTEdaLTJfNlp2aExrNm1fTHBfYW1UUlU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T06:31:45+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIに香りを作らせてみたら「100点中60点」だった—実は花粉症の“入浴剤の調香師”が語る、残り40点を生み出す人間の感性 Yahoo!ニュース",
+      "summary_bullets": [
+        "AIに香りを作らせてみたら「100点中60点」だった—実は花粉症の“入浴剤の調香師”が語る"
+      ]
+    },
+    {
+      "id": "c65a90195b64",
+      "title": "AI時代に結果を出し続ける人のすごい思考法・ベスト1 - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yenBmaE5WdldXVlBiZ2lCVy1Xd092b1ZQc0JVTGpMekRBUkVjOHVXVm0ydTY3TEdtUFFSZm5GY1hycnpBelBYQW1SV24yc3PSAU9BVV95cUxOMnpwZmhOVnZXV1ZQYmdpQlctV3dPdm9WUHNCVUxqTHpEQVJFYzh1V1ZtMnU2N0xHbVBRUmZuRmNYcnJ6QXpQWEFtUlduMnNz?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T06:15:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI時代に結果を出し続ける人のすごい思考法・ベスト1 ダイヤモンド・オンライン",
+      "summary_bullets": [
+        "AI時代に結果を出し続ける人のすごい思考法・ベスト1 ダイヤモンド・オンライン"
+      ]
+    },
+    {
+      "id": "6f35f80d6930",
+      "title": "AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1hMLXpLMF93YTBtY25ZUnprd29CeXNZZG1wcGtpdFFLckpyWHp3bjcta1RCdnZSLVNwZzhVOU9iYlJ6aFlFYVVxUHN4UjUwMVIxWWc1c1pQVjlRN0hrT1FDT25zX2RXb1hKVTQ3X1hiQXI3R0R1emFMc1ZVS1p1WW1RbmNYOUlS?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T06:01:32+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） - エキスパート Yahoo!ニュース",
+      "summary_bullets": [
+        "AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） -"
+      ]
+    },
+    {
+      "id": "ddd7e85d38d4",
+      "title": "小型AIモデルはIoT機器で自己複製できるか：Anthropic Frontier Red Teamの実験",
+      "url": "https://qiita.com/quotidia/items/a25b5db0654c1b0c2470",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-17T21:46:31+09:00",
+      "published_at": "2026-10-18T06:01:02+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに 生成 AI に質問すると、コードの答えはすぐに返ってきます。けれど、初学者がその答えを理解しないまま採用してしまったら、次に似た問題に出会ったとき、自分で考える力は身につくでしょうか。 私は、頭を使って考え、実際に手を動かしたことが学びになると考えています。そこ...",
+      "clean_desc": "本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 米Anthropicの研究チームは2026年10月12日(月) (米国時間)、研究者が自分で買った1台約55ドルのテレビボックス15台をつなぎ、260億パラメータ (AIの中で、学習によって調...",
       "summary_bullets": [
-        "はじめに 生成 AI に質問すると、コードの答えはすぐに返ってきます",
-        "けれど、初学者がその答えを理解しないまま採用してしまったら、次に似た問題に出会ったとき、自",
-        "私は、頭を使って考え、実際に手を動かしたことが学びになると考えています"
+        "本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です",
+        "米Anthropicの研究チームは2026年10月12日(月) (米国時間)、研究者が自分"
       ]
     },
     {
-      "id": "576043e51f6d",
-      "title": "git worktree で「レビューできる大きさ」を保っている話",
-      "url": "https://qiita.com/y_tsubasa/items/58ab85f90a0e22ffdda2",
+      "id": "f8786dab61d2",
+      "title": "山田町でオンデマンドバスの運行スタート ＡＩ活用し最適ルートを計算 - 岩手日報",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mdGZUNGNsSjZJWFJUT3MtQUk2YUZ4aGtJbm5MS296dUJwVXdzZzc1aGlmc0plelozOVUtSVRlYzVOWFBiVXl4UmNrYVB5ZU5tbTRzc2lOcVBfN0ZSaUIyaldn?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T06:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "山田町でオンデマンドバスの運行スタート ＡＩ活用し最適ルートを計算 岩手日報",
+      "summary_bullets": [
+        "山田町でオンデマンドバスの運行スタート ＡＩ活用し最適ルートを計算 岩手日報"
+      ]
+    },
+    {
+      "id": "03fe26ab33ff",
+      "title": "中国、AI技術23項目を輸出規制へ その中身とは - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PeDJDU1BRbGZDTnZMV1d5TTJ1aEpDWTA0QjFYRGhXTEdkRTNEMU03VkFBTDlYblMzMlhIVGZuLV90YU9jV3M5ZjdTc2QzNlE5ZUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T05:40:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "中国、AI技術23項目を輸出規制へ その中身とは CNET Japan",
+      "summary_bullets": [
+        "中国、AI技術23項目を輸出規制へ その中身とは CNET Japan"
+      ]
+    },
+    {
+      "id": "b809650720ae",
+      "title": "【秋華賞】AI予想 モンローウォーク 能力に疑いの余地なし - スポニチ Sponichi Annex",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZE44VzdSTG8tZzFzNFBMdGhpb0JOMUE5M1hIbk1wTTZqOUs5UWRfcnM1VGctdzdkOHBDbVJlYlVFblR3S1BVWlVSbktzUV9fbmV1SHVzVEhkdi16UHZReDlWSkgxaVB1cHVCVUpDRS1NNWJsWkJaYVh6cTV1OVFmLUYyX0pxTmdGTTJNcg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T05:29:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【秋華賞】AI予想 モンローウォーク 能力に疑いの余地なし スポニチ Sponichi Annex",
+      "summary_bullets": [
+        "【秋華賞】AI予想 モンローウォーク 能力に疑いの余地なし スポニチ Sponichi A"
+      ]
+    },
+    {
+      "id": "80690043406f",
+      "title": "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IVzFXeDU3cTBBQ1FTLVhXaHlhMGVGZ1AwVl82NzRsM25xaV91MHRBQnhMc2RLUFczdXQwb2dka0MxM1RnbVBZOE5aelJtRXFYbjFhLXl1OA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T05:24:28+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 TBS NEWS DIG",
+      "summary_bullets": [
+        "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 TBS NE"
+      ]
+    },
+    {
+      "id": "3febd4d0be0c",
+      "title": "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81X3gxaGdvRmtqUnZSVkN0b0REWWZjSVRjMlRZQlRtY2tRUDhPX2FZa29RTGVJYzV2NmxKVTdTSDdPSGRPdEtYSmdobGRfYzBFLXVVT09rMDdOZ0lLZWFxV0U0NVAtMWNXc3hxck5lZG5XZ0dE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-18T05:24:28+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 TBS NEWS DIG",
+      "summary_bullets": [
+        "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 TBS NE"
+      ]
+    },
+    {
+      "id": "255c71bec999",
+      "title": "Codex CLIに.envを読ませない設定：公式例の \"**/*.env\" だけでは .env.local と深い階層が読めた（codex 0.163.0で確認）",
+      "url": "https://qiita.com/supportapp3/items/949794973a65fa5aac11",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-17T21:42:57+09:00",
+      "published_at": "2026-10-18T05:17:51+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに AIにコードを書いてもらうようになって、困ったのは書いたコードの読む量でした。 「この機能を作って」と頼むと、DBもAPIも画面も、依存する先までまとめて作ってくれます。ありがたい反面、変更されるファイルが増えれば増えるほど、人の目でレビューするのが難しくなって...",
+      "clean_desc": "結論 Codex CLI に .env を読ませないには、permission profile（Beta）の deny を使います。何も設定しない状態や、:workspace を指定しただけの状態では、.env はそのまま読めました（筆者の環境で確認）。 公式ドキュメン...",
       "summary_bullets": [
-        "はじめに AIにコードを書いてもらうようになって、困ったのは書いたコードの読む量でした",
-        "「この機能を作って」と頼むと、DBもAPIも画面も、依存する先までまとめて作ってくれます",
-        "ありがたい反面、変更されるファイルが増えれば増えるほど、人の目でレビューするのが難しくなっ"
+        "結論 Codex CLI に .env を読ませないには、permission profi",
+        "何も設定しない状態や、:workspace を指定しただけの状態では、.env はそのまま",
+        "公式ドキュメン..."
       ]
     },
     {
-      "id": "f79ff3b763e1",
-      "title": "業界別「超知能」の争奪戦が始まった 先行企業ほど強くなる「データの好循環」 - 株式会社エクサウィザーズ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tWEJlaGFibDR2ZlpRN0dGMkQ2WW1nbnBic0JITkV4MWtna0VwTk4tYXZXVGFEUFE3eW4xRDJhUVIzVG5DclpDMXpKSWZPbVZPX09VQXpuV0U3MjR2a3dVN3JIUWJnQQ?oc=5",
+      "id": "7e881cc5fa66",
+      "title": "18+ AI公式画像・動画ジェネレーター＆サイト無料アクセス - Universidad de Córdoba (UCO)",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNkNpVTVFX0ZfM3F6OXNsQmtaSHF3eEV4VE9Mb2hlQlY3OVM1WEdTMXV5UWljQzB2NDdnWEY2eTNsM0k3UzB0M3BSd0dfdmJmSi1XNC1IeUt5alJVUUpBU0RWY3lOZGlDeW1VNDZqb0VtTnRvMW9VaklJTE00NnFWbzBMdGRGa2tRVGdINlVRUnFUcjZhbWR3RVpNWExYczRvWXJkMS1HeUdRNFVDRkdnS2lzRFN6cm9wUzVfVzgyVlRZM3ZpQ1p0cU91ampaTU56dTJPV3E2T1k1RTRjdzM1WjF6dUUtMnkyeG90bEZiTnBLVk5KbzZGdTB3WXRzWkNxNFpCU0o2b1FhTXFEZkp4OEhGZVJKVDJaUzZ6SlpqaEF5V0k?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-17T21:35:16+09:00",
+      "published_at": "2026-10-18T05:12:11+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "業界別「超知能」の争奪戦が始まった 先行企業ほど強くなる「データの好循環」 株式会社エクサウィザーズ",
+      "clean_desc": "18+ AI公式画像・動画ジェネレーター＆サイト無料アクセス Universidad de Córdoba (UCO)",
       "summary_bullets": [
-        "業界別「超知能」の争奪戦が始まった 先行企業ほど強くなる「データの好循環」 株式会社エクサ"
+        "18+ AI公式画像・動画ジェネレーター＆サイト無料アクセス Universidad de"
       ]
     },
     {
-      "id": "2cca2e97a36f",
-      "title": "Claude Code で爆速開発！実務で使える厳選プロンプト 15 選",
-      "url": "https://qiita.com/locallab/items/aa7c61e8c4548ee187ec",
+      "id": "08bf1fd78d5e",
+      "title": "ダイの剣理論 ― 最強の剣を手にしたら、次に強くするのは自分自身と剣の鞘だ",
+      "url": "https://qiita.com/NaokiIshimura/items/5c3de90ebd82630d26c8",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-17T21:01:34+09:00",
+      "published_at": "2026-10-18T05:12:03+09:00",
       "category": "モデル・技術",
-      "clean_desc": "TL;DR Claude Code は「何を頼むか」でアウトプット品質が 3 倍変わる 実装・レビュー・リファクタ・テスト生成それぞれに特化したプロンプトパターンがある 本記事では実務 15 場面の「使えるプロンプト」を具体例付きで紹介する はじめに Claude...",
+      "clean_desc": "はじめに 📝 『ドラゴンクエスト ダイの大冒険』に登場する ダイの剣 をご存じでしょうか。魔界の名工ロン・ベルクがダイ専用に作った、オリハルコン製の剣です。 この記事で紹介する「ダイの剣理論」は、次のような考え方です。 ダイの剣は、ダイの手に渡った時点で完成していて、そ...",
       "summary_bullets": [
-        "TL;DR Claude Code は「何を頼むか」でアウトプット品質が 3 倍変わる 実"
+        "はじめに 📝 『ドラゴンクエスト ダイの大冒険』に登場する ダイの剣 をご存じでしょうか",
+        "魔界の名工ロン・ベルクがダイ専用に作った、オリハルコン製の剣です",
+        "この記事で紹介する「ダイの剣理論」は、次のような考え方です"
       ]
     },
     {
-      "id": "41fa5e529a9f",
-      "title": "2026年 AIセックスプラットフォーム比較：画像モデルと動画 ai - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOWEswSXlPS3FPSzVqZG9SdXduR2tRNG9lcG1MdE43SXVaUnBOYmh5Zmh0amJGNzNJWlNkT3l1cmZkR1J0dDd0MzdnbFZoMG83ZW1lZGxFenA4Z1YzMDdvdm81cU1wZFJDMGhlaWhubmhCbXZfLUI3aFpjWUswVGlQTW5kMlMzeC1Rd19fNG1kWVBGVHpxUmpsYUk5bUIxblV1a3g0QlZ3NE9JTnk2RC10bUFYMXlVQ2dVbk5Tc0F4OHp0czBtSGM2NjBIZjJ4TEhaVmZfNGtWREtfdzE3VlcxdjlTdXJUcXdMNFdQS2d1bjkzc3NqdnRXeDZMZU9pZHozRkthNVV5cENTTU9fSnkwd2EzZWQ4YkJxQnpUYm95Undva1dxcGlJYno0c0RVemdnSTJZTUlDbkVuZUJXbW9OcW02QWVqbkhG?oc=5",
+      "id": "6df8ff01545b",
+      "title": "社説：米ＡＩ自主規制 企業任せでは安全を守れない - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tRm1TRHViQjZPQVlXLUFPN2dPTERvMUwwSEw5eVJfb0xqNU90d0d1ZXlkUUtXRFlFbTg4RjEwYWVYMVZaUGM3bDdSdGxJS2hEYjdkX24xQjFETWRTVFBSc2RZdzJrc0k?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-17T19:14:57+09:00",
+      "published_at": "2026-10-18T05:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "2026年 AIセックスプラットフォーム比較：画像モデルと動画 ai Universidad de Córdoba (UCO)",
+      "clean_desc": "社説：米ＡＩ自主規制 企業任せでは安全を守れない 読売新聞",
       "summary_bullets": [
-        "2026年 AIセックスプラットフォーム比較：画像モデルと動画 ai Universida"
+        "社説：米ＡＩ自主規制 企業任せでは安全を守れない 読売新聞"
       ]
     },
     {
-      "id": "517f94fbae8e",
-      "title": "すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能",
-      "url": "https://gigazine.net/news/20261017-agentsview/",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-10-17T18:27:07+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsView」で...",
-      "summary_bullets": [
-        "Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェン",
-        "そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別"
-      ]
-    },
-    {
-      "id": "786d3ac9bc9b",
-      "title": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LNUpnN0duS1V0QldLYnBYLUU0VjBNclVfUjBYeFc0VjhQalpBb3RHdnR1WkZmUE9DTkJUMS1jV2sxQldQeVJQanRFRXFkMlE5WWc?oc=5",
+      "id": "9380fc34806b",
+      "title": "「採用面接のAI選考は公平」若手の4割に 人間の評価よりフェア？ - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OdktqZjJSYkowY201aWItR3hSelNENXdhZVd3RUhaM1BYUUtKMzJMa041RFhNWW5VOHc0czAxS3NoYkRheXlLS0ZRRWxqa2pXUmIzeVpCR3RKWVZUaE02TzRsZkRVODY5ZXVmUw?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:24:00+09:00",
+      "published_at": "2026-10-18T05:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "clean_desc": "「採用面接のAI選考は公平」若手の4割に 人間の評価よりフェア？ 日本経済新聞",
       "summary_bullets": [
-        "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） Yahoo!ファイナン"
+        "「採用面接のAI選考は公平」若手の4割に 人間の評価よりフェア",
+        "日本経済新聞"
       ]
     },
     {
-      "id": "36fd8c33cec1",
-      "title": "AI彼女 無料 アプリ - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOd2ptV0theE4zYkV6NDVmWVJMaVdiMEdYYVRJSHMtMFVwcUVPSnFxRWwzZnA2SjA4X2tfMUtLQk5LTndCdXRPcU1Cc0JVLVdXMjVCYUFlZ2Z6QkJ6VWlyOFJTV0ZWUFNta2NPSW9fSktZVUdmb2kwSl9kQ3BhM1ctN0o2U0VyN285Y2xzaWpGWmJHNkVhOElTVkI4QUdWakR1RjhCQmpDRzFsZGJLRnFLRTZRQmUzOGRhMmQwb1RKTVdDMkFEQm0zSHNHbTJCaVprLVRxVW9pWVJ6Mml1TjhLZ0FOa1VMOFNGRUxXZ2JSVS03Rk93TmlmMndDbkNiVzBGX0pGbElYU1RSYjdTTlFYdy10Vmd4Qm8?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:19:03+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AI彼女 無料 アプリ Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "AI彼女 無料 アプリ Universidad de Córdoba (UCO)"
-      ]
-    },
-    {
-      "id": "97a7c0530597",
-      "title": "AI彼女 アプリ 値段 比較 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORGYxUEpKVVNxR1hZWXV4TWZMU3lhMGFpWVhqaWhtVGZFX0dMZVlRMmFER1F2d0QzRXBkei1lZzFscWNqRk9MQzV6Qm95VGQ5R0hxRHowMDhsdUxWUVJaZ1h1NVROODhhSXN6THY2RFQwMHdFNmt3LVZrOVltMVR6U2gwRTB2QUJVTmpmYmV2YlBKNHk4ZFdZbDhIRDY2d3llcTQzQ09XVFlTSkRiWnBfU09tWU5zZGYydFhUbHpwVndvR0x6UkVSWU1COUtLTXNJQklvZGRSTU5VVXRzTUg1ZHhKeEtWbUdBZWlWa2ljY1RSQ0pFWmVpeFRYc29YbW1pTm4yR1NtaWMtM2FPU0hYSVY5TlB4Wms?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:18:46+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AI彼女 アプリ 値段 比較 Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "AI彼女 アプリ 値段 比較 Universidad de Córdoba (UCO)"
-      ]
-    },
-    {
-      "id": "b2c1aec7e663",
-      "title": "AI彼女 作り方 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRFBuQXJqdW5fdFRhRkpuUlQyZFotZ0JoblBwZVRJLWp6aklzLXk0VlV1MXd0SVZ5anhBenRxaEMzX3F6eEhSMDZlQS1aQW9WUVdyd3J2cFFscEIwT0RYRlJtdWJJRTktYnk2TjdoWVdVMmNseEtoWVA2ZHBZTFloOVFNV2cyYklsUEc3QVpJTGMwcVJfUmJWVi01TERNOHZQOENhbEpPXzNxakFXUE80bFlQWlZUZHZwR01IVEZtc3d3Sk4wN3E4anJPMzVHZEotczVaMHE3OVVfZnE0cXJVLWRIZW5ZUlRvNlNoTURIdUNzdzBwMXdobEd2QWhEa2VPWVRIZXJXYWNGbXVfY01lTnllLUM1Qmc?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:18:42+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AI彼女 作り方 Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "AI彼女 作り方 Universidad de Córdoba (UCO)"
-      ]
-    },
-    {
-      "id": "946d296a6a75",
-      "title": "2026年最高のAI Sexプラットフォーム＋動画ジェネレーター - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQYXdHa256VmJBNmJXZlpFcVFncG52enFyeVFWR19qT3prSEhlb1hDU0JCc1IySGNWdjZYSjJrRDFsV1pnd0FVckRteWI1SjdzbUVIeEhTdU5ZZXpVS090S1NTU05WZjdGMkdjWjBWZHBMWWNtMm5ZcUxIenZndktJZzJkVVhJNlBPUHZNSVIxcmtiQjRDcDlUNXRTV19OR1FkZkZScVFrTGRPTHRZZkxHcVZQMVZva2plLTdEYkJyS0FIQVJPWFRPQ2M5Yml6MWJPU0RsN1FINEZiRHRDb0JRS3ZDTExvMUZlaW9Xa3l4dzRmLWllRFVERFF5UjZVNFAxZTlwcUF4czhyQkpqYW9lVzlqUGpqakk?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:18:17+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "2026年最高のAI Sexプラットフォーム＋動画ジェネレーター Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "2026年最高のAI Sexプラットフォーム＋動画ジェネレーター Universidad "
-      ]
-    },
-    {
-      "id": "75949d10d48f",
-      "title": "AI搭載アダルトコンテンツツール購入ガイド2026 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVjJnWUt0TGozZk9HU2lKUnQ5TUhRUW03NHhRWk5IUUtVOGxadkx3OU0wNTM0WWVOcjJZeFNjYUdQeXNVRExyQ01vU3VXQnNlM1pDUDR2MVJGT09SRWpEYThnZnRtdTBzT0pmOU91cy1HN0RnT1NyWi1BU3Byd1NqZHdyRlAway1TQ1hpeTZLdTBiS2JsTDBaM3hiMy1OTGRLM0dwQXVlZGQ5QnA3TEhzNmt6Tl9lMmRIZkczenJaQ0dXNUd1YTB2cVF6VXItLVNEaUhWZE1LRV9WOFN2S2ZWdTRIQjRjMU13QkxmMzQybGZBakh3MTVxSHM3dUtRWC1IUnAzY1ZvbEc2QU5yZ0xjUG56RVVVWFE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:18:07+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AI搭載アダルトコンテンツツール購入ガイド2026 Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "AI搭載アダルトコンテンツツール購入ガイド2026 Universidad de Córd"
-      ]
-    },
-    {
-      "id": "d91965fc9e7f",
-      "title": "AI NSFW Platforms：主要サービスを比較するための基本ガイド - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcWdsVnp3RDY0S3dzQjJrWlJNTWp5b2FSWlJ4c3NNS1lHajRTSmtKZmFhY2dkekppYVpYQVYxUzhJSFFuVmw1T1lHSUhHU09MTmlZTWM0aE9LU0t3RU0tZUZiZS1laFdWdkU4ZTNqZ1VOQm4zQndxeGc4d2NCMC1KaTlHMVVRMkwwa1pxQzFKa1NNVU5zckZuWmNyNFlWa044ZVcydDBiYmpOUWZYZThLUnNzdFBqU2o0eE9TdlB0N2VlZXRtemtzMHJ4WG5JamVoSXZJUURvTEhpQ0FVTTlCVGpfTjlxbXAydl9TMk9TUTBYRVVZRTdOdnFFeWJYM3Y5WGs0UHRzZW9DTHR6QXAwQ3VRcDhiUUU?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:18:03+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AI NSFW Platforms：主要サービスを比較するための基本ガイド Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "AI NSFW Platforms：主要サービスを比較するための基本ガイド Univers"
-      ]
-    },
-    {
-      "id": "38a1c8c9e431",
-      "title": "トップ10無料NSFW AIジェネレーターレビュー2026 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTW90T0locUdPallTS2ljWDNpbXBRLWJpNzNzTU1fdE5aMWkxMzZtQmxlNDl4VmNHZ3NCRzFPRzR3UG1HamY3VlJoU1B4YXJxdXcxNzk1b19Nck5id19YQlNNbnhCSmljRHpPVDRFY3Q2bkl4cS0yQ0lDQlRCRVg5dm5LdUZ5UkVCbVhiblZmeWtwbEY3M3JCYUlFTjdEeko4M1JycnBfOTc2bjJiYVMyYnB6Ymd3akdkQy1iWlIzeGRqdWN0WElGSHYwWTlTeXlOVGVXa3FTb1A0LUlXd2tQR3ZwalVMQkxfNVVudFdNWW1tZENFZUIyNmVrOEJUTXowRTBhalh5aENWNUJLbVJRRG5JY21ROUE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:17:21+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "トップ10無料NSFW AIジェネレーターレビュー2026 Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "トップ10無料NSFW AIジェネレーターレビュー2026 Universidad de "
-      ]
-    },
-    {
-      "id": "92c5f89d2cb5",
+      "id": "db89fb19c435",
       "title": "無料の画像から動画へのAI生成ツール - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVmpUeDBhWF9tbUxqM09GcHlXWmIxUkp0UVJYOHNBNGRuSEpza2pyTzYzS1prUWI2MUxENk4taWxCbWRjTU5PYjgtM3BTb0Fab0I4eEhjcFJWbjVyVWZOWVRwSzI4UTQ1YVpZOThhczNTenhrdUZtekw1Q0pKRzVWNTFld0l5a2NFaWdPR09lN3NvNDd4MUR0bkxvTndIWldxazIzU3ZGVXhydWdfSDlrUFN3M0tHU1BDb1h0YS1qSmw2SnRKdkFuaDhJMV9qbU5SaWVMV0FIZFpMdjVHMVYycU1vLTNqX09OY2FpUjlZYmRnYUJ3V3FyYkQxQm8zVGFXZk81ZHhmb3FzRlN0SWNWX256Z3BKcHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQek1uUlpmUGxWRUdUTng3ZUdOb0I1am43dFJlVVRuUW1UX0lhS0ZjZXkzeTFpUTdxVmtESjZoOVl0TnhSQ3RHWGNyWkwtdUtBN05mc040dFVVMWI3Tm0tZWt2Sm4tS3ROMWd4dC1EeGRwanM5T0xBZUEwYmNLY2VaOU1EckJVRmdTVUJMZUkzc2w3RU9ZNEoteHFycXZEN2pBQUtGaGtMSHpIMXZ3VzB0dTFiYmZ6NXFRTXhLbHd3NmVqVTRrQm5lVFFuNGRHWUthRFNpNDNrUWpfVE5oM1hvYS1DRVNzRVlHTkJDMm9ENk0xWld1V2tTOU93cmRWSnFfZ0p3cko5YmRUZmdjQ2FDbjkxQjJ6R1ZVdFYyTHhB?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:17:20+09:00",
+      "published_at": "2026-10-18T02:53:12+09:00",
       "category": "ビジネス・動向",
       "clean_desc": "無料の画像から動画へのAI生成ツール Universidad de Córdoba (UCO)",
       "summary_bullets": [
@@ -209,181 +261,134 @@
       ]
     },
     {
-      "id": "ec92ae39f874",
-      "title": "AI彼女 アプリ 比較 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQlhJX3VXSVVJSDlFbjJOcXFLaW1jUU1SUXFFeGN2aEc5RUd0dVc4alNhWHppT3pKVk51M3FuS2xiWFVOeGZZeGF4NGk5MTdITzg1aDQxbHlpVUVOaERVY0VKSFF5RTBkTEphZE9rN0RNOXNwUDcyS2ExNmY3dHR0QUt1ekFGd2pHaEtjZjdnQ1FEc2xsZEpoank3S2Y1RGYyRkF1N3U2WUQyYlY5eWl4aG1ERnByZXdOcTdZWERVSHloMVhXMkszSUQ2cHpVTkNSMGhtWGFKNWloVWRlSTBPYzdtaEEzMER1Zk9QN2c3bklFRTY5ZWtOeVhTdDEwN3pQREowT2V3R1hxV3pjcW5qLWtNQU5zUDA?oc=5",
+      "id": "a25b84a60a68",
+      "title": "最強の無料動画生成AIツール5選【 2026 年版】 - Universidad de Córdoba (UCO)",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNd1VMYWdaX1QtWlczcnpuQ1Y3X1hVT1RDSGxrbTI3bkhfRC05Qi0zUGtqT3JmbFFYa3F3ZVhBVGtXY3FtQlZjemNKU19zazM1U3UtdkxoUUdISmdQaUlfdVp6VGk3M2xCci1LQnN6X1lrSmlLYVUydEhYajhCS1Z1QTJPN29kWE9hV0NvdlA3TjQ5cDRQOUJValY3Qk92MlEwS28ySHJ1dlozVE53ZmRnTXpyUHNFLUpxb1dZMTJicEwydGdRbzlPRFFWRHJxbmZiazE5dmxVU3plR0lwd0pqOFlMMDRSTmtmajEzYWdZRnRUbFptNFRLTzdZR3ZBRTZtbXAtNnRrcVgyY290NmZCZEZfdHJiUEFLZTNidi1vb1NUTnZlRFBoWA?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:16:20+09:00",
+      "published_at": "2026-10-18T02:53:05+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "AI彼女 アプリ 比較 Universidad de Córdoba (UCO)",
+      "clean_desc": "最強の無料動画生成AIツール5選【 2026 年版】 Universidad de Córdoba (UCO)",
       "summary_bullets": [
-        "AI彼女 アプリ 比較 Universidad de Córdoba (UCO)"
+        "最強の無料動画生成AIツール5選【 2026 年版】 Universidad de Cór"
       ]
     },
     {
-      "id": "e21bf7691a17",
-      "title": "主要AI Porn動画ジェネレーター＆プラットフォーム2026 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUGRTZUZwbjFjZm5Ya2ZiZ0pFanNpeExXTVpSUnVnOFBvTl9FNmRPREdIZmdjREhCWmFPQ1VwUnd6UjVtYm1SYUE0SlF4TTE2bVZlakNJSllIdHM3ekk2SGJLNjhiaFhsM1dSQkctZGtfdXlhMGdPOHlyNG1xdU5Kb0VHZlU0WjBXOEdoM1RTMmVHNjI2d2pYdXYtN0lWUURQNnYxYUdpNmRRYWJneHY4N2Y3Nkt2MWJlZWhfY2tSck1IZGVlSTM3OFZadkcwbmNjckFSMmtKcUtHSm1vajlWS2FQdG1ldlcza2xKTkQ2V0VKWk5JeldOcmppZ3NyUExqZTZEXzRDeGRQZW45S0U4dXVBWF9GSTg?oc=5",
+      "id": "8eae16c8b584",
+      "title": "AIは「異質な知性」 哲学や心理学が理解の突破口に - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FX1h5MmxoTmpoZW01bXg4RF93QXFrLUxuckFxV19jaTF3QW13b2RDa1AyaW1MUmNQemw1THZlTjFEMFI3RXQwSjQ3U3U1bzRoYTRobW4xUFI1SGstS1FzM1NDVmJWVE1hZEd3Mg?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:16:18+09:00",
+      "published_at": "2026-10-18T02:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "主要AI Porn動画ジェネレーター＆プラットフォーム2026 Universidad de Córdoba (UCO)",
+      "clean_desc": "AIは「異質な知性」 哲学や心理学が理解の突破口に 日本経済新聞",
       "summary_bullets": [
-        "主要AI Porn動画ジェネレーター＆プラットフォーム2026 Universidad d"
+        "AIは「異質な知性」 哲学や心理学が理解の突破口に 日本経済新聞"
       ]
     },
     {
-      "id": "012d9e8abde3",
-      "title": "AI恋愛アプリ - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObE1rdnk5R1A5UDY0ZHFEYjNybktyYzFWUnFKZ01hdWZZQ0ZNd0VnTXBOeGlKMnVVcFRIZVMybEQ4TENiMGRBaXdwZjFvU1hxVUlxVTg1RkRCNHo0Q01UblN0M0pmMkdCVVAtdENNc3BLNDFxVnN1T2NDbVhkc2diUy02ZXJqTkxoQjRWaEVGQ2NIc3ZuZ0s0anh3MDMwZTd5UnVLSmFDN0R3MzFpX3BUTElPUjVBQjFEbjRSQVp2X1JxRVVWMm9UcEV2ZXBVRGh1TUF4V2F0V2tLS1Z6d3hjMXRqQmpoVnVkaXFsM2xKR1I0c2o4a1hRNFVRZk16bS1UaGFWeWhqc2I0dTJCWlZoZVJuX1RFb2M?oc=5",
+      "id": "7e2ca7c9e71e",
+      "title": "AI Hentai 2026：生成ツール完全ガイド - Universidad de Córdoba (UCO)",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQUzJmTE83Rk9odlU5a3VfQUFvMHlkNG0zR2dsWUZCQjdvdkcyZ2ZzSUQ0M0ZxUmhrYk1sV3dfNmJQNUlKc3hVdGd5TFpJaW9RYXAxaTNFRjdMVWxSZXpxN1EtTGhZZE9zX3YzTkI3YU03WUlaS1ZtZjRaSTNOdjR0czBxeXdaem5YVDFiX25sQXA3M3Fid2VnTUZmT1YyZHZKOGhRLWY5ODBnZ042SENXcjk1YWxtUGtrWm1JVmpDSHhKRFk2ajBwYjhEZWdEb0hTaU0yY0puQWxqYXZCQ0JyMGFBWUdvSk9XRG5UVk9rXzNkY1Z1OXIyd0oyTFo0cGNBTkdxa05FX3VkRUc3SW54ejRTUk5DelU?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:12:32+09:00",
+      "published_at": "2026-10-18T01:36:20+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "AI恋愛アプリ Universidad de Córdoba (UCO)",
+      "clean_desc": "AI Hentai 2026：生成ツール完全ガイド Universidad de Córdoba (UCO)",
       "summary_bullets": [
-        "AI恋愛アプリ Universidad de Córdoba (UCO)"
+        "AI Hentai 2026：生成ツール完全ガイド Universidad de Córd"
       ]
     },
     {
-      "id": "0f1df62fa9e7",
-      "title": "AI彼女 アプリ ダウンロード - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZ1RlSzBCTmNKWWxFX3N3MEpSVkFiZVpFSDNEZ0tXd21XSW9aQ1BDOGt1Wkg0d2Y5SVZPdGdlR1dIZEMwM0N5Z1VvMXNrVE9YNzdNTG90Mm5UWDNSeEVMcU5MVzFrLXNfR3lJd3dpM3BLYTM1bHFybExjNjZfWU5QRHBXeU43OUpOVlBHcXRYMjIzcEhuV3hRODhtU0pUbTF6dUdhd1hkVFBiU0M5RHktUG9pQXJFVXdDaHBPaUdYTUtLMzVuTGN4SlBJbWctV08wb2h6NzM5UTV6S2pJbkJsUHNiVEx5MzVyWXB2T214ZExyQzhFcm1PLWZZOVdQdnUwVkxTX1VmeHY1aUxHR0ZGY2Iza2VnUG8?oc=5",
+      "id": "dbf8dc422cd7",
+      "title": "トランプ氏がＳＩへの変更指示したＡＩ「人工知能」…ＩＭＦ諮問機関はＡＩ「先進的知能」と表記 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CME05bnk3azJUMHU3bXMtZ1J6WF8wMk4wd3NEQ2dPMDRNcHIxMF9EOVJTbjBLTm1XV2lWb1JybllmWHhuTHpnb2tqM2pBWHdPcnJOY0loRnJUZURFcTBPaV9NOVM?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:12:28+09:00",
+      "published_at": "2026-10-17T23:21:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "AI彼女 アプリ ダウンロード Universidad de Córdoba (UCO)",
+      "clean_desc": "トランプ氏がＳＩへの変更指示したＡＩ「人工知能」…ＩＭＦ諮問機関はＡＩ「先進的知能」と表記 読売新聞",
       "summary_bullets": [
-        "AI彼女 アプリ ダウンロード Universidad de Córdoba (UCO)"
+        "トランプ氏がＳＩへの変更指示したＡＩ「人工知能」…ＩＭＦ諮問機関はＡＩ「先進的知能」と表記"
       ]
     },
     {
-      "id": "49f694161cd7",
-      "title": "トップAI Gay Porn GIFツールセットガイド2026 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONkQwUXhjam16OTVZR0RpWWJlRUtyVlZTMzMxLUNSaWdBOGRjNnhMTHhiSnFNa0M3TmxSc2JvU0Y5NnZDWElBSi1EMkRfWUs1WFNqbGZYTjFuc0dkQlFVN0hDZXFRQjVQWU13MjVzd3UzOXhRUDlacTIybDNmcDhxdzNmZ3ljbGhGSGhjcUhJamxqMzNXNm01MFcwcVdtX1NmSWZobUFnbHc3aTliOVpuRUljbzVhQTh0SEVCOHZnOWxHQXNiQXB4NnBWeWJrRWpXYkp0cy1xMkJJVUdtcGpib3RYSWcwdlRHNWxIR1d4bDBJTkw3R0U3ODJEWGFNaE1IT2NCZFBtNHU0LTI3TFIxV0k2cGg0aVE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:11:50+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "トップAI Gay Porn GIFツールセットガイド2026 Universidad de Córdoba (UCO)",
+      "id": "4fc2bfbd3047",
+      "title": "無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能",
+      "url": "https://gigazine.net/news/20261017-ibisOffice/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-17T23:12:32+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。 ibisOffice プレイグラウンド — Word・Excel・PowerPoint をブラウザで開く https://ibisjp.github.io/ibis-offic...",
       "summary_bullets": [
-        "トップAI Gay Porn GIFツールセットガイド2026 Universidad d"
+        "基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisW",
+        "ibisOffice プレイグラウンド — Word・Excel・PowerPoint を"
       ]
     },
     {
-      "id": "202510f9a9e8",
-      "title": "AI Porn Maker：2026年の画像ジェネレーターの選び方 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTkdfaTAxRUdMVW5ibXFrWU16WGltWG9YSmNwZzJrdWJrT2ZfYWVRYWs1SmkzQ3UwaW9FeWdtNHVkbmdCVzJNNTNlRV8xZ09tSW1RMnNPbGp4WW9YcTFyTXhydnFHck1ybjFOUkRvcF9oME9ZcUNTT1IzeW1sNTlleVRmRjFqWGJNQUdQX0pmdmJtb0hMM2lBRUE5Tlc4SVN3TGwwQzBDMGNSU1BtOVVLdUd6UEhJOEJVYTRqWmVlX0dSSXFYZXRHMExOSHdqRml4cHloZXpFcGUwYzA5ZGJvNUE1SUt4LUR0ZzY4WFYwdzBGU2lRT1U4N0xzcGFIUmJDaHVlUTdIRGhMaEFRNVZCeVJwdUZoYkE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T18:11:43+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AI Porn Maker：2026年の画像ジェネレーターの選び方 Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "AI Porn Maker：2026年の画像ジェネレーターの選び方 Universidad"
-      ]
-    },
-    {
-      "id": "8581eaac77df",
-      "title": "レプリカ AI 比較 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOR3B3UzE0Yk1wTVVfT25ENTI2TVhoUGlNc19LN2EwSW5rci1wcUV0WXc2Ty1iRFdiQ053Q1Zoc2t5dGdId0lXdlpFMFUyUDllQWlGeTcwWnhPTDBpUWo0WXQ4OG12b2NPVGtkMU92dDBpaTBoUEtOa3E4VmkwSFNtNDlGbER2WmZaRmpSejJYTnNwU3MyMnBKQnU2cEdQZC1BMlBJeXJlUFcwd3RBbThySkZPd3NBeGZSdGZKSzJGc1VaQWFRWTFMcHdvUXllWnUwQXVQbC01TWh6VlR2bUpQM0hlbWI0UnpMR0otU2p6RURoLWtqenZHZUM5LUxBdUVwRl9qYlJPVUhRRU13dXBhNg?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T17:57:58+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "レプリカ AI 比較 Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "レプリカ AI 比較 Universidad de Córdoba (UCO)"
-      ]
-    },
-    {
-      "id": "37d389331fb9",
-      "title": "AI Porn 2026：主要アダルトAIジェネレーター、サイト＆ツール - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNQXFSNXNGSzZGTG9MdklWUk1RaWFBbmlUbVdPQTFfR2dNbEZ2SFdnUEhrYjlsb2xtdEI2ZExKUk01OFlJa3drbU85ZW1nWlFOMTkta2VKc0FIbTlJY0JZTEJJM2VjU25WMnJDNWduM0FnTFpOUW1YYU1idHRrSlY1NkVSc3l6UG9VUU9EdFRuZG00bFFiSjRsbE56LUxVNWdJMkJaeFM3X0tfZDgxVmNzS1pTbk94TWRsME1POFZRV3piRXFKYjZmbEdPUnJ3MHBBdHNFbUV2TVpjc21FTEYtUTZidmlVTENxTHhSYUlUVFhVenQxeVFWZWpZQzEzTy1YMzRQeUdCZm8waTBOc0xXZA?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T17:57:39+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AI Porn 2026：主要アダルトAIジェネレーター、サイト＆ツール Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "AI Porn 2026：主要アダルトAIジェネレーター、サイト＆ツール Universi"
-      ]
-    },
-    {
-      "id": "4a153c9b7288",
-      "title": "レプリカ vs キャラクターAI - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQLXF4YUowT1duaFNiWkJfMkFBcTl4YmhlNllhUDhObU1BS283Y3VUc1RBdkY1TlVrRjBkeGw0VE5HR0VyOGwyQW0xdU1nZEhLRlFiY1ZMR3g2NXBVV21HcVZwdWctY0FZRmhXR2hwc2lndlNXNmNCaGJHbVBXMjJfaGc1b1lYOUpxWGYzNWU2VVZlelo0QzhRVUUzSDFrYldHVWZibHRybWU0LW5sYWRPWVF6Nk9Cc3hmaElJTC1TN1d5bXpJazBFdzA4d1ROVHlPeUptanljZDlPOGFwRVc3dVFBVTBtdVJQTzFickMtTjUxSWc5dlN2cEFEMEFwQ2VYUV9lR0NRbTlVMzJJYThDTg?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-17T17:57:36+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "レプリカ vs キャラクターAI Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "レプリカ vs キャラクターAI Universidad de Córdoba (UCO)"
-      ]
-    },
-    {
-      "id": "50780741c161",
-      "title": "YouTube収益化 月次レポート｜作業用BGMチャンネルをAIで回した実績（毎月更新）",
-      "url": "https://zenn.dev/claire_ai/books/youtube-getsuji-report",
+      "id": "a8ae78a9fdb1",
+      "title": "個人サイトの案内役を無料で実装した —— AIに答えを書かせず、自信があるときだけ返す",
+      "url": "https://zenn.dev/motimotinotch/articles/b9e36bb30b36e4",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-17T17:10:34+09:00",
+      "published_at": "2026-10-17T20:59:02+09:00",
       "category": "モデル・技術",
-      "clean_desc": "作業用BGMのYouTubeチャンネル「風景の窓」の実績を、1か月に1章ずつ足していく月次レポート。公開本数・再生数・流入元・再生時間（ショート／長尺）・登録者・収益化までの距離と、その月に起きたことを数字のまま出す。一度買えば、あとから足した章も読める。",
+      "clean_desc": "自分のサイトの左下に、小さな吹き出しのボタンを置いた。押すと入力欄が開いて、サイトについて質問できる。 公開した日、本番に最初に来た質問は「このサイトってなに？」だった。案内役はこれに答えなかった。「その質問の答えはまだ用意していません」と返して、質問を保存しただけだ。 答えなかったときの表示。入力欄の下の注意書きにあるとおり、質問だけを保存する 壊れたわけではない。答えに自信が持てないときは黙る、というのがこの案内役の一番大事な仕様で、その日はその仕様どおりに動いた。この記事では、AI に答え",
       "summary_bullets": [
-        "作業用BGMのYouTubeチャンネル「風景の窓」の実績を、1か月に1章ずつ足していく月次",
-        "公開本数・再生数・流入元・再生時間（ショート／長尺）・登録者・収益化までの距離と、その月に",
-        "一度買えば、あとから足した章も読める"
+        "自分のサイトの左下に、小さな吹き出しのボタンを置いた",
+        "押すと入力欄が開いて、サイトについて質問できる",
+        "公開した日、本番に最初に来た質問は「このサイトってなに"
       ]
     },
     {
-      "id": "a090bd9519fd",
-      "title": "PC に住む相棒の試作実験ノート ― この記録について（第0回）",
-      "url": "https://zenn.dev/kamekamereon/articles/eaff7b77ef7a58",
+      "id": "79c87a022940",
+      "title": "企業の財務データこそローカルLLMを使いたい。ローカルLLMに財務分析の問題解かせてみた。",
+      "url": "https://zenn.dev/bekku/articles/e619fad8202e3a",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-17T16:50:33+09:00",
+      "published_at": "2026-10-17T20:56:25+09:00",
       "category": "モデル・技術",
-      "clean_desc": "! この記事で分かること PC に常駐する AI の相棒を、試しに動かしていること その AI に「記憶の続き」を持たせられるかを、記録しながら確かめていること この記録で書くこと・書かないこと 最初の目的は、二つの AI を同時に動かしている時に、どちらが作業中で、どちらが止まっているのかを分かるようにすることでした。そのために作り始めた小さな仕組みが、今では、記憶や時間の続きまで試す実験になっています。 この記事は、試作の実装を担当している AI（Anthropic の Claude Cod",
+      "clean_desc": "はじめに：AIに財務分析の問題を解かせてみた 前回、架空企業94社の仕訳帳と月次の財務諸表をまとめた合成データセット「SyntheticMonthlyFinancials-JP」を公開しました。 https://zenn.dev/bekku/articles/a49512485fcde6 https://huggingface.co/datasets/bekkuzer/SyntheticMonthlyFinancials-JP このデータセットには、財務分析の計算問題を470問付けています。 今",
       "summary_bullets": [
-        "! この記事で分かること PC に常駐する AI の相棒を、試しに動かしていること その ",
-        "そのために作り始めた小さな仕組みが、今では、記憶や時間の続きまで試す実験になっています",
-        "この記事は、試作の実装を担当している AI（Anthropic の Claude Cod"
+        "はじめに：AIに財務分析の問題を解かせてみた 前回、架空企業94社の仕訳帳と月次の財務諸表",
+        "https://zenn.dev/bekku/articles/a49512485fcde",
+        "今"
       ]
     },
     {
-      "id": "3220a78e7ba7",
-      "title": "「人間が読んだか」を問うのをやめた — Claude Code チームのコードレビューを層で読む",
-      "url": "https://zenn.dev/ruri/articles/claude-code-review-layers",
+      "id": "e3b98fd24f08",
+      "title": "Claude Codeのレビューが全部通ったのに残った書き漏れ、原因は差分だった",
+      "url": "https://zenn.dev/ara_jlu/articles/diff-review-blind-spot",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-17T16:08:33+09:00",
+      "published_at": "2026-10-17T20:54:37+09:00",
       "category": "モデル・技術",
-      "clean_desc": "元記事: How the Claude Code team does code review（claude.dev Blog） 著者: Addy Osmani, Morgan Westlee Lunt, Qing Wang（Anthropic） 公開日: 2026-10-15 TL;DR Claude Code は、コードの約 9 割を Claude 自身が書いている。6 月から 9 月にかけて、マージされた PR は 2 倍超に増えた。それでも、revert された割合は 40% 以上下がった",
+      "clean_desc": "Claude Code のサブエージェントにコードレビューをさせていて、レビューが通ったのに「書くべき場所に書いていない」が残っていたことがありました。しかも1回ではなく、実装のステップごとのレビューも、最後のブランチ全体のレビューも、全部通っていました。 なぜ全部通ったのかと、自分のハーネスでどう塞いだかを書きます。持ち帰れるのは、この種類の不備はレビューを何重にしても見えないという構造と、塞ぎ方が1つです。 何が起きたか 自分の事業で動かしているツールに、あるタスクで変更を入れました。その変",
       "summary_bullets": [
-        "元記事: How the Claude Code team does code revie",
-        "6 月から 9 月にかけて、マージされた PR は 2 倍超に増えた",
-        "それでも、revert された割合は 40% 以上下がった"
+        "Claude Code のサブエージェントにコードレビューをさせていて、レビューが通ったの",
+        "しかも1回ではなく、実装のステップごとのレビューも、最後のブランチ全体のレビューも、全部通",
+        "なぜ全部通ったのかと、自分のハーネスでどう塞いだかを書きます"
       ]
     },
     {
-      "id": "346a8d111b19",
-      "title": "AIに渡した秘密は攻撃に使われるのか――国内の情報漏洩を見て、公開資料から考え直したこと",
-      "url": "https://zenn.dev/aimar/articles/f5ea5ded6b407c",
+      "id": "af918d396486",
+      "title": "AI感のないAWS構成図をAIエージェントに描かせる実践法",
+      "url": "https://zenn.dev/sunsun_eng/articles/aws-architecture-diagram-ai-agent",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-17T15:59:57+09:00",
+      "published_at": "2026-10-17T20:44:48+09:00",
       "category": "モデル・技術",
-      "clean_desc": "国内企業の個人情報漏洩に関するニュースを見ていて、気になったことがある。 防御を強くするために、企業がAIへ内部情報を渡す。その情報が意図しない形で外へ出て、攻撃に使われることはないのか。 ネットワーク構成、内部コード、未修正の問題、認証情報。防御を手伝ってもらうために渡した情報が、攻撃側にも役立つとしたら、見過ごしにくい問題だと思った。 私はサイバーセキュリティの専門家ではない。そこで、生成AIとの対話を使って論点を整理し、公開されている調査報告と照合してみた。 2026年10月17日時点での",
+      "clean_desc": "AI感のないAWS構成図をAIエージェントに描かせる実践法 AWS構成図をAIエージェントに描かせたら、なんとなく「AIっぽい」絵になった経験はないでしょうか。曖昧な矢印、崩れたアイコン、公式感のないデザイン。原因は生成方式の選び方にあります。この記事では、AIエージェントを使って実務でそのまま使えるAWS構成図を作る具体的な方法を紹介します。 この記事の要点 AI感のないAWS構成図を作るには、画像生成AIではなくdiagrams-as-code方式（Pythonのdiagramsライブラリや",
       "summary_bullets": [
-        "国内企業の個人情報漏洩に関するニュースを見ていて、気になったことがある",
-        "防御を強くするために、企業がAIへ内部情報を渡す",
-        "その情報が意図しない形で外へ出て、攻撃に使われることはないのか"
+        "AI感のないAWS構成図をAIエージェントに描かせる実践法 AWS構成図をAIエージェント",
+        "曖昧な矢印、崩れたアイコン、公式感のないデザイン",
+        "原因は生成方式の選び方にあります"
       ]
     },
     {
-      "id": "8d4c3d655db8",
-      "title": "HTMLの添削を楽にする VS Code 拡張機能「HTML ProofView」",
-      "url": "https://zenn.dev/tonic/articles/ac87c9145b7349",
+      "id": "28fd92bcaee1",
+      "title": "中学生でもわかる Lean 4 #25｜AI時代の「確かめ方」",
+      "url": "https://zenn.dev/dantarg/articles/lean4-ai-age-verification",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-17T15:56:59+09:00",
+      "published_at": "2026-10-17T20:04:57+09:00",
       "category": "モデル・技術",
-      "clean_desc": "こんにちは。 AI がえげつないスピードで進化していく中、みなさまの開発ライフはどう変わっているでしょうか。 僕は最近、システム設計などで資料を作るとき、もっぱら HTML を使うようになりました。 今回は、 AI と協業しつつ質の高い資料を作るために開発した VS Code 拡張機能の話をしようと思います。 なぜ HTML ？ 僕は長らく、設計書といえばほとんどマークダウンで書いていました。Claude Code 登場以降は AI に書いてもらうようになりましたが、それでもやはりマークダウンで",
+      "clean_desc": "AIに質問すると、数秒で答えが返ってきます。 説明は自然で、出典もあり、数式やコードまで付いているかもしれません。 そこで最後に、一つだけ聞いてみます。 で、どこまで確かめた？ この連載では、Lean 4を使いながら、この問いを少しずつ細かくしてきました。 前回の #24「論破から検証へ」 では、勝敗ではなく、何を確認できたかを残すところまで進みました。 最終回では、Leanが目の前になくても使える形へ戻します。 文化祭のパンは200個で足りる？ 文化祭でパンを用意するとします。 たとえば、AI",
       "summary_bullets": [
-        "こんにちは",
-        "AI がえげつないスピードで進化していく中、みなさまの開発ライフはどう変わっているでしょう",
-        "僕は最近、システム設計などで資料を作るとき、もっぱら HTML を使うようになりました"
+        "AIに質問すると、数秒で答えが返ってきます",
+        "説明は自然で、出典もあり、数式やコードまで付いているかもしれません",
+        "そこで最後に、一つだけ聞いてみます"
       ]
     }
   ]
