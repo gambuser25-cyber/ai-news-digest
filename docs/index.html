@@ -32,7 +32,6 @@
   <!-- Lucide Icons -->
   <script src="https://unpkg.com/lucide@latest"></script>
   <style>
-    /* モバイルでのタップ感度向上とスクロールバー非表示 */
     .no-scrollbar::-webkit-scrollbar {
       display: none;
     }
@@ -60,7 +59,7 @@
             AI Morning Digest
             <span class="text-[10px] bg-indigo-100 dark:bg-indigo-900/60 text-indigo-700 dark:text-indigo-300 font-semibold px-1.5 py-0.5 rounded-full">毎朝更新</span>
           </h1>
-          <p id="header-date" class="text-xs text-slate-500 dark:text-slate-400">読み込み中...</p>
+          <p id="header-date" class="text-xs text-slate-500 dark:text-slate-400">最新ニュースを取得中...</p>
         </div>
       </div>
       
@@ -87,7 +86,7 @@
         <i data-lucide="check-circle" class="w-3.5 h-3.5 text-emerald-500"></i>
         <span id="read-progress">読了状況: 0 / 0</span>
       </div>
-      <button id="mark-all-read" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
+      <button id="mark-all-read" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors font-medium">
         すべて既読にする
       </button>
     </div>
@@ -136,14 +135,22 @@
   </main>
 
   <script>
-    // State
     let newsData = null;
     let currentCategory = 'すべて';
     let searchQuery = '';
     let readArticles = new Set(JSON.parse(localStorage.getItem('ai_news_read') || '[]'));
     let bookmarkedArticles = new Set(JSON.parse(localStorage.getItem('ai_news_bookmarks') || '[]'));
 
-    // Theme Management
+    function refreshIcons() {
+      try {
+        if (window.lucide && typeof lucide.createIcons === 'function') {
+          lucide.createIcons();
+        }
+      } catch (e) {
+        console.warn('Lucide icon render error:', e);
+      }
+    }
+
     const themeToggleBtn = document.getElementById('theme-toggle');
     const themeIcon = document.getElementById('theme-icon');
 
@@ -157,47 +164,57 @@
         document.documentElement.classList.remove('dark');
         themeIcon.setAttribute('data-lucide', 'moon');
       }
+      refreshIcons();
     }
 
     themeToggleBtn.addEventListener('click', () => {
       const isDark = document.documentElement.classList.toggle('dark');
       localStorage.setItem('ai_news_theme', isDark ? 'dark' : 'light');
       themeIcon.setAttribute('data-lucide', isDark ? 'sun' : 'moon');
-      lucide.createIcons();
+      refreshIcons();
     });
 
     initTheme();
 
-    // Data Fetching
     async function loadData() {
       try {
-        const res = await fetch('./data/latest.json?t=' + Date.now());
-        if (!res.ok) throw new Error('Data fetch failed');
+        // iPhone/SafariのURL末尾スラッシュ無しでも正しく解決
+        const pathname = window.location.pathname.endsWith('/') 
+          ? window.location.pathname 
+          : window.location.pathname + '/';
+        const targetUrl = new URL('data/latest.json?t=' + Date.now(), window.location.origin + pathname).href;
+        
+        const res = await fetch(targetUrl);
+        if (!res.ok) throw new Error('HTTP ' + res.status + ' fetch failed');
         newsData = await res.json();
         renderHeader();
         renderTabs();
         renderArticles();
       } catch (err) {
-        console.error(err);
-        document.getElementById('headline-summary').textContent = 'ニュースデータの読み込みに失敗しました。オフラインまたは更新待ちです。';
+        console.error('Data load error:', err);
+        document.getElementById('headline-summary').innerHTML = 
+          'ニュースデータの取得に失敗しました。<br><button onclick="loadData()" class="mt-2 px-3 py-1 bg-indigo-600 text-white rounded-lg text-xs font-semibold">再読み込みする</button>';
       }
     }
 
     function renderHeader() {
       if (!newsData) return;
-      document.getElementById('header-date').textContent = ${newsData.date} 更新 ();
-      document.getElementById('headline-summary').textContent = newsData.headline_summary;
+      document.getElementById('header-date').textContent = (newsData.date || '') + ' 更新 (' + (newsData.updated_at || '') + ')';
+      document.getElementById('headline-summary').textContent = newsData.headline_summary || '本日の最新AI動向をお届けします。';
     }
 
     function renderTabs() {
       const container = document.getElementById('category-tabs');
       container.innerHTML = '';
       
-      const categories = [...(newsData?.categories || ['すべて']), '★ 保存済み'];
+      const categories = [...(newsData && newsData.categories ? newsData.categories : ['すべて']), '★ 保存済み'];
       categories.forEach(cat => {
         const btn = document.createElement('button');
         const isActive = currentCategory === cat;
-        btn.className = px-3.5 py-1.5 rounded-full text-xs font-medium whitespace-nowrap transition-all ;
+        btn.className = 'px-3.5 py-1.5 rounded-full text-xs font-medium whitespace-nowrap transition-all ' + 
+          (isActive 
+            ? 'bg-indigo-600 text-white shadow-sm' 
+            : 'bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800');
         btn.textContent = cat;
         btn.addEventListener('click', () => {
           currentCategory = cat;
@@ -221,9 +238,9 @@
       if (searchQuery.trim()) {
         const q = searchQuery.toLowerCase();
         list = list.filter(a => 
-          a.title.toLowerCase().includes(q) || 
+          (a.title && a.title.toLowerCase().includes(q)) || 
           (a.summary_bullets && a.summary_bullets.some(b => b.toLowerCase().includes(q))) ||
-          a.clean_desc.toLowerCase().includes(q)
+          (a.clean_desc && a.clean_desc.toLowerCase().includes(q))
         );
       }
       return list;
@@ -234,15 +251,14 @@
       const emptyState = document.getElementById('empty-state');
       const filtered = getFilteredArticles();
 
-      // Update progress
-      const allArticles = newsData?.articles || [];
+      const allArticles = newsData && newsData.articles ? newsData.articles : [];
       const readCount = allArticles.filter(a => readArticles.has(a.id)).length;
-      document.getElementById('read-progress').textContent = 読了状況:  /  記事;
+      document.getElementById('read-progress').textContent = '読了状況: ' + readCount + ' / ' + allArticles.length + ' 記事';
 
       if (filtered.length === 0) {
         container.innerHTML = '';
         emptyState.classList.remove('hidden');
-        lucide.createIcons();
+        refreshIcons();
         return;
       }
       emptyState.classList.add('hidden');
@@ -251,69 +267,51 @@
         const isRead = readArticles.has(art.id);
         const isBookmarked = bookmarkedArticles.has(art.id);
         const bulletsHtml = (art.summary_bullets && art.summary_bullets.length > 0)
-          ? art.summary_bullets.map(b => <li class="flex items-start gap-1.5 leading-snug"><span class="text-indigo-500 font-bold mt-0.5">•</span><span></span></li>).join('')
-          : <p class="text-xs text-slate-500 dark:text-slate-400"></p>;
+          ? art.summary_bullets.map(b => '<li class="flex items-start gap-1.5 leading-snug"><span class="text-indigo-500 font-bold mt-0.5">•</span><span>' + escapeHtml(b) + '</span></li>').join('')
+          : '<p class="text-xs text-slate-500 dark:text-slate-400">' + escapeHtml(art.clean_desc || art.title) + '</p>';
 
-        return 
-          <article class="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm transition-all duration-200 ">
-            <!-- Source & Category Header -->
-            <div class="flex items-center justify-between text-[11px] font-medium mb-1.5">
-              <span class="text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-950/60 px-2 py-0.5 rounded-md font-semibold">
-                
-              </span>
-              <div class="flex items-center gap-2 text-slate-400 dark:text-slate-500">
-                <span></span>
-                <span>•</span>
-                <span></span>
-              </div>
-            </div>
-
-            <!-- Title -->
-            <h2 class="text-sm sm:text-base font-bold text-slate-900 dark:text-slate-100 mb-2 leading-snug">
-              <a href="" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
-                
-              </a>
-            </h2>
-
-            <!-- 3-Bullet Summary -->
-            <ul class="space-y-1 text-xs text-slate-600 dark:text-slate-300 mb-3 bg-slate-50/70 dark:bg-slate-800/40 p-2.5 rounded-xl border border-slate-100 dark:border-slate-800/80">
-              
-            </ul>
-
-            <!-- Action Bar -->
-            <div class="flex items-center justify-between pt-2 border-t border-slate-100 dark:border-slate-800/60">
-              <!-- Read toggle -->
-              <button onclick="toggleRead('')" class="flex items-center gap-1 text-xs ">
-                <i data-lucide="" class="w-4 h-4"></i>
-                <span></span>
-              </button>
-
-              <div class="flex items-center gap-1">
-                <!-- Bookmark -->
-                <button onclick="toggleBookmark('')" class="p-1.5 rounded-lg text-slate-400 hover:text-amber-500 dark:hover:text-amber-400 transition-colors" title="保存">
-                  <i data-lucide="bookmark" class="w-4 h-4 "></i>
-                </button>
-                
-                <!-- Share -->
-                <button onclick="shareArticle('', '')" class="p-1.5 rounded-lg text-slate-400 hover:text-indigo-500 dark:hover:text-indigo-400 transition-colors" title="共有">
-                  <i data-lucide="share-2" class="w-4 h-4"></i>
-                </button>
-
-                <!-- Link to Source -->
-                <a href="" target="_blank" rel="noopener noreferrer" class="flex items-center gap-0.5 text-xs text-indigo-600 dark:text-indigo-400 font-medium pl-1.5 hover:underline">
-                  <span>記事へ</span>
-                  <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
-                </a>
-              </div>
-            </div>
-          </article>
-        ;
+        return '<article class="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm transition-all duration-200 ' + 
+          (isRead ? 'opacity-60 bg-slate-50 dark:bg-slate-900/50' : 'hover:border-indigo-300 dark:hover:border-indigo-800') + '">' +
+          '<div class="flex items-center justify-between text-[11px] font-medium mb-1.5">' +
+            '<span class="text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-950/60 px-2 py-0.5 rounded-md font-semibold">' + escapeHtml(art.category) + '</span>' +
+            '<div class="flex items-center gap-2 text-slate-400 dark:text-slate-500">' +
+              '<span>' + escapeHtml(art.source) + '</span>' +
+              '<span>•</span>' +
+              '<span>' + formatTime(art.published_at) + '</span>' +
+            '</div>' +
+          '</div>' +
+          '<h2 class="text-sm sm:text-base font-bold text-slate-900 dark:text-slate-100 mb-2 leading-snug">' +
+            '<a href="' + escapeHtml(art.url) + '" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">' +
+              escapeHtml(art.title) +
+            '</a>' +
+          '</h2>' +
+          '<ul class="space-y-1 text-xs text-slate-600 dark:text-slate-300 mb-3 bg-slate-50/70 dark:bg-slate-800/40 p-2.5 rounded-xl border border-slate-100 dark:border-slate-800/80">' +
+            bulletsHtml +
+          '</ul>' +
+          '<div class="flex items-center justify-between pt-2 border-t border-slate-100 dark:border-slate-800/60">' +
+            '<button onclick="toggleRead('' + art.id + '')" class="flex items-center gap-1 text-xs ' + (isRead ? 'text-emerald-600 dark:text-emerald-400 font-semibold' : 'text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200') + '">' +
+              '<i data-lucide="' + (isRead ? 'check-circle-2' : 'circle') + '" class="w-4 h-4"></i>' +
+              '<span>' + (isRead ? '既読' : '既読にする') + '</span>' +
+            '</button>' +
+            '<div class="flex items-center gap-1">' +
+              '<button onclick="toggleBookmark('' + art.id + '')" class="p-1.5 rounded-lg text-slate-400 hover:text-amber-500 dark:hover:text-amber-400 transition-colors" title="保存">' +
+                '<i data-lucide="bookmark" class="w-4 h-4 ' + (isBookmarked ? 'fill-amber-400 text-amber-400' : '') + '"></i>' +
+              '</button>' +
+              '<button onclick="shareArticle('' + escapeJsString(art.title) + '', '' + escapeJsString(art.url) + '')" class="p-1.5 rounded-lg text-slate-400 hover:text-indigo-500 dark:hover:text-indigo-400 transition-colors" title="共有">' +
+                '<i data-lucide="share-2" class="w-4 h-4"></i>' +
+              '</button>' +
+              '<a href="' + escapeHtml(art.url) + '" target="_blank" rel="noopener noreferrer" class="flex items-center gap-0.5 text-xs text-indigo-600 dark:text-indigo-400 font-medium pl-1.5 hover:underline">' +
+                '<span>記事へ</span>' +
+                '<i data-lucide="external-link" class="w-3.5 h-3.5"></i>' +
+              '</a>' +
+            '</div>' +
+          '</div>' +
+        '</article>';
       }).join('');
 
-      lucide.createIcons();
+      refreshIcons();
     }
 
-    // Toggle Read
     window.toggleRead = function(id) {
       if (readArticles.has(id)) {
         readArticles.delete(id);
@@ -324,7 +322,6 @@
       renderArticles();
     };
 
-    // Toggle Bookmark
     window.toggleBookmark = function(id) {
       if (bookmarkedArticles.has(id)) {
         bookmarkedArticles.delete(id);
@@ -335,7 +332,6 @@
       renderArticles();
     };
 
-    // Mark all as read
     document.getElementById('mark-all-read').addEventListener('click', () => {
       if (!newsData || !newsData.articles) return;
       newsData.articles.forEach(a => readArticles.add(a.id));
@@ -343,28 +339,25 @@
       renderArticles();
     });
 
-    // Share API
     window.shareArticle = function(title, url) {
       if (navigator.share) {
         navigator.share({
           title: title,
-          text: 【AI Morning】,
+          text: '【AI Morning】' + title,
           url: url
         }).catch(() => {});
       } else {
-        navigator.clipboard.writeText(${title} ).then(() => {
+        navigator.clipboard.writeText(title + ' ' + url).then(() => {
           alert('URLをクリップボードにコピーしました！');
         });
       }
     };
 
-    // Search filter
     document.getElementById('search-input').addEventListener('input', (e) => {
       searchQuery = e.target.value;
       renderArticles();
     });
 
-    // Utilities
     function escapeHtml(str) {
       if (!str) return '';
       return String(str)
@@ -375,6 +368,11 @@
         .replace(/'/g, '&#39;');
     }
 
+    function escapeJsString(str) {
+      if (!str) return '';
+      return String(str).replace(/\/g, '\\').replace(/'/g, "\'").replace(/"/g, '\"');
+    }
+
     function formatTime(isoStr) {
       if (!isoStr) return '';
       try {
@@ -383,22 +381,20 @@
         const d = dt.getDate().toString().padStart(2, '0');
         const h = dt.getHours().toString().padStart(2, '0');
         const min = dt.getMinutes().toString().padStart(2, '0');
-        return ${m}/ :;
+        return m + '/' + d + ' ' + h + ':' + min;
       } catch {
         return '';
       }
     }
 
-    // Register Service Worker
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('./sw.js').catch(err => {
-          console.log('SW registration failed:', err);
+          console.warn('SW registration failed:', err);
         });
       });
     }
 
-    // Initial load
     loadData();
   </script>
 </body>
