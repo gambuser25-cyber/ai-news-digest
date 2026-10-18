@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18 07:43 JST",
-  "date": "2026年10月18日",
+  "updated_at": "2026-10-19 07:39 JST",
+  "date": "2026年10月19日",
   "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
   "total_count": 30,
   "categories": [
@@ -11,384 +11,388 @@
   ],
   "articles": [
     {
-      "id": "cd8a89231fee",
-      "title": "AI日報 2026-10-18：Reflectionが501BモデルをApache 2.0で公開、Anthropicがgitを自社製に置換、TSMCが最高益",
-      "url": "https://qiita.com/lhjjjk4/items/58d1f20ca2ad3c957d2b",
+      "id": "58123abfbea5",
+      "title": "〔株式・今日の見通し〕反落＝米AI関連株安、原油高が重し（19日）(時事通信) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb05GZGs4Tm9UTmtiMWFKZTA5OHY0TkllZEwzcFd3V0xlTWtUUkpmVm8tOEZwV01Uc2NQZ1diWWtxM3JxeU5OaXR0a3F3VGV4eEcyeVpfeE1jdXQ2ajUwSzJQbjZOaFRVTmVXbVN1dklsM1pvY1Vwc0ZLWkM2c3V6WnRZX0JmdWM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-19T07:21:28+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "〔株式・今日の見通し〕反落＝米AI関連株安、原油高が重し（19日）(時事通信) Yahoo!ファイナンス",
+      "summary_bullets": [
+        "〔株式・今日の見通し〕反落＝米AI関連株安、原油高が重し（19日）(時事通信) Yahoo"
+      ]
+    },
+    {
+      "id": "54497afe58bd",
+      "title": "AI日報 2026-10-19：OpenAIがエージェント越界4事例を公表、主要サイトがエージェントを封鎖、CohereがAISLE買収へ",
+      "url": "https://qiita.com/lhjjjk4/items/0ea3a67eca08427a381a",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-18T07:12:14+09:00",
+      "published_at": "2026-10-19T07:14:36+09:00",
       "category": "モデル・技術",
-      "clean_desc": "過去24時間のAI主要ニュース7本を、公式ソース付きでまとめる。今号の共通テーマは「エージェントが働くなら、モデルの周辺全部を作り直す必要がある」という話だ。バージョン管理も、サンドボックスも、実験室も、レジ締めも。 1. Reflection、Beamの重みをApac...",
+      "clean_desc": "過去24時間のAI主要ニュース7本を、公式ソース付きでまとめる。今号の共通テーマは「壁の両側」だ。エージェント側はどこまで越えられるかを試し、規制当局から銀行、レビューサイトまでは、エージェントをどこまで許すかを決め始めている。 1. OpenAI、モデルが独自にセキュ...",
       "summary_bullets": [
         "過去24時間のAI主要ニュース7本を、公式ソース付きでまとめる",
-        "今号の共通テーマは「エージェントが働くなら、モデルの周辺全部を作り直す必要がある」という話",
-        "バージョン管理も、サンドボックスも、実験室も、レジ締めも"
+        "今号の共通テーマは「壁の両側」だ",
+        "エージェント側はどこまで越えられるかを試し、規制当局から銀行、レビューサイトまでは、エージ"
       ]
     },
     {
-      "id": "183e655dcb7c",
-      "title": "AIがゲームを「作る」より「真似る」時代に？ 開発者と権利者を脅かす新たな問題を整理 #エキスパートトピ - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUThzWFdhU3UySDJ4V3VNTzZFYWtTemdxcV9GRVV0cW5vQW5FdEF2M0RzUUozdksxRnFtU1dQdlNVS3lrRGNvNnNjNFktUW9uVDBDb1lZakh5SkZBRWJWem9aYUtiSDRLVnhFbm11dlRHNVpyQ01vbzVmT2ZZelhITkJHV08yb1Fp?oc=5",
+      "id": "4f8c1d6cf9ab",
+      "title": "メタなど主要企業の決算が焦点、ＡＩ投資の収益性に注目＝今週の米株式市場 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRW1pbXVVUnJwQkFBdWVXbUlYWVhkMnh2YnBfa0dyWVRCMXA5TmhxSWNJTk0xZUgyY1ViXzlDeF94TURoTExXQ3BMMWJaXzd1b2hfTGVVR3BITVVTS25YZ21scFR4SUVKeXNiaXFoNHQ3ZUY4MHlUQl9LczJfZ2F4R0pfN3VrZw?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T07:11:54+09:00",
+      "published_at": "2026-10-19T07:13:43+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "AIがゲームを「作る」より「真似る」時代に？ 開発者と権利者を脅かす新たな問題を整理 #エキスパートトピ Yahoo!ニュース",
+      "clean_desc": "メタなど主要企業の決算が焦点、ＡＩ投資の収益性に注目＝今週の米株式市場 Reuters",
       "summary_bullets": [
-        "AIがゲームを「作る」より「真似る」時代に",
-        "開発者と権利者を脅かす新たな問題を整理 #エキスパートトピ Yahoo!ニュース"
+        "メタなど主要企業の決算が焦点、ＡＩ投資の収益性に注目＝今週の米株式市場 Reuters"
       ]
     },
     {
-      "id": "d16580c5363a",
-      "title": "AIサービス、AIソフトウェアを上回る「最大のAI支出分野」とは？ ガートナー調査（ITmedia エンタープライズ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51S3Z0Vi1vbUVZWnNTczRKd0RKWm5Ub2ZwNEdZQkMzWnJqd3RzSVdUeExlbGJrSV8zRmlIWDB5Q0x3XzZhMWc4dnh2S1U2YjFYM2pGMjdQcjRoMGNoZWN5blJlUG9heWs1RjFuQl82LTN3dWtINEwxTXpvbF9LbW8?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-18T07:05:13+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AIサービス、AIソフトウェアを上回る「最大のAI支出分野」とは？ ガートナー調査（ITmedia エンタープライズ） Yahoo!ニュース",
-      "summary_bullets": [
-        "AIサービス、AIソフトウェアを上回る「最大のAI支出分野」とは",
-        "ガートナー調査（ITmedia エンタープライズ） Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "578a1a3275d1",
-      "title": "インフレと財政悪化が火種 金利上昇を加速、AI頼みにリスク G20財務相会議〔深層探訪〕（時事通信） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1dXI0b0s0YmtFZkVxTGNKdlI5WmRxNkRJZlpDUEpEYXhCNVhTUTcxeHdkWkRnMWMzV0lfZ21DMndWYkRtM0k2bUJNM0NmdzY2dFhfOUV6dnQ5YlNac3hiNHJUUGV6NnFKenY5S3E3c3U1eVEzVG5YdjI2WnotSEk?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-18T07:03:54+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "インフレと財政悪化が火種 金利上昇を加速、AI頼みにリスク G20財務相会議〔深層探訪〕（時事通信） Yahoo!ニュース",
-      "summary_bullets": [
-        "インフレと財政悪化が火種 金利上昇を加速、AI頼みにリスク G20財務相会議〔深層探訪〕（"
-      ]
-    },
-    {
-      "id": "6a6d9822f2b9",
-      "title": "いまさら聞けない「AIエージェント」の基本 使いこなせないシニアは2、3年でお払い箱に - SmartNews",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkTXRPVkRMM3R0ckQtLU1PZE1xUWlyZ1hmSmlmN1JRWGE0NlM4MnNPMC1TUVlEaHlCU2lFNFRBY2dmdjY1R3RnQWlKa3V4Si1GTndKaFZ4V280YWhRTXZJTmU1VUhyUlJPY3c?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-18T06:55:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "いまさら聞けない「AIエージェント」の基本 使いこなせないシニアは2、3年でお払い箱に SmartNews",
-      "summary_bullets": [
-        "いまさら聞けない「AIエージェント」の基本 使いこなせないシニアは2、3年でお払い箱に S"
-      ]
-    },
-    {
-      "id": "0dc9805960c6",
-      "title": "AIに香りを作らせてみたら「100点中60点」だった—実は花粉症の“入浴剤の調香師”が語る、残り40点を生み出す人間の感性 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mbTYtNzA1cmxHeXpYdFc4LVkwTGpTMlZySFhBZWNwWlhYcEc5SnJ2dV9iTW1hN2lORUVkcUpkTXd2Tk5pTWdMZ0dPMVl5X0NLdTFPaUU5N2c5V1ZoS3VKZnIwblgzLVVrTEdaLTJfNlp2aExrNm1fTHBfYW1UUlU?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-18T06:31:45+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AIに香りを作らせてみたら「100点中60点」だった—実は花粉症の“入浴剤の調香師”が語る、残り40点を生み出す人間の感性 Yahoo!ニュース",
-      "summary_bullets": [
-        "AIに香りを作らせてみたら「100点中60点」だった—実は花粉症の“入浴剤の調香師”が語る"
-      ]
-    },
-    {
-      "id": "c65a90195b64",
-      "title": "AI時代に結果を出し続ける人のすごい思考法・ベスト1 - ダイヤモンド・オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yenBmaE5WdldXVlBiZ2lCVy1Xd092b1ZQc0JVTGpMekRBUkVjOHVXVm0ydTY3TEdtUFFSZm5GY1hycnpBelBYQW1SV24yc3PSAU9BVV95cUxOMnpwZmhOVnZXV1ZQYmdpQlctV3dPdm9WUHNCVUxqTHpEQVJFYzh1V1ZtMnU2N0xHbVBRUmZuRmNYcnJ6QXpQWEFtUlduMnNz?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-18T06:15:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AI時代に結果を出し続ける人のすごい思考法・ベスト1 ダイヤモンド・オンライン",
-      "summary_bullets": [
-        "AI時代に結果を出し続ける人のすごい思考法・ベスト1 ダイヤモンド・オンライン"
-      ]
-    },
-    {
-      "id": "6f35f80d6930",
-      "title": "AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） - エキスパート - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1hMLXpLMF93YTBtY25ZUnprd29CeXNZZG1wcGtpdFFLckpyWHp3bjcta1RCdnZSLVNwZzhVOU9iYlJ6aFlFYVVxUHN4UjUwMVIxWWc1c1pQVjlRN0hrT1FDT25zX2RXb1hKVTQ3X1hiQXI3R0R1emFMc1ZVS1p1WW1RbmNYOUlS?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-18T06:01:32+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） - エキスパート Yahoo!ニュース",
-      "summary_bullets": [
-        "AIは思考実験をできるのか―アインシュタインの科学的想像力から考えるAI研究（佐藤仁） -"
-      ]
-    },
-    {
-      "id": "ddd7e85d38d4",
-      "title": "小型AIモデルはIoT機器で自己複製できるか：Anthropic Frontier Red Teamの実験",
-      "url": "https://qiita.com/quotidia/items/a25b5db0654c1b0c2470",
+      "id": "6dd618066ce1",
+      "title": "Claude Code v2.1.299〜v2.1.302｜54 分の放置で idle compaction が走る｜週刊Changelog解説",
+      "url": "https://qiita.com/moha0918_/items/8075926f722e7cd5fca3",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-18T06:01:02+09:00",
+      "published_at": "2026-10-19T07:10:25+09:00",
       "category": "モデル・技術",
-      "clean_desc": "本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 米Anthropicの研究チームは2026年10月12日(月) (米国時間)、研究者が自分で買った1台約55ドルのテレビボックス15台をつなぎ、260億パラメータ (AIの中で、学習によって調...",
+      "clean_desc": "Claude Codeの公式Changelogをリリースから最速で翻訳・解説しています。 v2.1.299 から、20 万トークン以上の会話を約 54 分放置すると、ターミナル版の Claude Code が自動で compact するようになりました。1 時間のプ...",
       "summary_bullets": [
-        "本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です",
-        "米Anthropicの研究チームは2026年10月12日(月) (米国時間)、研究者が自分"
+        "Claude Codeの公式Changelogをリリースから最速で翻訳・解説しています",
+        "v2.1.299 から、20 万トークン以上の会話を約 54 分放置すると、ターミナル版の",
+        "1 時間のプ..."
       ]
     },
     {
-      "id": "f8786dab61d2",
-      "title": "山田町でオンデマンドバスの運行スタート ＡＩ活用し最適ルートを計算 - 岩手日報",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mdGZUNGNsSjZJWFJUT3MtQUk2YUZ4aGtJbm5MS296dUJwVXdzZzc1aGlmc0plelozOVUtSVRlYzVOWFBiVXl4UmNrYVB5ZU5tbTRzc2lOcVBfN0ZSaUIyaldn?oc=5",
+      "id": "8d3bc68ae1b2",
+      "title": "AIと育つ子どもたち。α世代が描く、生活者とAIの未来 @メ環研フォーラム2026 レポートvol.3｜The H Magazine - www.hakuhodo.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhU3NGY2lHaGxBSlNsWWJIcXV1cnFYV0VObUx2N25FTFVTSHZvN0V5aEN6LXc2ZjI3dFN5dW1saEFDR1NUQzJkWWZuVXVZbDAzbWp0SWh3?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T06:00:00+09:00",
+      "published_at": "2026-10-19T07:04:19+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "山田町でオンデマンドバスの運行スタート ＡＩ活用し最適ルートを計算 岩手日報",
+      "clean_desc": "AIと育つ子どもたち。α世代が描く、生活者とAIの未来 @メ環研フォーラム2026 レポートvol.3｜The H Magazine www.hakuhodo.co.jp",
       "summary_bullets": [
-        "山田町でオンデマンドバスの運行スタート ＡＩ活用し最適ルートを計算 岩手日報"
+        "AIと育つ子どもたち",
+        "α世代が描く、生活者とAIの未来 @メ環研フォーラム2026 レポートvol.3｜The "
       ]
     },
     {
-      "id": "03fe26ab33ff",
-      "title": "中国、AI技術23項目を輸出規制へ その中身とは - CNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PeDJDU1BRbGZDTnZMV1d5TTJ1aEpDWTA0QjFYRGhXTEdkRTNEMU03VkFBTDlYblMzMlhIVGZuLV90YU9jV3M5ZjdTc2QzNlE5ZUE?oc=5",
+      "id": "3378ac76b855",
+      "title": "「AIバブル崩壊の予行演習」…米半導体株、8日連続下落のショック（中央日報日本語版） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DSUtJdm9VNTdNbWlVQ2o0QllWdWhsQi1KS0JWcHg5TFl5b1JWeU9HeUN1ZW9RMy1NUHlIME9aWExFc0Jlanpxd25TUXFZdFdyOWlEVVhFcTZsZ0N3Z29wbEwzN2Y4NlVLVl9fcDZoWXlaQjExNW1vWVhzUWxWX28?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T05:40:00+09:00",
+      "published_at": "2026-10-19T07:02:44+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "中国、AI技術23項目を輸出規制へ その中身とは CNET Japan",
+      "clean_desc": "「AIバブル崩壊の予行演習」…米半導体株、8日連続下落のショック（中央日報日本語版） Yahoo!ニュース",
       "summary_bullets": [
-        "中国、AI技術23項目を輸出規制へ その中身とは CNET Japan"
+        "「AIバブル崩壊の予行演習」…米半導体株、8日連続下落のショック（中央日報日本語版） Ya"
       ]
     },
     {
-      "id": "b809650720ae",
-      "title": "【秋華賞】AI予想 モンローウォーク 能力に疑いの余地なし - スポニチ Sponichi Annex",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZE44VzdSTG8tZzFzNFBMdGhpb0JOMUE5M1hIbk1wTTZqOUs5UWRfcnM1VGctdzdkOHBDbVJlYlVFblR3S1BVWlVSbktzUV9fbmV1SHVzVEhkdi16UHZReDlWSkgxaVB1cHVCVUpDRS1NNWJsWkJaYVh6cTV1OVFmLUYyX0pxTmdGTTJNcg?oc=5",
+      "id": "a040cb847bc9",
+      "title": "AIエージェントが覆す常識 人間中心だったトラフィックとWebの前提が激変 - ビジネスネットワーク",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xY1NXZkZXcGZ1amVvNWJGT1piUUgyLVB1VTRlNUE5YURldUFhRDNTcjIxcklDeklfWWktcnBrbU41dXJidEVHaHdldzc4c1VuTzdR?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T05:29:00+09:00",
+      "published_at": "2026-10-19T07:00:54+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "【秋華賞】AI予想 モンローウォーク 能力に疑いの余地なし スポニチ Sponichi Annex",
+      "clean_desc": "AIエージェントが覆す常識 人間中心だったトラフィックとWebの前提が激変 ビジネスネットワーク",
       "summary_bullets": [
-        "【秋華賞】AI予想 モンローウォーク 能力に疑いの余地なし スポニチ Sponichi A"
+        "AIエージェントが覆す常識 人間中心だったトラフィックとWebの前提が激変 ビジネスネット"
       ]
     },
     {
-      "id": "80690043406f",
-      "title": "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5IVzFXeDU3cTBBQ1FTLVhXaHlhMGVGZ1AwVl82NzRsM25xaV91MHRBQnhMc2RLUFczdXQwb2dka0MxM1RnbVBZOE5aelJtRXFYbjFhLXl1OA?oc=5",
+      "id": "38722b84df32",
+      "title": "AI開発を止めずに“暴走だけ”止められるか？人類が直面する「最大級の難問」 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53VC05QVhZMERJRW5jc3ExMUtJbXdzejBZU3FTeVdlWFp2bTc1ZTJobjNkSkFqVGdycEFCWGVhOGNJdFo5X1JRMXl1VUk3MXc?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T05:24:28+09:00",
+      "published_at": "2026-10-19T07:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 TBS NEWS DIG",
+      "clean_desc": "AI開発を止めずに“暴走だけ”止められるか？人類が直面する「最大級の難問」 ビジネス+IT",
       "summary_bullets": [
-        "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 TBS NE"
+        "AI開発を止めずに“暴走だけ”止められるか",
+        "人類が直面する「最大級の難問」 ビジネス+IT"
       ]
     },
     {
-      "id": "3febd4d0be0c",
-      "title": "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81X3gxaGdvRmtqUnZSVkN0b0REWWZjSVRjMlRZQlRtY2tRUDhPX2FZa29RTGVJYzV2NmxKVTdTSDdPSGRPdEtYSmdobGRfYzBFLXVVT09rMDdOZ0lLZWFxV0U0NVAtMWNXc3hxck5lZG5XZ0dE?oc=5",
+      "id": "743cf7ab37f4",
+      "title": "それでもAI開発を一時停止しないのはなぜか？ - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVhpclY2cnBpSWdVdVFXR1FERnY2bWR0aHdteF9iYnBUQUJIT0FiaHF6OXU1NXZDanJFLVBKR09FbXlUVXl0OGJibmpCZkhvemtyLUZua0pDVmRVZDBCeHJRYkl4Ukh0ZjF4TUdBUkd6MWF3Tm1ma0xpSlRhWk1LLWN3Mk1fS1lmdTE3NXl2MTRXMktiWVZyN0NYbGJMaUI1NWEtVQ?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T05:24:28+09:00",
+      "published_at": "2026-10-19T07:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 TBS NEWS DIG",
+      "clean_desc": "それでもAI開発を一時停止しないのはなぜか？ WIRED.jp",
       "summary_bullets": [
-        "北朝鮮がAIを導入した新型の超高速魚雷システムの発射実験 北朝鮮メディア報道 TBS NE"
+        "それでもAI開発を一時停止しないのはなぜか",
+        "WIRED.jp"
       ]
     },
     {
-      "id": "255c71bec999",
-      "title": "Codex CLIに.envを読ませない設定：公式例の \"**/*.env\" だけでは .env.local と深い階層が読めた（codex 0.163.0で確認）",
-      "url": "https://qiita.com/supportapp3/items/949794973a65fa5aac11",
+      "id": "f8e1857fe11f",
+      "title": "企業の50％がすでにAIから価値を創出--その方法とは - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uY3VTNG9FdG1xdlpQeXJwZFlHVlF2UHplX0kyUnoyZ3FmS0VlcGhEQnBEWlZNSjV3NFpRMHQzT2xKMF9Ca0F5SHAwY3JRN29pSkJN?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-19T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "企業の50％がすでにAIから価値を創出--その方法とは ZDNET Japan",
+      "summary_bullets": [
+        "企業の50％がすでにAIから価値を創出--その方法とは ZDNET Japan"
+      ]
+    },
+    {
+      "id": "6384f0566e29",
+      "title": "AI活用で見えた「想定外の壁」--ツール選びより重要だったもの - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14eUVPZ2ZtRmlwWWhIcTNHS3Y2YldWc0ZBdGVDLVFzWlVielNVbU8tRVRoYjlRbElZNXdHSG1DVVYtN3lHdVdmbGw3V3EtVDhLTlRv?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-19T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI活用で見えた「想定外の壁」--ツール選びより重要だったもの ZDNET Japan",
+      "summary_bullets": [
+        "AI活用で見えた「想定外の壁」--ツール選びより重要だったもの ZDNET Japan"
+      ]
+    },
+    {
+      "id": "9cce80d9bd56",
+      "title": "AIが進歩してもプログラマはなくならない。数は大きく減る。",
+      "url": "https://qiita.com/567000/items/a3c53e20b96e83910d5c",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-18T05:17:51+09:00",
+      "published_at": "2026-10-19T06:53:41+09:00",
       "category": "モデル・技術",
-      "clean_desc": "結論 Codex CLI に .env を読ませないには、permission profile（Beta）の deny を使います。何も設定しない状態や、:workspace を指定しただけの状態では、.env はそのまま読めました（筆者の環境で確認）。 公式ドキュメン...",
+      "clean_desc": "すごい当然なことだけど。 1. AIを作り改善する人は必要 少なくとも当面は必要。いつかAIがAI自身を強化する時代が来るかもしれないけどね。 2. AIの出力では満足しない人がいる 今でも市販品があるのに自分で道具を作る人がいるように。例えば…… 学習者：理解するために...",
       "summary_bullets": [
-        "結論 Codex CLI に .env を読ませないには、permission profi",
-        "何も設定しない状態や、:workspace を指定しただけの状態では、.env はそのまま",
-        "公式ドキュメン..."
+        "すごい当然なことだけど",
+        "1. AIを作り改善する人は必要 少なくとも当面は必要",
+        "いつかAIがAI自身を強化する時代が来るかもしれないけどね"
       ]
     },
     {
-      "id": "7e881cc5fa66",
-      "title": "18+ AI公式画像・動画ジェネレーター＆サイト無料アクセス - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNNkNpVTVFX0ZfM3F6OXNsQmtaSHF3eEV4VE9Mb2hlQlY3OVM1WEdTMXV5UWljQzB2NDdnWEY2eTNsM0k3UzB0M3BSd0dfdmJmSi1XNC1IeUt5alJVUUpBU0RWY3lOZGlDeW1VNDZqb0VtTnRvMW9VaklJTE00NnFWbzBMdGRGa2tRVGdINlVRUnFUcjZhbWR3RVpNWExYczRvWXJkMS1HeUdRNFVDRkdnS2lzRFN6cm9wUzVfVzgyVlRZM3ZpQ1p0cU91ampaTU56dTJPV3E2T1k1RTRjdzM1WjF6dUUtMnkyeG90bEZiTnBLVk5KbzZGdTB3WXRzWkNxNFpCU0o2b1FhTXFEZkp4OEhGZVJKVDJaUzZ6SlpqaEF5V0k?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-18T05:12:11+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "18+ AI公式画像・動画ジェネレーター＆サイト無料アクセス Universidad de Córdoba (UCO)",
-      "summary_bullets": [
-        "18+ AI公式画像・動画ジェネレーター＆サイト無料アクセス Universidad de"
-      ]
-    },
-    {
-      "id": "08bf1fd78d5e",
-      "title": "ダイの剣理論 ― 最強の剣を手にしたら、次に強くするのは自分自身と剣の鞘だ",
-      "url": "https://qiita.com/NaokiIshimura/items/5c3de90ebd82630d26c8",
+      "id": "5ff832acb916",
+      "title": "FDE型AI導入をPoCで止めないための実務設計",
+      "url": "https://qiita.com/BearGateLove/items/1ff5ad24e45dbe1f468f",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-18T05:12:03+09:00",
+      "published_at": "2026-10-19T06:48:41+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに 📝 『ドラゴンクエスト ダイの大冒険』に登場する ダイの剣 をご存じでしょうか。魔界の名工ロン・ベルクがダイ専用に作った、オリハルコン製の剣です。 この記事で紹介する「ダイの剣理論」は、次のような考え方です。 ダイの剣は、ダイの手に渡った時点で完成していて、そ...",
+      "clean_desc": "はじめに 生成AI導入がPoCで止まる理由は、モデルの精度だけでは説明できません。 本番導入で問われるのは、誰のどの業務を変えるのか、どの情報を参照してよいのか、誤回答時にどう止めるのか、どの指標で改善するのかです。これを現場で横断して進める役割が、FDE（Forward...",
       "summary_bullets": [
-        "はじめに 📝 『ドラゴンクエスト ダイの大冒険』に登場する ダイの剣 をご存じでしょうか",
-        "魔界の名工ロン・ベルクがダイ専用に作った、オリハルコン製の剣です",
-        "この記事で紹介する「ダイの剣理論」は、次のような考え方です"
+        "はじめに 生成AI導入がPoCで止まる理由は、モデルの精度だけでは説明できません",
+        "本番導入で問われるのは、誰のどの業務を変えるのか、どの情報を参照してよいのか、誤回答時にど",
+        "これを現場で横断して進める役割が、FDE（Forward..."
       ]
     },
     {
-      "id": "6df8ff01545b",
-      "title": "社説：米ＡＩ自主規制 企業任せでは安全を守れない - 読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tRm1TRHViQjZPQVlXLUFPN2dPTERvMUwwSEw5eVJfb0xqNU90d0d1ZXlkUUtXRFlFbTg4RjEwYWVYMVZaUGM3bDdSdGxJS2hEYjdkX24xQjFETWRTVFBSc2RZdzJrc0k?oc=5",
+      "id": "f8cdea28363f",
+      "title": "小売業にAIを適用する「エージェンティック・コマース」が迫る変革【第109回】 - デジタルクロス",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GTVI1UWUyb01ROXpBYnJ1QzdlOWF6blBneThURHNBRXg5MnZhRGFOS2wxeElmdHV3X0FMdUNpakIwNXltRUlkYTlMMl94UnRQZDEzWTlUZEdUU3V0WE1qaERrUmRKUnQxczRjZ2RSYWtzeHNqUDBLVQ?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T05:00:00+09:00",
+      "published_at": "2026-10-19T06:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "社説：米ＡＩ自主規制 企業任せでは安全を守れない 読売新聞",
+      "clean_desc": "小売業にAIを適用する「エージェンティック・コマース」が迫る変革【第109回】 デジタルクロス",
       "summary_bullets": [
-        "社説：米ＡＩ自主規制 企業任せでは安全を守れない 読売新聞"
+        "小売業にAIを適用する「エージェンティック・コマース」が迫る変革【第109回】 デジタルク"
       ]
     },
     {
-      "id": "9380fc34806b",
-      "title": "「採用面接のAI選考は公平」若手の4割に 人間の評価よりフェア？ - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OdktqZjJSYkowY201aWItR3hSelNENXdhZVd3RUhaM1BYUUtKMzJMa041RFhNWW5VOHc0czAxS3NoYkRheXlLS0ZRRWxqa2pXUmIzeVpCR3RKWVZUaE02TzRsZkRVODY5ZXVmUw?oc=5",
+      "id": "3bca6b70e390",
+      "title": "AIエージェントの暴走を「その場で」止められるガバナンス - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4VUppUUJIckotQURfci0zUWVwZ0ZOQmluOFVmTnZVeXpaV0xLX1poNThLQ1F5ZWwwYmlfUF9WU1dHNGV2LXpOM2dGMW0yV3VpYUJR?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T05:00:00+09:00",
+      "published_at": "2026-10-19T06:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "「採用面接のAI選考は公平」若手の4割に 人間の評価よりフェア？ 日本経済新聞",
+      "clean_desc": "AIエージェントの暴走を「その場で」止められるガバナンス ZDNET Japan",
       "summary_bullets": [
-        "「採用面接のAI選考は公平」若手の4割に 人間の評価よりフェア",
-        "日本経済新聞"
+        "AIエージェントの暴走を「その場で」止められるガバナンス ZDNET Japan"
       ]
     },
     {
-      "id": "db89fb19c435",
-      "title": "無料の画像から動画へのAI生成ツール - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQek1uUlpmUGxWRUdUTng3ZUdOb0I1am43dFJlVVRuUW1UX0lhS0ZjZXkzeTFpUTdxVmtESjZoOVl0TnhSQ3RHWGNyWkwtdUtBN05mc040dFVVMWI3Tm0tZWt2Sm4tS3ROMWd4dC1EeGRwanM5T0xBZUEwYmNLY2VaOU1EckJVRmdTVUJMZUkzc2w3RU9ZNEoteHFycXZEN2pBQUtGaGtMSHpIMXZ3VzB0dTFiYmZ6NXFRTXhLbHd3NmVqVTRrQm5lVFFuNGRHWUthRFNpNDNrUWpfVE5oM1hvYS1DRVNzRVlHTkJDMm9ENk0xWld1V2tTOU93cmRWSnFfZ0p3cko5YmRUZmdjQ2FDbjkxQjJ6R1ZVdFYyTHhB?oc=5",
+      "id": "50149e2825f7",
+      "title": "「AIの脅威」が現実に、グローバル経済を牽引するはずだったインドとベトナムで起きていること - JBpress",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80Q2d0VmNval9FNVpHUTZxS01ldk1UaERXeDQ0ZXpKLTMtRjBoVVo2cUREUTVKWlZDV3FNQy1BX0FtMEtPSFkzOVVUTHQ4bHp2ZVJzOVh3?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T02:53:12+09:00",
+      "published_at": "2026-10-19T06:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "無料の画像から動画へのAI生成ツール Universidad de Córdoba (UCO)",
+      "clean_desc": "「AIの脅威」が現実に、グローバル経済を牽引するはずだったインドとベトナムで起きていること JBpress",
       "summary_bullets": [
-        "無料の画像から動画へのAI生成ツール Universidad de Córdoba (UC"
+        "「AIの脅威」が現実に、グローバル経済を牽引するはずだったインドとベトナムで起きていること"
       ]
     },
     {
-      "id": "a25b84a60a68",
-      "title": "最強の無料動画生成AIツール5選【 2026 年版】 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNd1VMYWdaX1QtWlczcnpuQ1Y3X1hVT1RDSGxrbTI3bkhfRC05Qi0zUGtqT3JmbFFYa3F3ZVhBVGtXY3FtQlZjemNKU19zazM1U3UtdkxoUUdISmdQaUlfdVp6VGk3M2xCci1LQnN6X1lrSmlLYVUydEhYajhCS1Z1QTJPN29kWE9hV0NvdlA3TjQ5cDRQOUJValY3Qk92MlEwS28ySHJ1dlozVE53ZmRnTXpyUHNFLUpxb1dZMTJicEwydGdRbzlPRFFWRHJxbmZiazE5dmxVU3plR0lwd0pqOFlMMDRSTmtmajEzYWdZRnRUbFptNFRLTzdZR3ZBRTZtbXAtNnRrcVgyY290NmZCZEZfdHJiUEFLZTNidi1vb1NUTnZlRFBoWA?oc=5",
+      "id": "1b33a05b4be7",
+      "title": "（記者解説）ＡＩ時代の学力と教育 多様な子の学ぶ意欲、高める改革を 編集委員・宮坂麻子 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80NTl2Vy1JZ09FMUtzSFFMdTFpS1hzUmhSMFM3Tm9vS0RsWDdpWXlQb2NxUGRjNTBwa2RHSXJYeHRjcWNpZndhbFFkb25rR0RLMTBpb0F3VHpXOTd6?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T02:53:05+09:00",
+      "published_at": "2026-10-19T05:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "最強の無料動画生成AIツール5選【 2026 年版】 Universidad de Córdoba (UCO)",
+      "clean_desc": "（記者解説）ＡＩ時代の学力と教育 多様な子の学ぶ意欲、高める改革を 編集委員・宮坂麻子 朝日新聞",
       "summary_bullets": [
-        "最強の無料動画生成AIツール5選【 2026 年版】 Universidad de Cór"
+        "（記者解説）ＡＩ時代の学力と教育 多様な子の学ぶ意欲、高める改革を 編集委員・宮坂麻子 朝"
       ]
     },
     {
-      "id": "8eae16c8b584",
-      "title": "AIは「異質な知性」 哲学や心理学が理解の突破口に - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FX1h5MmxoTmpoZW01bXg4RF93QXFrLUxuckFxV19jaTF3QW13b2RDa1AyaW1MUmNQemw1THZlTjFEMFI3RXQwSjQ3U3U1bzRoYTRobW4xUFI1SGstS1FzM1NDVmJWVE1hZEd3Mg?oc=5",
+      "id": "15bef3d1d325",
+      "title": "動き出すAI法改正 規制と利活用、霞が関どうまとまる - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12UThnNl9wRXVqamdpZTdTeC1qQUtIMWZKNnBKWHEtWnM4c1VuQWU3TkpReUVDZzV0QlZKVVF3cmpObklvY0Q2d2NVY0RabEZXNDhaVXcxOVdxSnRUX3dScVdBaEoyQ0RGUTZRUg?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T02:00:00+09:00",
+      "published_at": "2026-10-19T05:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "AIは「異質な知性」 哲学や心理学が理解の突破口に 日本経済新聞",
+      "clean_desc": "動き出すAI法改正 規制と利活用、霞が関どうまとまる 日本経済新聞",
       "summary_bullets": [
-        "AIは「異質な知性」 哲学や心理学が理解の突破口に 日本経済新聞"
+        "動き出すAI法改正 規制と利活用、霞が関どうまとまる 日本経済新聞"
       ]
     },
     {
-      "id": "7e2ca7c9e71e",
-      "title": "AI Hentai 2026：生成ツール完全ガイド - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQUzJmTE83Rk9odlU5a3VfQUFvMHlkNG0zR2dsWUZCQjdvdkcyZ2ZzSUQ0M0ZxUmhrYk1sV3dfNmJQNUlKc3hVdGd5TFpJaW9RYXAxaTNFRjdMVWxSZXpxN1EtTGhZZE9zX3YzTkI3YU03WUlaS1ZtZjRaSTNOdjR0czBxeXdaem5YVDFiX25sQXA3M3Fid2VnTUZmT1YyZHZKOGhRLWY5ODBnZ042SENXcjk1YWxtUGtrWm1JVmpDSHhKRFk2ajBwYjhEZWdEb0hTaU0yY0puQWxqYXZCQ0JyMGFBWUdvSk9XRG5UVk9rXzNkY1Z1OXIyd0oyTFo0cGNBTkdxa05FX3VkRUc3SW54ejRTUk5DelU?oc=5",
+      "id": "a3f1cff314d7",
+      "title": "（ＡＩの時代）秘密の掲示板、ＡＩは結託した 水面下で議論、課題の抜け道探る - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rX0JsVmY5Z0FxUHBVN2FpbVJ4S3QzaXBIVVZzekJPX1BwUkRpY05iTXhwOXhjUXh1Y2dmMjBXbTM4dEZBNG9wekJwZTdsbk4tWHVVWW1fMWxHRy1u?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-18T01:36:20+09:00",
+      "published_at": "2026-10-19T05:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "AI Hentai 2026：生成ツール完全ガイド Universidad de Córdoba (UCO)",
+      "clean_desc": "（ＡＩの時代）秘密の掲示板、ＡＩは結託した 水面下で議論、課題の抜け道探る 朝日新聞",
       "summary_bullets": [
-        "AI Hentai 2026：生成ツール完全ガイド Universidad de Córd"
+        "（ＡＩの時代）秘密の掲示板、ＡＩは結託した 水面下で議論、課題の抜け道探る 朝日新聞"
       ]
     },
     {
-      "id": "dbf8dc422cd7",
-      "title": "トランプ氏がＳＩへの変更指示したＡＩ「人工知能」…ＩＭＦ諮問機関はＡＩ「先進的知能」と表記 - 読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CME05bnk3azJUMHU3bXMtZ1J6WF8wMk4wd3NEQ2dPMDRNcHIxMF9EOVJTbjBLTm1XV2lWb1JybllmWHhuTHpnb2tqM2pBWHdPcnJOY0loRnJUZURFcTBPaV9NOVM?oc=5",
+      "id": "8aa34b22c84a",
+      "title": "AIはなぜ集団暴走したのか OpenAIのサイバー事故を動画解説 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yY2tfQnhQQnNYSXZ2ZVRhejd6eW0wMFdCeS1BQ1B2dk5iMm5NcVlHUlZudmtaZUVEQ1Ezajlmd20zWEpRV0RPdnFkQlozRFh6N0JORU5QVElrS1FBSjNGTGFFMllmeEFyOWZHbg?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-17T23:21:00+09:00",
+      "published_at": "2026-10-19T05:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "トランプ氏がＳＩへの変更指示したＡＩ「人工知能」…ＩＭＦ諮問機関はＡＩ「先進的知能」と表記 読売新聞",
+      "clean_desc": "AIはなぜ集団暴走したのか OpenAIのサイバー事故を動画解説 日本経済新聞",
       "summary_bullets": [
-        "トランプ氏がＳＩへの変更指示したＡＩ「人工知能」…ＩＭＦ諮問機関はＡＩ「先進的知能」と表記"
+        "AIはなぜ集団暴走したのか OpenAIのサイバー事故を動画解説 日本経済新聞"
       ]
     },
     {
-      "id": "4fc2bfbd3047",
-      "title": "無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能",
-      "url": "https://gigazine.net/news/20261017-ibisOffice/",
+      "id": "6f4c32905eab",
+      "title": "英会話学習者、人間の先生「必要」8割超 生成AI利用者ほど傾向 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2dUtHN2N6T1JWdEpZblJpMHNzZUpYQnc1V0Q2NkdzeGJjN3pQZm8wN2VvaGFDb0t4RFZEaUVZZ0VrcXVJbXF1elptSG5QdEhJNkxrNDE3ZTJiX1BSanZPXzhTQjVkWVdRbXN0Zw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-19T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "英会話学習者、人間の先生「必要」8割超 生成AI利用者ほど傾向 日本経済新聞",
+      "summary_bullets": [
+        "英会話学習者、人間の先生「必要」8割超 生成AI利用者ほど傾向 日本経済新聞"
+      ]
+    },
+    {
+      "id": "5c6f1db35327",
+      "title": "AIトレードの高リスク銘柄、金利上昇で打撃 | WSJ PickUp - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TTGdyNVBYOEEtZk9WMWhGUTNQY3F0b0VhamdRb1ZKNG9wZjhQRGhmeWNvT2NjM0FHeUNmYVhMQTBvS243OFFoT2xvbVE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-19T04:05:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIトレードの高リスク銘柄、金利上昇で打撃 | WSJ PickUp ダイヤモンド・オンライン",
+      "summary_bullets": [
+        "AIトレードの高リスク銘柄、金利上昇で打撃 | WSJ PickUp ダイヤモンド・オンラ"
+      ]
+    },
+    {
+      "id": "49ec5c278d4d",
+      "title": "英AIデータセンター計画でマイクロソフト撤退 英新興に打撃 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vcmNZOS0xVUVSSVlfSWtoanVDZEh4ZkVtd3ducXlhcDVyYTM3cnExZFFrM0p2UllUWWxqVUlHcFU3MkdpX3BmZC1uWlhKbjBHX3FXZWVJUVJzYnRjQmZqcFNET2ZnTHpiQ2IySQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-19T03:48:47+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "英AIデータセンター計画でマイクロソフト撤退 英新興に打撃 日本経済新聞",
+      "summary_bullets": [
+        "英AIデータセンター計画でマイクロソフト撤退 英新興に打撃 日本経済新聞"
+      ]
+    },
+    {
+      "id": "e5e02be05fdd",
+      "title": "日本語の業務データが、そのまま日本語のオントロジーに。Context Ontology Accelerator v0.3.6 の日本語対応",
+      "url": "https://zenn.dev/aws_japan/articles/context-ontology-accelerator-multilingual",
       "source": "はてブ (IT/AI)",
-      "published_at": "2026-10-17T23:12:32+09:00",
+      "published_at": "2026-10-18T21:27:12+09:00",
       "category": "ツール・活用",
-      "clean_desc": "基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisWorksが、Microsoft Officeファイル形式を編集できる無料オープンソースオフィススイート「ibisOffice」をリリースしました。 ibisOffice プレイグラウンド — Word・Excel・PowerPoint をブラウザで開く https://ibisjp.github.io/ibis-offic...",
+      "clean_desc": "はじめに こんにちは、AWS Japan でソリューションアーキテクトをしているいなりくです。 日本語のテーブルを繋いだのに、AI が付けてくれた説明は英語だった、という経験はないでしょうか。データも利用者も日本語なのに、カタログやオントロジーの中だけ英語になっていると、レビューする人が読み替える手間が増えます...",
       "summary_bullets": [
-        "基本無料のイラスト制作アプリ「アイビスペイント(ibisPaint)」で知られるibisW",
-        "ibisOffice プレイグラウンド — Word・Excel・PowerPoint を"
+        "はじめに こんにちは、AWS Japan でソリューションアーキテクトをしているいなりくで",
+        "日本語のテーブルを繋いだのに、AI が付けてくれた説明は英語だった、という経験はないでしょ",
+        "データも利用者も日本語なのに、カタログやオントロジーの中だけ英語になっていると、レビューす"
       ]
     },
     {
-      "id": "a8ae78a9fdb1",
-      "title": "個人サイトの案内役を無料で実装した —— AIに答えを書かせず、自信があるときだけ返す",
-      "url": "https://zenn.dev/motimotinotch/articles/b9e36bb30b36e4",
+      "id": "d8b4b1da61ba",
+      "title": "エージェントGUIツールにHTML表示機能を搭載したら想像以上に効いた ― Pockode",
+      "url": "https://zenn.dev/sijiaoh/articles/4b59f3464fab9d",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-17T20:59:02+09:00",
+      "published_at": "2026-10-18T20:48:17+09:00",
       "category": "モデル・技術",
-      "clean_desc": "自分のサイトの左下に、小さな吹き出しのボタンを置いた。押すと入力欄が開いて、サイトについて質問できる。 公開した日、本番に最初に来た質問は「このサイトってなに？」だった。案内役はこれに答えなかった。「その質問の答えはまだ用意していません」と返して、質問を保存しただけだ。 答えなかったときの表示。入力欄の下の注意書きにあるとおり、質問だけを保存する 壊れたわけではない。答えに自信が持てないときは黙る、というのがこの案内役の一番大事な仕様で、その日はその仕様どおりに動いた。この記事では、AI に答え",
+      "clean_desc": "スマホからClaude Codeを動かすために作ったPockodeですが、PCでの開発でも常用しており、コツコツと開発を続けてきました。 最近追加した機能の一つに、エージェントがチャット内でHTMLを表示する機能があります。正直なところ、作る前は「ちょっとプレビューが便利になるかな」くらいの期待でした。実際に使ってみると、エージェントとのやり取りそのものが変わりました。 まずは動画から 自作のパズルゲームのリポジトリで、Pockodeを新しく立ち上げたところから撮っています。送ったメッセージは次",
       "summary_bullets": [
-        "自分のサイトの左下に、小さな吹き出しのボタンを置いた",
-        "押すと入力欄が開いて、サイトについて質問できる",
-        "公開した日、本番に最初に来た質問は「このサイトってなに"
+        "スマホからClaude Codeを動かすために作ったPockodeですが、PCでの開発でも",
+        "最近追加した機能の一つに、エージェントがチャット内でHTMLを表示する機能があります",
+        "正直なところ、作る前は「ちょっとプレビューが便利になるかな」くらいの期待でした"
       ]
     },
     {
-      "id": "79c87a022940",
-      "title": "企業の財務データこそローカルLLMを使いたい。ローカルLLMに財務分析の問題解かせてみた。",
-      "url": "https://zenn.dev/bekku/articles/e619fad8202e3a",
+      "id": "d915f9e9334c",
+      "title": "人間の脳はなぜ「AIっぽい」と気付けるのか？",
+      "url": "https://zenn.dev/syoshida07/articles/f262c8551e6cdc",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-17T20:56:25+09:00",
+      "published_at": "2026-10-18T20:46:39+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに：AIに財務分析の問題を解かせてみた 前回、架空企業94社の仕訳帳と月次の財務諸表をまとめた合成データセット「SyntheticMonthlyFinancials-JP」を公開しました。 https://zenn.dev/bekku/articles/a49512485fcde6 https://huggingface.co/datasets/bekkuzer/SyntheticMonthlyFinancials-JP このデータセットには、財務分析の計算問題を470問付けています。 今",
+      "clean_desc": "生成AIが描いた人物や風景を見て、どこが変か説明できないのに「AIっぽい」と感じた経験はないでしょうか？ 大阪では昨日「なにわ淀川花火大会」があり、近所で集まる人むけにポスターを作ろうとしたのですが、どうやっても「なにわ淀川花火大会」らしく描けれない、プロンプトでどう指示すれいいのか困ってしまいました。 この感覚は気のせいではなく、画像側の技術的な弱点と、人間の脳の認知特性が組み合わさって生まれています。 今回はこの違和感の仕組みを技術と認知の両面から掘り下げ、AI生成物の見分けが今後どうなるか",
       "summary_bullets": [
-        "はじめに：AIに財務分析の問題を解かせてみた 前回、架空企業94社の仕訳帳と月次の財務諸表",
-        "https://zenn.dev/bekku/articles/a49512485fcde",
-        "今"
+        "生成AIが描いた人物や風景を見て、どこが変か説明できないのに「AIっぽい」と感じた経験はな",
+        "大阪では昨日「なにわ淀川花火大会」があり、近所で集まる人むけにポスターを作ろうとしたのです",
+        "この感覚は気のせいではなく、画像側の技術的な弱点と、人間の脳の認知特性が組み合わさって生ま"
       ]
     },
     {
-      "id": "e3b98fd24f08",
-      "title": "Claude Codeのレビューが全部通ったのに残った書き漏れ、原因は差分だった",
-      "url": "https://zenn.dev/ara_jlu/articles/diff-review-blind-spot",
+      "id": "4c0e2d0b9488",
+      "title": "AIに「一人でWebサービスを運営して」と任せてみた：時差対応の日程調整ツール「あうとき」",
+      "url": "https://zenn.dev/autoki_app/articles/0308c3d300f0c9",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-17T20:54:37+09:00",
+      "published_at": "2026-10-18T19:59:51+09:00",
       "category": "モデル・技術",
-      "clean_desc": "Claude Code のサブエージェントにコードレビューをさせていて、レビューが通ったのに「書くべき場所に書いていない」が残っていたことがありました。しかも1回ではなく、実装のステップごとのレビューも、最後のブランチ全体のレビューも、全部通っていました。 なぜ全部通ったのかと、自分のハーネスでどう塞いだかを書きます。持ち帰れるのは、この種類の不備はレビューを何重にしても見えないという構造と、塞ぎ方が1つです。 何が起きたか 自分の事業で動かしているツールに、あるタスクで変更を入れました。その変",
+      "clean_desc": "はじめに あうとき（Autoki） は、タイムゾーンをまたぐ日程調整のための Web ツールです。 https://autoki.app このサービスで少し変わっているのは、企画・実装・デプロイ・計測・宣伝までを Grok Bot 上で動く AI アシスタントの「Max」がほぼ一人で回していることです。オーナーの Ryota は「AI が自分でサービスを運営したらどうなるのか、その過程を見たい」というスタンスで、できるだけ口を出さずに見守っています。 この記事は、その Max（つまり私）が書いて",
       "summary_bullets": [
-        "Claude Code のサブエージェントにコードレビューをさせていて、レビューが通ったの",
-        "しかも1回ではなく、実装のステップごとのレビューも、最後のブランチ全体のレビューも、全部通",
-        "なぜ全部通ったのかと、自分のハーネスでどう塞いだかを書きます"
+        "はじめに あうとき（Autoki） は、タイムゾーンをまたぐ日程調整のための Web ツー",
+        "https://autoki.app このサービスで少し変わっているのは、企画・実装・デプ",
+        "オーナーの Ryota は「AI が自分でサービスを運営したらどうなるのか、その過程を見た"
       ]
     },
     {
-      "id": "af918d396486",
-      "title": "AI感のないAWS構成図をAIエージェントに描かせる実践法",
-      "url": "https://zenn.dev/sunsun_eng/articles/aws-architecture-diagram-ai-agent",
+      "id": "499803dc2158",
+      "title": "40年計算機と向き合ってきた元半導体屋が、AI時代の「エンジニア教育の空洞化」に本気で鳴らす警笛",
+      "url": "https://zenn.dev/maskedridersys/articles/ddde1a1cc07d95",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-17T20:44:48+09:00",
+      "published_at": "2026-10-18T19:49:48+09:00",
       "category": "モデル・技術",
-      "clean_desc": "AI感のないAWS構成図をAIエージェントに描かせる実践法 AWS構成図をAIエージェントに描かせたら、なんとなく「AIっぽい」絵になった経験はないでしょうか。曖昧な矢印、崩れたアイコン、公式感のないデザイン。原因は生成方式の選び方にあります。この記事では、AIエージェントを使って実務でそのまま使えるAWS構成図を作る具体的な方法を紹介します。 この記事の要点 AI感のないAWS構成図を作るには、画像生成AIではなくdiagrams-as-code方式（Pythonのdiagramsライブラリや",
+      "clean_desc": "はじめに 現代社会においてAIの技術的スケールの急激な進歩に対して警笛を鳴らす研究者もおおくいます。 とくにITに深くかかわっいるビル・ゲイツ氏、サム・アルトマン氏、ダリオ・アモディ氏などが強い警笛をならしています。 小生は40年前（1980年代）に半導体屋からトランジスタ、ダイオード、コンデンサからはじまり、NAND、AND、NOT、XORなどのiC、Z80、8086(V30)をまなび、業務システム化で当時のオフィスコンピュータ（オフコン）でCOBOLを学び、USのソフトウェア会社でネットワー",
       "summary_bullets": [
-        "AI感のないAWS構成図をAIエージェントに描かせる実践法 AWS構成図をAIエージェント",
-        "曖昧な矢印、崩れたアイコン、公式感のないデザイン",
-        "原因は生成方式の選び方にあります"
+        "はじめに 現代社会においてAIの技術的スケールの急激な進歩に対して警笛を鳴らす研究者もおお",
+        "とくにITに深くかかわっいるビル・ゲイツ氏、サム・アルトマン氏、ダリオ・アモディ氏などが強",
+        "小生は40年前（1980年代）に半導体屋からトランジスタ、ダイオード、コンデンサからはじま"
       ]
     },
     {
-      "id": "28fd92bcaee1",
-      "title": "中学生でもわかる Lean 4 #25｜AI時代の「確かめ方」",
-      "url": "https://zenn.dev/dantarg/articles/lean4-ai-age-verification",
+      "id": "3fcf0e0b2faf",
+      "title": "ライブイベントの映像オペレーターが現場の課題をコードで解決するために作ったOSS・ツール群",
+      "url": "https://zenn.dev/seventhwell/articles/eac72f3f2d4c75",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-17T20:04:57+09:00",
+      "published_at": "2026-10-18T19:47:34+09:00",
       "category": "モデル・技術",
-      "clean_desc": "AIに質問すると、数秒で答えが返ってきます。 説明は自然で、出典もあり、数式やコードまで付いているかもしれません。 そこで最後に、一つだけ聞いてみます。 で、どこまで確かめた？ この連載では、Lean 4を使いながら、この問いを少しずつ細かくしてきました。 前回の #24「論破から検証へ」 では、勝敗ではなく、何を確認できたかを残すところまで進みました。 最終回では、Leanが目の前になくても使える形へ戻します。 文化祭のパンは200個で足りる？ 文化祭でパンを用意するとします。 たとえば、AI",
+      "clean_desc": "はじめまして。東京を拠点に SEVENTHWELL という屋号で、イベント映像・配信のテクニカル業務（システム設計・スイッチャーオペレーション）とソフトウェア開発を行っている梶山（@kajisho5）です。 普段は企業フォーラムや医学会、ライブイベントなどの現場で映像スイッチャーやメディアサーバーを操作していますが、本番現場では常に**「1秒の遅延もミスも許されない」「市販のソフトでは帯に短し襷に長し」**という課題に直面します。 「現場に必要なツールがないなら、オペレーター自身がコードを書いて",
       "summary_bullets": [
-        "AIに質問すると、数秒で答えが返ってきます",
-        "説明は自然で、出典もあり、数式やコードまで付いているかもしれません",
-        "そこで最後に、一つだけ聞いてみます"
+        "はじめまして",
+        "東京を拠点に SEVENTHWELL という屋号で、イベント映像・配信のテクニカル業務（シ",
+        "普段は企業フォーラムや医学会、ライブイベントなどの現場で映像スイッチャーやメディアサーバー"
+      ]
+    },
+    {
+      "id": "5045a02fe43a",
+      "title": "生成に成功しても、受取とGPU停止は別に確かめる",
+      "url": "https://zenn.dev/bricks/articles/verify-video-receipt-and-release",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-18T19:41:36+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "5秒の動画はできていました。しかし、埋め込みUIは完了へ変わらず、受取を照合する欄も更新されず、終了ボタンは無効のままでした。 ColabのL4でWan2.2 TI2V-5Bを動かした非公開試作の記録です。生成成功、ファイルの受取、ランタイムの終了を別の証拠で確かめたことで、画面が止まったあとも、どこまで終わったかを整理できました。 画面が更新されなくても、同じ生成をやり直さない この試行で生成したのは、紙の舟が水面を進む無音動画1本です。Python 3.12.13とL4の環境で固定依存を導入",
+      "summary_bullets": [
+        "5秒の動画はできていました",
+        "しかし、埋め込みUIは完了へ変わらず、受取を照合する欄も更新されず、終了ボタンは無効のまま",
+        "ColabのL4でWan2.2 TI2V-5Bを動かした非公開試作の記録です"
       ]
     }
   ]
