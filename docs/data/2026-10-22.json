@@ -1,0 +1,393 @@
+{
+  "updated_at": "2026-10-22 08:45 JST",
+  "date": "2026年10月22日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "5703e08da2d3",
+      "title": "MCPサーバーを5分で作る — TypeScript + @modelcontextprotocol/sdk の最小実装",
+      "url": "https://qiita.com/joinclass/items/60abfc1f42358424b26f",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-22T08:30:06+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに：自動化ジョブが33個あると、「今どうなってる？」に答えるだけで一苦労 当社（合同会社ジョインクラス）では、社内業務のほとんどを Claude Code と launchd で動かしています。2026年9月に棚卸ししたところ、ジョブは 33個 ありました。STAT...",
+      "summary_bullets": [
+        "はじめに：自動化ジョブが33個あると、「今どうなってる",
+        "」に答えるだけで一苦労 当社（合同会社ジョインクラス）では、社内業務のほとんどを Clau",
+        "2026年9月に棚卸ししたところ、ジョブは 33個 ありました"
+      ]
+    },
+    {
+      "id": "23fedeb5654e",
+      "title": "レンタルサーバーのWordPressはPHPの脆弱性に何をすべきか。見るのはサイトのPHPバージョン",
+      "url": "https://qiita.com/koreangyoseishoshi/items/1737a23d8e02b670fbc5",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-22T08:14:42+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "レンタルサーバーで WordPress を動かしていて、「PHP に緊急レベルの脆弱性」というニュースを見たものの、自分は何をすればいいのか分からない。そういう方に向けた記事です。 先に結論を書きます。 共用のレンタルサーバーなら、PHP 本体の修正はサーバー会社が行いま...",
+      "summary_bullets": [
+        "レンタルサーバーで WordPress を動かしていて、「PHP に緊急レベルの脆弱性」と",
+        "そういう方に向けた記事です",
+        "先に結論を書きます"
+      ]
+    },
+    {
+      "id": "8e76bf4a92cc",
+      "title": "AIは新しい下請けなのか 〜日本のSIer構造から考えるAI時代の技術選定〜",
+      "url": "https://qiita.com/tomokusaba/items/47b5774fcfa4aa5345c8",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-22T08:04:37+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 「AIは責任を取れない」。AIを使った開発について語るとき、よく聞く言葉だ。だが、これは本当に新しい問題なのだろうか。 日本のIT業界では、元請けがすべての技術を自分で実装し、ソースコードの隅々まで理解しているとは限らない。それでも、要件をまとめ、納品物を検収し...",
+      "summary_bullets": [
+        "はじめに 「AIは責任を取れない」",
+        "AIを使った開発について語るとき、よく聞く言葉だ",
+        "だが、これは本当に新しい問題なのだろうか"
+      ]
+    },
+    {
+      "id": "0a812b789d86",
+      "title": "中国系ハッカー集団、ＡＩ使いコネクトワイズにサイバー攻撃 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40OW0tZFJfdC1PWEV3aGZIUEJSMG83dVVjd0pVd1hFcV96aXlDZzNBSEc0RUVHU1RlWFpnV2JCcllFRS1sYjk1Zi0ya1o3ZmhLeFpCNkJodjF3SHhDOUVMMmRCdjV6YW1SS3BwQ0FmNGw2UjZVZ1U1T2Q4R3J2UQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T07:47:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "中国系ハッカー集団、ＡＩ使いコネクトワイズにサイバー攻撃 Reuters",
+      "summary_bullets": [
+        "中国系ハッカー集団、ＡＩ使いコネクトワイズにサイバー攻撃 Reuters"
+      ]
+    },
+    {
+      "id": "c9016ba0de7a",
+      "title": "OpenAIモデルがGoogle Cloudで提供開始、Patch the Planetも発表",
+      "url": "https://qiita.com/picnic/items/ca70cec49fd2d4bc7bf4",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-22T07:45:15+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに OpenAIが、フロンティアモデルと Codex のワークフローを Google Cloud の Model Garden で提供すると発表しました。入手経路は Google Cloud Marketplace です。これまで OpenAI モデルの主な提供経路...",
+      "summary_bullets": [
+        "はじめに OpenAIが、フロンティアモデルと Codex のワークフローを Google",
+        "入手経路は Google Cloud Marketplace です",
+        "これまで OpenAI モデルの主な提供経路..."
+      ]
+    },
+    {
+      "id": "37e287e201ea",
+      "title": "AI彼女 おすすめ 2026 初心者 🆂🅴🆇 ##xxxxxxxxxxxxxxxxxx 🆇ℍ𝕒𝕞𝕤𝕥𝕖𝕣, XNXX.COM - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZWJFMTU1WEdRUXFMOHBTZzVZVHUzdEphTFBRYzAtSDhYQ0NjREJUV2VxVzJBUzZCNVdkekhGc0JxSXNUQzBwSVF3ZVBpRFF5Q1BLNGhNRzI2MnB5SlNNVUFMSE9ER1Bac1V4Mm02VktkcFVqNVhKSDA0VHJ6Uklsck9IWm9ta1VZX0VGbVRfSkctbjh5X0tpalZONUhQcmloOXVndzRFRjZUeXgtbEl6c1BGdElFbGtxbGdRbDRidF91TlVWZmFoWXJIUlAyYXN1b19SZzhlQ1g5YXJlZ0tWWThQTnpqNFRzdTd5cERXci1ncVR2YjRCYzFwUFZwX2F3V1FsV3htTF9kYjRaSkp3?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T07:33:38+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 おすすめ 2026 初心者 🆂🅴🆇 ##xxxxxxxxxxxxxxxxxx 🆇ℍ𝕒𝕞𝕤𝕥𝕖𝕣, XNXX.COM 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 おすすめ 2026 初心者 🆂🅴🆇 ##xxxxxxxxxxxxxxxxxx 🆇"
+      ]
+    },
+    {
+      "id": "2a71425077c4",
+      "title": "PHPの脆弱性 米OpenAIのAIで発見 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PbUtOcnZIdG1TbVBsU25tZlNCeFBVeXJBNjQ0UTMwZjJLejhaS0ZqWUg2UEdoVExJRy12bEgtcHFBVjZNQ3pPT3dfbE9rVGYx?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T07:32:08+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "PHPの脆弱性 米OpenAIのAIで発見 Yahoo!ニュース",
+      "summary_bullets": [
+        "PHPの脆弱性 米OpenAIのAIで発見 Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "f92128159399",
+      "title": "プログラミング言語「PHP」“重大欠陥” AIモデルが発見か「今後数か月で同様の発見が急増すると予想」（2026年10月21日掲載） - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGpNeGl3eEhQUGpuZkFXd2hadlpyWDZ4dTc3UGxHZlBYd2M2YkJGZkJ6RG5BV0dvTDkwSmpXbDJRanhpRGVTazF6VlVZS2d6UV9lX0FpYkVKX0haWm55U00wYXlzUVYwZ25BbWRjLTRZR0NwMVdfa2g1MmxaVG52UExFcHk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T07:23:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "プログラミング言語「PHP」“重大欠陥” AIモデルが発見か「今後数か月で同様の発見が急増すると予想」（2026年10月21日掲載） 日テレNEWS NNN",
+      "summary_bullets": [
+        "プログラミング言語「PHP」“重大欠陥” AIモデルが発見か「今後数か月で同様の発見が急増"
+      ]
+    },
+    {
+      "id": "698c2a0d8fc3",
+      "title": "米メタ、ＡＩエージェント好調 投資拡大へ無議決権株発行 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pSGZIX3lCQ280eUVuODUwSmduYURDTWl0Vmg4Ml9uRHBRQkNJZW9BM2NOMk56YVVDU2l0eTB0SzNLc0dJd1RXcWc5QU16azJaTnRSXzNQRFZDRmpTOVRfN3lpcGxxM01nWEwtZmwxN1lrM3oxdUp2aXhvcmg2UQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T07:01:57+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米メタ、ＡＩエージェント好調 投資拡大へ無議決権株発行 Reuters",
+      "summary_bullets": [
+        "米メタ、ＡＩエージェント好調 投資拡大へ無議決権株発行 Reuters"
+      ]
+    },
+    {
+      "id": "d1661ac16ab8",
+      "title": "AI彼女 作る アプリ AI彼女サイト 初心者 xnxx xcnxx xwxx #𝐗𝕏᙭ পর্ন ভিডিও - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPWjVyR1E5WjJvQngzSktVRThDajQtaTZKcExGVnVLNkx2eGNpWm5CZUs3VFI3MjVmcDcxbUhBaEk2NHdaU2E1NTNBYTFqemxYYzRUVWZ2cXB2QUZJaXl3TDVINmpYemNhM0Jnc2t6LXlkdzhqS2d4dno1eHc5LTlTRHFrdjVQOFBuN1ltd3FwVm1SV0s3YmZYTW1xUkxBUWpfWVFEWnBzNUFPNEhncnE0cjVaTGNWZlUxdF9zdmVqY1FqZmVZNG1INXBraGtyQ2lxQkkwNGtBNmd4OEFpTzlGSFdXYTk5N1R5V0YydDNJdWVDRGQ5RjBJZUtJdHVyUQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:58:24+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 作る アプリ AI彼女サイト 初心者 xnxx xcnxx xwxx #𝐗𝕏᙭ পর্ন ভিডিও 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 作る アプリ AI彼女サイト 初心者 xnxx xcnxx xwxx #𝐗𝕏᙭ "
+      ]
+    },
+    {
+      "id": "6ab77fb55344",
+      "title": "AIコンパニオン AI彼女 画像 送ってくれる 比較 xnxx xcnxx xwxx #𝐗𝕏᙭ পর্ন ভিডিও - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQmpxZzFVanpyaXYyQ3RGTXRvQXJFR2hJa09ybnR3bThaQTB5RHFaNWM2RGxnbkZhOEVoTUptRWIxb2V1OUtOME0yUXk0ZmktbnUtVDF5ZVd3ei14Q0hrZ3gzMS1hSUtTUVQyNldyak4tSFR1ZXN3cjgxNTBGc09BaVhWTzA5UmNnNldUUkNPc2dRclNnUThfRGRKSzhZNU43b3ItTlc5NWwxMDJ1amdUTjFNek1XM3IzOFZ5djFNTUc5RjJESVBZVElvUTBNSy1VU1paUC1uVzdRaVoxVk9sSVJzaGp2YzJITWhENmFGeEZ0NTc1TVZQTWJCUFFYdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:58:18+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIコンパニオン AI彼女 画像 送ってくれる 比較 xnxx xcnxx xwxx #𝐗𝕏᙭ পর্ন ভিডিও 北陸地方整備局",
+      "summary_bullets": [
+        "AIコンパニオン AI彼女 画像 送ってくれる 比較 xnxx xcnxx xwxx #𝐗"
+      ]
+    },
+    {
+      "id": "fa16765adb54",
+      "title": "旧世代NVIDIAを循環利用、クラウド接続の「自社専用AI基盤」を1GPUから提供：製造ITニュース（1/2 ページ） - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhaFFXNWczZ2NZTG1QQzFNNl9UTHRwT2ZGY0Ixa3g3VGRPdFJSZGFxVDNFYTdDOE9wcTdGRm1GcUFDM29vSFpSSUJfTHpIb2QycDRUQ1FvQkpvODlxUWpNUk91M2FaZGQ2ZUdXOFdaZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:45:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "旧世代NVIDIAを循環利用、クラウド接続の「自社専用AI基盤」を1GPUから提供：製造ITニュース（1/2 ページ） MONOist",
+      "summary_bullets": [
+        "旧世代NVIDIAを循環利用、クラウド接続の「自社専用AI基盤」を1GPUから提供：製造I"
+      ]
+    },
+    {
+      "id": "b6003c0fb394",
+      "title": "AI生成ポルノ画像 機能・料金・プライバシーで比較したおすすめAIガールフレンドアプリ一覧 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNeUFvWnJCQ05XNnVGV1JEc0NOa253bDZPNXl3UzRqN0QtYXhSZ3RvemE5bG9iMDlPQV9YaFE2WmV4NHNNVnc2UVJsRzNNajdPRGg1ZzFlYktwVHFTTEJGdTJRWHlWcll5d2R1RGVFS1c3bjE3eVdSNW4tbDdOd0VMRl9BZVlLSGVUd3UtN0txbXZjTFNtZWVqb3phS1lSR2F3eWpiMVd1MlBUbGxkVFhDZ0hoSU5MVnVKVWlURXRsM0FCckt4U0tTSWNuS1cwMFcxc2x1Wmc1VGNtcEtkUkNEQ0dNZ3NJM004THFfa3VUT0NHVWJRU21sVnBuMXNvUGRyMUN6aGZWLVplWTAzb3lQU1l2VUtCN3Z3VC03TExQUWQ2ako0eVpXcGZvX1B0TlI4RjdRTTlLc3p3dk1IRWVnWGdTb0Z2cUlMM0E?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:36:07+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI生成ポルノ画像 機能・料金・プライバシーで比較したおすすめAIガールフレンドアプリ一覧 北陸地方整備局",
+      "summary_bullets": [
+        "AI生成ポルノ画像 機能・料金・プライバシーで比較したおすすめAIガールフレンドアプリ一覧"
+      ]
+    },
+    {
+      "id": "01862050b56f",
+      "title": "AI彼女 アプリ 人気ランキング AI彼女 画像 送ってくれる iPhone - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOb1RHUFVPQnpWVlpVQ3hueWhGNEJVM3NiaVZPd0xHbU5PQllCMUliVldaN293blk5VUxUdlQ4WVpjSEFWQ3diSXQ1bEM3S1NmYlQtRFU0emJQbHUycmdqTlN1V3F4bktmUFJucGRjMVVma0l4WlVuVUU5bW5TWDJZQjNqV0J5MDRucGowd2JNeVc1aEM3UWdrczd0OTAxbHlybjdfbi1lWHhabThNRW5kMnhYNnBPaGx4VFNtV1NrM0lPR3ZmeWJvcHJhT2RmSEVwbHFXblJoSEVFQXplMERDTjcyZDZkX0ZpbVVOWGU3OF92Y0pSNURIYzdEdWM2TjJrRDFKZVlRQ29odllJVExGWUt4bzJ4WEdFTWtOWlR1SnpDQUhDSzVJM2xIR1R5YVNfcE1RT2xaYWlnZmFMYkVsdGxfVDlJYUw2TllLUHVNbUEwT2s2SE93S1lfcUxDbGJWS1ByLVFEUEJOVzN2b0xkaGh5UGVtajlfUExNeUhoanVYd0xVVlFPbA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:35:55+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 アプリ 人気ランキング AI彼女 画像 送ってくれる iPhone 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 アプリ 人気ランキング AI彼女 画像 送ってくれる iPhone 北陸地方整備"
+      ]
+    },
+    {
+      "id": "d078f8daa76f",
+      "title": "AI彼女 日本語 対応 おすすめ AI彼女 おすすめ 2026 iPhone - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPal9aeVVGMDg5SHkxeVVkZld4ZUlmdDhHU2U0a2RNWk80TEh2U0pSYW1NNXN0ZXJIb1JkcE4wY25nY1pUUC1nNjllQlhSVjZjQXY4T1RuZ09ldHNycGpyelFMRmpteFJJazRnaVdJZHJnQ0E0V1JkWVBGOHpoMzN0a0EyWmFodkNyX1B5UEVMSWx6WHR4NXVPdWdCeTFaVExOZ1BEZzlfeUEzTlN6MlBpRWlMNVRjbnh3QmJNal9XT3RFTlVwdGVTNU9fTHY2bkRPWXE2NGltal9kd2xjdk1USXRQNzdwTlhxd05iVWJXd1NnYlR3d09qeVJ1SEM5TjBydXU3bVFSeGtoVFZYSzhpcXN4U2RmV2N2LXRYUEhzM21BY3dNN2QtWHk1eDRGOVkzc3pVZTRQVXhMSjNfcTFNTk1lTjRaY1Y1dENpTmJhdkJYemU4ZV9FTXRkMHJJRnpGZDY0d0RHa2RNZ1g2OXhXM3U3TTJyTmFYZ3FlX2Zn?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:35:52+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 日本語 対応 おすすめ AI彼女 おすすめ 2026 iPhone 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 日本語 対応 おすすめ AI彼女 おすすめ 2026 iPhone 北陸地方整備"
+      ]
+    },
+    {
+      "id": "e621f8aee3be",
+      "title": "AI彼女 支払い方法 AI彼女 登録 方法 注意点 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQbjVXZTVUSGZvR0NYVFA0UlBZZ19TSDJSYjZxSTVHX1c2MjlLZkh2dG5RVlFwZmdITGhhcXZ0LUNuQU1XX2JwVGZPV0liVHVSWU5fNFpZZEY5WEhTZlRmblZSTVp1emZtMGJtSzhHTW05bzg5aWlteW9rc0hXbV9hZm1fcEtjU1hrZ3VnZkNiWWhRcTNXN2NyS1huQkJCNE9wZmo4S0s2QUZSVGszbml0eWJTRmNBY2ZCRTdwWmpKLXhJaDY1bk51ei1zLWdSRTVPTFZVaEhmNE0wejI0S0RHc1dmNUMtaTlPdk83OGJ3b1pqcjZ1NGRXVTFuRkpKNHVXRGxjM0cwQlF1Q1c2Z2x6dDFOdUxHQWVXRkUxUHRUVEo3VXY3THduWkVBZ2tGd1VyblMybVpVVngwcWR1LUJNSWljMVo4WlhOUGxz?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:34:42+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 支払い方法 AI彼女 登録 方法 注意点 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 支払い方法 AI彼女 登録 方法 注意点 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "7eb3a419a18a",
+      "title": "米国株式市場＝ナスダック主導で上昇、決算受けＡＩ投資心理改善 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHR3VTg3U0dpTk9jT240WjZqOTY5TUxhRFk0Ykx4Sm1PQ3hadUZFMzYxUk5nWE1JTlhHdzlWdGNSdlJsQl9DX2ZLbDVzSHcyZ2Q5WU9GeDFldjdJb2VRcEF0dXhlUnlZeVFHR25oVWxpeXdic1FxLVM5b0FoQ1JZS1ZYZ0Y5Zw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:24:28+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国株式市場＝ナスダック主導で上昇、決算受けＡＩ投資心理改善 Reuters",
+      "summary_bullets": [
+        "米国株式市場＝ナスダック主導で上昇、決算受けＡＩ投資心理改善 Reuters"
+      ]
+    },
+    {
+      "id": "0e8328bcbf40",
+      "title": "AI彼女 長期記憶 AI彼女 画像生成 比較 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOUmNBZEJvZWRhMFhoempIOTZNWDZ0QTV6R1pjbzA0cXYyNDg0YThDRUM0LUllampnX1BOWDBUdnpqM19hSkFyN3lRRjN6Y1VMV3ozZVM0QUxycTB0M1M0Y0dHQTV4UVNDMkloVENWV2tqOXh2cDNFa3RDZW0tVHlTeW5iaEVTWnY2TVNfdkd0bG1XMEo3RllsQUFiVlE0WGVNRHUtUHpTVFprUnZKR2hBYjRORTR4Y0QyT0pyeDR0aTV0c1pwM09Yb013Q1NXbE12d3B5MkF2UHZ4Vk91V0p0Zk1WS2w4ZEFvMnMydWFIVWVOLS1IVXpncXA1UG1iYk45MUNxS3hPUDRwc3cxcmZqVWpoZFBRb195WmtNTFpuSUk5Uk90VkNZU0JPZ1RYeVdyTldnMmE5SzZJYkNaNWJn?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:15:04+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 長期記憶 AI彼女 画像生成 比較 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 長期記憶 AI彼女 画像生成 比較 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "83e4f60da193",
+      "title": "ポルノアプリ AI生成のポルノサイトやサービス、キャラカスタムとプライバシー管理機能に関する情報 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxORmx3NW5ocHZ6SFBKZlZlVENfQXEydlBvbkN5TmVfOVJRUHFJZWtCQkp0TzJCQWdOaU1CdzBjUnJMdjR6TEt1VHZUeUU1X0o1UWF2OVdhNTJ3eld6dUVqWVJzVGx5TUVrMUxfMFZiSmFrMV9NS3lYNl9ZTmRiNVh5czVCbXVNdzJMeEttSm5CZU5fRFJmamM0My0wbU5ob3l3S0pXWG54NzdhWlI1TnhrWllyWmRVSnZFZ1BzSktRVWlpbF9YeER3dkpPaVFqaUtfcjZzUFU0U0hOYXl1YkdONm5lYTRXN0c1dC1KU1hEbnZJdEV0WERGcWlJNlhzdlNuS3p1VzBGTmtrWXlfNWZCa1YxVHV4OXU2WElqclB1anMxdmhKNWxBdjMzOHVScV9nXzkwaklpZk4wbW8?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:11:29+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ポルノアプリ AI生成のポルノサイトやサービス、キャラカスタムとプライバシー管理機能に関する情報 北陸地方整備局",
+      "summary_bullets": [
+        "ポルノアプリ AI生成のポルノサイトやサービス、キャラカスタムとプライバシー管理機能に関す"
+      ]
+    },
+    {
+      "id": "e576ae040783",
+      "title": "AIエージェント導入で「RPAを捨てる」は大間違い？失敗しないための「4つの視点」 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUYWVHU0U0OF96NF9KdEoxb1l4OGhjRDhSQ2hybHRkeVE2YUROajlNWlJPUE00UURtdnBuQ1o5czFkMHYzVk8zdVFYczJYQlBsb0ZV?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T06:10:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIエージェント導入で「RPAを捨てる」は大間違い？失敗しないための「4つの視点」 ビジネス+IT",
+      "summary_bullets": [
+        "AIエージェント導入で「RPAを捨てる」は大間違い",
+        "失敗しないための「4つの視点」 ビジネス+IT"
+      ]
+    },
+    {
+      "id": "61a0b7f62182",
+      "title": "「ＰＨＰ」の脆弱性、米オープンＡＩのＡＩで発見…米グーグル傘下企業も独自に発見と主張 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xVzhrdVlXdkR1Y0tHQ1RfS1pSaDJrSERvcGZ4TE5uUTdDOVJ1SlY4LV9tMkZhN2UxdF9kN3AyUm1nSDJqemx4V3BNdWlTelhweFlFVVZ1VDN4Y2N6WWUzYnZScUo?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T05:37:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「ＰＨＰ」の脆弱性、米オープンＡＩのＡＩで発見…米グーグル傘下企業も独自に発見と主張 読売新聞",
+      "summary_bullets": [
+        "「ＰＨＰ」の脆弱性、米オープンＡＩのＡＩで発見…米グーグル傘下企業も独自に発見と主張 読売"
+      ]
+    },
+    {
+      "id": "5c44657201dd",
+      "title": "中国語ＡＩの攻撃性能、脆弱性を見つけ情報抜き取りまで１５秒…セキュリティー会社がダミーサイトで実演 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kUVg3NUs2ckJIMnhnOTVFWGk1UGxjREtWOW5uXzh3SnhnNGI0M1lvQWZNaDNFNldORC1nRFlMSUZCMzlIVGkwc2pXRjhfWXZrVEFabkdCeklOMkRVX0JtU0U4MThjUQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "中国語ＡＩの攻撃性能、脆弱性を見つけ情報抜き取りまで１５秒…セキュリティー会社がダミーサイトで実演 読売新聞",
+      "summary_bullets": [
+        "中国語ＡＩの攻撃性能、脆弱性を見つけ情報抜き取りまで１５秒…セキュリティー会社がダミーサイ"
+      ]
+    },
+    {
+      "id": "e58c20196523",
+      "title": "データ主権を確保する「ソブリンAI」、海外依存のリスク低減へ - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QTWxPZWR1aWVxYVh0bUpvMlRrTnVGaVlWYXA3NFozUkRrVXphcE5DVHAwQ0VlaWxQdy0tZTFHMlRfOHdjdzlOM0FjNWJYTVQzZU1xMWFkbW5sUUdrM2F5a09rZzNkbEZkV0R5NGx3?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "データ主権を確保する「ソブリンAI」、海外依存のリスク低減へ 日経クロステック",
+      "summary_bullets": [
+        "データ主権を確保する「ソブリンAI」、海外依存のリスク低減へ 日経クロステック"
+      ]
+    },
+    {
+      "id": "786d3ac9bc9b",
+      "title": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LNUpnN0duS1V0QldLYnBYLUU0VjBNclVfUjBYeFc0VjhQalpBb3RHdnR1WkZmUE9DTkJUMS1jV2sxQldQeVJQanRFRXFkMlE5WWc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-22T04:31:17+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "summary_bullets": [
+        "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） Yahoo!ファイナン"
+      ]
+    },
+    {
+      "id": "82185fa0d7fa",
+      "title": "Patch the Planet — OpenAI",
+      "url": "https://patchtheplanet.org/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-22T02:03:55+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "Working with frontier AI and security experts to help secure open source and make our digital infrastructure more secure",
+      "summary_bullets": [
+        "Working with frontier AI and security experts"
+      ]
+    },
+    {
+      "id": "c7c0528c18e8",
+      "title": "PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明",
+      "url": "https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-22T00:19:11+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 PHP2Shell — AI uncovers critical vulnerabilities in the backbon...",
+      "summary_bullets": [
+        "プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急ア",
+        "「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立",
+        "PHP2Shell — AI uncovers critical vulnerabilit"
+      ]
+    },
+    {
+      "id": "2bf376abc6e0",
+      "title": "Claude Codeの自動再開のあと、古い画面に入力すると会話が二つに分かれる。送信を止めるフックを作った",
+      "url": "https://zenn.dev/twinharness/articles/resume-guard-stale-terminal",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-21T23:42:32+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AI の使用上限（一定の利用量に達すると、回復するまで使えなくなる制限）で作業が止まったとき、回復の時刻に会話を自動で再開させる仕組みを作りました。ところが、再開は画面に出ないところで進むので、止まったままの古いターミナル画面（コマンドを打ち込む黒い画面）は、そのことを知りません。そこへうっかり指示を打つと、同じ会話が「裏で進んだ版」と「古い画面の版」の二つに分かれてしまいます。 そこで、古い画面からの送信を入口で止めるフックを作りました。この記事では、何を目印に「古い」と判定しているか、判定で",
+      "summary_bullets": [
+        "AI の使用上限（一定の利用量に達すると、回復するまで使えなくなる制限）で作業が止まったと",
+        "ところが、再開は画面に出ないところで進むので、止まったままの古いターミナル画面（コマンドを",
+        "そこへうっかり指示を打つと、同じ会話が「裏で進んだ版」と「古い画面の版」の二つに分かれてし"
+      ]
+    },
+    {
+      "id": "1a65098a96ba",
+      "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+      "url": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-21T23:07:21+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に...",
+      "summary_bullets": [
+        "【PHP脆弱性php2shell】パッチは21:59に公開済み",
+        "「23:15から乗っ取り」「15分でAIが攻撃コード",
+        "」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PH"
+      ]
+    },
+    {
+      "id": "d3a8b3c49b7f",
+      "title": "AIエージェントに「実装しながら考える」をさせない。技術負債を減らす計画書作成プロンプト",
+      "url": "https://zenn.dev/kazuki_izutani/articles/1709552ca099f1",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-21T22:56:29+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに Claude Code などのコーディングエージェントに実装を任せていると、既存の共通関数を使わずに似た関数を新たに作ったり、他の箇所とは違う方法でエラー処理をしたりすることがあります。 これらの原因の多くは、実装前の計画のあいまいさにあります。計画に未決定や要検討の項目が残っていると、エージェントは、実装中にそれらの箇所を自己判断して実装します。そのときの材料として使われるのは、実装のために読み込んでいる狭いコンテキストの範囲内の情報だけです。結果、その実装箇所では動作するが、コード",
+      "summary_bullets": [
+        "はじめに Claude Code などのコーディングエージェントに実装を任せていると、既存",
+        "これらの原因の多くは、実装前の計画のあいまいさにあります",
+        "計画に未決定や要検討の項目が残っていると、エージェントは、実装中にそれらの箇所を自己判断し"
+      ]
+    },
+    {
+      "id": "1ed11f229c9e",
+      "title": "金融K線専用の基盤モデルKronosにBTC/USDTの値動きを予測させてみた",
+      "url": "https://zenn.dev/matsushima_a/articles/day-022-kronos-btc-price-forecast",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-21T22:56:07+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AAAI 2026に採択された金融ローソク足(K線)専用の基盤モデル「Kronos」を、実際にBTC/USDTの1時間足データで動かし、予測結果を実際の値動きと突き合わせてみた。結論から言うと、CPUだけでも十分実用的な速度で動く一方、方向性(上がるか下がるか)の予測力については、今回の検証範囲ではコイン投げ程度にとどまった。 Kronosとは何か Kronosは、世界45取引所・120億件超のK線(OHLCV)データで事前学習した、金融ローソク足専用の基盤モデルである(論文、MIT Licen",
+      "summary_bullets": [
+        "AAAI 2026に採択された金融ローソク足(K線)専用の基盤モデル「Kronos」を、実",
+        "結論から言うと、CPUだけでも十分実用的な速度で動く一方、方向性(上がるか下がるか)の予測",
+        "Kronosとは何か Kronosは、世界45取引所・120億件超のK線(OHLCV)デー"
+      ]
+    }
+  ]
+}
