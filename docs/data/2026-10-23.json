@@ -1,0 +1,388 @@
+{
+  "updated_at": "2026-10-23 08:42 JST",
+  "date": "2026年10月23日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "40e689b39231",
+      "title": "Haiku 5.5 に書かせた確信度は当てになるか。同じ306問を3回聞いたら、1問ずつはぶれても0.8以上は8割当たった",
+      "url": "https://qiita.com/suwa_nobu/items/8dec346a727f0199fefb",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-23T08:38:23+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "Hacker News で「Using LLM for confidence scoring is a bad idea」という記事が198ポイントを集めていました（2026-10-23 時点）。LLM が書く確信度は、正しさと照らして訓練されていない、という主張です。 ...",
+      "summary_bullets": [
+        "Hacker News で「Using LLM for confidence scorin",
+        "LLM が書く確信度は、正しさと照らして訓練されていない、という主張です",
+        "..."
+      ]
+    },
+    {
+      "id": "308d4db64cd4",
+      "title": "米大手行、サードパーティー製ＡＩエージェントの口座アクセス遮断＝関係筋 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rbW1lYXJmYWZKZUJFVGVMMXZZSUZYNS1zUDhTMzNCSjhDeFpFWGh3LWdkZ19hQ0FicHI3RUFqN0gwcTdXc0F5VHJQVVpvb2x1U2Fsd1hPVFdvLWpIYWZrdjNnWW1PZFpiY3FkSzQ4bUdMejFKZXNFemh1ZWVNZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T08:11:01+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米大手行、サードパーティー製ＡＩエージェントの口座アクセス遮断＝関係筋 Reuters",
+      "summary_bullets": [
+        "米大手行、サードパーティー製ＡＩエージェントの口座アクセス遮断＝関係筋 Reuters"
+      ]
+    },
+    {
+      "id": "edcd2173e012",
+      "title": "プログラミング雑記 2026年10月23日",
+      "url": "https://qiita.com/ishisaka/items/195650a61798a47d94e5",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-23T08:09:33+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "今日もネットで見つけた、個人的に気になった技術ニュースや記事を厳選して紹介します。ご意見や補足があればコメントで教えていただけると嬉しいです。 セキュリティ Apache Software Foundationは、「Apache Tomcat」のv9、v10、v1...",
+      "summary_bullets": [
+        "今日もネットで見つけた、個人的に気になった技術ニュースや記事を厳選して紹介します",
+        "ご意見や補足があればコメントで教えていただけると嬉しいです",
+        "セキュリティ Apache Software Foundationは、「Apache To"
+      ]
+    },
+    {
+      "id": "ae7e3bf868f9",
+      "title": "今日の株式見通し＝軟調を継続、ＡＩ・半導体株が全体を押し下げ - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUZ3TDIwZy1KUnE1UEtXVGRoSE95aTdtai1VSC13cDQwNHhwTnZhanNQM1ZOZEplM0dGVGhOTE9wbXZGZV9QRzd4QjdkY2lUQUVPS193TW9GNzgxdnlCZnBOUC1iYXJMR3h2eS1hRlBQVEJIRnUwbnFVSWdyZ1pzdTZ1ejZiZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T07:45:44+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "今日の株式見通し＝軟調を継続、ＡＩ・半導体株が全体を押し下げ Reuters",
+      "summary_bullets": [
+        "今日の株式見通し＝軟調を継続、ＡＩ・半導体株が全体を押し下げ Reuters"
+      ]
+    },
+    {
+      "id": "218777317c44",
+      "title": "マクロのコードを読まなくなったら、一覧が要るようになった話 ── 統合マクロフォームで、何がひとつになったのか",
+      "url": "https://qiita.com/shu15511551/items/5400ed88b5203607fad1",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-23T07:45:24+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 先日、中島聡さんの動画を見ました。マイクロソフトで Windows 95 や Internet Explorer の基本設計を手がけ、今はエンジニア・起業家・投資家として、メールマガジン「週刊 Life is beautiful」でテクノロジーの話を書いている方...",
+      "summary_bullets": [
+        "はじめに 先日、中島聡さんの動画を見ました",
+        "マイクロソフトで Windows 95 や Internet Explorer の基本設計"
+      ]
+    },
+    {
+      "id": "e22517279675",
+      "title": "AI Daily Digest 2026年10月23日：OpenAI DevDayが常時稼働エージェント「Dots」を発表、Metaは無議決権C株でAI資金調達へ",
+      "url": "https://qiita.com/lhjjjk4/items/fbcebf113b36cc04f7f1",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-23T07:11:43+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "KD Agentic · AI Daily Digest 昨日はプラットフォーム層が一気に動いた日だった。OpenAI が DevDay 2026 を開催し、エージェントを「開いて使うもの」から「ログアウトしない同僚」へ押し進めた。Anthropic はその数時間後に自社...",
+      "summary_bullets": [
+        "KD Agentic · AI Daily Digest 昨日はプラットフォーム層が一気に",
+        "OpenAI が DevDay 2026 を開催し、エージェントを「開いて使うもの」から「",
+        "Anthropic はその数時間後に自社..."
+      ]
+    },
+    {
+      "id": "28a3d6e68677",
+      "title": "AI彼女 恋愛 できる AI彼女 キャラクター 選べる 無料 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNdzRlMU1TbFh2N3g4SmN3VEF2b0lXUFBJbWU2Q0VLLWdUaFNTc0dqd0p5NTVZT21aV3hEaEpJT2dUVnloLXdSdjEtN2lVZzdBMHVXYmYtOV9RTks0dm04cnBIakVlbS1Qblp4dklvYzZ3OFV0LXhfM3lWSy1IWTVBWkFoay16MU5RQ0IwQ0pxUVFiWC14czAtbHJrMFFHazJrNlcyVnlCa2poWnlJR0Y3bDN3NTRWVzFBRTZEbnZRcEo5T2lWWlRNR1d1NU5JUTdSdVhDYzFRTmNVcC1TNlNJOThfWFZXRXdTNUtSZXNGaFB0SmVVVkJZSzhjaXMwZXJBV0JtektMSXQ2QVRMOHUycG1HSXB6RlA3REd5ZnBJWE55QkxkNDdVRFBTeXlQa3ZuSG9ZQnp4c2xxUl8tbWFsajFMSmJEX3FyNVNtcg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:44:05+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 恋愛 できる AI彼女 キャラクター 選べる 無料 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 恋愛 できる AI彼女 キャラクター 選べる 無料 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "045a7ccc5bd7",
+      "title": "AI彼女 恋愛 シミュレーション AI彼女 始め方 まとめ - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPUWVCQkI0M213eWNoR1hrbDAwbktpWjNJaElva2dwenhZSlU1MGFRaEt2dGpKd0NVZ2JEVVhNNXNJc0I0cUNtWDRTTWwxaENGMURVMkZnTjZsblNjaWRCa0FVZm1idWw0YmNObk45RlNGX0VMb21McDhJTXJnSFlmUVhscVl6eEthenNBRFBIZF9KdjhaRHVqV0NDYWIxd2R3M1JRMm11RkQ5OWFoaVlGSmJPbmdIY3hFT0tNR19yelRKaWpiM0tIelZPU3M4RmluSUVXOVI0ZHE0bnZwUDBHSllDQjdCTXZBQ01kNHZzb19pUXpVRTVuNzh4eW9kNHJpTUY0aG10aUl4dUNZNFZHRzBNTkxyc2JYMkJZMVdNZS1xbWtqYkI5eWFVYWtrajBOazBpM1FnVjJSWUlGUjhqVTRkQjFrZy1hajlSQmxHSTNxM1NySk05Ri1SUmJwUXptTko2UUtyUzBRWE5JclBlZjNBUFVZZUxRRkZVNzE0Y3kxeFJsUjE1Wg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:44:04+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 恋愛 シミュレーション AI彼女 始め方 まとめ 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 恋愛 シミュレーション AI彼女 始め方 まとめ 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "d8b50b1c2484",
+      "title": "AI彼女 動画 AI彼女 キャラクター 作成 スマホ - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRG42SUdKelBNN3J5R1UzMWVmQkpnSHVHS1VvT2VCVmFtTERsU3hxTFNpS0Q0Z2pjMFZ0Ykp0LXhra3E1aTloS2R0SGFFZ2dvQ3dLYmJydmN4QXc4WmY0OWtLQU9HSFpPclhnUXNmeUJzQXVGRU1PNnp5VmkwVVVjczRHLWRaanV2dXFJQ0ptSkhfUFF2ZnFqUm1tTHltcElKblBoMEhxY091SzE4SWh4MUdFeDZtQm80SktuRHB6djdNOGtkS3paN3ZBUENLZkUydWEwZ0lEdWRveWFqak51WEtUdVV1RHFJT015Y2o2dDZUX1Vmb2FwNUF4dDZFaXQyMFZQMWtBUG9FZGxqN0lPSXR3TjZBT1BvUndFQTROcEVhSVdxaEpB?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:43:54+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 動画 AI彼女 キャラクター 作成 スマホ 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 動画 AI彼女 キャラクター 作成 スマホ 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "f90979ba8f2d",
+      "title": "ポルノAIチャット 会員登録不要でプライバシー制御付きの無料AIポルノを探す - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVy1kVXdTRC1wS2NRandHb0thbXozd3BwQUlibmZUNWZ5VlJxSW1hWFhCWTZETGhIR05MamxMTVgxMnFrdjVRRy16cGZPODNaRElJX252c1BxTUJmMm1RZjVvVW5LU2dhRDdZTnRRcUQ3VGdCcWw4V2drRGd3c2ZRRnVxcVBuWE9lSmNNTmlCQ19FTDNmOWlxVkpYdm1mVlBvUVg5THd0VXoyODZ1SG5kQlA2d09nV05tc3dsbTkxVkUxTy15dGZHdzdxVE5ET0dPbHcyRG5faVdPTVQwNWM1Z3o3aWNOcXBWRW5HRFZSU1hRR19MQzU1WnhOa1lOaFFBRnRjMldlZF9kY3gxd3dmd21SOGV3UnBlR3Q5UloyZWQ3bndLRWdfdTdrMHNKR2NUNzFlRGxza0Q0WVpJNlk3QWpUelJ3OTg2Z2c?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:43:39+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ポルノAIチャット 会員登録不要でプライバシー制御付きの無料AIポルノを探す 北陸地方整備局",
+      "summary_bullets": [
+        "ポルノAIチャット 会員登録不要でプライバシー制御付きの無料AIポルノを探す 北陸地方整備"
+      ]
+    },
+    {
+      "id": "d6810b457e30",
+      "title": "AI彼女 恋愛 シミュレーション AI彼女 アプリ 違い ブログ - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOZl9WT1ptZXNud2xLRXdncENXTmJYRUY0eXdCRlA4R1JBcXdMMnIwNHJNZ0ZkOGtZelNGb2tmYWppc0RKUlEtUm96Z29wQ1N2Z1RkbWlWeVZTa0VhRFp0dmdEMXQzbGFnUmFtd0xOQWVwRThCNTF5M1Q2bzN5WHNzMER1dmtRQVNYU1ZBLW0yYkZEd3BhN21sd0RtR2FhR2hSUTZvNjZxNkY0UjFpb05tZ0ZIdDNBLVcxZVFxNFl0ajdpV1M4d1dVdHpraUlSV3RIVEdMZlk4MmFYczJDR2xnYUJDM0JDOENQUXZaQ21MNzlUaFJiUG1BMlJwRnJrSm9xWGhuWlpDVjJfR3gxbGZnbl93T2pTcWpkMkVMU1k1b2JZWXR5d0RqMEtfRm5taGJzaUhFRF9MQVVNMFZGR3RRZW9TaTllWUljbE5NM29aYVIzYm05NzRtMjNOUlQ3c1Jhb1kzdTg4eWJtY0VNb0JLLWJHTjJyVlR2MmdPZHJFalJzT3oxYXUwQg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:43:24+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 恋愛 シミュレーション AI彼女 アプリ 違い ブログ 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 恋愛 シミュレーション AI彼女 アプリ 違い ブログ 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "c4f091b023a8",
+      "title": "レプリカ vs キャラクターAI AI彼女 無料 画像 口コミ - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOOVQ1bElmZWIwbW5WVHhqcmNYT28tam9GVnRZUDFEaTN6TlVSVXU0NE1GV19CQ3hLTGdFbS00NThMRDRjV19iVmE3QXZHT3dZYUpvbkFkV1JaRklzempGN1RWcmtua0xMMXVKc3JSem9Vai1lYnpZck5QNDA0WUpWUUU5YXEwVVdQcnRQUWxDZXFQbUV5YmxPMkwtZU1vT2kyTk8wQ01ycTlTR0NNRWdQSUc0Zk5PS1FnNzlIWEtEUHhicThWWjZPU05uWmljdDg5dnFPLWdISUVLNUZtUmZyNlRBVzdVSW1XQ1ViVTBnd1JpZmlJOURxcXBJdHBUNkh6Q1lFdk1YLTYxZDZtTGxRN0ZKM3I3SjBKcEZ4M21YbVJMTEtxUGd3dXIxdjBwV19ia1BtcF9UcWpROGxJUXdIVFJOZTRnNi1uV3lhN3VOQjF5TWMyYjNsdUhidzViUEFUb1FndXBqbldyMzFRTUM0V3BZRQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:43:19+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "レプリカ vs キャラクターAI AI彼女 無料 画像 口コミ 北陸地方整備局",
+      "summary_bullets": [
+        "レプリカ vs キャラクターAI AI彼女 無料 画像 口コミ 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "0316d84a32a4",
+      "title": "AI彼女 オリジナル キャラ AI彼女 アプリ 始め方 比較 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPWHZWMjFPamtKSXhjSWplcnJnSzRjMTRSdl9FNDk2QzRnc0J6NlFvR0ZDa1luWEFRejVoTG1vSEZ0MDJaYkU0djY2U3NpSXZ2aS1hc2VUR3VzcVhFUTNvUTk5WE5YdWNqY180NjR1UDl4dURyWS04TGo3S3J1ODdUSHFjUFlaLXZ5UF9GdGdNdTJKVS1wZGNRek9QejVmdkZzYlU5TmpBZEJWbXBZdURteGV3VWJ3UFllSC1nYVBuSEl4dVAwQlR1c0hMTUwzUWZZZXlWN0JmZWZuMlpHVmlBbWZxNmlzMWZIYy1CTC1faTJsNlZCaWtHNUJ0YjVGYmJDRDEySGpwdFdESkFTWHBoNzBHWmd2RUNaOThUOERuc2pIbEpJNFBXcFpnMVQ1UFVKX0tNaVpfTG9wSUdFbE5XTTR6OEZUa0g3dEV2UEZYVjNQc3RvU2VpUmp0Y3RZaU9yRFdiMFZkWUJtcVRVX2JrZQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:43:15+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 オリジナル キャラ AI彼女 アプリ 始め方 比較 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 オリジナル キャラ AI彼女 アプリ 始め方 比較 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "b26af7af3991",
+      "title": "Character.AI NSFW関連情報 機能・料金・プライバシー比較で選ぶおすすめのAIガールフレンドアプリ・サービス - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOM2pkc1NDbVpJZjVaTHR4c2hyaGEzdktneDc1OE5TUDBlMEw0WnFGSUoyTTFvaFpxNWZtX0Q2V182YjMyS1cxVTVtXzRoT0dDX2t1OS1aMkZTZ1VpVEtGNXMzOTVPbHd1MmVuTEpZUmRnMlljQm92QS1VQWk1SVhNVkQ2NklRRGhpejZqZkhyYndmalZJQm14WnJPUno0bzNGcmlVTEwxRnF4bEpQOGk3TFZrYnlaM3lzRDkyYlBmT2E4QTAxR1Z1LURIN1MxS2UtNlpyYVZlLXRfbDNKeWp3MVJwUTZ0SlN4dENvVUh6eTdGTzVuX0hjVEs2V3FTeWstelhVcG9OODd0Z3JEaFd0UDNIU193VFpDZ0RLdVBXaXlLQkdOYXZVTXV4Z29yZUd1LWk0dWJ6bTZkdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:42:05+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Character.AI NSFW関連情報 機能・料金・プライバシー比較で選ぶおすすめのAIガールフレンドアプリ・サービス 北陸地方整備局",
+      "summary_bullets": [
+        "Character.AI NSFW関連情報 機能・料金・プライバシー比較で選ぶおすすめのA"
+      ]
+    },
+    {
+      "id": "f6f751825850",
+      "title": "AI彼女 日本語 話せる AI彼女 ロールプレイ 無料 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPMkRGeV80MDlqNDVaOGJIWUQ5WWFtdkhxUF9td09QZHVZLVVlY0pDcWhBN004elVPdndWb05lTm4yVFBkUTNtZ2FpYjY0eU9pNkFxbTZMbzI5aUYxbWFEbndsOXVXbDFiVnozUDh4OUVhNmw4ZE1JMUJleVMwZVg5Tkh1UE4wNTZxUHlMZk9SdGVmN3luOGU4RnZ0bU1mWEx4a3A4RFJhbldtWHVOWWJId3R1OUJiU2ZtVmN3NEQzajcyQ0FIRnJEdGNUXzVvSnF4akZrWklkaXowY29YZWZzT2VnSUdFYTloNFBsYmZUZDFMdlV0OWptQWl6OC0ydExyTV9fdHQ5SVFkT01TNWpkMklBNmd1b2NIUWxpcnlUSXpWQVRoUmd3V05vcUFFYjZPMVk5UHFveXZ3b1hRUFpUR1NFQnRpaTlnQW5jWnI0SVk2aXpYTjROeA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:41:16+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 日本語 話せる AI彼女 ロールプレイ 無料 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 日本語 話せる AI彼女 ロールプレイ 無料 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "80d9af139730",
+      "title": "AI彼女 キャラクター 作成 AI彼女 アプリ 課金 2026 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPNlBJRlZTTUU5WGFoLU1mZ0VRSmhmbE5rNkRGenY3ME5kbHh5d21oTjlsSEFSOGxhSWx0a2tKMVVWYUhwRU9WXzQwZ2hmLTlFcHg5LWRCQnJnRC1JY24tUzhqXzl3WUhEN3ZweGpNdkZMSGJuS0o0QUI3dW9DTlZrV2t3STdfa0s0U3R0d0VRRVliMmxOc0JCYmYzUUtSYWhQWnFPd2M0b1ozZThnR1Mtc1pRNUhEaVFiU242SGtWLWsxSW5PQU1wSGU4NnFyV2ZiVWlmXzhnZ0F3eXZFYmZBYnRGbWdTQ1ZONTVBV01sMFZMbVA1SGZ1enp1N3ZoUWlYNTN1VmpUdThERGt4NGlYZmV4UTZPLXVud09Ha0ZnMV9EREdUWDE2UUFOb3VtVUgxLUIwTkpocnJob2wwVVdNQ0h4Z1Z0QTdJTzlKTjRibDNHcDU5c1p0ZFd2R1BJMktOR1dUNnMzRXFNUVg4ZlEyNg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:40:49+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 キャラクター 作成 AI彼女 アプリ 課金 2026 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 キャラクター 作成 AI彼女 アプリ 課金 2026 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "5cc3d660da48",
+      "title": "AI彼女 アプリ レビュー AI彼女 名前 決め方 iPhone - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOYjR5eURnQnJkeG54T1ZSRVk2Rk0yQTVOMEdnSHFDT3ZQN3laTHdoa1gzcW5YZVB2ZVJjWHNoWHRhNE9yaEt3ZXRZZ1M0RlBJT01yREdvT3AyM3ptNURLOW9fdlM1QlF3MUFpT2FFMnRiRnF3bS1hWFNNQ3kzd2tCa2ZfZ3hfRUV1d3N0RkNjWlpqTlRFUi1PNWR1VkgyTTRMMGdRMkpJc0tBR05ERjVVTU5ueGxEd3pUQkd0VmNXRlJMU250VF81QXZtNFpMSWt4eXpYcDNNQTl5cnZ4RWl6d01ma1p6U1lOT1gyc3FoMmRja292U1NFcVBVNW5WTzFVSy1sRzBoVFdKWm1hbEcwNmw0S3JZQkI5UVQwUHpQaW54NnJ4anNDOFBXRk1Na28yZXZFOGJkLXo2anB4MDEwd1AwT2pvZHlPTHI5SjFmQVRqTG9sbFI5ZUVMVjNrTjczVGpHUQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:40:41+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI彼女 アプリ レビュー AI彼女 名前 決め方 iPhone 北陸地方整備局",
+      "summary_bullets": [
+        "AI彼女 アプリ レビュー AI彼女 名前 決め方 iPhone 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "75b86b904cd7",
+      "title": "AIポルノ生成 スタイルをカスタマイズできるプライバシー設定付きのAIアートポルノ作品 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQS2h5REQ4RDZYU3BIZkxyVEczMUF1WHBUOXgyQ19uZ3hYMXN0SzZzOTFWWTB2TFA0cTloUmlvOURneWFvWUZyaXFWTFh6T2dHYjhiVGVnZF9uWjhUTXkzeDg2cVN0VVQ4Z2p4ODY2Mkp3ZXlPWk55RTI1U3lITVJ5cDhhR1hRTkRsMDJPLXlsWUlleDQ3UlJVdVV5eGEySE5ZOG40QUczdDctQWFlaF9IVlhieGRFVzVPa3RfQzBSSm85SjQxbWd1Z3RFRllkelpZbjBJckx2V1VfdzQzWUEwa25VRWNPMnlNQXVnTTBQdVA4aUQ0MHVmTkRzR0lHQnhOaS1ZSV9hdUdzREhkVzlXTFRQdEZnaHVuakUyT0pvVWhDdjBZRk5VNkJ5b0lKdUJIdXc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:40:35+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIポルノ生成 スタイルをカスタマイズできるプライバシー設定付きのAIアートポルノ作品 北陸地方整備局",
+      "summary_bullets": [
+        "AIポルノ生成 スタイルをカスタマイズできるプライバシー設定付きのAIアートポルノ作品 北"
+      ]
+    },
+    {
+      "id": "31e1ef7d0ee6",
+      "title": "18+ AIチャットボット（成人向けAI） キャラカスタマイズ可能でプライバシー保護機能付きのAI生成ポルノ画像サイト - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNamcyYTl4dU11ZFk1WWdhcVgza1N3ZWNXWEc4dVRLTzNFRlVxb1FqM1gxSy1hQVRQZmVwVUdQYWhTejRHOU1tRlVOVnEza1FrdG1TMzVwQjhuRHY4R0ZqWkN2TEFuSkc5NFF3eU9Xc3NPNjdVWHgxOHlEdGp2eWptWlU1VnlWblhJYTNTVjBXM3JtZkRwYm1MVkg3ZDZTRWlQZ0hVZ0VzMU5RaDZlYnVuWkxzeXhGVjNoQ2pNcnBSQmF1aEdVTDB6QlJ3ZE82UkxhOUl0NTBaOXAtVFQxQ190NmxtODEydTlJTXZGc3ZpT3lXSy14RVBqQUZqcEhDNWY4VE04ZGFnRUxUWGhsSGd0UWlrMnU1TXJBb085bWMyVU5Bb0xIQ0ExeDRhM1dsWE56aWI4T3ptV0lZRnJTY0xlZDBXLUI4ZUpxNVBhMExGN2ZQWjNDZTNDbnZkemFIT09fMmYyNTlHdlFfcDVYM0t6eUp0RXRlaGM0ZGo5TThpWU5td2VoNWl6ZXFYRHNtOGhrc245MFdURVJ3T0dh?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:40:26+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "18+ AIチャットボット（成人向けAI） キャラカスタマイズ可能でプライバシー保護機能付きのAI生成ポルノ画像サイト 北陸地方整備局",
+      "summary_bullets": [
+        "18+ AIチャットボット（成人向けAI） キャラカスタマイズ可能でプライバシー保護機能付"
+      ]
+    },
+    {
+      "id": "74e275f0b4ce",
+      "title": "AIチャット 恋愛 おすすめ AI彼女 ジェネレーター 方法 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPbjVPcjZld0xvUGhqRjdFSnFxZFU5RXRReWNySk9LUlk5Q3RaY1FmMkl0eWtKUkNTci1QWmo3dGQ2aW40R2FWN21YTUdrR1RGT29iUlJMOExRTTZXLTlyclFWWFdjeGlORnotMVIxRmdMZlhSb1c1YzZtYUN3a0JqRG1lR3Fma2hyVDBmc2VycFRUTEFOZmF4ZVNlZVJYVkhZMlpxVjQyeDdKRVptSklWSHA4MFJsUEVQNWt0MUtCWk1LdzgzMlVOSzduWG43MVJ1c2ZtVWw0Z2cxRDJMQThDZGp4Q3I3S1U0SlFTMVhHUzk2TDJTX1laV19TTVMwRHVYdndMRTdSUU0tUmxUNmRhdUgzTXFOajNtWjdjb0NsUkVYUWdLZnZuSzQ5ck80dGdRU1JYbGNvNFBWWGRrYnRXdXl1VGYwVzI1SVVaeEc3QU9OaWJLN0RiWEtaeF9XdTlyV1BwSjBMT2s5RkZmcGRZdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:40:24+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIチャット 恋愛 おすすめ AI彼女 ジェネレーター 方法 北陸地方整備局",
+      "summary_bullets": [
+        "AIチャット 恋愛 おすすめ AI彼女 ジェネレーター 方法 北陸地方整備局"
+      ]
+    },
+    {
+      "id": "15702336ef81",
+      "title": "NSFW AIアートジェネレーター 機能・料金・プライバシーで比較したおすすめのAIセックスチャット - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQWnhjempZRWFKdjRPQW1ydWx6Q1oyVDJralUtQzJRR21idURqSTZ6cXlrRDJoSFJJclZ3SWpaU0k2LXVVZGF5amI5Mi00Vm0tNmpKLW5IekRJN2tQVVFUcWd3NGZEOHd1d01SMzFlc0liRDk2MS1BV3doek5lR1dJRDlXT3VacXRHWnJPSEZwMm5DNVlPbzhzNVhvQ1R5ZjFTeDRtSjVKNnJCR3NFUGM5LTNNQjRsWTRtdnNjdmdqZlNiUWh3ZklkUmJuNG9jM2lvNFltZWZVd2diX05BR0tCM1phR2pmYkZESUlNT05kcXhjbGJLTWZPQWFQNGoyV2Y1cmp2RkxtaVVmeHlhbThlUkU1NEtJcVc3bGRRVXptZDNjSGxsb2VTajZOblJyQnhQU0tVVmNzZ0E1U0dQS2dncktMWFFYVFdQcm1KTUdfdmxQN0VWRlRGMTdxQ3RUc2tTQ21Sd1cyTVkySERuVEVMUTRkNWQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:40:05+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "NSFW AIアートジェネレーター 機能・料金・プライバシーで比較したおすすめのAIセックスチャット 北陸地方整備局",
+      "summary_bullets": [
+        "NSFW AIアートジェネレーター 機能・料金・プライバシーで比較したおすすめのAIセック"
+      ]
+    },
+    {
+      "id": "0bc4217e995d",
+      "title": "ＡＩ外部評価機関、オープンＡＩのシステムに脆弱性特定 監視回避に悪用の恐れ - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSaktXVXNvSG12X01QZmRHNWtiQmJFUC1OcUUtR1ZRdGRKZlRtYVhPUjE3dzI2VXlqQVo1UEM1OFVfM2pOVFFXcG9mTVByd2l5blRWdFZjTmJybnI2Ri0wa1hRTWx3SWQyX3poMm9PVzBPZnlMSkk4Vk01UHcxZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:25:41+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＡＩ外部評価機関、オープンＡＩのシステムに脆弱性特定 監視回避に悪用の恐れ Reuters",
+      "summary_bullets": [
+        "ＡＩ外部評価機関、オープンＡＩのシステムに脆弱性特定 監視回避に悪用の恐れ Reuters"
+      ]
+    },
+    {
+      "id": "f5b9d5db6b3f",
+      "title": "米国株式市場＝Ｓ＆Ｐ・ナスダック急落、ＡＩ投資巡る懸念再燃 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXZMbU5DRXVrcU9IS3hrQ1Q1R3dxenk4MnlEZTlScDFXWi0xeTJlNEcwdWlyYTdQejg1X0ljNGhZQXlQUm1fR0xwSHZNX2JqdlFCb3BfWXdjaXp6MnphNjFJb3E5U2pKeE5qNGZtZnRfTVFNenZQMEU0ZTJ3WHlBRmN0UUo3Zw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:24:50+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国株式市場＝Ｓ＆Ｐ・ナスダック急落、ＡＩ投資巡る懸念再燃 Reuters",
+      "summary_bullets": [
+        "米国株式市場＝Ｓ＆Ｐ・ナスダック急落、ＡＩ投資巡る懸念再燃 Reuters"
+      ]
+    },
+    {
+      "id": "9bddea55399d",
+      "title": "AI暴走、それは秘密の「掲示板」から始まった 不正侵入事件の真相 [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4emhybFJBa1BNT3VqeW1oMHk4SWcyQWlJVWRqa2hHX29WX1c2NmZLZFo5N2cwdVJxYy1WcW4zdlpqWmV6RXdHRjBNUUJaTkdfQU1iMWYwcXRFc095WkU0WktzR1g3UjA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-23T06:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI暴走、それは秘密の「掲示板」から始まった 不正侵入事件の真相 [AIの時代] 朝日新聞",
+      "summary_bullets": [
+        "AI暴走、それは秘密の「掲示板」から始まった 不正侵入事件の真相 [AIの時代] 朝日新聞"
+      ]
+    },
+    {
+      "id": "b447b723d02d",
+      "title": "中国政府系集団がAI攻撃　米マイクロソフト確認（共同通信） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/4281d049b33e5a3349a912eddf42476b228f1879",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-23T02:33:09+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "米マイクロソフトのロゴ＝19日（ロイター＝共同）（KYODONEWS） 【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の...",
+      "summary_bullets": [
+        "米マイクロソフトのロゴ＝19日（ロイター＝共同）（KYODONEWS） 【ニューヨーク共同",
+        "標的の選定から、クラウド上の..."
+      ]
+    },
+    {
+      "id": "ee35f4ff757c",
+      "title": "中国政府系集団がAIで大規模攻撃　世界数百の組織標的に　米マイクロソフト確認",
+      "url": "https://www.sankei.com/article/20261022-4666XKHORFPQFPMIMILRS2WD7I/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-23T01:56:24+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピードと規模...",
+      "summary_bullets": [
+        "米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能",
+        "標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AI"
+      ]
+    },
+    {
+      "id": "66dbee1e07f9",
+      "title": "Good Old Days：Web 開発の 30 年をスクロールで振り返る",
+      "url": "https://zenn.dev/kfess/articles/09359fbf7de3db",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-23T00:40:01+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "https://kfess.github.io/good-old-days/?lang=ja 1995 年から 2026 年までの Web 開発を、スクロールで振り返るページを作ってみました。 PHP + MySQL のアクセスカウンター、テーブルレイアウトの個人ホームページ、jQuery、Docker、SPA、Kubernetes、LLM、エージェント。 年代ごとに、デザインも使っている技術もその時代のものに寄せています。 手で実装していた非効率な時代から、今の AI に一文で頼めば済む時代ま",
+      "summary_bullets": [
+        "https://kfess.github.io/good-old-days/?lang=j",
+        "PHP + MySQL のアクセスカウンター、テーブルレイアウトの個人ホームページ、jQu",
+        "年代ごとに、デザインも使っている技術もその時代のものに寄せています"
+      ]
+    },
+    {
+      "id": "e98f44edbd30",
+      "title": "AIリップシンク動画で口の動きがずれる原因と改善方法",
+      "url": "https://zenn.dev/hiiiii/articles/6600d3986c2f20",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-23T00:36:23+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIを使って人物が話す動画を作成するとき、音声と口の動きがうまく合わないことがあります。音声が始まる前に口が動いたり、セリフが終わっているのに口が動き続けたり、特定のフレームだけ顔の形が不自然になったりするケースです。 このような問題は、生成された動画をそのまま公開するのではなく、原因を切り分けて確認することで改善できる場合があります。 この記事では、AIリップシンク動画でよく見られる問題を整理し、素材の準備から生成後のチェックまで、品質を改善するための実践的なワークフローを紹介します。 1. ",
+      "summary_bullets": [
+        "AIを使って人物が話す動画を作成するとき、音声と口の動きがうまく合わないことがあります",
+        "音声が始まる前に口が動いたり、セリフが終わっているのに口が動き続けたり、特定のフレームだけ",
+        "このような問題は、生成された動画をそのまま公開するのではなく、原因を切り分けて確認すること"
+      ]
+    },
+    {
+      "id": "13b6efcb9e63",
+      "title": "【速報】中国政府系がAIで攻撃、MSが発表",
+      "url": "https://www.47news.jp/15123221.html",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-23T00:13:42+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "【ニューヨーク共同】米マイクロソフト（MS）は21日、中国政府系とされるハッカー集団が、人工知能（AI）を使ったツールで世界の数百組織にサイバー攻撃を仕掛けていたと発表した。",
+      "summary_bullets": [
+        "【ニューヨーク共同】米マイクロソフト（MS）は21日、中国政府系とされるハッカー集団が、人"
+      ]
+    },
+    {
+      "id": "e86f2f0258f7",
+      "title": "中国政府系集団がAI攻撃　米マイクロソフト確認",
+      "url": "https://www.47news.jp/15123277.html",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-22T23:41:54+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが...",
+      "summary_bullets": [
+        "【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハ",
+        "標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AI"
+      ]
+    }
+  ]
+}
