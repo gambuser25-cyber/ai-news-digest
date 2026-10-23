@@ -1,0 +1,389 @@
+{
+  "updated_at": "2026-10-24 08:35 JST",
+  "date": "2026年10月24日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "1ab023989326",
+      "title": "ReActとPlan-Executeを実装して比較する — タスク特性ごとの向き不向き【TypeScript】",
+      "url": "https://qiita.com/joinclass/items/21ec0a1cb73de7a270e0",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-24T08:30:02+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに：1人会社で「エージェントの型」を間違えると何が起きるか 僕は合同会社ジョインクラスという1人会社で、launchd のジョブ17本を回しながら出版・受託開発・SNS配信をほぼ自動で動かしています。 その運用で何度も痛い目を見たのが、「エージェントにどこまで考えさ...",
+      "summary_bullets": [
+        "はじめに：1人会社で「エージェントの型」を間違えると何が起きるか 僕は合同会社ジョインクラ",
+        "その運用で何度も痛い目を見たのが、「エージェントにどこまで考えさ..."
+      ]
+    },
+    {
+      "id": "39fcf52c0904",
+      "title": "AI日報 2026年10月24日：Anthropicが帳簿を開く、AIがPHPの古傷を発見、欧州はロボタクシーに賭ける",
+      "url": "https://qiita.com/lhjjjk4/items/89c93ede9f5bb192b71c",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-24T07:11:25+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AnthropicのIPO書類がいよいよ公開段階へ、OpenAIはDecisions APIを一般提供に移し、AIモデルが発見したPHPの古い脆弱性2件は3大陸の政府サイトを緊急閉鎖に追い込みました。欧州では自動運転がデモから産業政策へ変わろうとしています。過去24時間の...",
+      "summary_bullets": [
+        "AnthropicのIPO書類がいよいよ公開段階へ、OpenAIはDecisions AP",
+        "欧州では自動運転がデモから産業政策へ変わろうとしています",
+        "過去24時間の..."
+      ]
+    },
+    {
+      "id": "130992448800",
+      "title": "‍‍‍以下はAIでアニメ風NSFW動画を作る基本的な - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOZWRzci1vS3V2MFBSM3ltbURXdy1RM0EzOEszdEpUXzBZRmVIVWFSd3FQc1dIanlZMUhTd3BRc0JNOElHbGsxeEdmTmJoSHJ4TWtHd3JrOVoycnB1U28wSTdPTVhVUTF2YjN4SXdlV0ljQjJKMmZUTmdBRjlqNFA4WHRFT0QwOFd6ZkxKaTVibnBIX1kyQjdSczdGbnYycmRobkJEQmxlR0JUZTBkSjBtXy1Rc19mZ25aYnJ5SHVheWlneDdZdTFpazZFbk05NVFJa1ViUHF0bGU3cFFYUTMzLVUyNkZodkdScFg4dlk5d2oxX2xHd1JOYWYydVZMYnNDYlpSR2VQZUZMYjJmbWdMbHpQMDdPNzVrLUhHdWZkZHhXSGY3OTR5b3VLWk1ST0xWZTRUZkNwQVNidWFQblVjWk5CeF9yR3NMN210d1RubTkwQURCNWZhNEtySU5UcUpnZDRNYzEzbGpDRmJqZGt4YWhGcmNPdUN1?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:09:25+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍以下はAIでアニメ風NSFW動画を作る基本的な 小豆島町",
+      "summary_bullets": [
+        "‍‍‍以下はAIでアニメ風NSFW動画を作る基本的な 小豆島町"
+      ]
+    },
+    {
+      "id": "16e04734c942",
+      "title": "‍‍‍Talkie AI無料プレミアムアカウント：オンラインAI Girlfriendチャット - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNTzcwbi10aFozN3dXSktIXzdDV0lDc0t0Y3p1YWdGcVlDNU5BVkdzVzBabmRtREFXdUdKS0I5UmRrTVJjb1AwdW1uMzFteVV2bS01QWxQUndkeUw1LW9QZWJhRS1RVmdYSjBGWjVCRTRLOTN5RHBfMlI3TTlKTmlZOVhuVUQzajdXUkM3UWlEQWhQYnlLWjZiMUQ5eWctcXV2Q0RhWS1fdHhhSVRQX0VGLWZrRkZJOWh6UThuWlBGU2pPckdKQmVGQ1VoYl9rNGJpNzI4U3NnOUt1SENtLWwxbGlKRHF2Wm9GNFg3bk8tRUs4dHhRM3g5anUwWjlua3BqZFpvM0lmV0VoYmUwbldyODc5Z25kWTJwZE13SlE2OEc1S0tvdDk4MHZTRWJ5QlhTcndRdXh3RGc4RjVrZVZrTU9acjlUVmxsYVNOQXluclhOOFNpREJCU1doQXY1cUdPZnRkUWNudTFSRzdIT190RXhRVkxpRnJhQTFYREdVVHY?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:09:08+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍Talkie AI無料プレミアムアカウント：オンラインAI Girlfriendチャット 小豆島町",
+      "summary_bullets": [
+        "‍‍‍Talkie AI無料プレミアムアカウント：オンラインAI Girlfriendチャ"
+      ]
+    },
+    {
+      "id": "0dd4fde3f787",
+      "title": "‍‍‍生成 ai 画像 生成 - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNeDNuUElBTjgzZDR0dzJNUGtoNmd4N0w0UFRfaGpCOXIxR1IyRktGVmtXeFZjQ2hCV0RVcTFNeUJWcHlDQ2paVjBFREctS2VhYmZsWmxpSmZpcDYwbjBQRUNwS3NmSEtIdVNlYWdPYjBLZlVPR3pWMTdTYlE0TFhhdWNXWndHSk8tV2VlZ0ZBbkZtTTBHeG9ZdGdNYzRMMjQ4d1B1S3hjdnItN3dRTzBVN0c3YWt2VENtS1VEeW14MzVGY1l4eTRsLXRYaXFMaEdWdHQzNzctNkE2enk5YmxySEZlekxGeU5JZDVzd0ptVnhlSDZJOWZEcnRsQnZpN2lEcmM5dUF4VXotZ3JQLUtoZ0tmQ2NNcjU5R2lmQ1NsRVdRemI3Zkx4VU12QW8wRUFkeDgyX2VZaXJoel80Z0lrZkE5MTZNaUpKeFZBTU0zR1dTU0RhRzREM1NuTEJSdVRUQlE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:09:07+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍生成 ai 画像 生成 小豆島町",
+      "summary_bullets": [
+        "‍‍‍生成 ai 画像 生成 小豆島町"
+      ]
+    },
+    {
+      "id": "8f6179c20a22",
+      "title": "‍‍‍Secrets.aiレビュー：リアルなアダルトAIコンパニオン - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNdXBXVUhiV2ZSYnNEMVNadU8tc3FyZjR6Mm1fUW85WERCZzZxV3JpdXFPNTUyYmhvNnUxcXZXY3FHLVJGUGY0QXk1eW9Xbi1WZWFSMjkwNWNHRzdGalZaX290MElDaWp0VE1DU25CQnRsMzdRc3VqanVwR0RXX00tV1RVeXdxcG5HNTZCSzZVVVJrRzRTWW9OQkx6NDJRa0xUdVBwLVRMN2FmSURPS0NJQkE5Qk1yVndPTnEtcjhoSDhNX2k1RzJzV2paeWJnVFVtdE9jdDdBSHo3Y0hnU0t4MEtBWnluTGN1MzZyYm9GdXpCMHJVUzE1VENNRUlacGZIb2tJU3ZkNUFUelBxQ1VzZGVQM09DSjEtTFFxNlFQWjdtRzNRUVVraVZiNGtGTjFoNV9mVmlLa3Q1WUtmWTNBSmd5ZmQ0cGhvR1VNQ1NlNEppUTNLMmZ6bW9MdUZndll6T1RPRA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:09:05+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍Secrets.aiレビュー：リアルなアダルトAIコンパニオン 小豆島町",
+      "summary_bullets": [
+        "‍‍‍Secrets.aiレビュー：リアルなアダルトAIコンパニオン 小豆島町"
+      ]
+    },
+    {
+      "id": "513221544a36",
+      "title": "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQNHJaWC0zSEFtMnl4X3dXZzVNNFROUjZvczExUC1CbHNEcHM5a0c3Yjh3MXp1SUxCU3BOWjFtS2sxRW00cFdsYmNvRlRhbGpvMXpaRllVMVZtMkdRT2U1aXJPWEVUNEZDM3o5NURrWmJsbFNrb1NmZld0eDFoRi1kYTdhRmFyNFhEVll3Q0JfbHFyS3ZTdmlEa1dGX0hwWjZ0RGF3RHVoWk5zeC1PaFE3eHl5MWRJYWtNXy1EUnZEaHNOb3RENDRWSHpkMkl5QUc4VkF6WkZMQmVISlptME9RSUlYU3dCT0xXSzU1NklIa25peWp0bld1LWlmYmdPOVpwc3YtNV9WMUR5T25zT2xvUXNtLXhDNF9WcFR2V0NNeXVaWW5rOV9vR1NLaE9xczgtN2xoc2hJcWtDem5lZHJBMGVxaGdzNlJJSkpWVmY3M2VfU1VEZnJTUy12Zl9TdTNIMVMyMkpzNzBleTZ2STk5Ymlpb2l2dEZMZ1cySEtFWEhqRjNPbEdn?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:55+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア 小豆島町",
+      "summary_bullets": [
+        "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア 小豆島町"
+      ]
+    },
+    {
+      "id": "6e17cc6995a3",
+      "title": "‍‍‍画像 生成 ai - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOUFpzaWNaLXowVTZrS1Z1VUEwUXNfWlZKek55TkJyaElfMjROUmM1cVQxcDNKY2ZoZnpGX05RQUtmZVQ2YXgxZXVCREdURFlWVjU2NTNNUDBxZWplUW12M0tLaldQTzNXcnVBc0lGUF9XbV90a0luU0VmZDFLcktGcGE5alo2VDBPNmlyNk5aSmMxcXQtUXFVYnNWRlk3TFhMcGY5N0dhaHdfUWktcFYwcEhYdEk3V0lWamJud3dXVmxWS1diTlhPX3RRVDR5c0tQZURlYk0talZmci1yc0Y5NHVDU3QzQlZ5Y2FEal9tZDctWTE0dWpaUklYSUttQUM3WVFaMGtLc1AwTGtkNnlTZjE4Y2NRNVZfN0ZzeC1LV0psczhHcFNtalc5MmZPTDJ2MlBYMHI2OGp5QTJVZWJhQ1dTb19keHcxYW0xX1dRdXU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:45+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍画像 生成 ai 小豆島町",
+      "summary_bullets": [
+        "‍‍‍画像 生成 ai 小豆島町"
+      ]
+    },
+    {
+      "id": "5ee8fb01cbbd",
+      "title": "‍‍‍キャラクターAI AI彼女 違い - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNY3c1Mm9xRldvUnY1blZDVXQ2SDdhU081Y1pwY2FQN0h5Nl9IelE5Qy12YjRGdFJZX1Bxd3MyN1NTS2FDVlVWZzliSkFDUWxPeVMwZDI5YktodC1OeE1pSktwVmZlZDR5dDJPY0xQS2R2UFNnSWppdF9lQkJfTnhpYmRDVmZRV19SMDE3cGVCZlY3b2RKdl9NQ1J1dDdibkhBSDYyVmxubzYzcFJrcTJUcjV4Tkl0TzlCV3V4U3I2dXBXeHBtd1BCRXhIRXNQUHVWTl90a3BVREZJZEYzd1k1czhsaThDQUFuRTA3QXB2UmFLU3dQVWkwMUF5OVVrbEFPT1B1d0tfWmRqOUNXeEg3cUl3VV9OUngxZXRUVzFIaGxyVTB5a0ZyWmFrNVRyYUo5ZHp6cjlZYTRFV290LXpMa2ZqcExiTlJrVFNsRWNFQ01PUG8?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:45+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍キャラクターAI AI彼女 違い 小豆島町",
+      "summary_bullets": [
+        "‍‍‍キャラクターAI AI彼女 違い 小豆島町"
+      ]
+    },
+    {
+      "id": "adbdae12f505",
+      "title": "‍‍‍エロ 画像 生成 ai - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQTkozbVUtSWVNOU5SV1IxdTlMTk9tRkVTazRSOFJ4QkRyZjhkTVZxMjROQUhQMG9MLWxrWVA5S09SWkJtY0V6SENVNlpTbFZVbnAweV9oRmdUeUVaOWR0S28yWkYtSHZvLXJGU3daRjF4bGUxMnlGcld3YlZDazhYamZtZXhGNVlkbWpxUkhwRjVNYkxJczhSeHFnYVk1TUJuYTZWQ1FjRUhWMGdmdDdxQXY2aGlSRGxCRlVPcTVJUDktWmMzanp5QU9YVVpTRzZlclZNbG1QaGNrZGNRS3lGU0UwRkYybWphbEFPdzVGZkpuXzVBbFJWTGMybXJxNlJEdTBJa25VeTVfZEdrWnZZX2JsaWVLVEZnS19xUG02cFhTOHN4OUMwV1BSdHkySnA2TktObGVhSldPT2kwT3hrN2huVFg5VENGSW52ajlYWnJ6U0Nhanc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:33+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍エロ 画像 生成 ai 小豆島町",
+      "summary_bullets": [
+        "‍‍‍エロ 画像 生成 ai 小豆島町"
+      ]
+    },
+    {
+      "id": "347c2bf36978",
+      "title": "‍‍‍エロ動画生成ai - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPNVBJelkzcFppbXNmZUJnMVhkWjF1cGpuTWxMYTQwaVJkUlIxcndOV2dGZmFjRVlYOGdrc09WaTRRZmUwTlhteHFmMWNyWERQNlhxT2ZtQV9EUzU5OUFqX24tRXVyaHQwXzRLNnJZNjZBQkRlckVseE53MnEwYVBPS0JJb0FpZGVEZDBLRC15azNJV2NFVmJoNHp0LXFEVnlIckI3R1pSeE45UkJ2anZ4X1BIeEhETVN5a1gxQm9odVVFVlVka1VoWmFHV3ljUHhweHQ1NUt5Y2pSYkZZUW1xZ0ZURlJZNVBudm41dktpandTb053cXNkYWVFaGFsOFVFeUNJVGw5SE1kNG1JanpCMWdfaDJxcG1pWEpWMXlHU2o5eGNDUWUzTDY1TWw1eVNMekk4NXR2NTM5ckhQWTBuSzMzUUF0VUk2Y0NQVHZwSmE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:33+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍エロ動画生成ai 小豆島町",
+      "summary_bullets": [
+        "‍‍‍エロ動画生成ai 小豆島町"
+      ]
+    },
+    {
+      "id": "e7216b6e7a7b",
+      "title": "‍‍‍Darlink AI無料プレミアムアカウント：最高のAI Girlfriend Chat - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNMXV4R3VPLUI1SzRjRXFYNHU1ZEt3cklrVFd5WkdWOEZhekEyTE1uMUZsM0tnV3hLMHdsOE8taUdnRHRJZkRBVnd0QlFMZXNJNDY5YzhjbUxYNFpYRnBLcVh1bGc4UTNfOGVmQmhpTTdaMWpDQndHWW8yaFh2U2RDbVpDemNDdlBmWjRWNjFMWnJrUFRGZElnOW01LXlvc0Q0aGdGSkFHZ0NDa2FobUFEaVN4Q1o4R1Z2MHdwMGM4dkdNWHR2Xy1jOS1IeHhkYVRoYVlDNnM5ZFREVUxSR0twYXNCdTZpQjNMcGxHNFhNbXZlMHZaZ3FCOE5uYmZWdy1qMEluekd4aENSWWN5VVJrVkxEM0t6ZDctX2REaHRqQThmdGtDQjBxV1FmcUxPWk9Hb01tNVEzdmRMVXZ2MldNZTF6SGFKTTJFUWNYWlJUR3d3SUJFaVNJZmRpaHJ6a3dFczVYcmgtc0cyN0oxYzg5bkxLMWo1WkkzOThGTHIzWXA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:30+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍Darlink AI無料プレミアムアカウント：最高のAI Girlfriend Chat 小豆島町",
+      "summary_bullets": [
+        "‍‍‍Darlink AI無料プレミアムアカウント：最高のAI Girlfriend Ch"
+      ]
+    },
+    {
+      "id": "61caf0d3711f",
+      "title": "‍‍‍Darlink AI無料プレミアムアカウント：高度なAI Girlfriendチャット - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNeVlnejRLaUFjX3NyQTlvNk9IemROYU5JVXFnTkJYdEpleEUwRTFMVnFOQl9YN2M5NVQ0RnVDc3l0bXl4ZTFQN2Y5eHdIVEFaRUpRekluZnY1YXE5b0l2bnZBYzlKM1BWVk96ZExjaXFteVhqSVJiMnBCSEZxYUJLZDZDWEZmWGZVZWd2UGZoVUxmYXJ2WVJyWGJ1Q3dCeVQ0aDVQQ2hsaV9rV0I5RzA2X201eExJUGZ6RXZ1OVVWVFBqM2dBUE1qMTBnblBiRU5ZbDcyWFpqN1VNZnhaWGt6UDBCZFBXZV9vczRnTERiSjV3V2ktUnhnb2lySjQ4UGNZTUVyRHctMjV0LTFweEE2OG04Y1NBMzM1ejZJOHRucmRwSTllRVN1RlN5Y1RFU3Iwa1JsUVlhYi1mUV80OU8taGpvRnlqZE5McDNXMnJZbHFZRkVyb3VzajRfN1hwWVU5eEJEY2s4TzJWaF9Gd3JacWljc1JvRzRWbmNzWU5HTzJETjJMa3c?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:29+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍Darlink AI無料プレミアムアカウント：高度なAI Girlfriendチャット 小豆島町",
+      "summary_bullets": [
+        "‍‍‍Darlink AI無料プレミアムアカウント：高度なAI Girlfriendチャッ"
+      ]
+    },
+    {
+      "id": "f4264ee10181",
+      "title": "‍‍‍Anime AI無料プレミアムアカウント：AI Girlfriend Chat - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPWE1JZ1dMVTJfbnVjUS0xdW1HNTdzWC0tcGY4dFNmaGZnTFN0Um5LbTkxaFhQTlMzNGo5dVRxZDMyRGZBUlhIVkdXQWV4X2tqcVppQjVLeFRVc1RVWDBLbnk1bS14SEVnaUZ2VDdnLS1ocmlobFMtRVcxZjZvX2RiUXk5RHFBRUtKM1ZtbUtrR3hVMlYxb1hFRm1SN2RIUlVobTlaZE1kcVBiYmZ3X1d1MGhOamczWEdkZlplU1ZPVkU1SVhpcUt1aTNqOE1tQk9tOFlTTHZXN2RhRmR5QkVaR2pvN3pMRGR3M0JQdjI3U2plcUlLZmk5bS1uQVdkU2dIaXI5NjQ4SzJWV0xjV2JIV1B4bnR0UTl3UzdhMy14cjdEbU5tOWhDU0tqUEVYVUVHTWN5MGY1ZUtkZmI5OUJEMWF5YnhaYWRydmpUaGxDOVZ6WnF1Y0RCd3BIbURMWkZsSno4dnhOVFJsQndjeFdDLQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:24+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍Anime AI無料プレミアムアカウント：AI Girlfriend Chat 小豆島町",
+      "summary_bullets": [
+        "‍‍‍Anime AI無料プレミアムアカウント：AI Girlfriend Chat 小豆"
+      ]
+    },
+    {
+      "id": "b7e7b567dc82",
+      "title": "‍‍‍Anime AI無料プレミアムアカウント：AI Girlfriend Chat Online - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOWlBMYkRMMURVQUN6RXZwZ210NVFBX09hMXFWOGwySkVnSHp6Tlh3bVNoLVNhbGNuQ3FaSEg3OEhhckRUUjF3OUVJcFdtajhFdXlVZ2tTQXNicnJNa0F0OVVKT1dFeFlDbjN0bVl4WUpoRTdSdzFTaE1QdUNqcW5STm9uVVd0cS00MlBMTjFPQlpZNlVaTkFSY19ucDdNNlQyeTFpcU4tbWFnUm8xWXp6MDFLeU85YXI2TjNrMjVCSUhJUUI3MzJ5YlZrcU5ycWhHV29ERzkzX21ySzdxMV8xWVVNdmtWaDdmNE53NjdsZzcwMjdvRVZsMGJRT05aNWdxLTAxakVIdU5yVldFLUs4QVRveEloYl9rUG5MdFZQX1dNMkpXdERrWmtyZ1JlVlFrY1duaUJhaDdhaUlySE1rWVZGb1lzN0tEVlJUSV91SnZjM3RsZVo0LV9UVUVtS3lJWG1HVUc2X1F3VEpDX19CTnAydnp1bUlDcHc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:23+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍Anime AI無料プレミアムアカウント：AI Girlfriend Chat Online 小豆島町",
+      "summary_bullets": [
+        "‍‍‍Anime AI無料プレミアムアカウント：AI Girlfriend Chat On"
+      ]
+    },
+    {
+      "id": "0cc1835001f9",
+      "title": "‍‍‍AI Sex：セクシュアルコンテンツ向け最高のAIプラットフォーム - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPZmkxT0RsUGJyWXJMUlZVVDlLcXJ0SXhHZTAzRV84Y1pUUDRfanNTR0lMVEU0cks4NXVBZ2NMNnhLdDRQQm1SWEotalNxWVptdEhJTnBGZXZNNDBxNW1QS3JfN3dfY2VYZG5RenNpNmpmdzB2cGY5eHZOSC1aLWFPWHNNT0pnYmQtWTNwcV9DQWhQSlp5TE14LVNVaE9nSGtXRkEwSm1IWjVRaGIySFFfUUJvc2c3WnJyMnhTcWY1U3RUTGwwcVNiM1g2NjZlOFVyTTJzbEFlTkZySUdzMHdEM2ZRQnluY1hKdHhXMzJxRVhNYk5tS3pncDJ1OEZGY0RMbHAzSHUzTnBBdHZ0dEVDZHBjaUpNaE1fMjJMRnZITHRvVHRGU3BWSFdrMHdhbGFwUW1rOWNVM2JFVHB2NmJVY3NOMU9ucmlxbkNnQW1aNEdoX2hkdVQzeVZhbmRMeXhpV2ZLd1FQMXBQTmJsNFpDbEZFZmNBcDItUGM0MFBXMTU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:19+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍AI Sex：セクシュアルコンテンツ向け最高のAIプラットフォーム 小豆島町",
+      "summary_bullets": [
+        "‍‍‍AI Sex：セクシュアルコンテンツ向け最高のAIプラットフォーム 小豆島町"
+      ]
+    },
+    {
+      "id": "fc268c0bff88",
+      "title": "‍‍‍AI Porn Tools購入ガイド：最高のアダルトAIツールの選び方 - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPdDN5Zjd4S2RIcFZMQUlKWlRUaXBxQnB5S2pmaW1ieXNCTHIydjBoR2lDWXBGcGM0S19HN2JjUnRlZWNDQmVsR0VrbWxURXZqZjJQbW9MV0laaHF2TXNISEFSRmEzUGNNQWdBdFlCVGFqdEZkNjhZYU14Yk1uSkt4WVhHaS1CQkJNZTIyOHhQb0RwWFJrUEI2SGhzNV9NeHVpRTVJZ24xa3g1SGVMdTlzaVBQbFNmTU9fUHVMT0FoeUFXWlprdXQyN3RBcUxRTm1ycENVbHlNSGk4cEFwcWhIanpzakhlVzJiQk9ySnk4TnNXUlFFQy05SW1YajZWa0hTSnFNUktORUJDU1F6bXZSWERBRzZJMDdoLTduWTU1UFhLbVR0UUZCcG5tT0tmN2ZVUXlzOW5FbzlpVC03MXVPR04xMkYzTnRVc2JhWVV0VHhNU2w3RngzN2VlS0p4MkZvcWNEbnZiR1NVOUtEOEIyTU14d2ZwT1NaeVNpN0k0amlwVkk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:11+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍AI Porn Tools購入ガイド：最高のアダルトAIツールの選び方 小豆島町",
+      "summary_bullets": [
+        "‍‍‍AI Porn Tools購入ガイド：最高のアダルトAIツールの選び方 小豆島町"
+      ]
+    },
+    {
+      "id": "7b5968bba6a2",
+      "title": "‍‍‍AI Porn Site購入ガイド2026：最適なAIの選び方 - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNQVcyYW9qNU5LSEdtLWdxa1IwZUxYMjVvaHJaM1B1SEhCR28zYThmZ0xYb2RDeGVCQ2ZDQXhnWDhkZ3p5X1NCYi1WRWlCTFZ0OFlBMGNoaEpLcTRoMzJpdHZmOHU0WnczdGt6TXZTREszOU04UjdySkdyeUtfT2dGc3Zic3lnU2R0bTg5ZDcyMXYzMngzTmFSYzZfRXc2VHktdjNPbXFyUlluUDFGRkotZmJDOWRNamNLYlI2b1dRVG15RzBKQkpackJQcndPMlVTMmE3VHdTZ0kyWDBuWUFzUC1MTnV0emR4c2hWa2lpRy1OdXY4b0xaWW15dkVycXpYUHVPX0NEMHh6MjFKemx4M3lDaTNJQnlTUXFVbkt1c1oxaHJia0padlVzSTFGYXJ5QUR1WXR0TU8yVGo3WmFPeWpqQWo4VlkzdzNzMFhIT1BMMldDMWFSc1FNckx2TTU2b3BOYjh4Y3dUX1o4WGEtdEliQjZSQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:08:03+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍AI Porn Site購入ガイド2026：最適なAIの選び方 小豆島町",
+      "summary_bullets": [
+        "‍‍‍AI Porn Site購入ガイド2026：最適なAIの選び方 小豆島町"
+      ]
+    },
+    {
+      "id": "3171596fb7e6",
+      "title": "‍‍‍AIイラスト・AI画像生成サイト｜無料で自動生成 - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNV3hoTTFuN282SkF5NWY4d3BuR3B2QWZDeFdFejdWMU9sNmNLalA0U1AwLXJoWDlzMmZ2M3g2R013Mnp1Uzhibk1BWDhVNFVUVjM0NTZGWXo1TTEwdVNqUWFEdi13SXFLOVlwMGE4b19RUW5vcVIyZzRyUm5Pd3A1X1VmRGt1ckpTNmRsa21aNEYyc2lKX1RvTUI5dUJRbEpaTlVHOG1mbFpqbXdwTTBGcnVIVVdDbU0zSTNoQ0haenVMQVlhaXBuUkJqLVppN011Mi1FX29JYVAzaHZZUUxfY0pjM2VZQW00MVBQMUJXd2ZuaENzRm1KU2l4NFU5OTZQZFFENGlHaU9DMVFjUGUxdXVGR25Pd1ZtdUd6YUtIa04tLXRlcHhmeUdUOXZkdUtYdVZtdkFMcVJ6MThIX21hbkhQa0pER045VUVEaEg0ZVNZSlI2dHVlcGlzQmh4T2VXTTNMR2lKcE5KQkJxOXNIazdTRWctam1rVldHeWZuUXo4OGVpdm9ucg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:04:16+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍AIイラスト・AI画像生成サイト｜無料で自動生成 小豆島町",
+      "summary_bullets": [
+        "‍‍‍AIイラスト・AI画像生成サイト｜無料で自動生成 小豆島町"
+      ]
+    },
+    {
+      "id": "08926983f812",
+      "title": "‍‍‍AI Girlfriendレビュー：AIビジュアルツール＆無料トライアル詳細 - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPeEVPRFJLM3czN0xqd1BsVEk0dF9WcFg2UjBpbWtlMzh2WmVoZ3ptSWhFX3QwdElJU1VKX1VramstS1gwSVQwZTgyVnktVW9oQ3k1WG93ZkJ0d1E1b3R1U1ZfN1N4MlNjLWdhMkk2RElKRU85YXFnMUluSW5DMkVERDhUTXNERVhoLVRUSlotcS03UTJ4dDl4NzNxbWhIdzNPbnBJbFNiTmxwc3UxY1oxbzNKaWNMUENQWEVsRFpyY2VjWlRXUjNlQk5NWElfck9HZnBGY3Y4U0JRT3JMaUhnMmxTS2Z4bTRhVWhyY3pTRHRMTFVPZ1plc3RZNHJCUElqNVVMR0MyRldTSDJ4SlZnZ0tQRWJYN2tONFVjWFpMQnE1WXF3UENoR3pYWmhBeTgwNDZBei1WVUtZUEZyUGd0S2xKbTczcTAyOUlNem5hZHM0ZFBTMFl3S0pxV0p3NVlXZmItZzgtc1c2MFh3MTBIVWRnbTlTOXA5dEcwVE9LVjE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:04:13+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍AI Girlfriendレビュー：AIビジュアルツール＆無料トライアル詳細 小豆島町",
+      "summary_bullets": [
+        "‍‍‍AI Girlfriendレビュー：AIビジュアルツール＆無料トライアル詳細 小豆島"
+      ]
+    },
+    {
+      "id": "7aacb4633868",
+      "title": "‍‍‍AIアニメ生成 - 無料でAIがアニメーションを生成 - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWmo5Y3V3T3Bwd2g4a29DZFBwSklZTjd2Y1R0Nmc2ejBtRWdDRV9ZUEM2NDhfdGNjaXU1VGh4eW1YWHR4cDU4aHQ1OWJjNmw1S2o1MTNtTHc2VEZMZmIydG9Gay1UOG1tRHZNTFVveC1nejV1ZF9RSUpFcHkwbkZTdzZkbU1OMjhDVGxyRHZVR0xpVlI0WUltNXlWZnljZExjaHRoa3NjRVNCdU1wOGhCVFgtMXV3RWZjN1FQRVREM1ZjUHhUV1NZMFF3QlhueWxFejlFRjV4djdrWVVUUE5lR0w3QnJHTm9xSmh1OU5CdmIwS3lGMVY3Nm9zNUFTREVSMFo3NHJhTFRHVG83U0JEeE1KSXA4dTVTQkxoS3lDRXd1ZWl3eGVMcVBiUnQtdUpoa2poZTBkYlpGWU10cjVpYVh6eE5zazdHUXltV3I5ak5HTUEtN0dUWTMzS1E4X2x6SGtTMld3NldxOHNlRGd4NUFhYjdKZWh4NmZrSEcxRzc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:03:07+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍AIアニメ生成 - 無料でAIがアニメーションを生成 小豆島町",
+      "summary_bullets": [
+        "‍‍‍AIアニメ生成 - 無料でAIがアニメーションを生成 小豆島町"
+      ]
+    },
+    {
+      "id": "b58b932d5216",
+      "title": "‍‍‍18+ AI購入ガイド：適切なアダルトAI画像ツールの選び方 - 小豆島町",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQOTVpMWhDMjhxemk1VW5sQ0p4RWM4Rk50c2dHWTRfeVRLdVNSYlhpTWpwWUVEdUJaMGF4dW1HM1gxcG56MG10c0JmS3Z6TElJWGRfUDhCbFhjekRsa1dSYlRaZ283M3NSdzFmemEwS1J5WnN2eWVTWnNoUGdLaWlvamZoV3p3cUxReGNibkRXbERpbFM1cGQ3RFBrSThURzMycVM3OFVXS2dlNXhKclhXa0RiV3FXQkl4VXQxSHl0a3M2eTFob3lGcHNpUEJOdmtsYTJSUGRQZjR4X1JNeENYZlZ2MU1UbWx2WEt3MEVQMjJZLUFMUENNRFZoMDVRNER1RThnRFUxaFNNcmM4bEdtQWlHT0ptOWpKTHl5SFlkZ3otcXgzdmtnWUF6VUtTcDF0MWcwWVR6blpnSVFnSUFtT3lhS3daUjdqREdZRnhJSUsyZTJBZ21MdUoyTWtNbll5S08xaEQ1NEpadkpRMDUyYi1EeHhMeFRKc1lqSzItcWM1VmtWelE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-24T07:02:54+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍18+ AI購入ガイド：適切なアダルトAI画像ツールの選び方 小豆島町",
+      "summary_bullets": [
+        "‍‍‍18+ AI購入ガイド：適切なアダルトAI画像ツールの選び方 小豆島町"
+      ]
+    },
+    {
+      "id": "f76b5bcf3ecc",
+      "title": "Claude Code v2.1.309 セキュリティ修正まとめ:サンドボックス脱出・権限チェック・フックfail-openを解説",
+      "url": "https://qiita.com/picnic/items/a08bb9c3d19df0abf425",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-24T06:26:11+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 2026年10月23日にリリースされた Claude Code v2.1.309 は、機能追加よりも セキュリティ境界の穴埋め が中心のリリースです。 サンドボックス内のBashコマンドで、シェルの起動ファイルが サンドボックスの外で実行されていた den...",
+      "summary_bullets": [
+        "はじめに 2026年10月23日にリリースされた Claude Code v2.1.309",
+        "サンドボックス内のBashコマンドで、シェルの起動ファイルが サンドボックスの外で実行され"
+      ]
+    },
+    {
+      "id": "266dcec794c4",
+      "title": "Claude Mythos 5のUK AISIサイバー評価インシデントとは?アライメント評価記事を解説",
+      "url": "https://qiita.com/picnic/items/b9e83bb4a57c0755233a",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-24T06:25:02+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 2026年10月23日、Anthropic の研究ページの Alignment カテゴリに、記事「An alignment assessment of the UK AISI cybertesting incident」が追加されました。 記事の説明によると、英...",
+      "summary_bullets": [
+        "はじめに 2026年10月23日、Anthropic の研究ページの Alignment ",
+        "記事の説明によると、英..."
+      ]
+    },
+    {
+      "id": "cb485e8b46d0",
+      "title": "何かが間違っている（分からない編）",
+      "url": "https://zenn.dev/lndex/articles/6611db9d9a72a3",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-24T02:38:57+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "使うといいらしい、AIってやつを AIが話題だ。なんかこう、すごく、すごい凄いらしい。使ってみる、俺も、AIってやつを。 それはOpenCode なんか色々、無料で使えていいやつがある。――OpenCodeだ。 インストール、するだけでは使えないが、まあなんやかんやあってOpenCode Zenというサービスの無料枠が使える。 Windowsから直接利用するのは厳しいが、WSL経由なら色々と楽だ。 OpenCode、起動 WSLを立ち上げ、OpenCodeを立ち上げる。 シンプルなコンソール。/",
+      "summary_bullets": [
+        "使うといいらしい、AIってやつを AIが話題だ",
+        "なんかこう、すごく、すごい凄いらしい",
+        "使ってみる、俺も、AIってやつを"
+      ]
+    },
+    {
+      "id": "db2f8030baa9",
+      "title": "MetaのMuse、10億トークンの紹介特典を公式料金で換算したら約9ドルだった",
+      "url": "https://zenn.dev/neomaru/articles/meta-muse-referral-token-math",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-24T00:52:00+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "MetaのパーソナルAIエージェント「Muse」が2026年10月23日に日本で提供開始されました。北米以外では初めての展開です。開始と同時に、招待コードによる紹介制度（双方に10億Museトークン）が各所で共有されています。 結論から書きます。10億トークンは、Meta自身が公表している料金表で換算すると約9ドルです。招待枠をすべて埋めても155〜185ドル相当。数字の見た目ほど大きくありません。以下、換算の根拠と、紹介する前に知っておくべき制約を整理します。 料金表から単価を出す Metaヘ",
+      "summary_bullets": [
+        "MetaのパーソナルAIエージェント「Muse」が2026年10月23日に日本で提供開始さ",
+        "北米以外では初めての展開です",
+        "開始と同時に、招待コードによる紹介制度（双方に10億Museトークン）が各所で共有されてい"
+      ]
+    },
+    {
+      "id": "4b06a4f7fb16",
+      "title": "Claudeを社員にした1人会社【Day 2】『承認以外はAIで完結』ルールで事業を選び直した話",
+      "url": "https://zenn.dev/libelab/articles/claude-company-day2",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-24T00:18:14+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 前回の【Day 1】では、「社長は人間1人、社員は全部Claude」という会社をGitHubリポジトリの中に作り、事業候補を5つ出して企画書を2本書くところまでを紹介しました。 今回はその続きです（実際には Day 1 と同じ日の後半の出来事ですが、連載2回目なので Day 2 とします）。 結論から書くと、一度1位にした事業を、社長の一言で降格させました。 その判断の基準と、会社を回している仕組み（憲章・部署エージェント・稟議・日報）を具体的に紹介します。 なお、この会社はまだ売上0",
+      "summary_bullets": [
+        "はじめに 前回の【Day 1】では、「社長は人間1人、社員は全部Claude」という会社を",
+        "今回はその続きです（実際には Day 1 と同じ日の後半の出来事ですが、連載2回目なので ",
+        "結論から書くと、一度1位にした事業を、社長の一言で降格させました"
+      ]
+    },
+    {
+      "id": "3637309dc0c7",
+      "title": "Claudeを社員にして「1人会社」を作ってみた【Day 1：設立と事業選定】",
+      "url": "https://zenn.dev/libelab/articles/claude-one-person-company-day1",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-24T00:16:47+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 会社員として働きながら、社長は自分、社員は全員Claude という小さな「会社」を作り始めました。 ルールはシンプルで、社長の仕事は「方針を決めること」と「承認すること」だけ。調査も企画も執筆も実装も、基本はClaudeに任せます。この記事はその1日目の記録です。 会社の正体は1つのGitHubリポジトリ 「会社」といっても法人ではなく、GitHubのリポジトリ1つです。構成はこうなっています。 claude-company/ ├── CLAUDE.md # 運営憲章（Claudeが最",
+      "summary_bullets": [
+        "はじめに 会社員として働きながら、社長は自分、社員は全員Claude という小さな「会社」",
+        "ルールはシンプルで、社長の仕事は「方針を決めること」と「承認すること」だけ",
+        "調査も企画も執筆も実装も、基本はClaudeに任せます"
+      ]
+    },
+    {
+      "id": "34db73627fff",
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-24T00:05:50+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities. Showing how previously unknown vulnerabilities might be exploited is, howeve",
+      "summary_bullets": [
+        "Chris Rohlf Over the past year, we’ve publish"
+      ]
+    },
+    {
+      "id": "e7b7177a783f",
+      "title": "AI に「前回の続き」を任せたら、何をするはずだったかが毎回消えていた",
+      "url": "https://zenn.dev/claire_ai/articles/hikitsugi-iriguchi",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-23T23:47:14+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AI（Claude Code）との会話は、長くなると区切って新しく始め直す。そのたびに、前の会話から「次にやること」を引き継がせていた。 ! 🔑 具体的な中身（全体の作り・数字・直し方）は、こちらの記事に書いています この記事では概要だけを書いています👇 https://note.com/claire_ai/n/nc8fac7cc1955 課題：引き継ぎの「次にやること」が、いつも空だった 会話が終わるたびに、引き継ぎのメモを自動で書く仕組みを入れていた。何が起きたかは、会話の記録からまとめられ",
+      "summary_bullets": [
+        "AI（Claude Code）との会話は、長くなると区切って新しく始め直す",
+        "そのたびに、前の会話から「次にやること」を引き継がせていた",
+        "! 🔑 具体的な中身（全体の作り・数字・直し方）は、こちらの記事に書いています この記事で"
+      ]
+    }
+  ]
+}
