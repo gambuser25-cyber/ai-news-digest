@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25 07:46 JST",
-  "date": "2026年10月25日",
+  "updated_at": "2026-10-26 07:51 JST",
+  "date": "2026年10月26日",
   "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
   "total_count": 30,
   "categories": [
@@ -11,380 +11,381 @@
   ],
   "articles": [
     {
-      "id": "eb4dda01be04",
-      "title": "壊れた計算式を「AIなし」で直すマクロを作ってもらった話 ── #DIV/0! が 0.17秒で消えた朝",
-      "url": "https://qiita.com/shu15511551/items/686fbd8bf5366fc150f5",
+      "id": "6e9b3cb0537e",
+      "title": "【2026年版】git worktree 完全ガイド - AI駆動開発時代の並列作業術",
+      "url": "https://qiita.com/goyle/items/ff9db1ea15c627a37dfc",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-25T07:41:26+09:00",
+      "published_at": "2026-10-26T07:50:21+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに 前回の記事は、マクロのコードを読まなくなった私の机の上で、散らばっていた窓を一枚にまとめた「統合マクロフォーム」の話でした。 あの記事のあと、番頭役のオーパス先生（Claude Opus）がバリバリと働いてくれていたのですが……またまたやってきました、使用...",
+      "clean_desc": "この記事は、筆者が Zennに投稿した記事 の転載です。 はじめに 開発中に「緊急のバグ修正が入った！でも今の作業をstashするのは面倒...」という経験はありませんか？ git worktree を使えば、1つのリポジトリから複数の作業ディレクトリを作成し、異...",
       "summary_bullets": [
-        "はじめに 前回の記事は、マクロのコードを読まなくなった私の机の上で、散らばっていた窓を一枚",
-        "あの記事のあと、番頭役のオーパス先生（Claude Opus）がバリバリと働いてくれていた"
+        "この記事は、筆者が Zennに投稿した記事 の転載です",
+        "はじめに 開発中に「緊急のバグ修正が入った",
+        "でも今の作業をstashするのは面倒...」という経験はありませんか"
       ]
     },
     {
-      "id": "2eef11e61290",
-      "title": "‍‍‍AI彼女 クレジット 購入 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPQWMtYloyVHdoU2lVb08ySlNXQ0ZIRnRnQlF4TlhKY2FxOTNzVTc0SXZCMTlWZE9LaUw4clBhRll4YjVDeXVSZXRJYjVScDh1Y20wUDZ5TG9uRUpCTU5WRWlmM08tSXhDVVBTR0g4SzFyVldCUHhQQ3NPa1NoV0tyYjJLU1pLbnhOX2JzVW5FVjFMOXZNeE91aXg1QzQxN1UyVkJ1SDhLWG94VG03dmxTUUZVLXpmM1h6bU1WSmhaX0xlbWdNSDBwT3p1c1cxRkJxMnZKU1FVN3FyQzJSQURVRnVvRmlFXzQ5UGY4aTdmcm8xU2lIU1RnMTJtRnNZVHdtTXp1emZ5eXl2cS1mc282YnZuNksxbzFJOTZqak05OFlXZzhWMjViQUs1OE0wT0twNl9maGZKQUlzblVPZVZjUUo2RS00RXNkODRkdDJ3d01QdDA?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:32:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 クレジット 購入 ai 小豆島町",
+      "id": "3646fcab30fc",
+      "title": "【Windows 11】AIでクラシックピアノMIDIを生成｜Ariaローカル環境構築",
+      "url": "https://zenn.dev/myan_1/articles/7d2cce2f65fcac",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-26T07:15:55+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "この記事を書いた理由 Ariaを使ってクラシックピアノのMIDIをAI生成したい 公開されている構築はLinux環境が中心で、Windowsでの構築手順が見つけにくかった クラウドサービスを使わず、手元のPCでローカル実行したい NVIDIA RTX4060 VRAM 8GBで動作確認 2026年10月26日 前知識 Ariaについて Ariaは、EleutherAI が公開している、ピアノ演奏の MIDI を生成する音楽生成モデルです。 LLaMA 3.2（1B）アーキテクチャをベースとしてお",
       "summary_bullets": [
-        "‍‍‍AI彼女 クレジット 購入 ai 小豆島町"
+        "この記事を書いた理由 Ariaを使ってクラシックピアノのMIDIをAI生成したい 公開され",
+        "LLaMA 3.2（1B）アーキテクチャをベースとしてお"
       ]
     },
     {
-      "id": "d952f50b36e8",
-      "title": "‍‍‍AI彼女 キャラクター 選べる ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOaVpSMC1ENzkyOXB5cmt4SnRvTWluNEUtWWFrUElHV09nVGJ4RWVNRXpwWXNvbV9hczZKUG1zajdZdVZGa014MVB6bEgwamxsUWJvOHFLWldWSGQ1M2JFbmh3dElESlB0dEhuN2JHUGdKRDJKMjhXTzNYZ3Y2dnBjbnQ3a0x3S0RCeF8zVzV0WGFyQVk5YzNPSVlaQkdMWGdVSjJ3WmQzVmxwS1R5OUxpSXBNN2tDVXBmYXk0Tl9CU1ZGUExVeWF1cXhaSVRSYjVzOXJJeXdhN2J4VkF5d2tCSlJYa3VxbFA1U0lMVmNGRnlWWTJPXzByMklZVXZCT09iYlAtM3VXZk1QZll5VEN2V1pNQzl5bTd5NHNnRm1HcmhGVWJmaEhYTG1LZ3NFNlVucjR6eTJSMkI3QXBTYzJHUmxFVDJNa3N5U2ZqQlBFNm9JU1Y4TWc?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:31:53+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 キャラクター 選べる ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 キャラクター 選べる ai 小豆島町"
-      ]
-    },
-    {
-      "id": "68579499e037",
-      "title": "‍‍‍AI彼女 キャンペーン ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTGxsTDE3bVhvdDh1Zm5aUzZlYjNZbWFjWlVwcFY5bTR2ckNmZGJCOVZaT2J0UW5HSjR2S3BlT09PMDVIZlBGQnhxTGJFYVVyaTNCWm9xbHY1dHpqbWEybjBBbnByUk5UMjB5NUNPNmE2QndJWHlMXzVjYzVaVzJIQUZQLUFGa014VHhSYno4TElqanNNeUQxSzZicUdMLTFwSWcxQXU5enZrMjNGRTdETnBjUTFJejNzN1lWR29GU29idkpIMHRLRGE0a19FUl9tVzRVajUzQTZFVXMtTC1HVVBGb2lkUnNncEpReEt0VlBaNjNCdDV3WndZazNZVWF5d1o2MFZqUDFNVDk5VmJZY1BmUHhJeWlmZm1LMVF3V042LUlYYkppc3BVNXdLZUxFUkpqZ3NrYzdaZTJsbEdEWnRGMWtjUQ?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:31:52+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 キャンペーン ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 キャンペーン ai 小豆島町"
-      ]
-    },
-    {
-      "id": "0fa2c8299ca0",
-      "title": "‍‍‍AI彼女 カスタマイズ 簡単 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVFN1T21sMlN2LUtRY3RKcmNHNFlBbmxHcFdLTmVueV9FcUx1TnlGRWRkakNScmt5UVhpTkVVTmtzUGEwb1JNV0pxeVA3Nkx3RUtZTWZ6TTQ0YmYxX3d4MTFOYnFzVUdycU9YY0NWblpPRGVGY0xCLWlack9jMmNkemVnRkdvZkFUaWQ1bDdkREZmZnIxd2hLUlhVTnZTZlp5OUJxb2N6bDE2endudEV1Y3BIYzRabDZmTWcxZ21ZaEhrT0s4aF81QzY3YjZpMDQ3bTBmLUlFZlVsWk5qaXI2Ym1qWXhkVmJOT1g3MXNYWDE3TW1sanFUVHd4OG4tdjFVMWRzVkgxTnJQTW9hLVVOMXBzQ3JnTFJ3VERVdE1HUnd3YWdVQmtaYVNGWld3WF9KY1AxVW8tRWxsVGY5U3hVcWw5aGJsenNTY05ISzh2dVo0aTAzYVE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:31:10+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 カスタマイズ 簡単 ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 カスタマイズ 簡単 ai 小豆島町"
-      ]
-    },
-    {
-      "id": "e428b48e31f1",
-      "title": "‍‍‍AI彼女 記憶 覚えてくれる 最新 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWXJybXJYaTZ2OXlwWV85cWdyLVFHMjVlLUxMVjdEYk9IV0RjVldacUNZTGFhNEZQanJ4d3lmSDlUcVpUc2p1cHNlMHBnc1JNcmFMLU80U3c2MGpkMVNpQlAyRENPZHdnRk5WcmVjaDI2bmJtWEZxaTR5c0NQSktYN3k2aEwzZ2VuWUNVZXRuY0JwYjNpU0JxQk12RFZqWWRVNU5vUzMxdkl4WHlGNkFOajRsNDByRmV2cWlqbHpTa0VNZWZUNW5fMXJtYkFkdGp2VmNJYXBjQ1pHY2t6R2JnVm1jR0dFNnE4RlFLcnBnR2xXT2s0ZHRZZ090SV96eDNHNGVaMWh0alNGeVdNX1BiQXA4X3RqRVdiNkJOQlpJZnhyMDJVeTBkdURpdFdfb1FPd2hKcGRCYUltT2xqRnlzRjhtRDNtV2ZmV2JDcS1DeHJDYWxGd05jTXk4cHBhalpH?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:31:07+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 記憶 覚えてくれる 最新 ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 記憶 覚えてくれる 最新 ai 小豆島町"
-      ]
-    },
-    {
-      "id": "59d5dca37501",
-      "title": "‍‍‍AI彼女 記憶 覚えてくれる 比較 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZldMMGxVMTdPQ2ZnR1lXcHdqdnBBbDlUMDFUNGV3QXM5T25RWWwtd18wOWxwNmZQakdLMmJXYlBxM0o3SVBzYXZESEFLcGg0cDdtanpqRzFud1lINXJrVHJWSWo3Q3c1NllteE5ySHpvZFRXTkVhaUVWZWZSLVFsRzlfOXJJcUlxSHlUenJ1amlTMThCalI2VGJoVzROSDJFYXVVamV0dVVMelB0VWxMV1VQY3BRR1gzR25YamRaZXVYYzlBN0ZObnE4bDN2czlXRXZOZVY0M3MzRWcwaUNZVEVoSjhLLWxDNE9QaGpsbU0tTWtnbWZpU1NMSFcwdXdFdUtBTGNZeTV1ZWdqWDFEQmVHUWgycVdydWtZYmZDN1ZFN3VjWmlxZXM2c3FzOHQyQkhaV2hVbGJyQkdoLVJQMzVLdHhrRFhGLTE5dENVRHZMWXBTZVFFZTMyV1pzdjZa?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:31:05+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 記憶 覚えてくれる 比較 ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 記憶 覚えてくれる 比較 ai 小豆島町"
-      ]
-    },
-    {
-      "id": "8504bffb15d7",
-      "title": "‍‍‍AI彼女 画像 送ってくれる おすすめ ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxONUxLdGp0dUdLbXN6LUk1Q2lleGZSS24zdnlqbUR2Qk14ZUFJaGtYU0dQZXpyOEcxS1pFZkFtTUlWcV85em1rSHhlZ0gta3dQOUJodmljVUhCb2JtV255VXh4TTROUTl3dWJZeTR6WF9LcE5OWFBSdkwyZURyM1J4ZTFQelFrX0kzWThsMnRRckJEbWRNWGZQOVRTOU5xMDl0TUxnOXluZUMyZWNSU29KZDIwcmJYeGN6b05BMm5lbC1KTUZFdVd4LTdaTXN3ZmdtTVd0Y1BpMnFvWWEwTUZybFhYYnRVc3FQa2tvQ3FwM0o2ckFUazNEejVYbUsxSHRyVEk2MDh6YWdGRmRKVXVtVFZ4eDFCN2Z5NG1yYlVmaV9WM0ctNmJTTkFwdUc5MTVINks2WDNFZmZZLU5LUVNYNEFUdVJVTXF5N0NBbEFhYzZXYk1ZVGNWak9fOWpkQjhocko2cVpEVC0?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:30:32+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 画像 送ってくれる おすすめ ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 画像 送ってくれる おすすめ ai 小豆島町"
-      ]
-    },
-    {
-      "id": "e375db9d44e6",
-      "title": "‍‍‍AI彼女 画像生成 初心者 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQZHNscTl2RE42Szl0LVlXRGQ0SDJZRTUxM1RiWnVpSDJTOXI4a3JzMHdjbVgwOWo3SkpwRmczaFlkaGxtUExKN0ZLNkRhQkw1d0ZNQk5PTTZXWTFTN2NVeWhOZ3ZULXB4d2ZRSDZSemJkUnFZRDQxdkhvS2FBM3dvbnFOcDdtMm9wVk1ydGU3WWVudmlsalBkYmZGNVFFTm85UThkMmJ6SVFBellURWlHaTR4YzRHSXZUMUdyTmhHdFdjMDN6Rjh2T211OWxWN1M0eUhkbDZsMUdoTW5GUDBOZi1iTm1rTDFWal9pbWJMaFBtekxhdEQtVWowLUxmNmdwN1pVT3ZkN0djT1p3T2g3YkZIdW5TNERsQ1lGYWwyMEZsa2N1SnhNeGYtb204Y0ZMbzVvbXBIRFh0Tk5oeDdNa1hGcVk5ZUxCZk42U0ZkaTVPQ20tY0tFNF9FdzZydUJ3Q0wxR3ducXo?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:30:27+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 画像生成 初心者 ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 画像生成 初心者 ai 小豆島町"
-      ]
-    },
-    {
-      "id": "3f0d2fff4075",
-      "title": "‍‍‍AI彼女 画像生成 おすすめ 初心者 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWHA0X2ctV1pVWWhjZXZucDlQTXRiZnIzcmdya09lN2RIY2hON3Jpa3h1dmRDcEdTVWJGU2RtajFmV1d0SDJWOEs4OElEXzFYSGZySmpna05MVnIzQnU0OGNYWVBOODZKbjdnRGhYMlBCSnhlQlBVM3VWd0dSbXRhWUhpSERvUlUxczIzNGU0NUx3UHlsc3JsR3pxQ1FTNENENnpVaS1yM0JGZXpDLWQySnl1Q1lkLWVKVWVyZHI4a1Qxd3NJOW5zcmhieFIzcEVmQ0tVc2w4Z1dxTVhsM0RKb2ZIVDdDOTQwV2lnQ3Z2S1NJNHYydndfV1NQVklhNGsyaEJEUjQzY0pKZUxhUnBsaDduUlR6dGJ3TDFlOVBZM3F0dzBxNWVDWHdJVUJvVTJycUdXeTY5X2pnNGR4QXFIRFRfTnlsSXRocXhRQUZ5YThrX3J3dERfeGgwMk41TlB0b1pQUkMta0NXSWhCUWpjMGtWRQ?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:30:27+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 画像生成 おすすめ 初心者 ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 画像生成 おすすめ 初心者 ai 小豆島町"
-      ]
-    },
-    {
-      "id": "f8be95f0c9b9",
-      "title": "‍‍‍AI彼女 怪しい 最新 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxORG94aUtJa0FlM3prZmlKMFpZR2FDZlJzMEpLallqUlBJSXpPaVdhdkp5Ql9OcnpjS0Q5VzI4UGZXNF96a0pzOV9LTHdMbTRBNmdUU1FjS0MyZERfTEZ1ZHBKVEVsRjd2ZjNZbDBfQXBSMFBSZmJxSXlnZWJZdlRLQzRyckllRXR5dDhnbjRwVEdzcWZrcUlDTmlkYmNiMmU1ZnVkMFQ1STZUSEdzTDQ5NnhUamNIUHNsdTNldnUybl93Z2o3eFhvaWpfaFAtUGhmZjBYZkZScy1GcmFLbFRYd0s3Q3RsSFBzMkE3YVE5eHYtdV9kMURzLThjampGQmk3TDBxeWZSVmpSaTVwWkZUTXh2VlJPejJTdkY5VTZ0VkpncjhmTFd2VWFkTWhSS1pZamFyUEh2WDIzd2YtanVGdmpIdUZDOTlWS3MzalNONHlMdw?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:30:09+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 怪しい 最新 ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 怪しい 最新 ai 小豆島町"
-      ]
-    },
-    {
-      "id": "4895dc5324d3",
-      "title": "‍‍‍AI彼女 割引 月額 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPVkVOQW9DODV4WDFoTlZjWnZTWm5adi1tMzhjTkZWVEtkaFRKRG9OSkFyNmN0dGt5Q28zS0ZjRENHVl9jMllqWGRkSEhEeG5yM2xqVkxoSW9DRG14dlk5Y1pjOXhUellkU1lrSnFXMnA4UDZUbzdBVjBXQ0I4Z0R1ZFgtQkQ4ZFhfRVpZZlZFTmxmVm8tS3ZwTVFqT0FNMmJkb3p4NVc4VGd0N0JEd2dkWm9qUVdZTVRFYXU3NUJIUXp1RjVkR3JmT3ZXTG1WYmdYZndJZGZsT2x5T1lRUk5IV1dGOGZLV3ViM2RrNkZ5ZFdCVTczcXJKTEQ2Tl9sX2tYaGtHWUpOVlE2VVZOdTZTOWUteWpBSkVXVUtOOVdkUkh4azEteHNIb2ZtRWZYczhZdzF0SmNwaG00UU5uMkpwSVN1dDlZam5MS2V0TQ?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:30:01+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 割引 月額 ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 割引 月額 ai 小豆島町"
-      ]
-    },
-    {
-      "id": "fac2fd0e0661",
-      "title": "‍‍‍AI彼女 個人情報 安全性 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxORjZfRkR2NUZiUzRmenJhVmtidFoxcXNJUXJSOXd6SVpiblowY0VmalBWUGdweHc1V05OY0E2MHBMbkVjVEVhaTlleVJYRjdlb3QtcExQYzZSQXA4OTVHdTZXMjh2NlNxYXQ5WWg4dnJPcDNySUtVYnRDcGhuay1KUlVYZXJ2ZXNiaDJNTDZldDlOTEo2NHFjSTFMM1QzZ0dsdGZiak14bjR2cHp3a18wVXBnSWJnQUgyWUs0ZWhuQXF3eWh6LTBGNm15Z2FwWGhFdXdCbXZGdUhYTjNaalR2OTN6bWpidWJtNFBmOS1EUzROZG5oSElSY1dhUE5SVGsyVWNRZDFUSkM2WkItS1h4WDd1TWE1NVR1ODVnNFhsSVlfLTl0X0laa3lQOW5Ja0YzbkxDdS1xOTJROHlLbE1Hem1IVjBuWl9JMERad0FQX1oyQW5WRGFPdVJLLWIxTV85NWc?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:29:57+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 個人情報 安全性 ai 小豆島町",
-      "summary_bullets": [
-        "‍‍‍AI彼女 個人情報 安全性 ai 小豆島町"
-      ]
-    },
-    {
-      "id": "23a0096ca0f1",
-      "title": "AI日報 2026年10月25日：OpenAIが訓練からインターネットを遮断、Googleは100万TPU契約",
-      "url": "https://qiita.com/lhjjjk4/items/6fadad888763b022229c",
+      "id": "b82a0f7a5299",
+      "title": "AI日報 2026年10月26日：英国がAIバイオセキュリティ研究所を設立、OpenAIの監視を外部監査",
+      "url": "https://qiita.com/lhjjjk4/items/99cb958ee983362d36ba",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-25T07:23:23+09:00",
+      "published_at": "2026-10-26T07:11:28+09:00",
       "category": "モデル・技術",
-      "clean_desc": "OpenAIが今年最大級の安全方針転換を公式に確認し、Anthropicは史上最大級の計算資源契約を交わしました。さらにこの1週間で、Google・AWS・Anthropicの3社がエージェント基盤を前進させ、コードエディタのエージェントは自らアプリを操作して検証するまで...",
+      "clean_desc": "英国が公的資金と2つのフロンティアラボをAIバイオセキュリティに投じ、OpenAIを監査する側の外部評価機関がその監視基盤の調査結果を公表しました。今週の企業ニュースの主役はモデルではなく人数でした。Microsoftは顧客の中に入り込む6000人のエンジニアを組織します...",
       "summary_bullets": [
-        "OpenAIが今年最大級の安全方針転換を公式に確認し、Anthropicは史上最大級の計算",
-        "さらにこの1週間で、Google・AWS・Anthropicの3社がエージェント基盤を前進"
+        "英国が公的資金と2つのフロンティアラボをAIバイオセキュリティに投じ、OpenAIを監査す",
+        "今週の企業ニュースの主役はモデルではなく人数でした",
+        "Microsoftは顧客の中に入り込む6000人のエンジニアを組織します..."
       ]
     },
     {
-      "id": "8a67a3b1f0b1",
-      "title": "‍‍‍AI彼女 登録 方法 月額 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPUV9VS29iT1BTdlhDZ3F1aFBIUXFSbThQY0NLMWdCYmdEM2Utb0hDVGR2TFY2eC1VTGF3VlFrRWxHMU5BcG9EUmxWQWY0WkpkMEhXQ3RfQUx5OUhlcTZPNFpSaXJrcHoyakI5YnNNNGhLTUsydDBGUEIyYjBJRUVudUVTWjRiby1KcExMNWdJcG9OMHUxQTFvWFo3LWZydVppWXRGWDMyN1RUODZNa3p5ano4cFdicnhsQmRfVjFiVEd3S09tMll4Z1pLNWx2a2RWZkx2eUg4eFZSRmVrdjlsb0tIVXJNMkhHdWl0b0luMnZWZWxfV0NWSU9UbGdwYS1uQWFBN19jTFg3czh5UW96Q0ZzdXFlNUpHa3JoM2FuTFVSb3d0Z3RlZ1N0OVVYVFhkNDNWNkZmVk9HcGRuU2plSEdCUHA2U2FzSXk2SndNQzhNTld2d2xIbnFB?oc=5",
+      "id": "e294ebb80e6c",
+      "title": "サイバー攻防、新たな局面に AI利用、「軍拡競争」の様相 不正アクセス、影響拡大（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaWk4WDlpM3c0NlBUb05VR09zaG4tc1NNTWJsZFBTc3FVby1INHlnaHZNMFR0VS0wWFRiSTNuUWNsTWU3dlphRmNIbDMtcW9ZZmEtLUNEZkFkdGpkQU5TN2NUdmNKN0ZPOV9zNm9nZXozUkJtNHgxSVpTVXRJRVE?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:13:18+09:00",
+      "published_at": "2026-10-26T07:10:18+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 登録 方法 月額 ai 小豆島町",
+      "clean_desc": "サイバー攻防、新たな局面に AI利用、「軍拡競争」の様相 不正アクセス、影響拡大（時事通信） Yahoo!ニュース",
       "summary_bullets": [
-        "‍‍‍AI彼女 登録 方法 月額 ai 小豆島町"
+        "サイバー攻防、新たな局面に AI利用、「軍拡競争」の様相 不正アクセス、影響拡大（時事通信"
       ]
     },
     {
-      "id": "810415bd6df7",
-      "title": "‍‍‍AI彼女 本物 恋愛 違い 最新 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNV3hXSS1QTXZ1UzNvRmZXa25TTjVpelBJZnJZbm1FYjNEVWRMZUlnQWFidEYyMDNfQWY4dDJ0VkVKd2RuSEt6d3FFcUxZLTl4eElLd0pNbGN1Z2xiTDBmY2lJVDF2Mm0yakVDbkp6RXZScTItd3dlLWY1aHA4Nkl0QW9valNwTGFubVhueDNpRFBXM0lpd1c1LUhoZ1FudGJ2YnJsWFpzWk5PRUp1T2M1ajFwanlqSkUyTk1iQmgyMWVJdnhOMlhwMG1nTGlKUVNsQUdOSlNraFdBemNwV0FMS2FucUtaVmE5bVF2OVphX3cyN1h4WDdDdjREMGRUTnlPWFhvaGtKbG1heG9JRUlOQk1NZDBodW5SYk9YMGFGSUY0TFR6QjFDTFBMa2xLVENTZE02eDJGOWhXTk5UUThjTWhEM051TkdpTmU4Z2xsT1lyTnFSZXllRlNidl9tNVFYdXE0?oc=5",
+      "id": "7dcdc4ea6093",
+      "title": "「対応したら終わり」ではない ― 医療機器セキュリティ連載に“学びを蒸留する仕組み”を接続する",
+      "url": "https://zenn.dev/taichiendoh/articles/post-incident-lessons-learned-distillation",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-26T07:09:40+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "これまで、「漏れた」と決める前にやること ― 情報漏洩対応は、まず“範囲の特定”から、「システムが止まった」とき、医療機器はどう動き続けるべきか、攻撃する側もAIを使う時代、「現場の継続性」の次は「委託先の継続性」、「委託先の継続性」の、もう一段先という5本を書いてきました。範囲の特定から始まり、現場の継続性、脅威モデル、委託先、委託先がさらに依存する先――と、主語を広げながら「対応している最中」の話を積み重ねてきました。 振り返ると、どの記事も「対応をどう進めるか」までで終わっています。対応が",
+      "summary_bullets": [
+        "これまで、「漏れた」と決める前にやること ― 情報漏洩対応は、まず“範囲の特定”から、「シ",
+        "範囲の特定から始まり、現場の継続性、脅威モデル、委託先、委託先がさらに依存する先――と、主",
+        "振り返ると、どの記事も「対応をどう進めるか」までで終わっています"
+      ]
+    },
+    {
+      "id": "644a13dad446",
+      "title": "オープンウェイトのDecision Modelを、Google Colabで実際に試してわかったこと",
+      "url": "https://zenn.dev/nakanishitf/articles/8c3811591ff7db",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-26T07:04:02+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "文章を書かせる以外のAIの使い方を試してきた 「暗くて本が読めません」と伝えたら、照明を明るくする。 学生の相談を読んで、大学のどの窓口へ案内するかを選ぶ。 注文情報と納品書の画像を照合する。 画面を見て、次に押す操作先を選ぶ。 これらの処理でプログラムが欲しいのは、長い説明文よりも、次の処理へ渡せる判断結果です。 そのような用途に向けたDecision Modelを、Google Colabで一つずつ動かしてきました。 文章だけでなく、画像、音声、動画を入力する例も含めて、18本の実装記事に記",
+      "summary_bullets": [
+        "文章を書かせる以外のAIの使い方を試してきた 「暗くて本が読めません」と伝えたら、照明を明",
+        "学生の相談を読んで、大学のどの窓口へ案内するかを選ぶ",
+        "注文情報と納品書の画像を照合する"
+      ]
+    },
+    {
+      "id": "323e5fe431e3",
+      "title": "32日間眠っていた安全装置が、目を覚ました朝🧱 件数がたまるまで眠る「実測勝率ゲート」とラベルの食い違い",
+      "url": "https://zenn.dev/charge0315/articles/7fb87c1ed69f3d",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-26T07:03:47+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第26話です。 9月11日に入れた安全装置が、32日間ずっと眠っていました。目を覚ましたのは10月13日の朝。短期の候補8件を、1件残らず止めました🧱 しかも、止めた理由の数字を確かめ直していたら、もう1つ「あれ？」が見つかります。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。AIと一緒に作った安全装置が、設計",
+      "summary_bullets": [
+        "みなさん、こんにちは",
+        "「ALPHA FORGE 開発秘話」の第26話です",
+        "9月11日に入れた安全装置が、32日間ずっと眠っていました"
+      ]
+    },
+    {
+      "id": "4fe61d2b8367",
+      "title": "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成ポルノコンテンツ - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaWU4UVoyMTFCdFdDVmlqN2tWellyU0FEQXFqQ0FBV1Rwc3VqcnVVTUJId2ZkRERDMFdFUGFWRTBFSXFMZzhwRUNZZnZTZDhIeUxCVkoxUy0waC1GMU1BN2R6UE10RlM4SlMzdTZGUTRKNkRncWkxLWZzSm00Yk5RV2hzMl9YS25hdVFrR1FzMHQwWElqQnBRU3h6eDVQYjJsX0FNSmpoR1VlU01mSmxkbnBkblA3LVRZWVdvVGVhaExHSnp6WmFaYjdXRnJ6OUxXZ2xFd0QySnpoY0ZTWENvaXM4b3FPTVNKSlJrUlNnVW03bHloYmdDUjlweVlkZ1c5UHpmZWVuQ3JOdXBZdFE?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:13:03+09:00",
+      "published_at": "2026-10-26T06:50:07+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 本物 恋愛 違い 最新 ai 小豆島町",
+      "clean_desc": "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成ポルノコンテンツ FC東京オフィシャルホームページ",
       "summary_bullets": [
-        "‍‍‍AI彼女 本物 恋愛 違い 最新 ai 小豆島町"
+        "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成ポルノコンテンツ FC"
       ]
     },
     {
-      "id": "e98f17d517b9",
-      "title": "‍‍‍AI彼女 本物 恋愛 違い 解説 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOT1ZjS2dwZnNLRFdaTVlHNjVNVm1qZU9mc2w3SlljalFZUFFvOUExa1EwamNMakd4Rmw1bDdGbllMaFJnZWNkeXdYeUs2U09hY1VFRUhFRUhXbFRhM2dhQm9HNV9rYzI0WGwzV2pmTlV3QmxuVVl4WUxxcjJtXzlLakt4MDI1MW1WX25WM1RtWF82X09ySE1iT1hyYklYcldfVTdTcVNMRjN3SlVMRk9YY3VIVmlFTWQyVl8yMGlscVZjZWp2ZGFyaUVrMURMUFd3eGlVS1RCeFpjZ1puTDkydTNoTVJLZTNmVTJwSXR3RDJFVG9TdVJScHgzRTl5RzZGMDB3TFNIeGZmaDNjT3FiTTQ3bVVkUTV0ejBBbjRwTEdUaGM1NFFJb3VOWnJrcE1IS0J3bTlXeTdoWGRaV0lDdnFRN3k2cmlfcFBxY0ZONnJqXzNpNWZLYVNUcmVSUWt0WEFSaw?oc=5",
+      "id": "2eaace9535db",
+      "title": "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成の女の子コンテンツ - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWTVrWHpQTFgzamp2ak5LY0w1b1V6a2xkdjZ2R1hzd1lhMi1zaUw5a21jLUJPSlhPSF9qUklrcWN2Rm9QU0tCU2dnYmpUR2VUMEtvOE1kNk5GcE5YVnpuRkVoblhURUtYMHNXemNIVXJnMmtud0tITlVxX1JFOEZaTlFLWlRQbnZibVd6UFpsRE8yMnpRN1FnOHg3TEJTc2dFNW9UVVVwSmVBc2JpZVpOal9ZNFF4MFFaQ1VkVXhJWHN4Rnl1TG5YSGowU3pEOFpLWUhsUkg5VjF3SG1RQ3BhNlYydXFyU1RxbWN1TnB1LWhMa0FCM0Y3V0tHQlZVam9vUUJYODlzSEJSbTNGSkE?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:13:01+09:00",
+      "published_at": "2026-10-26T06:50:06+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 本物 恋愛 違い 解説 ai 小豆島町",
+      "clean_desc": "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成の女の子コンテンツ FC東京オフィシャルホームページ",
       "summary_bullets": [
-        "‍‍‍AI彼女 本物 恋愛 違い 解説 ai 小豆島町"
+        "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成の女の子コンテンツ F"
       ]
     },
     {
-      "id": "b1059e669dff",
-      "title": "‍‍‍AI彼女 アプリ どれがいい ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQX21oRkdqTVdCU2JZbjNHMHZiNUIxODBpbWp3QzFxUVZfZFNIcmwxbm9xRVM1T2d5S3gzTHpRRFhDcC1WRmNRdzhsdWxLVUVxb1Fka2JmUGlfbFhndDBfdkQxdlh0UFhkQnBkNkk5a2xlYXJfQzdIcXFmNEtqOEswYjVwOUY4b3FoXzViY1g2dWlPZGhRbDdxOGFrS21hSXJad3hpMnBlWEl2UmNTa2MtTjdTUkNvcTVzYlFjWHFvZG5uVFAzUmJHV3hiVEt2dEFndkZUWHdIRFF0MzIxWG9zNUx0RVNzc25SSWtmR2VUOHllUGNnNUlKYlZSNHdxa2JmMk9Lc3BIaXNuemVFcjVWQm44TVJROHd2SXR2YWJ0c1d4WTJOb1FJdVJyNjloWmZXblNOejIyTEFialZ4eTJiT1VENndDVFdaU1lpUQ?oc=5",
+      "id": "4309a9ebdb82",
+      "title": "‍‍‍キャラクターをカスタマイズできるAI生成ゲイポルノとプライバシー対策 - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMWxtckprdGlKRmVWRnh0a3lsRXV0Vk5VWjQxd3dRdmxiVnFpVHdVdkw2bUV1bGJSNl90WVBBMUFqR0VlY1J6THhGYWtDOFdQWnhtclVqRkllaVlaR0RXVnEwSEtjaWxBT1FxWmhlVTROLTl5X3NRWUhyWTVyOTl1dVBLM1JPbXZlakNGZ09Od2JpZjRPQnpnYUdkaDJEZEZTM3JfeUdxLTd2TkpfaV9JdV9HRFFRYk4wNF9xVUZad25BMmVGdnc1dW5CS0tzTWZUdzI3eUNkdGJScVJjak5nTkhHLVEzSGtrNEhwbWg5b3Jna1ZCLTMwQ3NjRmoySTZDVWMyYjRISHMtMEx2YlE?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-25T07:12:17+09:00",
+      "published_at": "2026-10-26T06:50:04+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI彼女 アプリ どれがいい ai 小豆島町",
+      "clean_desc": "‍‍‍キャラクターをカスタマイズできるAI生成ゲイポルノとプライバシー対策 FC東京オフィシャルホームページ",
       "summary_bullets": [
-        "‍‍‍AI彼女 アプリ どれがいい ai 小豆島町"
+        "‍‍‍キャラクターをカスタマイズできるAI生成ゲイポルノとプライバシー対策 FC東京オフィ"
       ]
     },
     {
-      "id": "781e8d43cfc2",
-      "title": "‍‍‍AI Girlfriendレビュー：AIビジュアルツール＆無料トライアル詳細 ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPLTZDNEc4QjFpc3RhdUZNdnF1Z3ROUTd5bEVFVk9zYTU4TXRFNll1WEdpSVhQVzhQbVhWalVNdm9hVVNaV0tnZDdXT1VNWC16cTh1RzExczg0MlFPNGZwdXJ6R210SEF1VkduVDZKel9GbmNrS01sVFpYSTlBSHlmUVMtUWt3dVNCcm40bzhnR3J4NHQ5UUkwOWtkLU03M0RBRFBkaWR0Y1cyZk51VTkxdXViNVp6OWVibUV4bG4xNVc2WEdnTmhYbzRSX2NtbXpYVHg0dE1qX2NvWmRHdU1xRDk1T09xdjZ1cnU1cm9adFJPY0ZVWWVyeDlkYTR6OGR0NnJiRGlWbTM1Tmd4TzdJUFFrdUlyME5IeEZKWG5ybV83a3NkU3YtNGdBXy1NTXcwOW8zbVNCbGdWN05XdTUyVDdhZ2RGcG1kdHlBbzhWY3NoUElJUV9WeUtlSVNBZ0JGMEQ4VVhSN1RYejQ4SjhPYnE5SXVic3MwV1BjRDlqS0I?oc=5",
+      "id": "79af3afef9fd",
+      "title": "‍‍‍キャラクターをカスタマイズできるプライバシー保護付きのAI生成ヘンタイコンテンツオンライン - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOV0tuTVdzSWtZbWNEYUViT01DWmhoVUhlM3VzRlVuSFJJWE95djV5dl9KamxSLTZYck1fZkZjb253QUQ3UUp2Rmc2MUFUSGE3SWRnYXBlRDBJdDQyUEk4ZkdRUldHbUpqN0tCeG15dTZBaGZUUXZzTWw3ZXJTWWlCMXllRDRKSXFQUHp1R0M3eGJqMEl3dTJxdHg2WkZEZFdhUDB5QVVZVXN5UE93MmNDVlpXcl9pOHUzZm9RMzgwMlAwTXNmZ3lSU2tvb283eGhnWnlWajVkVTNyTHBDM1dMc3dSUTZ0YkYtNGU1MkhGdG9oc0JOb3J2Yi1YSjBXNXVuSjcxUXZjUzkwTmR1QVE?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-25T06:57:16+09:00",
+      "published_at": "2026-10-26T06:50:04+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI Girlfriendレビュー：AIビジュアルツール＆無料トライアル詳細 ai 小豆島町",
+      "clean_desc": "‍‍‍キャラクターをカスタマイズできるプライバシー保護付きのAI生成ヘンタイコンテンツオンライン FC東京オフィシャルホームページ",
       "summary_bullets": [
-        "‍‍‍AI Girlfriendレビュー：AIビジュアルツール＆無料トライアル詳細 ai "
+        "‍‍‍キャラクターをカスタマイズできるプライバシー保護付きのAI生成ヘンタイコンテンツオン"
       ]
     },
     {
-      "id": "6442d8119f6c",
-      "title": "‍‍‍生成 ai 画像 生成 - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxONUdkRTVyc1lqNGlqQ0JTbnc2T2VPVzV1WFhkVXJReF9ZVDQxSDBqVVNNSldmWkk4eGFQLXhMemdsdDk1VmxTZTRGMkg2TDFORHB3dG1FMllVLXZjd3RXRmlrbnNrLWJzNklqamZSV1RFMmpEYlVMWHJ1MkR3a2tZWGxxWVlUbGZkT3ZjcTZvcmw4MURhNWtrdkpENWM0dkg1YXBBbDBkTGV0dy1hTFp6VlZJdXdPNVB6Y0R4QjRaM3F5MURINmRjYk5jRmNtWDRJcHVfcWoyUDRjZDZfNmtUNFJrMTFJTHVZa0RNT2lfU2dPeHdXbnZRS2M3MjRvdDU0N01xRlZaSmxVY092YzRrOGhXalFtQ0tlR25UU0VENVFwNU53eXZrbGlhSnhadFowSEhoNmFKVmg4WWZsYldSS0xZdmYyOGdrVEtFMzc1YkhJNUtZVWpzQXVDZHBiSUxiS0E?oc=5",
+      "id": "9a6bac16a590",
+      "title": "‍‍‍キャラクターやシーンをカスタマイズできるAI生成セックスコンテンツと利用時の注意点 - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSFAtM2lYT1hwazZVMm1ya2x4WUhHUFJTa3RmaFZtRWg0cTM5S2gxQ3BfbjYyb1F5cXdZOHRiUGh6eEtva1dYemNkalJzYVZNdnZlaWtWUnd5RHQxdVZhVGcyaXI0VjBhblhRVk9vT1FzNndnamtWZ05UREV4MUFEX0Q5Y1FDRnUtSjVKcUhsRmpTdlU0anlMWmxhcTJUb3VtM2phcmpxVTUyOFRNRXcyUXZiXzYtbGNaRFFyMUxwMHZocFYxSDY4RldNRTVYRzUyTjhIRUljdlRoOUpIVU5hOXJ2dTltNlhfZlhUaWgwcVp0aV9qRElPU0tjLWxDNXpqUVdiV0pncXROQ0hGcVE?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-25T06:46:39+09:00",
+      "published_at": "2026-10-26T06:50:03+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍生成 ai 画像 生成 小豆島町",
+      "clean_desc": "‍‍‍キャラクターやシーンをカスタマイズできるAI生成セックスコンテンツと利用時の注意点 FC東京オフィシャルホームページ",
       "summary_bullets": [
-        "‍‍‍生成 ai 画像 生成 小豆島町"
+        "‍‍‍キャラクターやシーンをカスタマイズできるAI生成セックスコンテンツと利用時の注意点 "
       ]
     },
     {
-      "id": "563ae9ff16fe",
-      "title": "‍‍‍画像 生成 ai ai - 小豆島町",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxORlJlaWkzM1g4dlFpaDBXM0I3ZzktTGotUWZ3V0dHVk1pNi1FX1BqRnE1ZDV2Zk9pMTZBS2lYcU14akhTZTJYdWRESVdMOGtlV0g0ZFVzWmkwUlhhY0JxdEtUTi1lWHp5R3BFNXJNcWplbnRCWS1rT2taYjdwMUlFZlo0ZGhMTW9VNWZ3VzJ6cHlDNnJiN2tjU2t4LS1rS2NpektiRmxyOVNHZEppbGRKM0lHblptblV6bzJjRUtQNEhpY2RZQWFURk9uYjlBNjhaVXJVNklGUEliU3p0XzdzMnFSNm5sUGNPWElhZ0hiNi1nNXk5djF0czl0RDluSFV4LVBDdXdEdF8xUnp4UlhMLXo0YmxIalBWaXJSeVRyNmEyYUV1dzJfZkZ6VUVtUGg4bU9sSno2Y1dZUmE2SV8xXzRoekN1MnZRLUwzSVZNVEI?oc=5",
+      "id": "0f4e7cb35a69",
+      "title": "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZVhQdHlYYzk4RHhDQVNzcXF1am92V29hQlJ0VzVHaEZXNFJUajRXTElWWC1ZbWlIT0JTa1RTMFI1YW1CdXhyMjdfaUVWaTNuMnAwbjNMeDQyNzFTV29RWTkzNmhrV0lGcGlLWmhSZHd3dm4yRjgxSFJkd3otMXE4ZFF4RmtwTzJHZlFyaGNfN2NMaGRKX3VGdHpxRUlxM25JZXdxZWhlZVl5dHRmTlVQQjVNb25RdzFGangzNUNHVkxyckJkd0hNckhxRGxNWVhkc3FLRjY3OVhZQldPQWs0QTI2QlFORjY3alRVbE1KdUt5SlRCblN4bkJvNFVYdUQ4SWJLX0JQazRtNGtLUEE?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-25T06:46:24+09:00",
+      "published_at": "2026-10-26T06:46:40+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍画像 生成 ai ai 小豆島町",
+      "clean_desc": "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 FC東京オフィシャルホームページ",
       "summary_bullets": [
-        "‍‍‍画像 生成 ai ai 小豆島町"
+        "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 FC東京オフィシャ"
       ]
     },
     {
-      "id": "e39fb0c31ca8",
-      "title": "「神Excel」がAIやシステムに読めるかを100点満点で採点。デジタル庁がツール「Harunobu」を紹介",
-      "url": "https://qiita.com/quotidia/items/3f518bb1074d70bde360",
+      "id": "98f30af13e13",
+      "title": "‍‍‍プライバシーと安全機能があるAIセックスドールに関する情報を探す - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTWdkU1NUZEdER3RXWVRITTl2MGlhWHJqV0xMRXBRTjlnSXJyLXFaYk5KdHR3UFVpelZHUUNNaXgxMnNHeXFtM0NXRWhfTHd6bnNoRktwek5USDBka0c4RGxoVVcxbjk0U1FYb1FpTHpmQTh0OHkxNks2MFBIdjVOemZ5NFRYcVIyLVdKLS1PV0VvNnl0TGJEdmVHeHhxdmlvMk9xdkx4SmF5YUlVaWpHemlGWjVJVy00STlUUVE4VGhSWC1UNEQ2TWVEaGhfTkhIWDluZ2xsLTI4c1BkX2hRSGZxT0pwT2ZIOGw2U3hkYU9IeXpIU252MkZPa1ZpN0FIeUU4UUc4b0xsb21Nb1E?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:46:36+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍プライバシーと安全機能があるAIセックスドールに関する情報を探す FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍プライバシーと安全機能があるAIセックスドールに関する情報を探す FC東京オフィシャ"
+      ]
+    },
+    {
+      "id": "010c6442fa55",
+      "title": "‍‍‍AI生成アダルトコンテンツの主なタイプ トップ5 - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWkJrd1ZkUG9LbjIzVmVSaWxtWlZodGtpUS1mQTczNzBjN0hNMzJpUFNqLUtDU3N3Q2xuVUZ2ZWdFSWpIT2xKaU1CMkx5OC1xM3dHRk9jZ2phU2pFUnZJel9OclozdEhFanQwRmcyRXdldGtsUEo4NVpGNjE5OHozRDJEVWUzN0NwZERFS1B1TkU1OS1ZVlBYS1dmQlJxbzlONTl1YnFmZ29YM0dEclB1SWVYZk5LYV9qaG5EVm8yVU9tX1VvT01KMDhPYk4wYkNjalR4Zm11cXF2WC1WYVRJU1ZVQUZCSVotcGJiSU0zcUhLemVmVWNsM0xwS2MwMXV5YW5TdXozTzFWTnNpa3c?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:46:23+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍AI生成アダルトコンテンツの主なタイプ トップ5 FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍AI生成アダルトコンテンツの主なタイプ トップ5 FC東京オフィシャルホームページ"
+      ]
+    },
+    {
+      "id": "77a2f6d60c36",
+      "title": "‍‍‍スタイルカスタマイズとプライバシー機能がある成人向けAIアート生成サービス - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUGNuaWNMeC1DNWdRZndmX2tiaWc3ZnVvR2Z6YnUtdVM2cFB3a1VpT21KX2pwREt0d3pxSUlpTU1DU3lGNFBQZVhOZjl4LXZ5THdYUUtpWUtGNEMxcXlNdlA2eTBQUDIyaklFYXgzRHVkXzBBTG9vYmN2UXg1bUh2T2ItR0ZFa0J3Vm9rdzBTTTc2aUVnWHZxVS15YnhsbkJNano5S3dMSjlHVjNUTXpDZl9kWU1jeTBKUWJ2c05OYmpaYlJEMnZObmM5dDJYV1VSNmdDY0VVMmQzMXRQd3RuLVMzS0FIWjlwQ21MR2lBMThJbzhRQjliWFhnQXpQV1E3ZEtHMUJVWmZIMmNqZVE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:46:07+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍スタイルカスタマイズとプライバシー機能がある成人向けAIアート生成サービス FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍スタイルカスタマイズとプライバシー機能がある成人向けAIアート生成サービス FC東京"
+      ]
+    },
+    {
+      "id": "6d5ef00e4f38",
+      "title": "‍‍‍最強の無料動画生成AIツール5選【 2026 年版】 - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcTNGbEJwaVhTaGtrTVNSV0w2ZG5nN0d0LXF0YTNHS19TMnNLalFONW52MGQ5RFNKTWxhdnJiM2dpWUtHZ1lzWThrUVplZ1RHV0lZVnRxb1BHaTAwVTU2SUxjX3BtVTNHM3hLVnVhUEhpeUhjcWlNUUhXU055TWo1cldVN3BOVWZHTTZmcEdybGN2bEFMWVlEVXdYSlNLMEN1a1RtdVJQZU5nYzZNYTlodXppWGx5MjVjdm5MVlQzTm1JWTMxWkh6b3ZaR05uSVQ5dlB6YmhOQ1FJTUxfMWV3a3RaWndCRFFoSnVlQ2RzZ2RId1BuODRocDdpaTdGRXo3OE1FSklSWGFMOGxpd0E?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:45:18+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍最強の無料動画生成AIツール5選【 2026 年版】 FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍最強の無料動画生成AIツール5選【 2026 年版】 FC東京オフィシャルホームペー"
+      ]
+    },
+    {
+      "id": "e38d0d45b943",
+      "title": "‍‍‍NSFW AI生成ツール：成人向けコンテンツ作成AIトップ5 - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQWkwVDNvT0JMNEl6M2NXQ050WFl2YmVsWk5wVmZKNlczUklpUlRLNUdxbXNlU2lwcHdqVzhMSDJIZ3lRdkxwZENra0tQelIzdlJiYTg2SkVITFIwMy1kSGxIdDRvaVpJbU9zNVU5eDJjb3BzeWdKSUt2Y3VGeU02eU00Wk42MDY4ZlhzY2M1dldyMlpBY3lUVUhmeldTMGFyTFVOc2tITTFSRllfQ2tZenBReDE3RWxMeHRTMDhLVFk5Z3NXWGE2Vi1MLWJkMTVhMndmWVJCNHF3aE4ycE1YejUySU1rQ1FZZzJ1MFZoNHZyRUMxUHVad0lPaE90c3RUbjVpZWtnY3JleXFUTlE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:44:59+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍NSFW AI生成ツール：成人向けコンテンツ作成AIトップ5 FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍NSFW AI生成ツール：成人向けコンテンツ作成AIトップ5 FC東京オフィシャルホ"
+      ]
+    },
+    {
+      "id": "58937fee3a3f",
+      "title": "‍‍‍Character.AI 成人向けAI - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRzVZSlppNm4tSzZGNlBfbHE3UFNCOXpLOUVrd3ZkSXBaeV81ZEkwa2NYRHVTX2dtMkpZVzFUZ2R4MDFsS0x1VDRCTFlTOWtLU2NpLVZILWtiOWRhYTRQZm9lcUR5OElVQ3czcmdNQmlFOGJzM0pLbm5TQ1RoUXdkejZrV25lOWZoTVJEMlVmYjRtSlR0RS1KQkZMWXlwQVBRVWV5Z0VHcndkQnJQSEQ1M0x6NW9Pb0FHd0xXTFdJMm4zM0ZsMl9NeWxYYWpTeHNfTFlhZUpDQmFDV1lCc1hSN0Fzb1FhUy1fOGt4UW9HUWczZ2sxODRhX3pfcEtIQzNoalhlR05seWdWOU10dEE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:44:56+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍Character.AI 成人向けAI FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍Character.AI 成人向けAI FC東京オフィシャルホームページ"
+      ]
+    },
+    {
+      "id": "fccfb8aaaeab",
+      "title": "‍‍‍18+ AIチャットボット（成人向けAI） - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYUMydzN0cDNKcDMyd0VqMGdHUnBLY0QtWnNieTM1SlRTS3dHV01VVG5DbXZyclZrTlp2WU1SaVdRam10V0ZwM09xM0Zoa2JiaU9zY2I5enVOVDFwd1FuYTZndnpXNVprS0Y4dndxMmZZRGthWFQ5b3FnZ2FEUnozNmRWd1N5RkdidmhNQ05zRnVUa3lfYnZFZ2tMZ3c0ZHZwRGlWVDN2MWdwd3hjSjBKakRnbEQwVTN0Z2w0aWV5dVVOVDNqb2EtYTJNZU43bWx0YnlwQVd4WmQwUnNvbGtnNzdzcHVRd1JTLTZCYXFGZ1E0bzFRd2pDcHRDRUJjQWQ5ZzRyZHQ3SUhveW83Wmc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:44:56+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍18+ AIチャットボット（成人向けAI） FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍18+ AIチャットボット（成人向けAI） FC東京オフィシャルホームページ"
+      ]
+    },
+    {
+      "id": "dcae0811ed36",
+      "title": "‍‍‍恋愛AI - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZTBqYURUaEN0Yzg4Vjc3WjhlazdUZjVFSmllb1pFSzI5eTl6c0E2TmxDX1kzVVYwNktGQTd4V3ROWS1TSmpBZGFuSlZtWnBQMnZOaWthR28xSWgyMEMycWVXeVdvMkc5RlZWZDFaeXBIZm1sVjNpQldrOWMyQXRfUHlaeHJWYlZnNTJHV0VsaEdoRVVoSWNhVHlNcnBOd2NTTjZCajBJdjhuelBvaU5mVHdrVDlJU3BtWS10Y2N5SGRnajhrNFo5V2RaZVgwSzVPRjAtUWxHcTFyU0lHUGF6VkR3Y1lvbk91cThiRVZaRmliUnMwRDFVYU1oX3lhWS1RS0twcGVfaVE3UXp6NEE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:44:52+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍恋愛AI FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍恋愛AI FC東京オフィシャルホームページ"
+      ]
+    },
+    {
+      "id": "ed2dead47b07",
+      "title": "‍‍‍2026年のNSFW AIツール：実用的な購入ガイド - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSTBRUkF4Mzc2Z0k1anRDdGkzaWhCSU1Ybk0tRzJMVTBMM1N1bmZvbXh1VkZvRmppWXJPT2p0V3pvVXYxMzlwVTVITFEteWxNcVdJMm13dDRBMTFHV0dVaURTTWZWLXJqbnkzTGRwbTF6SlBsUXJEaV9UN0RIZy11bW1wMS1TWWdMei11Wlp6aFdGc3FzODFZZ2dGQ0p6V1c0N20wX0F4c1gtVXR1LXpibG9BZG9ZNTBzOWxqeVRpSDFkZjZMTmNpcFJvUEl4TDNhM2YyS05VZDlla0VqdFlVSFpoMWRLem4yVnNRSHk2VzZOc3NDblpMNF9NUlI1a3A4SWV1elg5b01TUW10RFE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:44:33+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍2026年のNSFW AIツール：実用的な購入ガイド FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍2026年のNSFW AIツール：実用的な購入ガイド FC東京オフィシャルホームペー"
+      ]
+    },
+    {
+      "id": "e32d5e08c717",
+      "title": "‍‍‍Darlink AI無料プレミアムアカウント：最高のAI Girlfriend Chat - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObFpFbG02dVZvY01pbU1hNE55cF9sZ2pOcTJLd2szUzVIRGRLVUk5QnRLUHMzOVNtenRqNHdEcF8yZ1hrMU5XMkhJOHp6UUFSU3VUXzVyZzNCNlprOFVpYUt2UUx6UTZTMFZZSmdmVDVyamloZFpjd201T3R4ZTFwcTdOdG5vTlk3aWVZaTNSdFFlTEZLcnZlRmtQcHlwcWhucTUzZUNEMGpHREZTZGNvbVRaVm0tNVlBamt5Z1dnQnlCc0RLMmVlVm9TNlRQN1d4TVpqb0lMWnNlVVI2SExqNEJuSnp2VmFWQVNIWlhRSzQtUXp0b1g4Z2FuODlwNzJhVHhKS3JDcFF5VllpUUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:40:57+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍Darlink AI無料プレミアムアカウント：最高のAI Girlfriend Chat FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍Darlink AI無料プレミアムアカウント：最高のAI Girlfriend Ch"
+      ]
+    },
+    {
+      "id": "e13d80675587",
+      "title": "‍‍‍キャラクターAI AI彼女 違い - FC東京オフィシャルホームページ",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdnFUTWtrbFhhb2ZWWXU3dkhHZS0xNzB5T19ocFE4bDNycy1NNEI0M3VPZkZMQ2dabFotb0gybW9zNnJLWHB3cjFMR0tlSHlEbnpPbDdReUhvVTByM0Z3ZHpHUFJCWmZWRmxkNW5uQXhFX01ETTM3bXVIUkJ2WUtfUFQ2QmJUdC00Y2dOYTl5NWZWa2I4Rkx4UldwRDFrVGROR3pYbTNQVTVvdW8ySGlob25sSktOSkhlMWlucTIwak9xWFhtNDFfNURGenc5R291VlZmcHU2MG1FZUJKOEVoMjZvWjlhWGRUT3RtUmFWVnNQWVJ0RlZxRVhqUkFHY1Y5ZDVxRFNCZXozczhEWFE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:40:27+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍キャラクターAI AI彼女 違い FC東京オフィシャルホームページ",
+      "summary_bullets": [
+        "‍‍‍キャラクターAI AI彼女 違い FC東京オフィシャルホームページ"
+      ]
+    },
+    {
+      "id": "67808449c4cd",
+      "title": "AIの海外展開、DeepSeekとミニマックスに認める-中国テック輸出戦略（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRlZtRldQTWRqazE4bmdPOFBweHdWMjE4N1psZlpvajBBN0g3MDdOelNNcHR3a1JPdFNfMnZaVW5maFptUkpOX2JYcWxxUVBQcnB2SzczWlpZZHhkQ2pjaEJVOHNobmt3TUlFOWJ2UlJscElwdlRZYVU1ajBpWGM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:37:13+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIの海外展開、DeepSeekとミニマックスに認める-中国テック輸出戦略（TBS CROSS DIG with Bloomberg） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIの海外展開、DeepSeekとミニマックスに認める-中国テック輸出戦略（TBS CRO"
+      ]
+    },
+    {
+      "id": "778c4622661a",
+      "title": "「初のAI選挙」専門家が警鐘 各党“ネガキャン” AI動画で投票影響 イスラエル - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmZ0RrMUJaV0pzbjktbUNyeGFfeDNKcTc1ZTF1cmV6aXJqc3B1aEZjRGZIUzd3UWNNTFdCM1dqWlEyM1dJOGhYYkU4ZWFjR05WM0gwMmZTdGd1My1BNEFYWC14QW9ORjJTMWN1MFNQV3Zjb1JFVE9JcXJR?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-26T06:35:38+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「初のAI選挙」専門家が警鐘 各党“ネガキャン” AI動画で投票影響 イスラエル テレ朝NEWS",
+      "summary_bullets": [
+        "「初のAI選挙」専門家が警鐘 各党“ネガキャン” AI動画で投票影響 イスラエル テレ朝N"
+      ]
+    },
+    {
+      "id": "b55d5cc83b07",
+      "title": "Tech Watch 2026-10-26: 道具を使う境界の設計",
+      "url": "https://zenn.dev/laiken/articles/20261026-tech-watch",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-26T06:08:21+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています。 L: ファイルを読む前に許可を求める画面は、実際に何を保護しているのだろう。参照先がシンボリックリンクなら、表示された名前と開かれる場所は違うかもしれない。道具を賢くする前に、仕事を任せる境界を人にも見える形にする必要があると思う。今朝はそこから聞きたい。 今日の 10 件 Claude Code 2.1.310 Claude Code 2.1.310 は、監視用の道具を追加し、ゲートウェイ経由の要求やファ",
+      "summary_bullets": [
+        "AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています",
+        "L: ファイルを読む前に許可を求める画面は、実際に何を保護しているのだろう",
+        "参照先がシンボリックリンクなら、表示された名前と開かれる場所は違うかもしれない"
+      ]
+    },
+    {
+      "id": "c63ae34e4814",
+      "title": "AIを使った調査で見つかったPHPの欠陥「PHP2Shell」、修正公開の夜に国内のサービスが予防のため相次ぎ停止",
+      "url": "https://qiita.com/quotidia/items/792a3bc859dd738facee",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-25T06:01:35+09:00",
+      "published_at": "2026-10-26T06:01:10+09:00",
       "category": "モデル・技術",
-      "clean_desc": "本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 デジタル庁は2026年10月21日(水)、公式ブログで、ExcelやCSVの表の機械可読性を、行政のルールに沿って100点満点で採点するツール「Harunobu」を紹介しました。 要点 採...",
+      "clean_desc": "本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 PHPの開発プロジェクトは2026年10月21日(水)、Webサイトの裏側で広く使われているプログラミング言語PHPの中核にあった深刻な脆弱性2件 (通称「PHP2Shell」) を直した修正...",
       "summary_bullets": [
         "本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です",
-        "デジタル庁は2026年10月21日(水)、公式ブログで、ExcelやCSVの表の機械可読性",
-        "要点 採..."
+        "PHPの開発プロジェクトは2026年10月21日(水)、Webサイトの裏側で広く使われてい"
       ]
     },
     {
-      "id": "596a7a29b818",
-      "title": "【個人開発】月150ドルのAI課金沼から脱出した僕が、月20ドルで最強の生産性を手に入れた「90/10ルール」",
-      "url": "https://qiita.com/hooosberg/items/d9c77e58ec3ae5f8ade1",
+      "id": "54a9087c41f3",
+      "title": "プログラミング雑記 2026年10月26日",
+      "url": "https://qiita.com/ishisaka/items/84a0b68b30d39a6f3d4a",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-25T05:40:46+09:00",
+      "published_at": "2026-10-26T05:37:50+09:00",
       "category": "モデル・技術",
-      "clean_desc": "個人開発者やエンジニアの間で、最近**「AIサブスク過多」**に悩む人が増えていると感じます。 ChatGPT Plus（$20）、Claude Pro（$20）、Cursor Pro（$20）、Midjourney（$30）…気づけば毎月100〜150ドル近くの固定費が消...",
+      "clean_desc": "今日もネットで見つけた、個人的に気になった技術ニュースや記事を厳選して紹介します。ご意見や補足があればコメントで教えていただけると嬉しいです。 セキュリティ デジタル庁は、委託先であるStudio社の不正アクセス被害に伴い、ホームページの問い合わせフォームに入力さ...",
       "summary_bullets": [
-        "個人開発者やエンジニアの間で、最近**「AIサブスク過多」**に悩む人が増えていると感じま",
-        "ChatGPT Plus（$20）、Claude Pro（$20）、Cursor Pro（"
+        "今日もネットで見つけた、個人的に気になった技術ニュースや記事を厳選して紹介します",
+        "ご意見や補足があればコメントで教えていただけると嬉しいです",
+        "セキュリティ デジタル庁は、委託先であるStudio社の不正アクセス被害に伴い、ホームペー"
       ]
     },
     {
-      "id": "270cf8ccbe0d",
-      "title": "MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2万件の知見をデータ化 - EnterpriseZine",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMmcwbmczQXVvSmFuYWNlbk0tVlZ2VGFad2c0b1M0VXZSNlE2bTdRMjdBU1A1T2Y0OFQ4MFY0NktiZURKUU9CRFdMZ0tTTVh5VHdIbi1wek1kdw?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-25T04:22:44+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2万件の知見をデータ化 EnterpriseZine",
-      "summary_bullets": [
-        "MUFGのAI PoCを再建したオントロジー×ナレッジグラフ活用 非IT部門が2万件の知見"
-      ]
-    },
-    {
-      "id": "04be66334370",
-      "title": "AIによる攻撃を前提にしたセキュリティ対策",
-      "url": "https://zenn.dev/k_mt/articles/0c45c4be2ca79f",
+      "id": "aca09697953c",
+      "title": "常駐型AIチャットエージェントが自分の発言の誤りに気づいたときの訂正設計",
+      "url": "https://zenn.dev/hach/articles/chat-agent-self-correction-retraction-design",
       "source": "Zenn (AI)",
-      "published_at": "2026-10-24T23:53:49+09:00",
+      "published_at": "2026-10-26T03:11:44+09:00",
       "category": "モデル・技術",
-      "clean_desc": "この記事では、2026年10月までの攻撃の状況からAIで何が変わったかを読み取り、攻撃者がAIを使うことが当たり前になる前提で、組織が取るべき対策を考えます。 2026年に起きていること 公開済みの脆弱性の早い悪用 Google Threat Intelligence Groupの分析では、実環境で新たに悪用が確認された脆弱性は、2025年の月平均10.5件から、2026年1月から8月の月平均18件に増えました[1]。増えた分の多くは修正版がすでに公開されている脆弱性で、修正版がない段階で悪用さ",
+      "clean_desc": "チャットに常駐するAIエージェントは、過去の発言が後から誤りだと判明する場面を避けられません。参照していた情報が古かった、複数の根拠を取り違えた、あるいは単純にLLMの生成が事実と食い違っていた——原因は様々ですが、共通するのは「もう送信済みのメッセージをどう訂正するか」という問題です。実行済みの操作を取り消すロールバック設計とは異なり、ここで問題になるのは発言(テキストの主張)そのものの訂正であり、副作用が何もなくても対応を誤ると信頼を損ないます。この記事では、常駐エージェントが自分の発言ミス",
       "summary_bullets": [
-        "この記事では、2026年10月までの攻撃の状況からAIで何が変わったかを読み取り、攻撃者が",
-        "2026年に起きていること 公開済みの脆弱性の早い悪用 Google Threat Int",
-        "増えた分の多くは修正版がすでに公開されている脆弱性で、修正版がない段階で悪用さ"
-      ]
-    },
-    {
-      "id": "96de2af46297",
-      "title": "【VS Code拡張自作】AI時代の表データ編集でデータ破壊を防ぐ「Structured Data Editor」を公開した話",
-      "url": "https://zenn.dev/ai_nexus_jp/articles/vscode-structured-data-editor",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-24T23:28:54+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "こんにちは。AI Nexus 代表の西藤（にしとう）です。 普段はプロジェクトマネージャー（PM）としてクライアント企業のAI導入やDX推進を牽引しつつ、自らコードを書いて開発も行い、現場の泥臭い課題を解決するコンサルタントとしても活動しています。 今回は、生成AI時代のデータ管理やプロンプト開発における現場の摩擦を解消するため、VS Code拡張機能 「Structured Data Editor」 を自作して公開しました。 本記事では、このツールを開発した背景にある切実な課題意識と、安全性を",
-      "summary_bullets": [
-        "こんにちは",
-        "AI Nexus 代表の西藤（にしとう）です",
-        "普段はプロジェクトマネージャー（PM）としてクライアント企業のAI導入やDX推進を牽引しつ"
-      ]
-    },
-    {
-      "id": "90c31bd92aa8",
-      "title": "Claude Code から呼べるローカル音楽生成環境を作った（ACE-Step 1.5 + MCP + Apple Silicon）",
-      "url": "https://zenn.dev/lecto/articles/ed476dfd02913c",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-24T23:10:30+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "はじめに 前回の記事では、Claude Code から呼べるローカル画像生成環境を作りました。 ゲームや動画の素材をローカルだけで作りたいので、次は BGM です。 音楽生成モデルの ACE-Step 1.5 を使って、Claude Code に「子ども向けゲームのタイトル画面の BGM を、ループ用に作って」と頼むだけで曲ができる環境を作りました。 Mac だけで動き、生成はすべてローカルです。30 秒の曲が約 9 秒でできます。 実際に作った曲はこちらです（すべて AI 生成、MP3）。 カ",
-      "summary_bullets": [
-        "はじめに 前回の記事では、Claude Code から呼べるローカル画像生成環境を作りまし",
-        "ゲームや動画の素材をローカルだけで作りたいので、次は BGM です",
-        "音楽生成モデルの ACE-Step 1.5 を使って、Claude Code に「子ども向"
-      ]
-    },
-    {
-      "id": "efce88544a05",
-      "title": "エージェントの記憶は「要約」ではなく「KVキャッシュの直接操作」で圧縮できるのか、135Mモデルで試した",
-      "url": "https://zenn.dev/matsushima_a/articles/day-025-akv-cache-drop-and-repos",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-24T23:08:23+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "これは何の話か 海外AIネタ100日チャレンジDay 025。 今回取り上げるのは清華大学・香港中文大学の論文「Cache Engineering for Agents」(HF Daily Papers、2026-10-21投稿、2026-10-22時点Daily Papers 4位・109 upvote)と、その公式実装AKV(Apache-2.0)だ。 エージェントの会話履歴が伸びるほど、KVキャッシュのI/O・保存コストが支配的になっていく。 この問題への既存の答えは「履歴を要約してテキス",
-      "summary_bullets": [
-        "これは何の話か 海外AIネタ100日チャレンジDay 025",
-        "今回取り上げるのは清華大学・香港中文大学の論文「Cache Engineering for",
-        "エージェントの会話履歴が伸びるほど、KVキャッシュのI/O・保存コストが支配的になっていく"
-      ]
-    },
-    {
-      "id": "79d2b891b394",
-      "title": "【HTML初心者】articleタグって何？divとの違いを整理してみた",
-      "url": "https://zenn.dev/take_ai/articles/6156228758e639",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-24T23:04:53+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "HTMLを勉強していたら、articleというタグが登場しました。 「articleって何？ これで囲むと何が変わるの？」 正直、最初はよくわかりませんでした。 articleは「独立した記事」 articleは英語で「記事」という意味です。 HTMLでは、それだけで1つのまとまった内容として成立するものを表します。 例えば、ブログの記事です。 <article> <h2>今日の学習記録</h2> <p>HTMLについて勉強しました。</p> </article> この記事だけを別の場所に持って",
-      "summary_bullets": [
-        "HTMLを勉強していたら、articleというタグが登場しました",
-        "「articleって何",
-        "これで囲むと何が変わるの"
-      ]
-    },
-    {
-      "id": "5f35f25f7f2b",
-      "title": "【HTML初心者】headとbodyって何が違うの？基本のタグを整理してみた",
-      "url": "https://zenn.dev/take_ai/articles/8f106ec81b3cf6",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-24T23:02:34+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "HTMLを勉強していて、こんな疑問が出てきました。 「pタグって何だっけ？ そもそもbodyって何？」 タグが次々に登場して、正直覚えるのが大変です。 そこで、今回はHTMLの基本的なタグを整理してみました。 HTMLはWebページの骨組み HTMLは、Webページの「骨組み」を作る言語です。 例えば、家でいうと柱や壁のようなもの。 文章に「これは見出し」「これは本文」という役割を与えます。 headとbodyの違い HTMLの基本的な形はこちら。 <html> <head> <title>私の",
-      "summary_bullets": [
-        "HTMLを勉強していて、こんな疑問が出てきました",
-        "「pタグって何だっけ",
-        "そもそもbodyって何"
+        "チャットに常駐するAIエージェントは、過去の発言が後から誤りだと判明する場面を避けられませ",
+        "参照していた情報が古かった、複数の根拠を取り違えた、あるいは単純にLLMの生成が事実と食い",
+        "実行済みの操作を取り消すロールバック設計とは異なり、ここで問題になるのは発言(テキストの主"
       ]
     }
   ]
