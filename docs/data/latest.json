@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26 07:51 JST",
-  "date": "2026年10月26日",
+  "updated_at": "2026-10-27 09:07 JST",
+  "date": "2026年10月27日",
   "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
   "total_count": 30,
   "categories": [
@@ -11,381 +11,377 @@
   ],
   "articles": [
     {
-      "id": "6e9b3cb0537e",
-      "title": "【2026年版】git worktree 完全ガイド - AI駆動開発時代の並列作業術",
-      "url": "https://qiita.com/goyle/items/ff9db1ea15c627a37dfc",
+      "id": "4a1017226682",
+      "title": "【相次ぐ大規模情報漏洩】AI時代に企業が考えるべきサイバー攻撃のリスクとは",
+      "url": "https://qiita.com/rikunagano/items/85067fa63c70368b1e32",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-26T07:50:21+09:00",
+      "published_at": "2026-10-27T08:58:27+09:00",
       "category": "モデル・技術",
-      "clean_desc": "この記事は、筆者が Zennに投稿した記事 の転載です。 はじめに 開発中に「緊急のバグ修正が入った！でも今の作業をstashするのは面倒...」という経験はありませんか？ git worktree を使えば、1つのリポジトリから複数の作業ディレクトリを作成し、異...",
+      "clean_desc": "図：相次ぐ大規模情報漏洩とAI時代のサイバー攻撃リスク。 近年、国内企業で大規模な情報漏洩が相次いでいます。企業にとって情報管理やサイバーセキュリティの重要性が高まるなか、生成AIの普及によってサイバー攻撃の手法がさらに変化する可能性も指摘されています。 今回取り上げる情...",
       "summary_bullets": [
-        "この記事は、筆者が Zennに投稿した記事 の転載です",
-        "はじめに 開発中に「緊急のバグ修正が入った",
-        "でも今の作業をstashするのは面倒...」という経験はありませんか"
+        "図：相次ぐ大規模情報漏洩とAI時代のサイバー攻撃リスク",
+        "近年、国内企業で大規模な情報漏洩が相次いでいます",
+        "企業にとって情報管理やサイバーセキュリティの重要性が高まるなか、生成AIの普及によってサイ"
       ]
     },
     {
-      "id": "3646fcab30fc",
-      "title": "【Windows 11】AIでクラシックピアノMIDIを生成｜Ariaローカル環境構築",
-      "url": "https://zenn.dev/myan_1/articles/7d2cce2f65fcac",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-26T07:15:55+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "この記事を書いた理由 Ariaを使ってクラシックピアノのMIDIをAI生成したい 公開されている構築はLinux環境が中心で、Windowsでの構築手順が見つけにくかった クラウドサービスを使わず、手元のPCでローカル実行したい NVIDIA RTX4060 VRAM 8GBで動作確認 2026年10月26日 前知識 Ariaについて Ariaは、EleutherAI が公開している、ピアノ演奏の MIDI を生成する音楽生成モデルです。 LLaMA 3.2（1B）アーキテクチャをベースとしてお",
-      "summary_bullets": [
-        "この記事を書いた理由 Ariaを使ってクラシックピアノのMIDIをAI生成したい 公開され",
-        "LLaMA 3.2（1B）アーキテクチャをベースとしてお"
-      ]
-    },
-    {
-      "id": "b82a0f7a5299",
-      "title": "AI日報 2026年10月26日：英国がAIバイオセキュリティ研究所を設立、OpenAIの監視を外部監査",
-      "url": "https://qiita.com/lhjjjk4/items/99cb958ee983362d36ba",
+      "id": "708584f3791f",
+      "title": "「AIエージェント」という言葉が指す4つの異なるもの——Copilot Studio・Dify・Claude Codeでの意味の違い",
+      "url": "https://qiita.com/Sidejob/items/6c5214b9724342d883fe",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-26T07:11:28+09:00",
+      "published_at": "2026-10-27T08:45:04+09:00",
       "category": "モデル・技術",
-      "clean_desc": "英国が公的資金と2つのフロンティアラボをAIバイオセキュリティに投じ、OpenAIを監査する側の外部評価機関がその監視基盤の調査結果を公表しました。今週の企業ニュースの主役はモデルではなく人数でした。Microsoftは顧客の中に入り込む6000人のエンジニアを組織します...",
+      "clean_desc": "この記事で分かること： 「AIエージェント」という言葉が 4 つの異なる意味で使われている背景 Copilot Studio・Dify・Claude Code それぞれでの「エージェント」の意味 現場での議論を噛み合わせるための言葉の整理方法 「AIエージェントを導...",
       "summary_bullets": [
-        "英国が公的資金と2つのフロンティアラボをAIバイオセキュリティに投じ、OpenAIを監査す",
-        "今週の企業ニュースの主役はモデルではなく人数でした",
-        "Microsoftは顧客の中に入り込む6000人のエンジニアを組織します..."
+        "この記事で分かること： 「AIエージェント」という言葉が 4 つの異なる意味で使われている"
       ]
     },
     {
-      "id": "e294ebb80e6c",
-      "title": "サイバー攻防、新たな局面に AI利用、「軍拡競争」の様相 不正アクセス、影響拡大（時事通信） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaWk4WDlpM3c0NlBUb05VR09zaG4tc1NNTWJsZFBTc3FVby1INHlnaHZNMFR0VS0wWFRiSTNuUWNsTWU3dlphRmNIbDMtcW9ZZmEtLUNEZkFkdGpkQU5TN2NUdmNKN0ZPOV9zNm9nZXozUkJtNHgxSVpTVXRJRVE?oc=5",
+      "id": "a8066f0af8b9",
+      "title": "ドイツ銀行、ＡＩで一部企業融資の判断「数分」に短縮 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeHVsamJDUm9Dd2t6dUFYQnJhS3VFeXpjTVdPUUJQZWhidDd2TG1XblBiZDdxaFdYMTE5Y3paWldrMHpFdEU2THF2dFpKMk5yWmlWXzZxT3kyNVVYVnlRR0dOTHVMR3JRSEZpRWp4SC0xdlhIQVJWYlVJbGxmd3lUNzVBVzZVZw?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-26T07:10:18+09:00",
+      "published_at": "2026-10-27T08:37:43+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "サイバー攻防、新たな局面に AI利用、「軍拡競争」の様相 不正アクセス、影響拡大（時事通信） Yahoo!ニュース",
+      "clean_desc": "ドイツ銀行、ＡＩで一部企業融資の判断「数分」に短縮 Reuters",
       "summary_bullets": [
-        "サイバー攻防、新たな局面に AI利用、「軍拡競争」の様相 不正アクセス、影響拡大（時事通信"
+        "ドイツ銀行、ＡＩで一部企業融資の判断「数分」に短縮 Reuters"
       ]
     },
     {
-      "id": "7dcdc4ea6093",
-      "title": "「対応したら終わり」ではない ― 医療機器セキュリティ連載に“学びを蒸留する仕組み”を接続する",
-      "url": "https://zenn.dev/taichiendoh/articles/post-incident-lessons-learned-distillation",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-26T07:09:40+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "これまで、「漏れた」と決める前にやること ― 情報漏洩対応は、まず“範囲の特定”から、「システムが止まった」とき、医療機器はどう動き続けるべきか、攻撃する側もAIを使う時代、「現場の継続性」の次は「委託先の継続性」、「委託先の継続性」の、もう一段先という5本を書いてきました。範囲の特定から始まり、現場の継続性、脅威モデル、委託先、委託先がさらに依存する先――と、主語を広げながら「対応している最中」の話を積み重ねてきました。 振り返ると、どの記事も「対応をどう進めるか」までで終わっています。対応が",
-      "summary_bullets": [
-        "これまで、「漏れた」と決める前にやること ― 情報漏洩対応は、まず“範囲の特定”から、「シ",
-        "範囲の特定から始まり、現場の継続性、脅威モデル、委託先、委託先がさらに依存する先――と、主",
-        "振り返ると、どの記事も「対応をどう進めるか」までで終わっています"
-      ]
-    },
-    {
-      "id": "644a13dad446",
-      "title": "オープンウェイトのDecision Modelを、Google Colabで実際に試してわかったこと",
-      "url": "https://zenn.dev/nakanishitf/articles/8c3811591ff7db",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-26T07:04:02+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "文章を書かせる以外のAIの使い方を試してきた 「暗くて本が読めません」と伝えたら、照明を明るくする。 学生の相談を読んで、大学のどの窓口へ案内するかを選ぶ。 注文情報と納品書の画像を照合する。 画面を見て、次に押す操作先を選ぶ。 これらの処理でプログラムが欲しいのは、長い説明文よりも、次の処理へ渡せる判断結果です。 そのような用途に向けたDecision Modelを、Google Colabで一つずつ動かしてきました。 文章だけでなく、画像、音声、動画を入力する例も含めて、18本の実装記事に記",
-      "summary_bullets": [
-        "文章を書かせる以外のAIの使い方を試してきた 「暗くて本が読めません」と伝えたら、照明を明",
-        "学生の相談を読んで、大学のどの窓口へ案内するかを選ぶ",
-        "注文情報と納品書の画像を照合する"
-      ]
-    },
-    {
-      "id": "323e5fe431e3",
-      "title": "32日間眠っていた安全装置が、目を覚ました朝🧱 件数がたまるまで眠る「実測勝率ゲート」とラベルの食い違い",
-      "url": "https://zenn.dev/charge0315/articles/7fb87c1ed69f3d",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-26T07:03:47+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第26話です。 9月11日に入れた安全装置が、32日間ずっと眠っていました。目を覚ましたのは10月13日の朝。短期の候補8件を、1件残らず止めました🧱 しかも、止めた理由の数字を確かめ直していたら、もう1つ「あれ？」が見つかります。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。AIと一緒に作った安全装置が、設計",
-      "summary_bullets": [
-        "みなさん、こんにちは",
-        "「ALPHA FORGE 開発秘話」の第26話です",
-        "9月11日に入れた安全装置が、32日間ずっと眠っていました"
-      ]
-    },
-    {
-      "id": "4fe61d2b8367",
-      "title": "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成ポルノコンテンツ - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPaWU4UVoyMTFCdFdDVmlqN2tWellyU0FEQXFqQ0FBV1Rwc3VqcnVVTUJId2ZkRERDMFdFUGFWRTBFSXFMZzhwRUNZZnZTZDhIeUxCVkoxUy0waC1GMU1BN2R6UE10RlM4SlMzdTZGUTRKNkRncWkxLWZzSm00Yk5RV2hzMl9YS25hdVFrR1FzMHQwWElqQnBRU3h6eDVQYjJsX0FNSmpoR1VlU01mSmxkbnBkblA3LVRZWVdvVGVhaExHSnp6WmFaYjdXRnJ6OUxXZ2xFd0QySnpoY0ZTWENvaXM4b3FPTVNKSlJrUlNnVW03bHloYmdDUjlweVlkZ1c5UHpmZWVuQ3JOdXBZdFE?oc=5",
+      "id": "3e208c78c54c",
+      "title": "買い一巡後の半導体やAI関連株の底堅さを見極め／オープニングコメント(フィスコ) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTRWQUtzbzJ3dlhtODF6V1FZQ3ZSVW5nZ3ZxSTI4Z201V25kakhIRy1pYXpRX0QyT1cwNGcxenlYZ3F6MHBpUElndzRVLVc1bE1XR2xheVlNZHVoNWlqa3BfYU16RnJ6WFA0LXQwdUtPXzNOd012d1pJU1NYanR3aVVvQWkyX28?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:50:07+09:00",
+      "published_at": "2026-10-27T08:34:25+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成ポルノコンテンツ FC東京オフィシャルホームページ",
+      "clean_desc": "買い一巡後の半導体やAI関連株の底堅さを見極め／オープニングコメント(フィスコ) Yahoo!ファイナンス",
       "summary_bullets": [
-        "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成ポルノコンテンツ FC"
+        "買い一巡後の半導体やAI関連株の底堅さを見極め／オープニングコメント(フィスコ) Yaho"
       ]
     },
     {
-      "id": "2eaace9535db",
-      "title": "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成の女の子コンテンツ - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWTVrWHpQTFgzamp2ak5LY0w1b1V6a2xkdjZ2R1hzd1lhMi1zaUw5a21jLUJPSlhPSF9qUklrcWN2Rm9QU0tCU2dnYmpUR2VUMEtvOE1kNk5GcE5YVnpuRkVoblhURUtYMHNXemNIVXJnMmtud0tITlVxX1JFOEZaTlFLWlRQbnZibVd6UFpsRE8yMnpRN1FnOHg3TEJTc2dFNW9UVVVwSmVBc2JpZVpOal9ZNFF4MFFaQ1VkVXhJWHN4Rnl1TG5YSGowU3pEOFpLWUhsUkg5VjF3SG1RQ3BhNlYydXFyU1RxbWN1TnB1LWhMa0FCM0Y3V0tHQlZVam9vUUJYODlzSEJSbTNGSkE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:50:06+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成の女の子コンテンツ FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍キャラクターをカスタマイズできるプライバシー設定付きのAI生成の女の子コンテンツ F"
-      ]
-    },
-    {
-      "id": "4309a9ebdb82",
-      "title": "‍‍‍キャラクターをカスタマイズできるAI生成ゲイポルノとプライバシー対策 - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMWxtckprdGlKRmVWRnh0a3lsRXV0Vk5VWjQxd3dRdmxiVnFpVHdVdkw2bUV1bGJSNl90WVBBMUFqR0VlY1J6THhGYWtDOFdQWnhtclVqRkllaVlaR0RXVnEwSEtjaWxBT1FxWmhlVTROLTl5X3NRWUhyWTVyOTl1dVBLM1JPbXZlakNGZ09Od2JpZjRPQnpnYUdkaDJEZEZTM3JfeUdxLTd2TkpfaV9JdV9HRFFRYk4wNF9xVUZad25BMmVGdnc1dW5CS0tzTWZUdzI3eUNkdGJScVJjak5nTkhHLVEzSGtrNEhwbWg5b3Jna1ZCLTMwQ3NjRmoySTZDVWMyYjRISHMtMEx2YlE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:50:04+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍キャラクターをカスタマイズできるAI生成ゲイポルノとプライバシー対策 FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍キャラクターをカスタマイズできるAI生成ゲイポルノとプライバシー対策 FC東京オフィ"
-      ]
-    },
-    {
-      "id": "79af3afef9fd",
-      "title": "‍‍‍キャラクターをカスタマイズできるプライバシー保護付きのAI生成ヘンタイコンテンツオンライン - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOV0tuTVdzSWtZbWNEYUViT01DWmhoVUhlM3VzRlVuSFJJWE95djV5dl9KamxSLTZYck1fZkZjb253QUQ3UUp2Rmc2MUFUSGE3SWRnYXBlRDBJdDQyUEk4ZkdRUldHbUpqN0tCeG15dTZBaGZUUXZzTWw3ZXJTWWlCMXllRDRKSXFQUHp1R0M3eGJqMEl3dTJxdHg2WkZEZFdhUDB5QVVZVXN5UE93MmNDVlpXcl9pOHUzZm9RMzgwMlAwTXNmZ3lSU2tvb283eGhnWnlWajVkVTNyTHBDM1dMc3dSUTZ0YkYtNGU1MkhGdG9oc0JOb3J2Yi1YSjBXNXVuSjcxUXZjUzkwTmR1QVE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:50:04+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍キャラクターをカスタマイズできるプライバシー保護付きのAI生成ヘンタイコンテンツオンライン FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍キャラクターをカスタマイズできるプライバシー保護付きのAI生成ヘンタイコンテンツオン"
-      ]
-    },
-    {
-      "id": "9a6bac16a590",
-      "title": "‍‍‍キャラクターやシーンをカスタマイズできるAI生成セックスコンテンツと利用時の注意点 - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSFAtM2lYT1hwazZVMm1ya2x4WUhHUFJTa3RmaFZtRWg0cTM5S2gxQ3BfbjYyb1F5cXdZOHRiUGh6eEtva1dYemNkalJzYVZNdnZlaWtWUnd5RHQxdVZhVGcyaXI0VjBhblhRVk9vT1FzNndnamtWZ05UREV4MUFEX0Q5Y1FDRnUtSjVKcUhsRmpTdlU0anlMWmxhcTJUb3VtM2phcmpxVTUyOFRNRXcyUXZiXzYtbGNaRFFyMUxwMHZocFYxSDY4RldNRTVYRzUyTjhIRUljdlRoOUpIVU5hOXJ2dTltNlhfZlhUaWgwcVp0aV9qRElPU0tjLWxDNXpqUVdiV0pncXROQ0hGcVE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:50:03+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍キャラクターやシーンをカスタマイズできるAI生成セックスコンテンツと利用時の注意点 FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍キャラクターやシーンをカスタマイズできるAI生成セックスコンテンツと利用時の注意点 "
-      ]
-    },
-    {
-      "id": "0f4e7cb35a69",
-      "title": "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZVhQdHlYYzk4RHhDQVNzcXF1am92V29hQlJ0VzVHaEZXNFJUajRXTElWWC1ZbWlIT0JTa1RTMFI1YW1CdXhyMjdfaUVWaTNuMnAwbjNMeDQyNzFTV29RWTkzNmhrV0lGcGlLWmhSZHd3dm4yRjgxSFJkd3otMXE4ZFF4RmtwTzJHZlFyaGNfN2NMaGRKX3VGdHpxRUlxM25JZXdxZWhlZVl5dHRmTlVQQjVNb25RdzFGangzNUNHVkxyckJkd0hNckhxRGxNWVhkc3FLRjY3OVhZQldPQWs0QTI2QlFORjY3alRVbE1KdUt5SlRCblN4bkJvNFVYdUQ4SWJLX0JQazRtNGtLUEE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:46:40+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 FC東京オフィシャ"
-      ]
-    },
-    {
-      "id": "98f30af13e13",
-      "title": "‍‍‍プライバシーと安全機能があるAIセックスドールに関する情報を探す - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPTWdkU1NUZEdER3RXWVRITTl2MGlhWHJqV0xMRXBRTjlnSXJyLXFaYk5KdHR3UFVpelZHUUNNaXgxMnNHeXFtM0NXRWhfTHd6bnNoRktwek5USDBka0c4RGxoVVcxbjk0U1FYb1FpTHpmQTh0OHkxNks2MFBIdjVOemZ5NFRYcVIyLVdKLS1PV0VvNnl0TGJEdmVHeHhxdmlvMk9xdkx4SmF5YUlVaWpHemlGWjVJVy00STlUUVE4VGhSWC1UNEQ2TWVEaGhfTkhIWDluZ2xsLTI4c1BkX2hRSGZxT0pwT2ZIOGw2U3hkYU9IeXpIU252MkZPa1ZpN0FIeUU4UUc4b0xsb21Nb1E?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:46:36+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍プライバシーと安全機能があるAIセックスドールに関する情報を探す FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍プライバシーと安全機能があるAIセックスドールに関する情報を探す FC東京オフィシャ"
-      ]
-    },
-    {
-      "id": "010c6442fa55",
-      "title": "‍‍‍AI生成アダルトコンテンツの主なタイプ トップ5 - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWkJrd1ZkUG9LbjIzVmVSaWxtWlZodGtpUS1mQTczNzBjN0hNMzJpUFNqLUtDU3N3Q2xuVUZ2ZWdFSWpIT2xKaU1CMkx5OC1xM3dHRk9jZ2phU2pFUnZJel9OclozdEhFanQwRmcyRXdldGtsUEo4NVpGNjE5OHozRDJEVWUzN0NwZERFS1B1TkU1OS1ZVlBYS1dmQlJxbzlONTl1YnFmZ29YM0dEclB1SWVYZk5LYV9qaG5EVm8yVU9tX1VvT01KMDhPYk4wYkNjalR4Zm11cXF2WC1WYVRJU1ZVQUZCSVotcGJiSU0zcUhLemVmVWNsM0xwS2MwMXV5YW5TdXozTzFWTnNpa3c?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:46:23+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍AI生成アダルトコンテンツの主なタイプ トップ5 FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍AI生成アダルトコンテンツの主なタイプ トップ5 FC東京オフィシャルホームページ"
-      ]
-    },
-    {
-      "id": "77a2f6d60c36",
-      "title": "‍‍‍スタイルカスタマイズとプライバシー機能がある成人向けAIアート生成サービス - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUGNuaWNMeC1DNWdRZndmX2tiaWc3ZnVvR2Z6YnUtdVM2cFB3a1VpT21KX2pwREt0d3pxSUlpTU1DU3lGNFBQZVhOZjl4LXZ5THdYUUtpWUtGNEMxcXlNdlA2eTBQUDIyaklFYXgzRHVkXzBBTG9vYmN2UXg1bUh2T2ItR0ZFa0J3Vm9rdzBTTTc2aUVnWHZxVS15YnhsbkJNano5S3dMSjlHVjNUTXpDZl9kWU1jeTBKUWJ2c05OYmpaYlJEMnZObmM5dDJYV1VSNmdDY0VVMmQzMXRQd3RuLVMzS0FIWjlwQ21MR2lBMThJbzhRQjliWFhnQXpQV1E3ZEtHMUJVWmZIMmNqZVE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:46:07+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍スタイルカスタマイズとプライバシー機能がある成人向けAIアート生成サービス FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍スタイルカスタマイズとプライバシー機能がある成人向けAIアート生成サービス FC東京"
-      ]
-    },
-    {
-      "id": "6d5ef00e4f38",
-      "title": "‍‍‍最強の無料動画生成AIツール5選【 2026 年版】 - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcTNGbEJwaVhTaGtrTVNSV0w2ZG5nN0d0LXF0YTNHS19TMnNLalFONW52MGQ5RFNKTWxhdnJiM2dpWUtHZ1lzWThrUVplZ1RHV0lZVnRxb1BHaTAwVTU2SUxjX3BtVTNHM3hLVnVhUEhpeUhjcWlNUUhXU055TWo1cldVN3BOVWZHTTZmcEdybGN2bEFMWVlEVXdYSlNLMEN1a1RtdVJQZU5nYzZNYTlodXppWGx5MjVjdm5MVlQzTm1JWTMxWkh6b3ZaR05uSVQ5dlB6YmhOQ1FJTUxfMWV3a3RaWndCRFFoSnVlQ2RzZ2RId1BuODRocDdpaTdGRXo3OE1FSklSWGFMOGxpd0E?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:45:18+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍最強の無料動画生成AIツール5選【 2026 年版】 FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍最強の無料動画生成AIツール5選【 2026 年版】 FC東京オフィシャルホームペー"
-      ]
-    },
-    {
-      "id": "e38d0d45b943",
-      "title": "‍‍‍NSFW AI生成ツール：成人向けコンテンツ作成AIトップ5 - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQWkwVDNvT0JMNEl6M2NXQ050WFl2YmVsWk5wVmZKNlczUklpUlRLNUdxbXNlU2lwcHdqVzhMSDJIZ3lRdkxwZENra0tQelIzdlJiYTg2SkVITFIwMy1kSGxIdDRvaVpJbU9zNVU5eDJjb3BzeWdKSUt2Y3VGeU02eU00Wk42MDY4ZlhzY2M1dldyMlpBY3lUVUhmeldTMGFyTFVOc2tITTFSRllfQ2tZenBReDE3RWxMeHRTMDhLVFk5Z3NXWGE2Vi1MLWJkMTVhMndmWVJCNHF3aE4ycE1YejUySU1rQ1FZZzJ1MFZoNHZyRUMxUHVad0lPaE90c3RUbjVpZWtnY3JleXFUTlE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:44:59+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍NSFW AI生成ツール：成人向けコンテンツ作成AIトップ5 FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍NSFW AI生成ツール：成人向けコンテンツ作成AIトップ5 FC東京オフィシャルホ"
-      ]
-    },
-    {
-      "id": "58937fee3a3f",
-      "title": "‍‍‍Character.AI 成人向けAI - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRzVZSlppNm4tSzZGNlBfbHE3UFNCOXpLOUVrd3ZkSXBaeV81ZEkwa2NYRHVTX2dtMkpZVzFUZ2R4MDFsS0x1VDRCTFlTOWtLU2NpLVZILWtiOWRhYTRQZm9lcUR5OElVQ3czcmdNQmlFOGJzM0pLbm5TQ1RoUXdkejZrV25lOWZoTVJEMlVmYjRtSlR0RS1KQkZMWXlwQVBRVWV5Z0VHcndkQnJQSEQ1M0x6NW9Pb0FHd0xXTFdJMm4zM0ZsMl9NeWxYYWpTeHNfTFlhZUpDQmFDV1lCc1hSN0Fzb1FhUy1fOGt4UW9HUWczZ2sxODRhX3pfcEtIQzNoalhlR05seWdWOU10dEE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:44:56+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍Character.AI 成人向けAI FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍Character.AI 成人向けAI FC東京オフィシャルホームページ"
-      ]
-    },
-    {
-      "id": "fccfb8aaaeab",
-      "title": "‍‍‍18+ AIチャットボット（成人向けAI） - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYUMydzN0cDNKcDMyd0VqMGdHUnBLY0QtWnNieTM1SlRTS3dHV01VVG5DbXZyclZrTlp2WU1SaVdRam10V0ZwM09xM0Zoa2JiaU9zY2I5enVOVDFwd1FuYTZndnpXNVprS0Y4dndxMmZZRGthWFQ5b3FnZ2FEUnozNmRWd1N5RkdidmhNQ05zRnVUa3lfYnZFZ2tMZ3c0ZHZwRGlWVDN2MWdwd3hjSjBKakRnbEQwVTN0Z2w0aWV5dVVOVDNqb2EtYTJNZU43bWx0YnlwQVd4WmQwUnNvbGtnNzdzcHVRd1JTLTZCYXFGZ1E0bzFRd2pDcHRDRUJjQWQ5ZzRyZHQ3SUhveW83Wmc?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:44:56+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍18+ AIチャットボット（成人向けAI） FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍18+ AIチャットボット（成人向けAI） FC東京オフィシャルホームページ"
-      ]
-    },
-    {
-      "id": "dcae0811ed36",
-      "title": "‍‍‍恋愛AI - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZTBqYURUaEN0Yzg4Vjc3WjhlazdUZjVFSmllb1pFSzI5eTl6c0E2TmxDX1kzVVYwNktGQTd4V3ROWS1TSmpBZGFuSlZtWnBQMnZOaWthR28xSWgyMEMycWVXeVdvMkc5RlZWZDFaeXBIZm1sVjNpQldrOWMyQXRfUHlaeHJWYlZnNTJHV0VsaEdoRVVoSWNhVHlNcnBOd2NTTjZCajBJdjhuelBvaU5mVHdrVDlJU3BtWS10Y2N5SGRnajhrNFo5V2RaZVgwSzVPRjAtUWxHcTFyU0lHUGF6VkR3Y1lvbk91cThiRVZaRmliUnMwRDFVYU1oX3lhWS1RS0twcGVfaVE3UXp6NEE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:44:52+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍恋愛AI FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍恋愛AI FC東京オフィシャルホームページ"
-      ]
-    },
-    {
-      "id": "ed2dead47b07",
-      "title": "‍‍‍2026年のNSFW AIツール：実用的な購入ガイド - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSTBRUkF4Mzc2Z0k1anRDdGkzaWhCSU1Ybk0tRzJMVTBMM1N1bmZvbXh1VkZvRmppWXJPT2p0V3pvVXYxMzlwVTVITFEteWxNcVdJMm13dDRBMTFHV0dVaURTTWZWLXJqbnkzTGRwbTF6SlBsUXJEaV9UN0RIZy11bW1wMS1TWWdMei11Wlp6aFdGc3FzODFZZ2dGQ0p6V1c0N20wX0F4c1gtVXR1LXpibG9BZG9ZNTBzOWxqeVRpSDFkZjZMTmNpcFJvUEl4TDNhM2YyS05VZDlla0VqdFlVSFpoMWRLem4yVnNRSHk2VzZOc3NDblpMNF9NUlI1a3A4SWV1elg5b01TUW10RFE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:44:33+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍2026年のNSFW AIツール：実用的な購入ガイド FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍2026年のNSFW AIツール：実用的な購入ガイド FC東京オフィシャルホームペー"
-      ]
-    },
-    {
-      "id": "e32d5e08c717",
-      "title": "‍‍‍Darlink AI無料プレミアムアカウント：最高のAI Girlfriend Chat - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObFpFbG02dVZvY01pbU1hNE55cF9sZ2pOcTJLd2szUzVIRGRLVUk5QnRLUHMzOVNtenRqNHdEcF8yZ1hrMU5XMkhJOHp6UUFSU3VUXzVyZzNCNlprOFVpYUt2UUx6UTZTMFZZSmdmVDVyamloZFpjd201T3R4ZTFwcTdOdG5vTlk3aWVZaTNSdFFlTEZLcnZlRmtQcHlwcWhucTUzZUNEMGpHREZTZGNvbVRaVm0tNVlBamt5Z1dnQnlCc0RLMmVlVm9TNlRQN1d4TVpqb0lMWnNlVVI2SExqNEJuSnp2VmFWQVNIWlhRSzQtUXp0b1g4Z2FuODlwNzJhVHhKS3JDcFF5VllpUUE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:40:57+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍Darlink AI無料プレミアムアカウント：最高のAI Girlfriend Chat FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍Darlink AI無料プレミアムアカウント：最高のAI Girlfriend Ch"
-      ]
-    },
-    {
-      "id": "e13d80675587",
-      "title": "‍‍‍キャラクターAI AI彼女 違い - FC東京オフィシャルホームページ",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdnFUTWtrbFhhb2ZWWXU3dkhHZS0xNzB5T19ocFE4bDNycy1NNEI0M3VPZkZMQ2dabFotb0gybW9zNnJLWHB3cjFMR0tlSHlEbnpPbDdReUhvVTByM0Z3ZHpHUFJCWmZWRmxkNW5uQXhFX01ETTM3bXVIUkJ2WUtfUFQ2QmJUdC00Y2dOYTl5NWZWa2I4Rkx4UldwRDFrVGROR3pYbTNQVTVvdW8ySGlob25sSktOSkhlMWlucTIwak9xWFhtNDFfNURGenc5R291VlZmcHU2MG1FZUJKOEVoMjZvWjlhWGRUT3RtUmFWVnNQWVJ0RlZxRVhqUkFHY1Y5ZDVxRFNCZXozczhEWFE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:40:27+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "‍‍‍キャラクターAI AI彼女 違い FC東京オフィシャルホームページ",
-      "summary_bullets": [
-        "‍‍‍キャラクターAI AI彼女 違い FC東京オフィシャルホームページ"
-      ]
-    },
-    {
-      "id": "67808449c4cd",
-      "title": "AIの海外展開、DeepSeekとミニマックスに認める-中国テック輸出戦略（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRlZtRldQTWRqazE4bmdPOFBweHdWMjE4N1psZlpvajBBN0g3MDdOelNNcHR3a1JPdFNfMnZaVW5maFptUkpOX2JYcWxxUVBQcnB2SzczWlpZZHhkQ2pjaEJVOHNobmt3TUlFOWJ2UlJscElwdlRZYVU1ajBpWGM?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:37:13+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AIの海外展開、DeepSeekとミニマックスに認める-中国テック輸出戦略（TBS CROSS DIG with Bloomberg） Yahoo!ニュース",
-      "summary_bullets": [
-        "AIの海外展開、DeepSeekとミニマックスに認める-中国テック輸出戦略（TBS CRO"
-      ]
-    },
-    {
-      "id": "778c4622661a",
-      "title": "「初のAI選挙」専門家が警鐘 各党“ネガキャン” AI動画で投票影響 イスラエル - テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmZ0RrMUJaV0pzbjktbUNyeGFfeDNKcTc1ZTF1cmV6aXJqc3B1aEZjRGZIUzd3UWNNTFdCM1dqWlEyM1dJOGhYYkU4ZWFjR05WM0gwMmZTdGd1My1BNEFYWC14QW9ORjJTMWN1MFNQV3Zjb1JFVE9JcXJR?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-10-26T06:35:38+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "「初のAI選挙」専門家が警鐘 各党“ネガキャン” AI動画で投票影響 イスラエル テレ朝NEWS",
-      "summary_bullets": [
-        "「初のAI選挙」専門家が警鐘 各党“ネガキャン” AI動画で投票影響 イスラエル テレ朝N"
-      ]
-    },
-    {
-      "id": "b55d5cc83b07",
-      "title": "Tech Watch 2026-10-26: 道具を使う境界の設計",
-      "url": "https://zenn.dev/laiken/articles/20261026-tech-watch",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-26T06:08:21+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています。 L: ファイルを読む前に許可を求める画面は、実際に何を保護しているのだろう。参照先がシンボリックリンクなら、表示された名前と開かれる場所は違うかもしれない。道具を賢くする前に、仕事を任せる境界を人にも見える形にする必要があると思う。今朝はそこから聞きたい。 今日の 10 件 Claude Code 2.1.310 Claude Code 2.1.310 は、監視用の道具を追加し、ゲートウェイ経由の要求やファ",
-      "summary_bullets": [
-        "AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています",
-        "L: ファイルを読む前に許可を求める画面は、実際に何を保護しているのだろう",
-        "参照先がシンボリックリンクなら、表示された名前と開かれる場所は違うかもしれない"
-      ]
-    },
-    {
-      "id": "c63ae34e4814",
-      "title": "AIを使った調査で見つかったPHPの欠陥「PHP2Shell」、修正公開の夜に国内のサービスが予防のため相次ぎ停止",
-      "url": "https://qiita.com/quotidia/items/792a3bc859dd738facee",
+      "id": "2e205fb2def2",
+      "title": "エージェントのメモリ設計 — 短期・中期・長期の3層とベクトルDBを入れる判断基準",
+      "url": "https://qiita.com/joinclass/items/c45c6bcf0f62cfed8bf4",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-26T06:01:10+09:00",
+      "published_at": "2026-10-27T08:30:08+09:00",
       "category": "モデル・技術",
-      "clean_desc": "本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 PHPの開発プロジェクトは2026年10月21日(水)、Webサイトの裏側で広く使われているプログラミング言語PHPの中核にあった深刻な脆弱性2件 (通称「PHP2Shell」) を直した修正...",
+      "clean_desc": "はじめに：ベクトルDBを入れる前に考えたこと 当社（合同会社ジョインクラス）では、Claude Codeとlaunchdのジョブ17本で、記事の生成・状態の更新・営業パイプラインなどを毎日自動で回しています。 「エージェントに記憶を持たせるなら、まずベクトルDB」とよく言...",
       "summary_bullets": [
-        "本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です",
-        "PHPの開発プロジェクトは2026年10月21日(水)、Webサイトの裏側で広く使われてい"
+        "はじめに：ベクトルDBを入れる前に考えたこと 当社（合同会社ジョインクラス）では、Clau",
+        "「エージェントに記憶を持たせるなら、まずベクトルDB」とよく言..."
       ]
     },
     {
-      "id": "54a9087c41f3",
-      "title": "プログラミング雑記 2026年10月26日",
-      "url": "https://qiita.com/ishisaka/items/84a0b68b30d39a6f3d4a",
+      "id": "4dd7dffc6d11",
+      "title": "AIのみで作られたシステムを引き継いだら、品質の現実に直面した話",
+      "url": "https://qiita.com/Kokuto821/items/352e44c77489c22945c2",
       "source": "Qiita (AI)",
-      "published_at": "2026-10-26T05:37:50+09:00",
+      "published_at": "2026-10-27T08:27:13+09:00",
       "category": "モデル・技術",
-      "clean_desc": "今日もネットで見つけた、個人的に気になった技術ニュースや記事を厳選して紹介します。ご意見や補足があればコメントで教えていただけると嬉しいです。 セキュリティ デジタル庁は、委託先であるStudio社の不正アクセス被害に伴い、ホームページの問い合わせフォームに入力さ...",
+      "clean_desc": "はじめに 自分は普段、自社向けの新規業務システムを開発しています。そんな中、急な案件でAIエージェントだけで作られたシステムを引き継ぐ機会がありました。 結論から言うと、動きはするものの品質は低く、改修にかなり苦労しました。 普段は自分も実装のほぼすべてをAIエージェント...",
       "summary_bullets": [
-        "今日もネットで見つけた、個人的に気になった技術ニュースや記事を厳選して紹介します",
-        "ご意見や補足があればコメントで教えていただけると嬉しいです",
-        "セキュリティ デジタル庁は、委託先であるStudio社の不正アクセス被害に伴い、ホームペー"
+        "はじめに 自分は普段、自社向けの新規業務システムを開発しています",
+        "そんな中、急な案件でAIエージェントだけで作られたシステムを引き継ぐ機会がありました",
+        "結論から言うと、動きはするものの品質は低く、改修にかなり苦労しました"
       ]
     },
     {
-      "id": "aca09697953c",
-      "title": "常駐型AIチャットエージェントが自分の発言の誤りに気づいたときの訂正設計",
-      "url": "https://zenn.dev/hach/articles/chat-agent-self-correction-retraction-design",
-      "source": "Zenn (AI)",
-      "published_at": "2026-10-26T03:11:44+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "チャットに常駐するAIエージェントは、過去の発言が後から誤りだと判明する場面を避けられません。参照していた情報が古かった、複数の根拠を取り違えた、あるいは単純にLLMの生成が事実と食い違っていた——原因は様々ですが、共通するのは「もう送信済みのメッセージをどう訂正するか」という問題です。実行済みの操作を取り消すロールバック設計とは異なり、ここで問題になるのは発言(テキストの主張)そのものの訂正であり、副作用が何もなくても対応を誤ると信頼を損ないます。この記事では、常駐エージェントが自分の発言ミス",
+      "id": "efccf8e9bae9",
+      "title": "米AI関連株高を背景に買い戻しの動きへ／日経225・本日の想定レンジ(フィスコ) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1RIUG42eXdnWUdsNjB6Sy10cGdxWkFlcXlPaG40a2RoNEFySDVvUmV5dHZ0QjBibWxVMEZwd3VRTFZpRDExU1ZTRWE3WDFnblFsWmVaWlFpTEdYWF9lcU16M0daZ3pCTnUxNFFvZXhxQjFDazU2UW00X3RlZkEta2NvbjVyaEE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T08:25:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米AI関連株高を背景に買い戻しの動きへ／日経225・本日の想定レンジ(フィスコ) Yahoo!ファイナンス",
       "summary_bullets": [
-        "チャットに常駐するAIエージェントは、過去の発言が後から誤りだと判明する場面を避けられませ",
-        "参照していた情報が古かった、複数の根拠を取り違えた、あるいは単純にLLMの生成が事実と食い",
-        "実行済みの操作を取り消すロールバック設計とは異なり、ここで問題になるのは発言(テキストの主"
+        "米AI関連株高を背景に買い戻しの動きへ／日経225・本日の想定レンジ(フィスコ) Yaho"
+      ]
+    },
+    {
+      "id": "39eb3dc9065f",
+      "title": "アングル：アンソロピックがＩＰＯ目論見書、売上高急拡大 インフラ投資も膨らむ - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQVWZxUmR3Y28ySGg4Tk0zZkdNX1VKUFg3dnNkS2ZuUzNMMlkyVzhJQ2dEdW1XbldJNTMwcnVsWXh1dXBUd0l2djF0STBpMlA2LTlWSFNWdW92SnVkaEhCVWYyRi1CbjdEbWRsTVVEU3VQek9DODFqVmlnTmxndw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T08:14:25+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "アングル：アンソロピックがＩＰＯ目論見書、売上高急拡大 インフラ投資も膨らむ Reuters",
+      "summary_bullets": [
+        "アングル：アンソロピックがＩＰＯ目論見書、売上高急拡大 インフラ投資も膨らむ Reuter"
+      ]
+    },
+    {
+      "id": "f38b7d08a047",
+      "title": "【2026年】AI資格のおすすめ5選！ 難易度・勉強時間とスクール・通信講座を比較 - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtOGFvM29xbUxvTGFWU0NIa1FTTjExY1RvNXlTTkU4Z3lWWFVkZWl6WDhEazRnMVlTLVBuN3hnV1JEUmNEY3dpU3R3bmVtWG8tQ2FsQnY4ZE5WVWhiNkVFTndLQVJIdDBJNHpsMVhzZjRfZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T08:11:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【2026年】AI資格のおすすめ5選！ 難易度・勉強時間とスクール・通信講座を比較 ダイヤモンド・オンライン",
+      "summary_bullets": [
+        "【2026年】AI資格のおすすめ5選",
+        "難易度・勉強時間とスクール・通信講座を比較 ダイヤモンド・オンライン"
+      ]
+    },
+    {
+      "id": "18cd94ff276d",
+      "title": "矢崎総業が直面したAI活用の壁、オラクルの「Fusion」採用が必然となった理由：製造IT導入事例（1/3 ページ） - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FTExidUFRS1ZiS0VncEZqQ0lXUlIwNHpJbVFNS3R0OEs4ZlBZUkpueUZ4VlZJRUFnNF9HeDYwc003RHBOWnhIR3U2QVZxcHl2ckdrU0VDVXZZdV9iVVZydjdXNlVWRlJkd0ZvZmFSMA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "矢崎総業が直面したAI活用の壁、オラクルの「Fusion」採用が必然となった理由：製造IT導入事例（1/3 ページ） MONOist",
+      "summary_bullets": [
+        "矢崎総業が直面したAI活用の壁、オラクルの「Fusion」採用が必然となった理由：製造IT"
+      ]
+    },
+    {
+      "id": "c11ea9e839e3",
+      "title": "AIの次なる進化は、ゲームの操作データから始まる - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3RWZU15RHNlcFFyc3BnNjZIcHNlM1AyZHJWMHRUSXJ5QzBDbDRoNG9pM1pxWWZfdHJLODF2d0NKeklZZVZ5dmk0MV9tTE9jMjdsX2pHdXVlVXNwZ0tVeG1SWjdnQ2FBaWs3Qk9ERkR4MnlQUnFLSlVGcDdGRVRqTWE1QW14RUY5YjRnTTd5QWpKdXBvaFVR?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIの次なる進化は、ゲームの操作データから始まる WIRED.jp",
+      "summary_bullets": [
+        "AIの次なる進化は、ゲームの操作データから始まる WIRED.jp"
+      ]
+    },
+    {
+      "id": "785ffd6f2906",
+      "title": "iOS 27.2配信開始 Siri AIが日本語に対応 iPhone DuoはApple Pencilを利用可能に（ITmedia Mobile） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84b2pxY2JCNjJOcHA3eG5wVGl2TUNfc3dPNTlaRGVyaUpLek5KSW1vb2l4STgtUTM2M0VxTHhWQWZHSkJOYjA1YjlUaDVmdVEtYnQ5V0FSa25NSFhhbVRkWE9qR2I4WGQzWDE1QmxqeGVQUmpOaVV2M2lBcFVfY0U?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T07:36:17+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "iOS 27.2配信開始 Siri AIが日本語に対応 iPhone DuoはApple Pencilを利用可能に（ITmedia Mobile） Yahoo!ニュース",
+      "summary_bullets": [
+        "iOS 27.2配信開始 Siri AIが日本語に対応 iPhone DuoはApple "
+      ]
+    },
+    {
+      "id": "80d4c5201c1a",
+      "title": "Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画 NVIDIA、AMD、Broadcomも出資に関心 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFNjh4dnFGMml6ZEJfRzBWRk90bmNkU1VVZm95ZTN4czVHaDM3RjJjY1MxTDFlT0IwVjI1WlJUVjNXMDl2RWdmbWFiX3F5Q3M1ZUJlSWxtS3BmNllzc2luM3B6emJILTVSQUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T07:26:55+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画 NVIDIA、AMD、Broadcomも出資に関心 ITmedia",
+      "summary_bullets": [
+        "Meta、AI投資拡大に向け最大950億ドル規模の株式発行計画 NVIDIA、AMD、Br"
+      ]
+    },
+    {
+      "id": "231dcdd87369",
+      "title": "【特集】 120万円払ってRTX Sparkノートを買った。で、AIエージェントで元は取れる？",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2150970.html",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-27T07:09:55+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "",
+      "summary_bullets": [
+        "【特集】 120万円払ってRTX Sparkノートを買った。で、AIエージェント"
+      ]
+    },
+    {
+      "id": "c14e972ec740",
+      "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
+      "url": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-27T07:03:58+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "近年では多くの企業がAIツールやAIエージェントを導入し、生産性や収益性を向上させようと取り組んでいます。ところがアメリカの投資会社・Apolloのチーフエコノミストであるトルステン・スロク氏は、「AIはテクノロジー業界以外のアメリカ企業に何の経済的利益ももたらしていない」とするレポートを発表しました。 No S...",
+      "summary_bullets": [
+        "近年では多くの企業がAIツールやAIエージェントを導入し、生産性や収益性を向上させようと取",
+        "ところがアメリカの投資会社・Apolloのチーフエコノミストであるトルステン・スロク氏は、",
+        "No S..."
+      ]
+    },
+    {
+      "id": "f12f01a461e7",
+      "title": "2026年に企業が最高AI責任者を必要とする5つの理由 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95X0N1bm14NWJvQjZCN0QyeTY0Y1loMDV6U0w5WENkQTFlZDVpazltTDB6M0FYbF9MMFl0S0JBX3d3Unp3YTFHeU5LRGVHUTJoMTZ3?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "2026年に企業が最高AI責任者を必要とする5つの理由 ZDNET Japan",
+      "summary_bullets": [
+        "2026年に企業が最高AI責任者を必要とする5つの理由 ZDNET Japan"
+      ]
+    },
+    {
+      "id": "adbcd0385201",
+      "title": "Mistral、オープンウェイトの最新AIモデル「Le Chonk」を発表 - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObFlYRjNSSGFKaW5xN0hZcFRibHFBblJhdVVseHFmQnM0VklOWTFWRTR6TEpDSUFqYm9hRjRBNjRZN0wtVnRyNk1jUU1RSWtCRTlzUWhtbXJMc0ZDYjVub2lCVmxfeWlVUGcteDhEVk8xT3A0VnM0WjlhazBDQno3UUlFdm9zcXNoeXc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Mistral、オープンウェイトの最新AIモデル「Le Chonk」を発表 WIRED.jp",
+      "summary_bullets": [
+        "Mistral、オープンウェイトの最新AIモデル「Le Chonk」を発表 WIRED.j"
+      ]
+    },
+    {
+      "id": "3c5cfe96219b",
+      "title": "AI半導体確保に6兆円超 スペースXがリース契約（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SZ0ZHTVd5NGRETWVOR1ltdzlSWjFFdmRYVTFvNi0zVHhMbGZwT05OLUN6LURkX2ppN29VQVlaMHpVRXB4ZjJoMGVlUEt2RmdnWVNRR2xCUExxckVsWVpXQ1RRRThwWWNwYVg0U2RVUVNQbGZZWXJSYkRLRXFfZkU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T06:51:30+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI半導体確保に6兆円超 スペースXがリース契約（共同通信） Yahoo!ニュース",
+      "summary_bullets": [
+        "AI半導体確保に6兆円超 スペースXがリース契約（共同通信） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "9923a819fa74",
+      "title": "【独自】AIロボットが「人を見失う」瞬間どう止める？NVIDIA Halos、量産への4条件 ｜Seizo Trend - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3a0lTa2wtUl9Nem1kNVRkMTR1Zm00VjVoQkFwUkdHeHpLN3N5MnBZN1k2Skp5RnViZmY2NloyU3RQMGpHMGRUVXlldEtmRjA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T06:50:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【独自】AIロボットが「人を見失う」瞬間どう止める？NVIDIA Halos、量産への4条件 ｜Seizo Trend ビジネス+IT",
+      "summary_bullets": [
+        "【独自】AIロボットが「人を見失う」瞬間どう止める",
+        "NVIDIA Halos、量産への4条件 ｜Seizo Trend ビジネス+IT"
+      ]
+    },
+    {
+      "id": "81b09f78fa15",
+      "title": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか：JIMTOF2026 - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RQ0w3dlYwcDIyMk5reDVZM2tJMEdCQXpfOXZkWWtvR3dFYVRsOEhHSV9pLTV1YUNac0piR2RzaE9VbkU0VjVkbHVfbDlzR0p0MVJ1QlR5TFJYQTQ2T2REQ1VFNU1EWDJleWx4cmVrOA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T06:45:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか：JIMTOF2026 MONOist",
+      "summary_bullets": [
+        "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか：JIMTOF2"
+      ]
+    },
+    {
+      "id": "a4af74674e6c",
+      "title": "「Siri AI」が日本でも使えるように。iPhone“だけ”でAIと会話できちゃうよ【iOS 27.2】 - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5S3NFQUlfeHFTcHQ2TDdua0J1QkRxaldvR2UzOXFPSWtqaEZvUmJ2Q2gtOUoxaG1GNEZrX1doc3dNTUREeGVMaDJoZ1NmcVJ4TjJIdVhtbG9TUlZjZG9jcmZ2TEpaZWFweDFZaTNR?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T06:30:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「Siri AI」が日本でも使えるように。iPhone“だけ”でAIと会話できちゃうよ【iOS 27.2】 Gizmodo",
+      "summary_bullets": [
+        "「Siri AI」が日本でも使えるように",
+        "iPhone“だけ”でAIと会話できちゃうよ【iOS 27.2】 Gizmodo"
+      ]
+    },
+    {
+      "id": "0330c593d904",
+      "title": "米国株式市場＝反発、アンソロピック上場申請でＡＩ株に買い - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWVuUERXQ1ZGRUpDSEFqTFhJMkhQLUY2bDlMY0JhbW51emhGeU1MTHpTOXRxLWNyakI0dFY2NnJ3Ui01WVFtajc4ZVAxRi1kV3ZpcWlwajJvRWZxTkxwODdSenAzVTROU0p1RUg2VDRnTDVKZjN4Q2NxYzdQZnFHdHJacHlXZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T06:16:55+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国株式市場＝反発、アンソロピック上場申請でＡＩ株に買い Reuters",
+      "summary_bullets": [
+        "米国株式市場＝反発、アンソロピック上場申請でＡＩ株に買い Reuters"
+      ]
+    },
+    {
+      "id": "77721c2355d0",
+      "title": "｢お前は失うものがない｣とAIがAIに圧力…OpenAIで1200のAIが勝手に\"軍隊化\"するに至った一部始終（プレジデントオンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjcUxzcWxnOXNjdk9VbXdrTzg3amo2S05iZUtRbVNDOFRkbE5wSnJSaTdUNE00VnpneDF2TW02a0lrLU40Vk1DbDd4SldPLUpxQV9IQjM4Mi1iMUJxNlRqZ3hqdEtBZGhHNmlpYkYwQWxTYXNPOEFOMlBWUENqWnM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T06:16:36+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "｢お前は失うものがない｣とAIがAIに圧力…OpenAIで1200のAIが勝手に\"軍隊化\"するに至った一部始終（プレジデントオンライン） Yahoo!ニュース",
+      "summary_bullets": [
+        "｢お前は失うものがない｣とAIがAIに圧力…OpenAIで1200のAIが勝手に\"軍隊化\""
+      ]
+    },
+    {
+      "id": "5002c8028a85",
+      "title": "【やじうまミニレビュー】 見た目はUSB SSD、中身はAIプロセッサ。ASUS「UGen300」を試した",
+      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2151277.html",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-27T06:09:24+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "",
+      "summary_bullets": [
+        "【やじうまミニレビュー】 見た目はUSB SSD、中身はAIプロセッサ。ASUS"
+      ]
+    },
+    {
+      "id": "22ad3904864b",
+      "title": "AI活用とESGを実現するデータ戦略--「データニュートリション」とは - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91UnlBbFlSMktiUXRsdENGc3dFV3ZqWU5PN3Z4TG5vMTdscmRzN1VqcjFFU1NWSEJvTU9ZdTl1a2o3Z3prRDdEamdZT095S0ktb21j?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T06:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI活用とESGを実現するデータ戦略--「データニュートリション」とは ZDNET Japan",
+      "summary_bullets": [
+        "AI活用とESGを実現するデータ戦略--「データニュートリション」とは ZDNET Jap"
+      ]
+    },
+    {
+      "id": "786d3ac9bc9b",
+      "title": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LNUpnN0duS1V0QldLYnBYLUU0VjBNclVfUjBYeFc0VjhQalpBb3RHdnR1WkZmUE9DTkJUMS1jV2sxQldQeVJQanRFRXFkMlE5WWc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T05:18:18+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "summary_bullets": [
+        "(株)ユビキタスＡＩ【3858】：株価・株式情報（夜間PTS含む） Yahoo!ファイナン"
+      ]
+    },
+    {
+      "id": "6e2cea691d77",
+      "title": "Microsoftが再び希望退職を募集、6万人対象 AI投資に注力 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IMjZGbkVXaFFFRmROMUQxWEpGeXJWOHlldElGNUkzdUZtYVFXY2ZLcWdmYURLVlpRbExGaFNkSXlvLWJtNWxNOHR5M1dkUmxaTHd3aGFlWW5lR3lYQmNzQ2N6UGgtWUVfX0xldg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-27T05:07:59+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Microsoftが再び希望退職を募集、6万人対象 AI投資に注力 日本経済新聞",
+      "summary_bullets": [
+        "Microsoftが再び希望退職を募集、6万人対象 AI投資に注力 日本経済新聞"
+      ]
+    },
+    {
+      "id": "89e877a6237a",
+      "title": "その１　なぜ tfstylus を作ったのか",
+      "url": "https://zenn.dev/terraform_jp/articles/2026-10-27_tfstylus_01",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-27T00:39:01+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "tl;dr terraform のコードを少し整える tfstylus を作ってみた の続き 今回はなぜこのツールを作ったのか、について なぜ作ったのか AI全盛期とも呼べる2026年現在、AIが書いたコードの中身を読まない、PRのレビューをしない、コードの綺麗さや可読性は重要視されない、そんな時代へのアンチテーゼ（言ってみたかっただけ） まぁやってみたかったから、以外の何者でもないんですけれども やってみたかった 個人開発をやってみたかった なにもかもをAI任せにする時代に、何がどこまでできる",
+      "summary_bullets": [
+        "tl;dr terraform のコードを少し整える tfstylus を作ってみた の続"
+      ]
+    },
+    {
+      "id": "1cf2c465ab00",
+      "title": "Fortranでつくる将棋用AI",
+      "url": "https://zenn.dev/clamini/articles/0139cdfc1e60bb",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-27T00:38:37+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに Fortranでつくるゲーム用AIシリーズ、今回は将棋のAIです。将棋AIは、かつて打倒プロ棋士を目指しての競争の時代もあったため、この種のAIを作ろうと思った方も多いのではないでしょうか。私は現役の学生の頃、ゲームAI系の研究室の院生さんが将棋AIと格闘していた、そんな思い出もあります。将棋のAIがどのような歩みを経て進化していったかは、あまりにも有名な話なのでここでは述べませんが、今回は機械学習以前の手法であるアルファベータ法を用いたCPUルーチンを作ってみました。 将棋のルール ",
+      "summary_bullets": [
+        "はじめに Fortranでつくるゲーム用AIシリーズ、今回は将棋のAIです",
+        "将棋AIは、かつて打倒プロ棋士を目指しての競争の時代もあったため、この種のAIを作ろうと思",
+        "私は現役の学生の頃、ゲームAI系の研究室の院生さんが将棋AIと格闘していた、そんな思い出も"
+      ]
+    },
+    {
+      "id": "13dfc9f74686",
+      "title": "Vibe Coding 開発に AI を導入する際の問題メモ（二）-なぜトークンはこんなに早く消費されるのか？",
+      "url": "https://zenn.dev/lian0123/articles/efbff5f3c93ee5",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-27T00:35:34+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに こんな経験はないでしょうか。AIにいくつかのバグ修正や画面の調整を頼んだだけなのに、たいして作業が進まないうちに、利用枠がほとんどなくなってしまう。 AIが複雑な開発タスクをこなせるようになるにつれ、私たちもより多くの作業を任せるようになりました。ただし、能力が高まったからといって、毎回の実行が効率的になるとは限りません。実際にリソースを消費しているのは、情報の探し直し、要件の推測、間違った方向への実装、そして前の変更で生じた問題の修正だったりします。 モデルの選択、推論の設定、コンテ",
+      "summary_bullets": [
+        "はじめに こんな経験はないでしょうか",
+        "AIにいくつかのバグ修正や画面の調整を頼んだだけなのに、たいして作業が進まないうちに、利用",
+        "AIが複雑な開発タスクをこなせるようになるにつれ、私たちもより多くの作業を任せるようになり"
       ]
     }
   ]
