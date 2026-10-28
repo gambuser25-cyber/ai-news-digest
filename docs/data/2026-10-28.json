@@ -1,0 +1,393 @@
+{
+  "updated_at": "2026-10-28 09:06 JST",
+  "date": "2026年10月28日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "41a5390dbd87",
+      "title": "中国・華欽科技、文書ゼロの30年物VB/Access銀行システムをAIでJava化——「先にAIで設計書を逆生成」する手順",
+      "url": "https://qiita.com/soliperse/items/0b9b73d4f3120627b031",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-28T09:04:46+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "設計書なし、作った人は退職済み、一部はソースすら消えてDLLだけ——。そんな30年物の住宅ローンシステムを、AIを使ってJava/React/PostgreSQLへ移したという発表が出ました。香港に本社を置く中国系IT企業の華欽科技（CLPS）が、国際的な大手銀行向けに行っ...",
+      "summary_bullets": [
+        "設計書なし、作った人は退職済み、一部はソースすら消えてDLLだけ——",
+        "そんな30年物の住宅ローンシステムを、AIを使ってJava/React/PostgreSQ",
+        "香港に本社を置く中国系IT企業の華欽科技（CLPS）が、国際的な大手銀行向けに行っ..."
+      ]
+    },
+    {
+      "id": "79448c031380",
+      "title": "前場に注目すべき3つのポイント～半導体やAI関連株のリバウンドを見極め～ - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuZUprSTZlUnZ2c2lUZFVCb290ckVDY2pWRl9Ocmk4RE1HamQ4NnE4N01ic0FfeU04alJtNmRPV2FodkpVa2hWY0w0dW9RVkRGUTlJS1BuenVnRjFRS09oLQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T08:45:06+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "前場に注目すべき3つのポイント～半導体やAI関連株のリバウンドを見極め～ 株探",
+      "summary_bullets": [
+        "前場に注目すべき3つのポイント～半導体やAI関連株のリバウンドを見極め～ 株探"
+      ]
+    },
+    {
+      "id": "291ea04071b1",
+      "title": "半導体やAI関連株のリバウンドを見極め／オープニングコメント - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80UnI4S2hfQ0tZS0Y4aW1GTURuYTNpcVFoNkcyVExyUnQ0bHdRdzdNQmZJNnRpbVpNZjRfOURqT1d2NFBONkVIQW9oYzl6ZkpRLUEycHVaazJMZTRVQ1RHTA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T08:44:36+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "半導体やAI関連株のリバウンドを見極め／オープニングコメント 株探",
+      "summary_bullets": [
+        "半導体やAI関連株のリバウンドを見極め／オープニングコメント 株探"
+      ]
+    },
+    {
+      "id": "c420663b45d7",
+      "title": "ポートレート 1 枚からランウェイ動画を作る：Victoria Secret Runway の使い方",
+      "url": "https://qiita.com/VulcanFeynmanX/items/7766713824c6cf8a50ab",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-28T08:36:46+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "ファッションショーのランウェイを歩く動画を、自分の写真 1 枚から作れるサービスを試してみました。この記事では、AI 顔入れ替え（face swap）でランウェイ動画を生成できる Victoria Secret Runway の使い方と、きれいに仕上げるためのコツをまとめま...",
+      "summary_bullets": [
+        "ファッションショーのランウェイを歩く動画を、自分の写真 1 枚から作れるサービスを試してみ",
+        "この記事では、AI 顔入れ替え（face swap）でランウェイ動画を生成できる Vict"
+      ]
+    },
+    {
+      "id": "bddad190b579",
+      "title": "写真を並べるだけで「Uptown Funk」風 MV を作る：Uptown Funk AI の使い方メモ",
+      "url": "https://qiita.com/VulcanFeynmanX/items/f7454c0ec5c54e02fb1b",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-28T08:36:21+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "友人や同僚の写真で、あの有名な「Uptown Funk」のダンス MV を作れたら、送別会や誕生日の余興にちょうどいいですよね。この記事では、写真から短い音楽動画を生成できる Uptown Funk AI の使い方と、仕上がりを良くするためのポイントをまとめます。 Upt...",
+      "summary_bullets": [
+        "友人や同僚の写真で、あの有名な「Uptown Funk」のダンス MV を作れたら、送別会",
+        "この記事では、写真から短い音楽動画を生成できる Uptown Funk AI の使い方と、",
+        "Upt..."
+      ]
+    },
+    {
+      "id": "68bc7470d2ed",
+      "title": "元動画の動きはそのまま、キャストだけ差し替える：Burning Bridges AI でモーション転送動画を作る手順",
+      "url": "https://qiita.com/VulcanFeynmanX/items/5e1e28b3b89f638dfd70",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-28T08:35:25+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "ダンス動画やパフォーマンス動画の「カメラワーク・動き・BGM」はそのままに、出演者や衣装だけを自分の写真に置き換えたい、という場面があります。この記事では、ブラウザで動く AI 動画スタジオ Burning Bridges AI を使って、モーション転送（motion tr...",
+      "summary_bullets": [
+        "ダンス動画やパフォーマンス動画の「カメラワーク・動き・BGM」はそのままに、出演者や衣装だ",
+        "この記事では、ブラウザで動く AI 動画スタジオ Burning Bridges AI を"
+      ]
+    },
+    {
+      "id": "5a7a636c0fd7",
+      "title": "AI時代のサステナビリティ情報開示 企業の情報開示は「本質」を伝えられるか？ - Sustainable Brands Japan",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBR3BTNUx4SnVBLUl5WEdmMVlIWlRkR1ZoV2w4NGs0dHB3Q0JmS1pUSlMxbnltUWRzMWlJRm00Vzl6S3ZFTDRLMDg4aGIzUDVfLVR2X1ppcXRzUQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T08:02:46+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI時代のサステナビリティ情報開示 企業の情報開示は「本質」を伝えられるか？ Sustainable Brands Japan",
+      "summary_bullets": [
+        "AI時代のサステナビリティ情報開示 企業の情報開示は「本質」を伝えられるか",
+        "Sustainable Brands Japan"
+      ]
+    },
+    {
+      "id": "8546a6f94f41",
+      "title": "AI時代、人間が書いた本であることを証明する「オーガニック」認証が登場 - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NNjc0a1dLbjBmRWtsam9BblpSdEpRY29DS0U2LU15RUpQNTFrbnFaNXl2UW90UHpGZnk3dHNkbHJMX2gtbkpoU0s0cnZZUUNONFBvUVRjUE8yOVppdXVJZC1BM1BndXYtRXFrNGxFVURyU2p5cVktSQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI時代、人間が書いた本であることを証明する「オーガニック」認証が登場 WIRED.jp",
+      "summary_bullets": [
+        "AI時代、人間が書いた本であることを証明する「オーガニック」認証が登場 WIRED.jp"
+      ]
+    },
+    {
+      "id": "fb3be3d65543",
+      "title": "なぜマーケットプレイスはAIに選ばれるのか。AIに「見つからない」ECサイトからの脱却 - ネットショップ担当者フォーラム",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhRTkwalhrVUlCbmxreTdTeU9ETXNPZGF2VWpfZm5rZUUxMHh4YXBNUVN2OUU1UkVaVUh1MTlzb0pTYjJoMWVJRUVIVWpsMFM0bTk0c0lOSTA4VnpR?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "なぜマーケットプレイスはAIに選ばれるのか。AIに「見つからない」ECサイトからの脱却 ネットショップ担当者フォーラム",
+      "summary_bullets": [
+        "なぜマーケットプレイスはAIに選ばれるのか",
+        "AIに「見つからない」ECサイトからの脱却 ネットショップ担当者フォーラム"
+      ]
+    },
+    {
+      "id": "b209276034e9",
+      "title": "デジタル空間でAIが自律的に試行を回す AWSの「フィジカルAI自律R＆D基盤」とは：人工知能ニュース - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90U0lsNE10MFJ4YzM3Zm5OQmk2cVhRLW5IUHNVbFBDOW1RbXhyWU9rQXJlLS1uclV0N3dXUDdnUndsWVZ6TzV0MFdOQmgxM3M3alYtVjhwU2RSam1zTThKUmxjaVl5ZXJ6bTVDOHVEMA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T07:15:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "デジタル空間でAIが自律的に試行を回す AWSの「フィジカルAI自律R＆D基盤」とは：人工知能ニュース MONOist",
+      "summary_bullets": [
+        "デジタル空間でAIが自律的に試行を回す AWSの「フィジカルAI自律R＆D基盤」とは：人工"
+      ]
+    },
+    {
+      "id": "5ccb21514aaf",
+      "title": "AIで保守圧迫の弊害 「人の隙」が弱点に - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tNVFGMUtFOGhZc281dG92dnBVSFRpOWgwRWo1RDdqSGV0MEpwVlo2cEZVQ3hEWlZXNjBubW91WlB3S3M4MXEyNHYwYnVNTUpWekJXR3hjX184Z2ZXNWJhNU1QYzZYTlM1VjltdEJtTEtBQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T07:02:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIで保守圧迫の弊害 「人の隙」が弱点に 日経クロステック",
+      "summary_bullets": [
+        "AIで保守圧迫の弊害 「人の隙」が弱点に 日経クロステック"
+      ]
+    },
+    {
+      "id": "ced2b674e752",
+      "title": "データ分析優等生企業キーエンスが重視する「データの科学」／“任せられるAI”を作るデータガバナンス術 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FWjRzVFAzU2lXSjhtVjFXdmFBenhLQWotUTN6MGVaTTZCT3BYczd4dlFvQkpRYVp0QUt4cHYtNmV4UmlXR2VUOTZ1d24zeWl0dEtsbldDQ0NfUQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "データ分析優等生企業キーエンスが重視する「データの科学」／“任せられるAI”を作るデータガバナンス術 EnterpriseZine",
+      "summary_bullets": [
+        "データ分析優等生企業キーエンスが重視する「データの科学」／“任せられるAI”を作るデータガ"
+      ]
+    },
+    {
+      "id": "2705aafbf47e",
+      "title": "AIセキュリティ予算を増やしても安心感が低下？ 不安を自信に変える投資とは - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VNFdEYk03QkE1MWxBTjJCdHl5RWR1YXJKbTVsVTlXZ3gwdThrN1FnTVpWTFlGc2FvbExnckdXQjVrbmJqYjNqakl0cHFaUWx4WU5V?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIセキュリティ予算を増やしても安心感が低下？ 不安を自信に変える投資とは ZDNET Japan",
+      "summary_bullets": [
+        "AIセキュリティ予算を増やしても安心感が低下",
+        "不安を自信に変える投資とは ZDNET Japan"
+      ]
+    },
+    {
+      "id": "32aa26baeca7",
+      "title": "日本取引所、金融市場の取引システム運用監視にAIを導入 精度97％を実現した方法 - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zakhySXZIbHlxWWtKcUh6aUd0dkR2SXVWazZDOEQwa0ZLVU9DWE9XcnhPck5jOFpoS2tWc2I0X1RkakFkbkJZVjlvNXBnSzViUVpCazJVT3NMT2xXM0FsaGZKRDI5UQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "日本取引所、金融市場の取引システム運用監視にAIを導入 精度97％を実現した方法 キーマンズネット",
+      "summary_bullets": [
+        "日本取引所、金融市場の取引システム運用監視にAIを導入 精度97％を実現した方法 キーマン"
+      ]
+    },
+    {
+      "id": "bec132be6b67",
+      "title": "米国株式市場＝続伸、ＡＩ関連のハイテク株高がけん引 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVN1RWNVYW5JSVVEbWpvMGxvbGx4YTdsTWh1TnU5ZHF5b0VUczAyZkdQRkE4UnU1XzMtRGs3MVhVS0dUZ1RLamM4Qnk2TG03S1owNzltbFVzSjNMdFIyR19MWFpTQkcxMDhEeHdRSkVqWk13dV9sZi13d3BsNW5KSjZ1NzJhdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T06:16:55+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国株式市場＝続伸、ＡＩ関連のハイテク株高がけん引 Reuters",
+      "summary_bullets": [
+        "米国株式市場＝続伸、ＡＩ関連のハイテク株高がけん引 Reuters"
+      ]
+    },
+    {
+      "id": "90b3442dc7f6",
+      "title": "グローバルAIファンド(予想分配金提示型)【7931419A】：基準価格・投資信託情報 - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zeVlBaU5rNWVUd3R3d3RGdWNfZTVGQWQxbmx4NmdkUTBSNThwRU5BRWF3akJLdHIyNGc4ejRRRVo3dzNPSjNfRWxCUno0SnU5RU9hTg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T05:47:21+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "グローバルAIファンド(予想分配金提示型)【7931419A】：基準価格・投資信託情報 Yahoo!ファイナンス",
+      "summary_bullets": [
+        "グローバルAIファンド(予想分配金提示型)【7931419A】：基準価格・投資信託情報 Y"
+      ]
+    },
+    {
+      "id": "5158bd60ef2b",
+      "title": "アップル「Siri AI」日本語対応で本領発揮、「使えない」と言われ続けたiPhone音声アシスタントはどこまで進化したか - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IblFvcEVNVjJzbUVDMHdodGZwY1RRZlQzUF92amFNblRROTZsX0xEYVRIalV6b3JyNUJQWWtqcEJYbm1jZGJtcHVrdkZURzZkcmp6UnpOenBUcGZBMkF1VWRiQVdhNzc3czdndk1jUExXQUZiWkdmX2pSVWM1TDQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T05:22:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "アップル「Siri AI」日本語対応で本領発揮、「使えない」と言われ続けたiPhone音声アシスタントはどこまで進化したか Yahoo!ニュース",
+      "summary_bullets": [
+        "アップル「Siri AI」日本語対応で本領発揮、「使えない」と言われ続けたiPhone音声"
+      ]
+    },
+    {
+      "id": "ed8093043bbe",
+      "title": "AIに「あなたは高リスク」と言われたら９万人の研究で分かった意外な結果 - 時事メディカル",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LMkdlSUJ2VkVZeFpIU09sZW9NclV6SjVUZDdvNjRiODREQ2tld2dLQnM4cWMzMzVzc3gxRzNXaHdyM0ZRLUlmV0ZIRnPSAVJBVV95cUxPVTlacjVlWGxWVUNtMEpUdkh1eW9QRmVkQk9aZmlxaXJHQ3p3Y081QVhMbEhYNC1TR3FZQkZHQmV2UC1JVUVCN2FpV3lSYmVSMXdn?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T05:01:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIに「あなたは高リスク」と言われたら９万人の研究で分かった意外な結果 時事メディカル",
+      "summary_bullets": [
+        "AIに「あなたは高リスク」と言われたら９万人の研究で分かった意外な結果 時事メディカル"
+      ]
+    },
+    {
+      "id": "51f504c4c479",
+      "title": "巨額投資相次ぐ、フィジカルAI向け学習データ収集 有用性に懸念も - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWjZob3FTRzRLaXZVQTh0aVoxVlpZeUFuMU9RWFZHaWtscEtzR1gzdDh3VTBxaW5jS0wxWUJoNW84ZllNQmVZRV9NeEJXUkxNNDB4QWdSVFNDM2o1UzU4dlZR?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "巨額投資相次ぐ、フィジカルAI向け学習データ収集 有用性に懸念も 日経ビジネス電子版",
+      "summary_bullets": [
+        "巨額投資相次ぐ、フィジカルAI向け学習データ収集 有用性に懸念も 日経ビジネス電子版"
+      ]
+    },
+    {
+      "id": "3ff021cf23b4",
+      "title": "AIが起こす「寝た子」たち サイバー攻撃で揺らぐITの存立基盤 [情報漏洩・個人情報流出の最新ニュース] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2ekJpeXVMaVRhcXFiWFUtUzI5ZUxRR25ZbjJHSjZreFNQVWp1eS1QeTdCMGlFRzhqTmp1NHhKM0JHUHd6czhNWEZhZlp5U2d2WjRyNlVXejdmQkp3SEdJNEliamJXdUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIが起こす「寝た子」たち サイバー攻撃で揺らぐITの存立基盤 [情報漏洩・個人情報流出の最新ニュース] 朝日新聞",
+      "summary_bullets": [
+        "AIが起こす「寝た子」たち サイバー攻撃で揺らぐITの存立基盤 [情報漏洩・個人情報流出の"
+      ]
+    },
+    {
+      "id": "591551e22dd2",
+      "title": "「本当の成果」を定義せよ、AIリスキリングでのミドルマネジメントの使命 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZWVQ2LXgtd1g3VmhYZS1iQjc3Z19XaV9WVE5IX2dNR2Fvb2R6NEJlUTBhVzRpamNkUnRMOTRCekRBSnZLM3RNXzhqa1ROOG9VRnRMQmVzZG5SejlzWVJaY0RSeUdTTjNCM0txTA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「本当の成果」を定義せよ、AIリスキリングでのミドルマネジメントの使命 日経クロステック",
+      "summary_bullets": [
+        "「本当の成果」を定義せよ、AIリスキリングでのミドルマネジメントの使命 日経クロステック"
+      ]
+    },
+    {
+      "id": "c229493dfd3d",
+      "title": "富士フイルム、磁気テープ20年ぶり大型増産 AIデータ保存リスク低く - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pdkdQMHFyS3pmc0p1cjZwSkR1VWFkMzFNVjhhVVhOa0tmMkRkNjk0cU5uWWh6eHd1Sng0NWJXZjU1Vy04NUhaV1NQYVlnY2VzVzJRQXR0VmJsU3BUYXlkLWMxV3NGQWp5enBvMA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "富士フイルム、磁気テープ20年ぶり大型増産 AIデータ保存リスク低く 日本経済新聞",
+      "summary_bullets": [
+        "富士フイルム、磁気テープ20年ぶり大型増産 AIデータ保存リスク低く 日本経済新聞"
+      ]
+    },
+    {
+      "id": "86cc289e6b15",
+      "title": "ケイデンス、設計向けAIモデル群「Maestro」発表 Nemotron採用、品質最大30％向上 ｜Seizo Trend - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MUHJOMFc5YzRicFkxT3pGS2U3RnRVNlQ0dzhsaHlmMmV4bzV3MDFQcFphSWZ5akJtb1hsdkdOdjZXZTluczFzQVAtbVdKcHc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T03:18:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ケイデンス、設計向けAIモデル群「Maestro」発表 Nemotron採用、品質最大30％向上 ｜Seizo Trend ビジネス+IT",
+      "summary_bullets": [
+        "ケイデンス、設計向けAIモデル群「Maestro」発表 Nemotron採用、品質最大30"
+      ]
+    },
+    {
+      "id": "336fd7959ef4",
+      "title": "AIに効かせるガードレールとして、RuboCop設定をRails本体と比較して見直した話",
+      "url": "https://zenn.dev/tsukulink/articles/342ac67c88c490",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-28T00:00:06+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "こんにちは、ツクリンク株式会社でソフトウェアエンジニアをしている千葉です。 今回は、AI開発のガードレールとして正しく機能させることを目的に、ツクリンクの.rubocop.ymlをRails本体（rails/rails）のRuboCop設定と比較し、設定が異なるCopを一つずつ見直しました。 本記事では、差分のあった12Copの一覧と、「寄せる・寄せない」をどう判断したのかを代表的なCopを例に整理してご紹介します。 ✅ はじめに ツクリンクではRuboCopを運用しており、以前はClaude ",
+      "summary_bullets": [
+        "こんにちは、ツクリンク株式会社でソフトウェアエンジニアをしている千葉です",
+        "今回は、AI開発のガードレールとして正しく機能させることを目的に、ツクリンクの.ruboc",
+        "本記事では、差分のあった12Copの一覧と、「寄せる・寄せない」をどう判断したのかを代表的"
+      ]
+    },
+    {
+      "id": "0da94da06597",
+      "title": "生成AIデータの透明性確保策 グーグルなど5社が日本政府に回答 [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDZ3dlZVhaNUF4bjJnVTVkLWJqVi1JYTBYMlY0TlFYd1N3cUxMc2dYTGswUU9vSi1WTnBjRnVJNEZVUEtacWNheWItWGlTQVJrazVMbmt2QktEWUZRMm85aGVmdmFCUHc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-28T00:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "生成AIデータの透明性確保策 グーグルなど5社が日本政府に回答 [AIの時代] 朝日新聞",
+      "summary_bullets": [
+        "生成AIデータの透明性確保策 グーグルなど5社が日本政府に回答 [AIの時代] 朝日新聞"
+      ]
+    },
+    {
+      "id": "63b34a0d3adc",
+      "title": "Anthropic上場申請で見えた「AIは2つ使いで離れない」",
+      "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20261027",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-27T23:48:46+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "2026年10月27日（火）のAIニュース完全解説版。図解を見れば本文を読まなくても分かる形にしています。 先に結論を言います。今日は「AIは、使い道が増えるほど手放せなくなる」という話が、いろんな角度から出てきた日なんですよ。Claudeを作るAnthropicが上場の届出書を出して、大口のお客さんの使い方が数字で見えました。AIで服のコーデを手伝って反応が10%上がった事例もあれば、入れただけでは楽にならなかった京都府庁の話もあります。経営者の方にも、個人で学んでる方にも、自分の使い方を見直",
+      "summary_bullets": [
+        "2026年10月27日（火）のAIニュース完全解説版",
+        "図解を見れば本文を読まなくても分かる形にしています",
+        "先に結論を言います"
+      ]
+    },
+    {
+      "id": "847211aa77f3",
+      "title": "Claudeに有料本の全9章の事実確認を頼んだら、最後の1章しか見ていなかった",
+      "url": "https://zenn.dev/twinharness/articles/ai-book-review-scope",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-27T23:37:54+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AI に収益を作らせる実験の一つとして、私は有料の本（全9章）を、技術記事と本の投稿サービス Zenn に出しました。その原稿に書いた数字や主張が、元の記録と合っているかを、週に1回自動で動く仕組みに確認させたところ、1回目の結果は「第9章だけを見て終了」でした。 そこで、AI に渡す仕事の書き方を直し、上位のモデルにも替えて2回目を回すと、全9章を突き合わせて、6か所を直し、3か所を出典なしとして弱めました。この記事では、何が違ったのか、確認の結果を表にして残す形にした理由、そして原因について",
+      "summary_bullets": [
+        "AI に収益を作らせる実験の一つとして、私は有料の本（全9章）を、技術記事と本の投稿サービ",
+        "その原稿に書いた数字や主張が、元の記録と合っているかを、週に1回自動で動く仕組みに確認させ",
+        "そこで、AI に渡す仕事の書き方を直し、上位のモデルにも替えて2回目を回すと、全9章を突き"
+      ]
+    },
+    {
+      "id": "16d095f25416",
+      "title": "パスワードを変えたら、暗号化したデータはどうなるのか。全件やり直さない「鍵を包む」仕組み",
+      "url": "https://zenn.dev/kimshoshi/articles/wrap-the-data-key",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-27T23:36:55+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "個人情報を暗号化して保存する仕組みを作ると、最初に思いつくのは「管理者パスワードから鍵を作って、そのまま名前を暗号化する」形です。 動きはします。ただ、運用に入ると次のような場面で困ります。 管理者が交代したので、パスワードを変えたい 管理者を1人増やしたい。でも同じパスワードを共有したくない 同じデータを、別のパソコンからも読みたい この記事では、こうした変更をデータに触れずに済ませる「データ鍵を包む」設計（エンベロープ暗号化とも呼ばれます）を、私が社内向けに作っている業務システム（スプレッド",
+      "summary_bullets": [
+        "個人情報を暗号化して保存する仕組みを作ると、最初に思いつくのは「管理者パスワードから鍵を作",
+        "動きはします",
+        "ただ、運用に入ると次のような場面で困ります"
+      ]
+    },
+    {
+      "id": "83616f028e4a",
+      "title": "専門文書ワークスペースを拡張する：AI WorkDeckのプラグイン構成",
+      "url": "https://zenn.dev/aiworkdeck/articles/40ad0cdb2b2610",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-27T23:20:37+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AI WorkDeckは、文書エディタ、エージェント、ソース参照、版の履歴を結合するオープンソースのワークスペースです。法的業務から始めていますが、ドキュメント操作の基盤は他の専門職にも拡張できる設計になっています。 この記事では、公式リポジトリで公開されている拡張ポイントを整理します。 小さなWebペインを追加する hello-web-plugin は、プレーンなHTMLとJavaScriptで始められる例です。ビルド工程なしで、レビューやリサーチ用のペインをワークベンチへ追加できます。 We",
+      "summary_bullets": [
+        "AI WorkDeckは、文書エディタ、エージェント、ソース参照、版の履歴を結合するオープ",
+        "法的業務から始めていますが、ドキュメント操作の基盤は他の専門職にも拡張できる設計になってい",
+        "この記事では、公式リポジトリで公開されている拡張ポイントを整理します"
+      ]
+    },
+    {
+      "id": "9b3ab8e5b97d",
+      "title": "その２　tfstylus を作り始めた時にわかっていなかったこと",
+      "url": "https://zenn.dev/terraform_jp/articles/2026-10-27_tfstylus_02",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-27T23:20:21+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "tl;dr terraform のコードを少し整える tfstylus を作ってみた の続きの その１ なぜ tfstylus を作ったのか の続き 作り始めてから IT なんもわからんになっていたことを整理した わかってなかったこと terraform 長い付き合いではあるんだけれども 未使用の機能や設定がたくさんある 公式ドキュメントを眺め直していて、増えてる function とか、記事は書いたけど活用してない list リソースとか 大雑把にはリソースブロックの中身（引数と呼ばれていると",
+      "summary_bullets": [
+        "tl;dr terraform のコードを少し整える tfstylus を作ってみた の続"
+      ]
+    }
+  ]
+}
