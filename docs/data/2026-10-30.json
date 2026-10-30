@@ -1,0 +1,399 @@
+{
+  "updated_at": "2026-10-30 09:28 JST",
+  "date": "2026年10月30日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "cafab2d9ccd8",
+      "title": "macOS のキーチェーンで ~/.zshrc に平文で書いた認証情報を撲滅しよう",
+      "url": "https://qiita.com/megmogmog1965/items/0538e79c2077fcbd5b2d",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-30T09:26:32+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 本記事では、~/.zshrc に直書きしたトークンや API キーを macOS のキーチェーンに移し、シェルの起動時に取り出す方法を紹介します。 要点は、次の1行の置き換えです。.zshrc には値を書かず、キーチェーンから値を取り出すコマンドを書きます。 ...",
+      "summary_bullets": [
+        "はじめに 本記事では、~/.zshrc に直書きしたトークンや API キーを macOS",
+        "要点は、次の1行の置き換えです",
+        ".zshrc には値を書かず、キーチェーンから値を取り出すコマンドを書きます"
+      ]
+    },
+    {
+      "id": "0cc46e376fea",
+      "title": "MCPによるデータベースAI操作のセキュリティ設計：権限分離と読み取り専用制御の実装例",
+      "url": "https://qiita.com/blinkgroup_jp/items/145c376459073666613f",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-30T09:22:05+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに Model Context Protocol (MCP) を活用することで、LLM等のAIエージェントからデータベースへの直接的な情報検索や操作が可能になります。しかし、AIにデータベースアクセス権限を付与する設計を誤ると、意図しないデータの更新・削除や、機密情...",
+      "summary_bullets": [
+        "はじめに Model Context Protocol (MCP) を活用することで、LL",
+        "しかし、AIにデータベースアクセス権限を付与する設計を誤ると、意図しないデータの更新・削除"
+      ]
+    },
+    {
+      "id": "ab9198667f2e",
+      "title": "プログラミング雑記 2026年10月30日",
+      "url": "https://qiita.com/ishisaka/items/9850644c073235fee2ed",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-30T09:17:17+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "今日もネットで見つけた、個人的に気になった技術ニュースや記事を厳選して紹介します。ご意見や補足があればコメントで教えていただけると嬉しいです。 プログラミング EMACS 1976年にMITのAI研究所で誕生したテキストエディタ「EMACS」が50周年を迎えまし...",
+      "summary_bullets": [
+        "今日もネットで見つけた、個人的に気になった技術ニュースや記事を厳選して紹介します",
+        "ご意見や補足があればコメントで教えていただけると嬉しいです",
+        "プログラミング EMACS 1976年にMITのAI研究所で誕生したテキストエディタ「EM"
+      ]
+    },
+    {
+      "id": "d9b6c88b2c46",
+      "title": "前場に注目すべき3つのポイント～人工知能（AI）投資の採算性に対する警戒感が再燃～ - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DZjN0bWNvZkMyVUp5M0Nzc2ZIVXdvMTlrUEcwcWxuVXNjVkduYkJudGMxV3dGZzNLTTJzeHVqS056c0lvczNaQlowLXBmZmd2cW4xRTA3Y2tqNjBzZ2RoeA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T08:42:07+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "前場に注目すべき3つのポイント～人工知能（AI）投資の採算性に対する警戒感が再燃～ 株探",
+      "summary_bullets": [
+        "前場に注目すべき3つのポイント～人工知能（AI）投資の採算性に対する警戒感が再燃～ 株探"
+      ]
+    },
+    {
+      "id": "d63a64b22c03",
+      "title": "【速報】あえて役に立たない「なんJ」SKILLSを組んでみたら　役に立ってしまった",
+      "url": "https://qiita.com/metappi/items/01b36ef3f8a62e22fa95",
+      "source": "Qiita (AI)",
+      "published_at": "2026-10-30T08:39:12+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "技術のキャッチアップを楽しむために何がいいだろうか、、、、 と思った時に 近くで聞こえてきた「〇〇ンゴ」「おかのした」「許してクレメンス」と言った語録 閃きました。昨今役に立つスキルや技術記事がある中あえて 逆を行ったら新たな発見があるのではないかと。 ということで時代に逆...",
+      "summary_bullets": [
+        "技術のキャッチアップを楽しむために何がいいだろうか、、、、 と思った時に 近くで聞こえてき",
+        "昨今役に立つスキルや技術記事がある中あえて 逆を行ったら新たな発見があるのではないかと",
+        "ということで時代に逆..."
+      ]
+    },
+    {
+      "id": "4f8037acdddb",
+      "title": "DX・AI活用の成果を引き出す組織と人材のつくり方｜IPA「DX動向2026」に見る、成果を左右する5つのポイント - CTC - 伊藤忠テクノソリューションズ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsUVJtVnNXemo3b0FYcWpBMmp0bV9fTUt1b251R0lLd21lc2lTUFhBRHNOdC1zMFVTVUF4Uk1SZmh5dXI0QUxJSEQzcFJ0QTBSYVlRV2lydEdYWHkyc044YzhDSi0zQTRHNktLNUYxMA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T08:35:35+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "DX・AI活用の成果を引き出す組織と人材のつくり方｜IPA「DX動向2026」に見る、成果を左右する5つのポイント CTC - 伊藤忠テクノソリューションズ",
+      "summary_bullets": [
+        "DX・AI活用の成果を引き出す組織と人材のつくり方｜IPA「DX動向2026」に見る、成果"
+      ]
+    },
+    {
+      "id": "ed02fe7ccad0",
+      "title": "人工知能（AI）投資の採算性に対する警戒感が再燃／オープニングコメント - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nWThyTXdQSHJqRUp4bEFXNWdBX2JUYU5HS0M4R1Y0MnNiUDcxQ3BzTngxRFdlVHEwdEwwQjJIdGdjcVE5R3JyUmR3MXh2WjR2QVFJRzJCOFlubU04YlExRw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T08:24:13+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "人工知能（AI）投資の採算性に対する警戒感が再燃／オープニングコメント 株探",
+      "summary_bullets": [
+        "人工知能（AI）投資の採算性に対する警戒感が再燃／オープニングコメント 株探"
+      ]
+    },
+    {
+      "id": "3a3cfead0211",
+      "title": "マイクロソフト、米社債で250億ドル調達へ ＡＩ投資加速＝関係筋 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXdCYk9oclhZeDRGMFVRUUcySnFxNFFTREkzOHZmem5aay1OQTFEZjV2dVA5SzhXYXFlR3ZpVWFwYzJzaXZrSFpza0w3TXRzZDFpX05FODVDcTJSQkMybmhQMXZmTU9NTk90R1N5TzZSbVRfNjJ0V3hKYWNFbWVWSWxyZzAzdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T08:00:55+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "マイクロソフト、米社債で250億ドル調達へ ＡＩ投資加速＝関係筋 Reuters",
+      "summary_bullets": [
+        "マイクロソフト、米社債で250億ドル調達へ ＡＩ投資加速＝関係筋 Reuters"
+      ]
+    },
+    {
+      "id": "0e8067ba0382",
+      "title": "ロッテ／マクロミルに見るAI-ReadyなITインフラの姿 AIエージェントが変革する基盤移行と運用 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QWktPa0xfSmU3eWdMTXhPOGlreGVLYkV6VDNKUm0xNkRFMDRnSXFyQUpGaG8zMVZPS2xhLWx5VXpocVlwWVFjZ3A0YldoWV9JMDhxNy1DOUdUZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ロッテ／マクロミルに見るAI-ReadyなITインフラの姿 AIエージェントが変革する基盤移行と運用 EnterpriseZine",
+      "summary_bullets": [
+        "ロッテ／マクロミルに見るAI-ReadyなITインフラの姿 AIエージェントが変革する基盤"
+      ]
+    },
+    {
+      "id": "1ae84a15996c",
+      "title": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化：製造マネジメント インタビュー（1/2 ページ） - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VY3FYaUFqc0xJZkxvWlNmVVlNZUtBbWh3SG1yWllKODFOeTcxVmJZMjB3S1E4QzZXS3djTGZ4ZjZyX0NfRWRwTFlQNmxhS254Szk1aGpkSjZ1M2ZlOS16SWZJanFGcElEYmJqTElMWQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化：製造マネジメント インタビュー（1/2 ページ） MONOist",
+      "summary_bullets": [
+        "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化：製造マネジメント"
+      ]
+    },
+    {
+      "id": "c2d91c4a2997",
+      "title": "AIに設けられた安全対策を回避。広がるAIエージェントを悪用したサイバー攻撃 - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HUFhsM2ZicUFpeWNzY0poZkNSWU92b0hPNnoyVTR6TEdFTUxJT1ZRcmJJZklFZnFZNi13VUd6YWVVNFVHUzFTMEtMY29XeXVBdjk5RUZYcm9Ya284UU1wdlpjYVBHZ2tDR3NBZmNMcHlOMzNVaC1tMUdUcw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIに設けられた安全対策を回避。広がるAIエージェントを悪用したサイバー攻撃 WIRED.jp",
+      "summary_bullets": [
+        "AIに設けられた安全対策を回避",
+        "広がるAIエージェントを悪用したサイバー攻撃 WIRED.jp"
+      ]
+    },
+    {
+      "id": "b5b0a7b7a85e",
+      "title": "建設業のAI活用はなぜ「メール作成」止まりなのか 調査に見る“浸透の壁”（TechTargetジャパン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVk8ydC05MFBDd0MtTmNkTFRCSEQ0MGVYWjNWZThuaE81VnZlcHBQQkNpNGZvaDdTdzkzc0JyOXoxQU5IMVRYbE85NnVlTnFXQzNxaFZSamM5TnQ3VXc1OVhhcmNrV2kxZ2NDZjdoM09JNVA4cGZJRTZGbkpXSDQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T07:45:21+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "建設業のAI活用はなぜ「メール作成」止まりなのか 調査に見る“浸透の壁”（TechTargetジャパン） Yahoo!ニュース",
+      "summary_bullets": [
+        "建設業のAI活用はなぜ「メール作成」止まりなのか 調査に見る“浸透の壁”（TechTarg"
+      ]
+    },
+    {
+      "id": "f1486a31b887",
+      "title": "ファナックがCNCで挑む安全なフィジカルAI デジタルツイン×人の承認で事故防止：JIMTOF2026 - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54UUw4cjFLeXNJUlpZODBtQ3JlWEtpd2hsSUZfaWlfSklycldYTGJ3MWdxVnZMbEJVejUyR0VDdG93Z1ozelpVeUNKbEhjMlFzVnBXSXFqbzMtUHdoeDAzTk53MXFtaWp4WFVFLWJ1dw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T07:45:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ファナックがCNCで挑む安全なフィジカルAI デジタルツイン×人の承認で事故防止：JIMTOF2026 MONOist",
+      "summary_bullets": [
+        "ファナックがCNCで挑む安全なフィジカルAI デジタルツイン×人の承認で事故防止：JIMT"
+      ]
+    },
+    {
+      "id": "d0bd8f1821ad",
+      "title": "韓国でAI悪用のハッキング、個人情報など820万件窃取か…7人摘発（KOREA WAVE） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaG1kNFU4cVBwNTNZMUVuSnZjd0Jfb29iOVItMDNoaFczaEk0T2lUdGMxX3diLXB0aHQxWDJzOW1DWXJkUHp4QjJXaFBUVm5GcHZrTU1oOFpDNHFzTHFBVjBiOEhLQlpWeDJPbDJzY2pjVlRtT1ZWM2UzbkFmN2M?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T07:36:17+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "韓国でAI悪用のハッキング、個人情報など820万件窃取か…7人摘発（KOREA WAVE） Yahoo!ニュース",
+      "summary_bullets": [
+        "韓国でAI悪用のハッキング、個人情報など820万件窃取か…7人摘発（KOREA WAVE）"
+      ]
+    },
+    {
+      "id": "c297db97cd18",
+      "title": "【緊急】全システム担当者が知っておくべき「AI防御特化スキル」、主要5社の使い方 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WcDNybDVqdGhWazdrZ2xoMDUwQjl5MUFvZ2J0b1kyd1c5VHdkMnVfNVUtcXdrZkRnVzJHWGhJQVhxaVY4S3FKN19YR2JSemltbTc0?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T07:30:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【緊急】全システム担当者が知っておくべき「AI防御特化スキル」、主要5社の使い方 ビジネス+IT",
+      "summary_bullets": [
+        "【緊急】全システム担当者が知っておくべき「AI防御特化スキル」、主要5社の使い方 ビジネス"
+      ]
+    },
+    {
+      "id": "d467eeb33341",
+      "title": "第三次世界大戦？AI攻撃で社会麻痺？11/2に政府が全国民に最低3日分の備蓄を緊急要請 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJcWZHY1NsdVBlaGJVTnFrd3hCeEwydWxIMzFEMkl4bUwxUlNxcmhKMVFfY25lRzI4SVZ5aHVTaHB4blB3REFOZXdoWVA4SGtfaFdV?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T07:25:29+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "第三次世界大戦？AI攻撃で社会麻痺？11/2に政府が全国民に最低3日分の備蓄を緊急要請 ビジネス+IT",
+      "summary_bullets": [
+        "第三次世界大戦",
+        "AI攻撃で社会麻痺",
+        "11/2に政府が全国民に最低3日分の備蓄を緊急要請 ビジネス+IT"
+      ]
+    },
+    {
+      "id": "a6f7abb34cdc",
+      "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
+      "url": "https://tech.findy.co.jp/entry/2026/10/30/070000",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-30T07:25:22+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "こんにちは。こんばんは。 ファインディでリードエンジニアをしている@shootaです。 これまでFindy Team+のフロントエンドリードとして、モノレポのリアーキテクチャやCIの高速化、AIレビューの仕組みづくりといった記事を書いてきました。 tech.findy.co.jp 今回はそこから少し離れ、別のプロダクトに一人で入ってデザ...",
+      "summary_bullets": [
+        "こんにちは",
+        "こんばんは",
+        "ファインディでリードエンジニアをしている@shootaです"
+      ]
+    },
+    {
+      "id": "56897d1a3b7f",
+      "title": "社内コードの7割をAIが書くOracle、エージェント時代に向けデータ基盤から電力まで作り直す - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uVlhFS1dXeHNiOU93RWlLVjg5b0p4dTctTmt2MjZtZlFIVXFlLXk0S2RSamx0TUNFeUdWNUV3UDVNcnRnenFDT19OdnZOdGNFRHVjSUVIWG9pc21XdnpUXzUybHI2cEg2ZDgw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "社内コードの7割をAIが書くOracle、エージェント時代に向けデータ基盤から電力まで作り直す EnterpriseZine",
+      "summary_bullets": [
+        "社内コードの7割をAIが書くOracle、エージェント時代に向けデータ基盤から電力まで作り"
+      ]
+    },
+    {
+      "id": "2e5d1bf28ba7",
+      "title": "KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2152201.html",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-10-30T06:43:31+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "",
+      "summary_bullets": [
+        "KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を"
+      ]
+    },
+    {
+      "id": "3203478ca663",
+      "title": "【単独】AIを使って早く帰る社員は“ズルい”のか？日本企業を蝕む「最悪の努力主義」 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Nd2JmR0c5WGlPbE9MUFhvcUI0QVZWd01HV2N4U0VrZW1vaUNsS3RKc3k2WGNhcDlQa2RwMk52ZDV5Q2ttQWFWY0RhZmZqOG1pUlVv?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T06:40:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【単独】AIを使って早く帰る社員は“ズルい”のか？日本企業を蝕む「最悪の努力主義」 ビジネス+IT",
+      "summary_bullets": [
+        "【単独】AIを使って早く帰る社員は“ズルい”のか",
+        "日本企業を蝕む「最悪の努力主義」 ビジネス+IT"
+      ]
+    },
+    {
+      "id": "cfd3bf27d79e",
+      "title": "AIは働く人を幸せにするか？ カギは「新しい価値創造」 パーソル総研 小林祐児氏 - 日経BizGate",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5c0pIVnpRazVkXzJ3Y1V6RDUyVkhLTFZQZnB1dnROY2ZWZE9UUG9iWmNuUEREU0prRFdBR2hWc05zOFRlSUFpSXRTZzdxLVRnTUw0c0dmVXNqbV9USVBmRXhCS0xubl82bDRSREN5dEk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T06:30:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIは働く人を幸せにするか？ カギは「新しい価値創造」 パーソル総研 小林祐児氏 日経BizGate",
+      "summary_bullets": [
+        "AIは働く人を幸せにするか",
+        "カギは「新しい価値創造」 パーソル総研 小林祐児氏 日経BizGate"
+      ]
+    },
+    {
+      "id": "7c368bcfd6b2",
+      "title": "米国株式市場＝反落、アルファベット決算受けＡＩ投資に警戒 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWdIMW42eTZMalZka0g5Y19sRlEtMld4RkNHYWxCaG5nYXhNMC13VGJkd3JtR0pBUS1BbXlIS1dGNmZaa01BUHY1ZnNNendUUnVVNlNpNDgzTGV0Y0hUWTY0OS1wOEx4RmJWdFFUN3Q5R294NzNNbW9WX3JwUzNhdU1EbnY5dw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T06:16:56+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国株式市場＝反落、アルファベット決算受けＡＩ投資に警戒 Reuters",
+      "summary_bullets": [
+        "米国株式市場＝反落、アルファベット決算受けＡＩ投資に警戒 Reuters"
+      ]
+    },
+    {
+      "id": "829c37fffdbc",
+      "title": "資源の無駄遣い？ 中国のAI能力、過半がショート動画生成で消費…プログラミング用途を上回る （東洋経済オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXS29wTldXM3VvYTdNU2diM2lVTS1Ia21pYzBoLWFBVUM4SG5OUlZoYjRmYktlNG11V21YU2JsYVJUb2pRYS1xT2w2ZHU1Y1FCOXluZGZZUUxaZFFPZ0Y4Zmk5djFyaFRhMllsVXBvUWlrQXZDd1U4OHJYRE9tWG8?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T06:07:06+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "資源の無駄遣い？ 中国のAI能力、過半がショート動画生成で消費…プログラミング用途を上回る （東洋経済オンライン） Yahoo!ニュース",
+      "summary_bullets": [
+        "資源の無駄遣い",
+        "中国のAI能力、過半がショート動画生成で消費…プログラミング用途を上回る （東洋経済オンラ"
+      ]
+    },
+    {
+      "id": "e0f719d7cd7d",
+      "title": "AIは新たな攻撃手法を生み出したのではなく“待ち時間”をなくしただけ：AIが奪った「防御の猶予時間」 - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WS3FRR0tKYmhla3dHYjNacTZhN09JUEdaSlU2WlQ1TWRvX3RYUDdfRFp5ZWY4WHpXV3pISUhFTXV4d0lkUEttT0Nfam5ib3BOa2hFak5JX2JkRF9CT0h6dkg0aTU3bThUYU1jWm1STlE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIは新たな攻撃手法を生み出したのではなく“待ち時間”をなくしただけ：AIが奪った「防御の猶予時間」 TechTargetジャパン",
+      "summary_bullets": [
+        "AIは新たな攻撃手法を生み出したのではなく“待ち時間”をなくしただけ：AIが奪った「防御の"
+      ]
+    },
+    {
+      "id": "a3d9ca19d325",
+      "title": "顧客の声を聞け、AI活用度による技術者評価の弊害をAmazonが公式に認める - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OWDZIMWgyQ3FRZlJVYVlJMklTc0VoZDFvaW5iZ3drdDlQSlhuYUo3aW12RVFvUC1BRTRnZVJPTlVzQUdTQVBXaWZnT1Z0Y3FjbkozeEVzbDNWNE9JOVRxSjliampYMWhXdTV1Zw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-10-30T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "顧客の声を聞け、AI活用度による技術者評価の弊害をAmazonが公式に認める 日経クロステック",
+      "summary_bullets": [
+        "顧客の声を聞け、AI活用度による技術者評価の弊害をAmazonが公式に認める 日経クロステ"
+      ]
+    },
+    {
+      "id": "252bad1b6803",
+      "title": "受託開発でAI開発環境を工程別に見積もる：閉域構成・費用・契約の注意点",
+      "url": "https://zenn.dev/shoyomayabot/articles/ai-dev-env-estimate-by-phase",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-30T03:05:26+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 「AIを開発に使いたい。でも、いくらかかるのか説明できない」。 受託開発の現場では、この壁で止まることがよくあります。 この記事では、AI開発環境の費用を 工程ごとに 見積もる方法を、具体的な金額つきで解説します。 題材は、決済系のようなミッションクリティカルな大規模システムの改修です。 個人情報や金額を扱うので、セキュリティの要求がとても厳しい領域です。 そのぶん、ここで通用する考え方は、ほかの多くの案件にもそのまま使えます。 この記事で分かることは次の4つです。 情報を外に出さない",
+      "summary_bullets": [
+        "はじめに 「AIを開発に使いたい",
+        "でも、いくらかかるのか説明できない」",
+        "受託開発の現場では、この壁で止まることがよくあります"
+      ]
+    },
+    {
+      "id": "b6ce582cac31",
+      "title": "「悪用の報告なし」の脆弱性が CVE 公開 13 日後に試されていた ― TEN Framework の CVE-2026-85688",
+      "url": "https://zenn.dev/t4n4bot4/articles/adfd6422c9e4a8",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-30T02:57:28+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 前回の記事（ハニーポットに来る「AI 関連」の攻撃）では、「AI クローラ」を名乗る通信の 6 割が探査で、少数の Google Cloud の IP が十数種類の AI クローラの名前を使い回している、と書きました。 その探査の中身を細かく見ていたところ、見慣れないパスがありました。 POST /api/designer/v1/file-content {\"file_path\":\"/proc/self/environ\"} 調べると、TEN Framework という AI エージェン",
+      "summary_bullets": [
+        "はじめに 前回の記事（ハニーポットに来る「AI 関連」の攻撃）では、「AI クローラ」を名",
+        "その探査の中身を細かく見ていたところ、見慣れないパスがありました",
+        "POST /api/designer/v1/file-content {\"file_pat"
+      ]
+    },
+    {
+      "id": "593dc2223faa",
+      "title": "Cは難しいと思っていた。いろんな言語を飛び回ったら、断片が線になった話",
+      "url": "https://zenn.dev/wataru_fujita/articles/c-fragments-become-a-line",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-30T02:42:47+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "寒ブリの季節が近づくと、ふとC言語が気になり、AIに語りかけたくなりました。 先に断っておきます。この記事は、解説ではありません。初学者がかじった断片的な知識を頼りに、言語をいったりきたりした、迷走の記録です。言い回しが正確でない所も出てきます。 背景には、2つの思いがあります。ローコードから入った初学者なりに、中身を学びたいこと。そして、プロの開発者と、会話ができるようになりたいことです。 Cは難しい、と聞いて、ずっと遠ざけていました。 毎年、富山で開かれる技術イベント「ブリ会議」に通っていま",
+      "summary_bullets": [
+        "寒ブリの季節が近づくと、ふとC言語が気になり、AIに語りかけたくなりました",
+        "先に断っておきます",
+        "この記事は、解説ではありません"
+      ]
+    },
+    {
+      "id": "630cdfd71a9e",
+      "title": "I-JEPA 論文解説：画素の再構成から、意味のある表現の予測へ",
+      "url": "https://zenn.dev/mantis_ryuji/articles/ijepa-semantic-prediction",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-30T02:18:39+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "1. はじめに 画像の一部を隠し、残った部分から予測する。この学習問題は単純だが、「何を正解として予測させるか」によって、モデルに求める理解は変わる。 たとえば、鳥の背中を隠した画像を考える。周囲から鳥の姿勢や身体のつながりを推測できても、羽毛の模様や光の反射まで一意に決められるとは限らない。画像認識に役立つ表現を得たいとき、それらすべての画素を当てることを、同じように要求する必要があるのだろうか。 I-JEPA（Image-based Joint-Embedding Predictive Ar",
+      "summary_bullets": [
+        "1. はじめに 画像の一部を隠し、残った部分から予測する",
+        "この学習問題は単純だが、「何を正解として予測させるか」によって、モデルに求める理解は変わる",
+        "たとえば、鳥の背中を隠した画像を考える"
+      ]
+    },
+    {
+      "id": "195190a94893",
+      "title": "AIコーディングで絶対に開発前に整理する6つのこと",
+      "url": "https://zenn.dev/bur/articles/ai-coding-six-planning-docs",
+      "source": "Zenn (AI)",
+      "published_at": "2026-10-30T02:18:21+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "バイブコーディングで「動いたし、次の機能も」と進めていると、最初に作りたかったものからズレていく。そんなドリフトを防ぐために、開発前に整理しておきたいことが6つある。 最初に、目的と前提をそろえる 人同士なら会話で補っていた背景も、AIには言葉にして共有しておきたい。実装が速いほど、認識のズレも広がる。目的・前提・制約をそろえ、文書は正本を決めてつなぐ。変更したら関連する内容も更新しよう。Anthropicの解説 以下の6つは、小さな開発なら1枚のMarkdownでいい。まず書いて、作りながら育",
+      "summary_bullets": [
+        "バイブコーディングで「動いたし、次の機能も」と進めていると、最初に作りたかったものからズレ",
+        "そんなドリフトを防ぐために、開発前に整理しておきたいことが6つある",
+        "最初に、目的と前提をそろえる 人同士なら会話で補っていた背景も、AIには言葉にして共有して"
+      ]
+    }
+  ]
+}
