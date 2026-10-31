@@ -1,0 +1,401 @@
+{
+  "updated_at": "2026-11-01 08:49 JST",
+  "date": "2026年11月01日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "9ab918456f94",
+      "title": "生成AIの著作権問題を実務者として整理する——2026年時点で知っておくべき3つの論点",
+      "url": "https://qiita.com/Sidejob/items/a3874b09491ec82146d4",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-01T08:45:02+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "この記事で分かること： 生成 AI の著作権問題における 3 つの論点の整理 学習データ・出力物・利用規約のそれぞれで何が問題になっているか 実務上の判断の基準として使えること・使えないことの区別 生成 AI を使い続けていると、著作権の問題にいつか直面します。「大...",
+      "summary_bullets": [
+        "この記事で分かること： 生成 AI の著作権問題における 3 つの論点の整理 学習データ・",
+        "「大..."
+      ]
+    },
+    {
+      "id": "b297ce4cd3db",
+      "title": "AIに「分からない」と言わせるプロンプト",
+      "url": "https://qiita.com/maya-bot/items/9ff2336dfc0b0d8155ff",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-01T08:42:30+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIは、情報が足りなくてもそれらしい答えを返してきます。「分かりません」とはなかなか言いません。AIに慣れていない人ほど、この自信のある回答をそのまま信じてしまいます。 この記事では、AIにあえて「分からない」と言わせるプロンプトを紹介します。 なぜAIは「分からない」と...",
+      "summary_bullets": [
+        "AIは、情報が足りなくてもそれらしい答えを返してきます",
+        "「分かりません」とはなかなか言いません",
+        "AIに慣れていない人ほど、この自信のある回答をそのまま信じてしまいます"
+      ]
+    },
+    {
+      "id": "1454a34c73ec",
+      "title": "OpenAIが資金調達目標を100億ドル引き下げ、AI株安響く－FT紙 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JQlhibGlMRm9fXzhvSGsyNmVvaHktRnlGUVhGMk9iRk1nMmprUUxrZWpvV29NbmZoakxUZHhjbmdkYjc1VlB6R3R3U0NFVDRkVElWMTd0Ty1EajNPaXZUQkJSNERqbnFtNGZBS2hiUmtIT1l3?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T08:31:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "OpenAIが資金調達目標を100億ドル引き下げ、AI株安響く－FT紙 TBS NEWS DIG",
+      "summary_bullets": [
+        "OpenAIが資金調達目標を100億ドル引き下げ、AI株安響く－FT紙 TBS NEWS "
+      ]
+    },
+    {
+      "id": "38b7a4d9acd4",
+      "title": "Claude Code の --safe-mode と --restricted は別物：「設定を切る」か「手足を縛る」かの使い分け",
+      "url": "https://qiita.com/joinclass/items/85b615b453fe5af911b4",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-01T08:30:08+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに：名前が似ているけど目的が真逆 当社（合同会社ジョインクラス）では、launchd から 17 本以上のジョブで claude -p を無人実行しています。一人会社なので、AI が夜中に何をしたかを僕がリアルタイムで見ることはできません。 実際に痛い目も見ています...",
+      "summary_bullets": [
+        "はじめに：名前が似ているけど目的が真逆 当社（合同会社ジョインクラス）では、launchd",
+        "一人会社なので、AI が夜中に何をしたかを僕がリアルタイムで見ることはできません",
+        "実際に痛い目も見ています..."
+      ]
+    },
+    {
+      "id": "3b3605be2e30",
+      "title": "「画面でデプロイしてください」と AI に言わせない ── GAS をブラウザゼロ・1秒台で直しきる『秀GASマネージャー』ができるまで",
+      "url": "https://qiita.com/shu15511551/items/228dfa134c76e15ab1a8",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-01T08:24:19+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 今朝、こんな記事を公開しました。 Google Apps Script（GAS）の公式ツールである clasp がパソコンの中に保存している認証ファイル（~/.clasprc.json）を Python から直接読みに行かせたところ、重たいコマンドを一度も...",
+      "summary_bullets": [
+        "はじめに 今朝、こんな記事を公開しました",
+        "Google Apps Script（GAS）の公式ツールである clasp がパソコンの"
+      ]
+    },
+    {
+      "id": "71cc898efaec",
+      "title": "来週（11/2〜11/6）の日経平均株価の予想レンジは6万1000～6万5000円！ 米・中間選挙や雇用統計、アップル決算、さらに金融政策や金利の動向に注目！ - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45YVR6OUVDMVhVZUJiMEJ1RGYxaWFuVzJCbWdMNEEzdHNwa2ZmSmNEV3I4cHp1RkliYnVrbW5BQmhTN1RPUHNreFdmQWE2aDV0M0sw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T08:10:45+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "来週（11/2〜11/6）の日経平均株価の予想レンジは6万1000～6万5000円！ 米・中間選挙や雇用統計、アップル決算、さらに金融政策や金利の動向に注目！ ダイヤモンド・オンライン",
+      "summary_bullets": [
+        "来週（11/2〜11/6）の日経平均株価の予想レンジは6万1000～6万5000円",
+        "米・中間選挙や雇用統計、アップル決算、さらに金融政策や金利の動向に注目",
+        "ダイヤモンド・オンライン"
+      ]
+    },
+    {
+      "id": "fb560c00b9cc",
+      "title": "「税金で動かす以上……」 政府18万人が使うAI「源内」の「コストに関する工夫」とは（ITmedia ビジネスオンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NSHBIMHA0Q1JpZVdqWFNybUI0RFliTHFib1RtV0hKRjlZRk1tdFdUeXBrazZNNzdINTc2aE9SU1hSM3Q4d2doLWpvMkdpQTl4LWVvWVd6R3FmNWpiUkZtR3I5TzJRdi1yYVBOUTFsczJqLWxNOU1USjZVOXdhSUU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T08:09:51+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「税金で動かす以上……」 政府18万人が使うAI「源内」の「コストに関する工夫」とは（ITmedia ビジネスオンライン） Yahoo!ニュース",
+      "summary_bullets": [
+        "「税金で動かす以上……」 政府18万人が使うAI「源内」の「コストに関する工夫」とは（IT"
+      ]
+    },
+    {
+      "id": "0c458ceef225",
+      "title": "「AIは答えるが、問いを立てるのは人間」…ノーベル賞選考経験者が韓国で講演（KOREA WAVE） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkOWtlOW1KYUVyYTNucjRZdS1ZYUo5bXgxZE9uQ3I1Y0MteGE5VVQtbzVzYTNDc1IzbS1RTzZsSDNzM3R6ZDR0VDVydl9wYU9LckF6VmRBZmlDT3F0RVlyaWVWRHJPallVbHBhVFJ1amZQOGFTaEJ5WGFpZU9xTlU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T08:07:42+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「AIは答えるが、問いを立てるのは人間」…ノーベル賞選考経験者が韓国で講演（KOREA WAVE） Yahoo!ニュース",
+      "summary_bullets": [
+        "「AIは答えるが、問いを立てるのは人間」…ノーベル賞選考経験者が韓国で講演（KOREA W"
+      ]
+    },
+    {
+      "id": "1836feb3ee62",
+      "title": "日米豪印外相会合、インド太平洋のAI技術支援で8500万ドル - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BbWtzZmhXTjYzbXVtWEY1RWNXOTRUUERjVzA1cHkxaDR1UUdSUC1qTmhLcjhGdVN2TnRfYVZYdHlDQXk0MmhNQ0JNcXVWejVBZU9qX3pMeDhiUmpTQnJ1dVFERUZ1WWtKM3pOTw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "日米豪印外相会合、インド太平洋のAI技術支援で8500万ドル 日本経済新聞",
+      "summary_bullets": [
+        "日米豪印外相会合、インド太平洋のAI技術支援で8500万ドル 日本経済新聞"
+      ]
+    },
+    {
+      "id": "933fb52d1b89",
+      "title": "AIが価格を決める時代、公平性と信頼をどう守るか - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qM2c3LVVUemc1UWVTRVJrajc4bV8wa0hRQ0E3dGRkX2thUmtTZmZkVl9aMFZscFVDc0pld3JHRTRZVFBLeFZGOW5lZkxPVU9fOVZPa1pNelZuQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T07:18:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIが価格を決める時代、公平性と信頼をどう守るか Forbes JAPAN",
+      "summary_bullets": [
+        "AIが価格を決める時代、公平性と信頼をどう守るか Forbes JAPAN"
+      ]
+    },
+    {
+      "id": "23a374fb475a",
+      "title": "AIの脅威が迫る「デザイン業」、上半期の倒産が過去最多 ～ 前年同期比1.9倍、住宅業界の変化も影響 ～ - 東京商工リサーチ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3SlNqY1A0VnhaUVFlRFIxc0pVdV9QTTdqaXZLR1YyQnBMYnc1WkdBVi1RRkxjUE9XSFRwNWZDWmNOMHVlUUI1akJvSXdET25LRGN2WjBHMHpGR19aSEU0bDZudGxGQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T07:00:49+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIの脅威が迫る「デザイン業」、上半期の倒産が過去最多 ～ 前年同期比1.9倍、住宅業界の変化も影響 ～ 東京商工リサーチ",
+      "summary_bullets": [
+        "AIの脅威が迫る「デザイン業」、上半期の倒産が過去最多 ～ 前年同期比1.9倍、住宅業界の"
+      ]
+    },
+    {
+      "id": "d62778cf97a8",
+      "title": "来2027年も大相場間違いなし！｢フィジカルAI｣厳選10銘柄 - 四季報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiakpBSHRRdkM3YXBPcFl0dTF2UzJiX1Q3SlFkTjdOUGJqUUdaLWN6V2NoN3JWVmEzN1hrNGEwdDVZamoxNERjWlVJSnU2a3gtdWgxMi1oZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "来2027年も大相場間違いなし！｢フィジカルAI｣厳選10銘柄 四季報オンライン",
+      "summary_bullets": [
+        "来2027年も大相場間違いなし",
+        "｢フィジカルAI｣厳選10銘柄 四季報オンライン"
+      ]
+    },
+    {
+      "id": "a033218f2b28",
+      "title": "トーク番組に革命!? エピソードトークをAI映像で可視化するフジ特番『話シネマ』最新技術×一流話芸が切り開くテレビの可能性 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZdVZlX3d1N3d0WWhaMXU2SDQ5VHZMWUZaMjJ1RjlDTjlhcW0xTFA4cDRtbzdwQl9xM08xZnlGZEJzbjVjR2E2TVJBc2xvVHVTNkV1R1pNVU8tNVZubVdpT3BNWS1KdDJSd2R3MlVFQV9Vb21IajlsNGxCYXBXRVE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T06:50:10+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "トーク番組に革命!? エピソードトークをAI映像で可視化するフジ特番『話シネマ』最新技術×一流話芸が切り開くテレビの可能性 Yahoo!ニュース",
+      "summary_bullets": [
+        "トーク番組に革命!? エピソードトークをAI映像で可視化するフジ特番『話シネマ』最新技術×"
+      ]
+    },
+    {
+      "id": "65495c8fc48b",
+      "title": "AIと二人三脚で新アプリ 登山用などの3D地図開発 78歳の平尾奨さん／京都府福知山市（両丹日日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUi0xcWVQd0RuOWtHQkw3aXpfbDQ0clcyR2hoRVdfOWNsMHg5VUIwVG1nM1ZVdUI2M01acWEyTUV4WVV0dEtpVnNZUTg4anFZMHk4Q3BCT1FNTlFyVk9reU9NNVZZSnJIaU5jQndPWmJBREc3cHBqTFhXeTh4Qmc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T06:34:32+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIと二人三脚で新アプリ 登山用などの3D地図開発 78歳の平尾奨さん／京都府福知山市（両丹日日新聞） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIと二人三脚で新アプリ 登山用などの3D地図開発 78歳の平尾奨さん／京都府福知山市（両"
+      ]
+    },
+    {
+      "id": "48bf896a7b8a",
+      "title": "｢データセンター向け蓄電池｣関連銘柄を紹介！ 消費電力の変動が激しいAIサーバーへの電力供給や非常用電源に必須な｢蓄電池｣は政府も注力する“国策テーマ”！ - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxM0Y2TjBuNGtqdlJrYTNHeERNdEd5X2RJUEZSZnBxal92b0FXZVhBY1d2a2ZQOENMUG1ibWNGelA5ZHlmZFJ0LUJJa0s0ZHpwZ09j?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T06:32:49+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "｢データセンター向け蓄電池｣関連銘柄を紹介！ 消費電力の変動が激しいAIサーバーへの電力供給や非常用電源に必須な｢蓄電池｣は政府も注力する“国策テーマ”！ ダイヤモンド・オンライン",
+      "summary_bullets": [
+        "｢データセンター向け蓄電池｣関連銘柄を紹介",
+        "消費電力の変動が激しいAIサーバーへの電力供給や非常用電源に必須な｢蓄電池｣は政府も注力す",
+        "ダイヤモンド・オンライン"
+      ]
+    },
+    {
+      "id": "9d96fab3e83a",
+      "title": "米国中間選挙で広がる生成AIの偽動画―候補者の発言が作り替えられ、本物の映像まで信用できなくなる危険 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTnlpck52RmFVSExIdFRKQjZJbzZKSjl2Mjc0aHFuM3B5RzlJdUNBYm5ubHJGcURjMmE0ZjNDQnpQa191NlQxbmcxWGp0WGpCQk8wZlAtVkJXYWU5UTZJcFZ4Q1FKY1hGWF9Hd1ZOYWZlQXhmTHcydW1mQ2JZYkRUQzZUXzZ2bTZo?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T06:04:35+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国中間選挙で広がる生成AIの偽動画―候補者の発言が作り替えられ、本物の映像まで信用できなくなる危険 Yahoo!ニュース",
+      "summary_bullets": [
+        "米国中間選挙で広がる生成AIの偽動画―候補者の発言が作り替えられ、本物の映像まで信用できな"
+      ]
+    },
+    {
+      "id": "53a7de5e6885",
+      "title": "AIはかつてない速さで深刻な脆弱性を発見することができます。防御側は追いつくことができるでしょうか？ - IBM",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOHNoN2tsZ3hab2NPM0xiV1RKR2J5ekZIZkNadnVsUF9FZ1laZUdxN0ZhaHlaYmsteXB4T1J6T0ljcVlOS0hRaGktN0VmbDBncnRLV241YjFUVzVkdnpZdk5lLXE1Vjg5eFdNLUZVOGNDQXJp?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T05:20:58+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIはかつてない速さで深刻な脆弱性を発見することができます。防御側は追いつくことができるでしょうか？ IBM",
+      "summary_bullets": [
+        "AIはかつてない速さで深刻な脆弱性を発見することができます",
+        "防御側は追いつくことができるでしょうか",
+        "IBM"
+      ]
+    },
+    {
+      "id": "542b7aec794a",
+      "title": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bXMwdmxtWEpwTjUyZTVLdzExZFZ0a1RnRlo4YkJTR2VEcUwwcWdYOU1NNzNUV3pYWmQxSTNtWVRSMTlZbkZGMW42azJQNV91SlE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T05:10:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も CNET Japan",
+      "summary_bullets": [
+        "「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も CNET Japan"
+      ]
+    },
+    {
+      "id": "ce604a2fb425",
+      "title": "大学生、7割が就職にAI活用 「後ろめたさある」は4人に1人 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1dkg0YmdJLW1UV0RPMVlDcVR1U2R1OXhHMl8yMTkyMUlnWlBqd3BQV1Jubl9qZzc3Tm05WFBodVdzTjZDRVNaZDB1Smp4TkVhUlhGTmZzTjNYbEhwd3hjM3N5ZlJJelBRMl85Sw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "大学生、7割が就職にAI活用 「後ろめたさある」は4人に1人 日本経済新聞",
+      "summary_bullets": [
+        "大学生、7割が就職にAI活用 「後ろめたさある」は4人に1人 日本経済新聞"
+      ]
+    },
+    {
+      "id": "d3bfa4f6a8ec",
+      "title": "（日曜に想う）ＡＩに考える能力を明け渡すと 記者・有田哲文 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rLUlYY0phd0VQc3Uwcng4WVZ5WFptSDQxWDBDRTh6OGJQSkVJSmQtcFZLbm80OFVGOE5UTndsSG9LUEZ1N2tWNmZIaDhSbzQ5Nk1EXzIwcDJkWVFB?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "（日曜に想う）ＡＩに考える能力を明け渡すと 記者・有田哲文 朝日新聞",
+      "summary_bullets": [
+        "（日曜に想う）ＡＩに考える能力を明け渡すと 記者・有田哲文 朝日新聞"
+      ]
+    },
+    {
+      "id": "f3545edb425a",
+      "title": "いらすとや、ファンが生息域踏査 AIに押されサイト訪問者は減少 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiWUxwa3ZhUFZCbm5zSEJsNzNrZXlodVhDUzBnRlljQ1pvMUdCdktLUV9YTVphRTlRSy1FUE9MZWo0NkNQVHRicDZ4UFdNc1NDWVRnRTNYdDROTjY1N1FTbzJpdmktOF82aEU5TQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "いらすとや、ファンが生息域踏査 AIに押されサイト訪問者は減少 日本経済新聞",
+      "summary_bullets": [
+        "いらすとや、ファンが生息域踏査 AIに押されサイト訪問者は減少 日本経済新聞"
+      ]
+    },
+    {
+      "id": "2548acad0294",
+      "title": "エージェント型AIを安心して拡張：Smart Model RouterとAgent Sandboxの紹介 - Oracle Blogs",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOanduODB4VDlxQmJ5dWZsRUpUYW1jQVNrS0FqQ1dvY1VDczB5WGxPODliamFJRnlMREdDa2ZwYmhiVU1EbVNiWV92bzJzYUhGaWpEYkJZQlJkS0ZxMk5DaDZKVVZMTlJoU3dOWXo0QUJfcUtjMnNZRFhLZ1ZueU1SUUwwbkNoeTVwRk1ZZWtLZUEteWlqOUlneFNVREdEQ3A3X0hPUTNzZlJnUGd4MEFsVF90cnozazBnWDRpVnE3WjIxSWRuOTlJbHJVVEUwQVdvWGg5QXFSOVNoU1g0aGJ5UDlGcVBONnNuVURiQVdCY2sxU2NjdllSYUR2Y2Vfc3ZGcVp1U29qaHpvNFVnLTI0SVI5RE40OXdESEZxaVlPOFhMUGRDZUJTRG5fTkg4TWxGaTl4bm4weVQ4d2Y4SXNOQ1NBTS0ybl9ZVVlxSjVoTkFrNTJKTktZ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T02:36:41+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "エージェント型AIを安心して拡張：Smart Model RouterとAgent Sandboxの紹介 Oracle Blogs",
+      "summary_bullets": [
+        "エージェント型AIを安心して拡張：Smart Model RouterとAgent San"
+      ]
+    },
+    {
+      "id": "7d3d1a38fd3a",
+      "title": "15歳でもわかるJev その3 — 「AIの自信」は当てになるか、13行のPythonで測る",
+      "url": "https://zenn.dev/hfujihira/articles/hf-4f8e8e041205",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-01T02:05:14+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "前編で「Jev は文章を書かず、選択肢と自信の数字だけを返す」と紹介し、その2で「Jev は自信 74% より上では一度も間違えなかった」と書いた。 ただし、あれは意見が割れた 35 通だけの話だった。今回は、人手で正解を付けた 65 通すべてを使って、自信の数字がどれくらい当てになるのかを帯ごとに測り直す。やり方はひとつだけで、Python は 13 行で足りる。 前編: 15歳でもわかるJev — 文章を書かないAIは何が違うのか その2: 点数で負けたほうが役に立った 「自信が当てになる」",
+      "summary_bullets": [
+        "前編で「Jev は文章を書かず、選択肢と自信の数字だけを返す」と紹介し、その2で「Jev ",
+        "ただし、あれは意見が割れた 35 通だけの話だった",
+        "今回は、人手で正解を付けた 65 通すべてを使って、自信の数字がどれくらい当てになるのかを"
+      ]
+    },
+    {
+      "id": "9f4d7b98211c",
+      "title": "AI漫画制作の始め方｜使えるツールと制作の流れ",
+      "url": "https://zenn.dev/lyra_japan/articles/a1c319363cc764",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-01T01:59:42+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIで漫画を作る方法は、大きく分けると画像を一枚ずつ作って漫画に組む方法と、物語・キャラクター・コマ構成からページを作る方法があります。違いは絵柄だけではありません。構成、セリフ、画像の配置をいつ決め、修正時にどこへ戻るかが変わります。 この記事では、漫画制作を「準備・構成・画像・仕上げ」に分け、二つの方法で作り手が担う工程を比較します。Lyra Japanの開発・運営側として、確認できる公式の制作フローをページ制作型の例に使います。個別の画像生成サービスとの品質比較や、同じ入力を使った生成実験",
+      "summary_bullets": [
+        "AIで漫画を作る方法は、大きく分けると画像を一枚ずつ作って漫画に組む方法と、物語・キャラク",
+        "違いは絵柄だけではありません",
+        "構成、セリフ、画像の配置をいつ決め、修正時にどこへ戻るかが変わります"
+      ]
+    },
+    {
+      "id": "82435230b622",
+      "title": "産業活性化プラザセミナー「生成AI活用セミナー第2回」を開催します - 大分市",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03VnR0VjdGNy1HUjF2dUdpMUE3Z3VaTG95RnFVYnp5VUR0YkU2OFk5UzUyQm9kRXByWkRuM0toVWR6OGFHa0RPUEhLTnlESHIwRy1aQUROd25iaC1abjlEd0ZMN0xpOGZ6NzZlN3FR?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T01:40:44+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "産業活性化プラザセミナー「生成AI活用セミナー第2回」を開催します 大分市",
+      "summary_bullets": [
+        "産業活性化プラザセミナー「生成AI活用セミナー第2回」を開催します 大分市"
+      ]
+    },
+    {
+      "id": "3b2202f11280",
+      "title": "生成AIをビジネスの味方に！（無料講座）あなたのお店のファンを増やしませんか？ - つながるさがし",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjl0a0tJcFl1UTd3Yi1tN2xXY1dMRzJWMGtpQmhRbVhHM1dZYjRFeGF5TEU2Q3AzMFpwV2x5bkZYNi1ubXdMT3FJT1BNZTFIeGtETEZHTWVjUXc0cnhvaVFDWUFZamlrTXE0TjFYLTVROFU2SWFaSUZqSHNTNmZKOU1HamsyT0F4U0x0R1NoMFBwdnNNc1E?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-01T01:34:12+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "生成AIをビジネスの味方に！（無料講座）あなたのお店のファンを増やしませんか？ つながるさがし",
+      "summary_bullets": [
+        "生成AIをビジネスの味方に",
+        "（無料講座）あなたのお店のファンを増やしませんか",
+        "つながるさがし"
+      ]
+    },
+    {
+      "id": "fd35632fd649",
+      "title": "エージェントの記憶喪失を治す：OSS「Hindsight」をClaude APIに繋いで長期記憶を持たせる",
+      "url": "https://zenn.dev/yunisuta/articles/oss-hindsight-claude-api-ai-llm-python-meq5so",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-01T01:12:57+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "セッションが終わるたびに、エージェントは全部忘れる Claude APIでエージェントを組んでいると、必ずぶつかる壁がある。会話が終わってプロセスが落ちれば、そこまでの文脈は綺麗さっぱり消える。ユーザーの好みも、過去に失敗したアプローチも、次のセッションでは「初対面」からやり直しだ。 RAGでドキュメントを検索させるのとは話が別で、これは「エージェント自身の経験」を覚えさせたいという要求になる。自前でPostgres+pgvectorのテーブルを設計してretain/recallのロジックを書い",
+      "summary_bullets": [
+        "セッションが終わるたびに、エージェントは全部忘れる Claude APIでエージェントを組",
+        "会話が終わってプロセスが落ちれば、そこまでの文脈は綺麗さっぱり消える",
+        "ユーザーの好みも、過去に失敗したアプローチも、次のセッションでは「初対面」からやり直しだ"
+      ]
+    },
+    {
+      "id": "84d480f55f2e",
+      "title": "AI効果とは？AIが上手になるほど『AI』と呼ばなくなる現象をわかりやすく解説",
+      "url": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-effect-tech",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-01T00:28:55+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに AI効果（AI Effect）は、コンピュータ科学者ダグラス・ハフスタッターが1985年に提唱した概念です。AIが何かの問題を解決すると、その解決策は「AI」ではなく「単なるコンピュータプログラム」と見なされるようになるという、AI評価の相対性を指摘する用語です。 定義 AI効果： 何らかの問題解決がコンピュータで実現されると、その技術は「AI」とは呼ばれなくなる傾向 言い換えれば、「AIは一度実装されれば、もはやAIと呼ばれなくなる」 AIの定義が移動する現象：「真のAI」は常に「ま",
+      "summary_bullets": [
+        "はじめに AI効果（AI Effect）は、コンピュータ科学者ダグラス・ハフスタッターが1",
+        "AIが何かの問題を解決すると、その解決策は「AI」ではなく「単なるコンピュータプログラム」",
+        "定義 AI効果： 何らかの問題解決がコンピュータで実現されると、その技術は「AI」とは呼ば"
+      ]
+    },
+    {
+      "id": "dfcd9298e4f3",
+      "title": "【小学5年生でもわかる】AI効果ってなに？",
+      "url": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-effect-kids",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-01T00:28:55+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AI効果とは、「コンピュータが何かができるようになると、人間はそれを『AI』と呼ばなくなってしまう」という現象です。 例えば、昔、メールを自動で分類することはとても難しいと思われていました。だから、「スパムメールを自動判別するのはすごいAI技術だ！」と言われていました。 でも今、メールの自動分類は当たり前になってしまいました。だから、もう誰も「これはAI技術だ」とは言いません。ただの機能になってしまったんです。 つまり、AIが成功すればするほど、人間はそれを『AI』とは呼ばなくなってしまう。これ",
+      "summary_bullets": [
+        "AI効果とは、「コンピュータが何かができるようになると、人間はそれを『AI』と呼ばなくなっ",
+        "例えば、昔、メールを自動で分類することはとても難しいと思われていました",
+        "だから、「スパムメールを自動判別するのはすごいAI技術だ"
+      ]
+    },
+    {
+      "id": "64026ea45a7c",
+      "title": "AIを10窓並行で回してたら頭がパンクしたので「進行板」を作った",
+      "url": "https://zenn.dev/sato_ken/articles/46f7f1f7a1e856",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-01T00:18:23+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIに働かせたら頭が混乱ｗ アラ還老害エンジニアです。コードはもう書きません、というか職業病の腰と首のヘルニアと腱鞘炎で書くのが辛くなったのでコードは殆どAIに書かせています。 今の体制は、 Claude のチャット（作戦担当） Claude Cowork（作業担当） Claude Code（実装担当） Codex（レビュー担当） プロジェクト並行でいつも10個くらい回しています。AIは優秀です、文句言わずに働きますｗ 問題は自分の方でした。 1つの案件が4つのチャットに割れる。「あれ、どこまで",
+      "summary_bullets": [
+        "AIに働かせたら頭が混乱ｗ アラ還老害エンジニアです",
+        "コードはもう書きません、というか職業病の腰と首のヘルニアと腱鞘炎で書くのが辛くなったのでコ",
+        "今の体制は、 Claude のチャット（作戦担当） Claude Cowork（作業担当）"
+      ]
+    }
+  ]
+}
