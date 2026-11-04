@@ -1,0 +1,396 @@
+{
+  "updated_at": "2026-11-04 09:56 JST",
+  "date": "2026年11月04日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "82f947e7abd3",
+      "title": "2。16日前「即使える」と書いたコネクタ4個と、今日実際に使えた4個を比べたら、重なっていたのはこの数字だった",
+      "url": "https://qiita.com/Hideki_Tamae/items/1791f7b58a7fe4e22018",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-04T09:46:57+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 2。 これが今回の数字です。何の2かというと、16日前(2026-10-19)に自分で書いた記事で「セッション開始時点で即使える」と判定したMCPコネクタ4個と、今日(2026-11-04)同じ方法で確認し直した「即使える」コネクタ4個を比べたとき、両方のリスト...",
+      "summary_bullets": [
+        "はじめに 2",
+        "これが今回の数字です",
+        "何の2かというと、16日前(2026-10-19)に自分で書いた記事で「セッション開始時点"
+      ]
+    },
+    {
+      "id": "7882da606fc3",
+      "title": "トムソン・ロイター第3四半期は増収 ＡＩ投資増加懸念で株価下落 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KNl9mRkJ1dWh3dms5UDlMVXlzWVVNWGNidlJoa3pMMDR4UXJHb1lOeklCQXhpc3dEb09fVjYzc3VJQTlVOEFZWDY4QnhMVkY1SjJXWkpvRzM1aUl6WTNsUHhTcU5OX19KeTlaVW1LY2xBY29TNkFReGhwNA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T09:38:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "トムソン・ロイター第3四半期は増収 ＡＩ投資増加懸念で株価下落 Reuters",
+      "summary_bullets": [
+        "トムソン・ロイター第3四半期は増収 ＡＩ投資増加懸念で株価下落 Reuters"
+      ]
+    },
+    {
+      "id": "53ab5f99852f",
+      "title": "Breakingviews - COMMENTARY: コラム：アップルにもＡＩコストの重荷、メモリー高騰が利益浸食 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnBTeVBoLW1VOXRrZ1I4RER0XzhoZzJsY2psbGl4LTI3eHpzZEQ2ZDBJc0dCSUN4QXNVVGt0Y3lOMUFIVmdkVU1xemZkS3gtRTVFS1VDZmY4M05mOGtBZUE3aGJmTkRQTkZSb1FwYWt2YmdONTYwNkNhamxDa090UEhVbHp5WVNPYW1iU2N3bUY?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T09:28:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Breakingviews - COMMENTARY: コラム：アップルにもＡＩコストの重荷、メモリー高騰が利益浸食 Reuters",
+      "summary_bullets": [
+        "Breakingviews - COMMENTARY: コラム：アップルにもＡＩコストの重"
+      ]
+    },
+    {
+      "id": "59569ea526ae",
+      "title": "「ビッグテックもこれはない」…米中AI競争の中で韓国が生き残る戦略（中央日報日本語版） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBZ0lNMEJPdGxXeVpmQ0JNdDVzenBjcmw1MGZ1REgxaC1fYUEwYWx3Ump2ZzVGZEVULUVhTVhPaHhTSmtOdXlYTDJiMVVyRTJ4RWpuX0g0aEJGMGlYTEZQdGpPQVdQd1lSWjRWbjVfRGtSWkhpNkRHZVVNYU51aW8?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T09:10:53+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「ビッグテックもこれはない」…米中AI競争の中で韓国が生き残る戦略（中央日報日本語版） Yahoo!ニュース",
+      "summary_bullets": [
+        "「ビッグテックもこれはない」…米中AI競争の中で韓国が生き残る戦略（中央日報日本語版） Y"
+      ]
+    },
+    {
+      "id": "f1164a67dced",
+      "title": "毎日デプロイを週次で見直す方法――公開回数ではなく「届いた価値」と「戻しやすさ」を測る",
+      "url": "https://qiita.com/boraemon2000/items/8d4d3907239ca5a7fa71",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-04T09:08:58+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "毎日デプロイを週次で見直す方法――公開回数ではなく「届いた価値」と「戻しやすさ」を測る 毎日デプロイする習慣ができると、1週間で多くの変更履歴が残ります。 説明文を直した日、入力エラーを分かりやすくした日、スマートフォン表示を整えた日、問題が見つかって元へ戻した日。デプ...",
+      "summary_bullets": [
+        "毎日デプロイを週次で見直す方法――公開回数ではなく「届いた価値」と「戻しやすさ」を測る 毎",
+        "説明文を直した日、入力エラーを分かりやすくした日、スマートフォン表示を整えた日、問題が見つ",
+        "デプ..."
+      ]
+    },
+    {
+      "id": "97064b7c51f4",
+      "title": "AIに3D部品を設計させる指示の書き方 ― 形の名前と数字だけで伝える",
+      "url": "https://qiita.com/himajisan/items/20bebee7a4dbc8c970fd",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-04T09:06:44+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに AIに3Dプリント用の部品を設計させるとき、苦労するのは形そのものではなく「指示文を考えること」です。CADなら手を動かせば形になりますが、AIには言葉で形を伝えなければなりません。 本記事では、指示文を長く書く努力をやめ、「形の名前」と「数字」だけで伝える方法...",
+      "summary_bullets": [
+        "はじめに AIに3Dプリント用の部品を設計させるとき、苦労するのは形そのものではなく「指示",
+        "CADなら手を動かせば形になりますが、AIには言葉で形を伝えなければなりません",
+        "本記事では、指示文を長く書く努力をやめ、「形の名前」と「数字」だけで伝える方法..."
+      ]
+    },
+    {
+      "id": "1927fcf99f61",
+      "title": "生成AIで仕事は速くなったのに売上は増えない――IT人材の73.6％がIT企業に偏在する日本の絶望的な構造課題 - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0NPSEJkeERwTXAtREdnUTVBUWk5VXN2OTBzYURKbUo0T3c4Um5JM0hTLUFDZW9Kc0JRakUyelVlYUpSTDV3UEZIVmtvU2ZvRUkzUU9jaVR0ZUpsakhQellUSUtRS253M0JvYWRIeno0V1FkT0pKei1pOVgwMkI4dENrWmlBbDA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T09:00:39+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "生成AIで仕事は速くなったのに売上は増えない――IT人材の73.6％がIT企業に偏在する日本の絶望的な構造課題 Yahoo!ファイナンス",
+      "summary_bullets": [
+        "生成AIで仕事は速くなったのに売上は増えない――IT人材の73.6％がIT企業に偏在する日"
+      ]
+    },
+    {
+      "id": "7aa439e30675",
+      "title": "生成AI活用により本番インシデントは242％増──ソニーグループが考えるAI時代の「統制と自由」 (1/3)|DeveloperZine - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VeXlyd3ZSQVUzNEw3NjVOeFVUZWFsNGFvN09IQzlIWDRONU5aQzNheFdPTDdsLU91Y0FjZFJEY245VDZ5Y2ZEaEVLX2xrWm1GMkE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "生成AI活用により本番インシデントは242％増──ソニーグループが考えるAI時代の「統制と自由」 (1/3)|DeveloperZine CodeZine",
+      "summary_bullets": [
+        "生成AI活用により本番インシデントは242％増──ソニーグループが考えるAI時代の「統制と"
+      ]
+    },
+    {
+      "id": "913e87940b8a",
+      "title": "メタ、米ドル建て社債で150億ドル調達 ＡＩインフラ投資に充当 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XeURGaExxYnlzRVplM0xueW03QTZRSGRoMG5QSE0zYXJfRXVpTS1weDMweUo5V19VbXptQVpyVXNseDZZSlhJT3gydUs3eGxCNkJ5TXYtLXFXRms3MWRHNXNvaGZBQkxoSUU4RzAwUGx3MnNYWFgwVlJXd2gzUQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T08:57:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "メタ、米ドル建て社債で150億ドル調達 ＡＩインフラ投資に充当 Reuters",
+      "summary_bullets": [
+        "メタ、米ドル建て社債で150億ドル調達 ＡＩインフラ投資に充当 Reuters"
+      ]
+    },
+    {
+      "id": "868fda183b54",
+      "title": "スーパー・マイクロ、売上高見通しが予想超え ＡＩサーバー需要堅調 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWZ2YkUxU05FYzY1c2tubzN1UC0zdWZULWxncWc3V28wd0FsQ1UyOUFQa0RtTWZFUGo4cVBNeHdUU29Mejc4TFBsdDdTVlp2b2I3UjFldkREX2FIS19ENFpfWWZLMFpVZDFMTDJMMloyYTZBb2IwOWhFb2xzUWEzVmpWZW1MQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T08:49:44+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "スーパー・マイクロ、売上高見通しが予想超え ＡＩサーバー需要堅調 Reuters",
+      "summary_bullets": [
+        "スーパー・マイクロ、売上高見通しが予想超え ＡＩサーバー需要堅調 Reuters"
+      ]
+    },
+    {
+      "id": "0d4f5a8c1d79",
+      "title": "「AIのレビューだけでマージ、正直まだ怖い」と思ってたけど、条件次第ならアリかもしれない話",
+      "url": "https://qiita.com/nobu34/items/a73129c6401ebae10960",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-04T08:39:33+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "プルリクエストが、終わらない 「AIのおかげでコードを書くのは速くなった。AIがレビューもしてくれる。なのに、なんで私は今日もマージ待ちのPRの山を前にしているんだろう...。」 みなさん、こんな気持ちになったことはありませんか？ AIがコードを書いてくれる時代になり、実...",
+      "summary_bullets": [
+        "プルリクエストが、終わらない 「AIのおかげでコードを書くのは速くなった",
+        "AIがレビューもしてくれる",
+        "なのに、なんで私は今日もマージ待ちのPRの山を前にしているんだろう..."
+      ]
+    },
+    {
+      "id": "d04fc3eb33c3",
+      "title": "中国百度が自動運転車学習用ＡＩ、道路環境再現 開発コスト削減へ - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xa1R1QzJkNXc0bm9EUnFOMlJXLWJhNU5iSGVXN1k2S0JkQmxwc2tGRlY2WnI2akk4NjZicV9lUnd0OFF2b1Z2UTVMTlUzamhYU2FnWE5JUXlrY0x1X3cyZi0temMzZUVVTFItQlVEOEdXa2dYVHhrOF9ibw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T08:35:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "中国百度が自動運転車学習用ＡＩ、道路環境再現 開発コスト削減へ Reuters",
+      "summary_bullets": [
+        "中国百度が自動運転車学習用ＡＩ、道路環境再現 開発コスト削減へ Reuters"
+      ]
+    },
+    {
+      "id": "937e32fd6cc6",
+      "title": "ふくおかフィナンシャルグループの「AIファースト」の組織変革に向け業務提携を強化 ～グループ会社のエクサフォワード九州を通じて支援体制を拡充し、バックオフィス改革に伴走。九州の自治体・企業へのAI活用の展開も視野に - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zRzZ4eU1JMUlSMU9NejNBek1EVS00N3RYYUFISE1zRGZnRWRjQWxKaGpDWDJaN2pfWXowSGZpM05Kb09rVldOZ3VFZWZyRHM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T08:33:10+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ふくおかフィナンシャルグループの「AIファースト」の組織変革に向け業務提携を強化 ～グループ会社のエクサフォワード九州を通じて支援体制を拡充し、バックオフィス改革に伴走。九州の自治体・企業へのAI活用の展開も視野に 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "ふくおかフィナンシャルグループの「AIファースト」の組織変革に向け業務提携を強化 ～グルー",
+        "九州の自治体・企業へのAI活用の展開も視野に 株式会社エクサウィザーズ"
+      ]
+    },
+    {
+      "id": "65b3d03cb7b1",
+      "title": "AIがAIを作る速度、まもなく急加速か Anthropicが上場申請書で明かす - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDQnUzRlBoM0NYaGRGRjJBRHUyWkFaVDR5dThyY0pFRTR5cENVVUNZWTRYaEViaG9ZbWt3X1lRTEN2U0V2b1JmeHpNdUY0VncxRjBHV1NCNWZtcWRzb2w4Ulh6UjFmSTJa?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T08:29:24+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIがAIを作る速度、まもなく急加速か Anthropicが上場申請書で明かす 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "AIがAIを作る速度、まもなく急加速か Anthropicが上場申請書で明かす 株式会社エ"
+      ]
+    },
+    {
+      "id": "0f82db6123d6",
+      "title": "なぜNTTは「小型LLM」にこだわるのか 国産AI「tsuzumi 2」に込めた狙い（ITmedia エンタープライズ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04Z2dqWU1NUGdLU2diSXNxYWVIYmkxQ1JFalpoYlNyRTdDck5TY3BFOXlvRmFGY3U1QXNvSDVTdlV2NW5RbmZabWRoV3dKakgtTkk5MVNGczRCUkFvMHFnOWk0RXFWSWhlYmtmNF9OQnkzSmZmdmdPREdJcXhqQU0?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T08:13:11+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "なぜNTTは「小型LLM」にこだわるのか 国産AI「tsuzumi 2」に込めた狙い（ITmedia エンタープライズ） Yahoo!ニュース",
+      "summary_bullets": [
+        "なぜNTTは「小型LLM」にこだわるのか 国産AI「tsuzumi 2」に込めた狙い（IT"
+      ]
+    },
+    {
+      "id": "c6073b5d9f11",
+      "title": "学校教員もＡＩエージェント活用を 大垣北高校で体験会 - 岐阜新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Gc3g5bUU5clUzckpRRlJnbkpCa1pYQU5oaTJNUG9hZERvYVpNeEF2eDZ4N1BzWW5QbEdaY0lvUy1Cd2xpVjZkMHI4bUdPUUd5UFlXUnNB?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T08:09:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "学校教員もＡＩエージェント活用を 大垣北高校で体験会 岐阜新聞デジタル",
+      "summary_bullets": [
+        "学校教員もＡＩエージェント活用を 大垣北高校で体験会 岐阜新聞デジタル"
+      ]
+    },
+    {
+      "id": "b8d0ed983ba1",
+      "title": "スーパー・マイクロ、売上高見通しが予想上回る-AIサーバー需要堅調（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5teUwzWUFSM0RXc0kwQVIzQkRDbjVEUWdKbGdYVEhxekM0NDc0Y2xCY0I3bEZhd3FCZDdVeTd3NGxfZnF4aEgtT3o5N3l3VGNyYmk4R0gwTWZjeUNBQkVzVGliQnd4a19JaTJxRTQwWUx2bDVrMWdVcEZYVHJfSVE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T07:55:37+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "スーパー・マイクロ、売上高見通しが予想上回る-AIサーバー需要堅調（TBS CROSS DIG with Bloomberg） Yahoo!ニュース",
+      "summary_bullets": [
+        "スーパー・マイクロ、売上高見通しが予想上回る-AIサーバー需要堅調（TBS CROSS D"
+      ]
+    },
+    {
+      "id": "202bee6821e3",
+      "title": "AIが別のAIの「頭脳」を直接修正 MITが新たなAI改良手法を実証 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNTDFJSmNsSVdpR1l3T1hZZXJoRzZZTUFYYTJBejktdkpUQW1fb3RfMTJ3X05pSC1nQmV2dVBuS2tnYzBQa3ZFbmFIUDBpMU0xazFDMWplRkdidnJOaXFqZWVqQmhjdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T07:49:08+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIが別のAIの「頭脳」を直接修正 MITが新たなAI改良手法を実証 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "AIが別のAIの「頭脳」を直接修正 MITが新たなAI改良手法を実証 株式会社エクサウィザ"
+      ]
+    },
+    {
+      "id": "5d0c52277024",
+      "title": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByeWhoWlFOSWphNTF0c3BTQVZMQ2JJM1hRUHpVRGU1ejNhekY5MTk0NU9SQVU4S0xpTGhRZHVSMnNOdnp0Ukd4U1VBSlpYXzBmcmtwODdyZTN2R0JmNHRN?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T07:47:44+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入 NHKニュース",
+      "summary_bullets": [
+        "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入 NHKニュース"
+      ]
+    },
+    {
+      "id": "23b554fcede5",
+      "title": "AIと人間の融合が、「逆ケンタウルス」型にならないために - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDlXSVhEZldGQ2J5SkI5YVBDOU52S01fNmpWbDhBalpOb2tSU3RKM2FvMVI1bUEyTUNuczFRdlI1VVJRZlNSSV8tSmNETlNwdEhqaFJLZHA5YU94azlVM01tMEtJT0VjRWNhNV95cS1EMWl3R0M4YVN1SnBhNWJPMA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIと人間の融合が、「逆ケンタウルス」型にならないために WIRED.jp",
+      "summary_bullets": [
+        "AIと人間の融合が、「逆ケンタウルス」型にならないために WIRED.jp"
+      ]
+    },
+    {
+      "id": "b083212a0aa4",
+      "title": "古い自社システムで本当にAIを活用できるのか？ 日本オラクル・三澤社長が主張する優位性 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NcTI0SERVSjNWRVF1WV90bmFmOVZiUFJpV2JzVnZRNFlFMjJJLTlhZ0pqdnowaU1aMXVVQmk2WVYwb3RvZWFYYTVvSjZIbTdsVi1n?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "古い自社システムで本当にAIを活用できるのか？ 日本オラクル・三澤社長が主張する優位性 ZDNET Japan",
+      "summary_bullets": [
+        "古い自社システムで本当にAIを活用できるのか",
+        "日本オラクル・三澤社長が主張する優位性 ZDNET Japan"
+      ]
+    },
+    {
+      "id": "74fe93adb2dc",
+      "title": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初：人工知能ニュース - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xRDZNRDhSOHU4NG1tSzlvbkVSd194d1VxV1lsVmFPSXVvRlM3bGtmRmlYNlFyTG1yWUVSOEFwRXZlZ2M4bjRqd0lyYnlDSFhlSGtkQWc1bV9FYm5Ud2ZNSUZNQUdtTHhTVngxVTUyaw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T06:45:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初：人工知能ニュース MONOist",
+      "summary_bullets": [
+        "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初：人工知"
+      ]
+    },
+    {
+      "id": "8adace79d4fa",
+      "title": "Google、学校でAIと検索機能を禁止可能に 提供拡大から一転 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYNXd0WFVIQTJXRlVmbzVtckdDbkh5MG9pOEdjZm5TWUF6NnRNUlFOTHM4NDB3UDM4a0dUSURYRXQ1SEhpcUVnVHNrWGR1OElSY3M5NlpkVnJpZTZnVDlkOEVfdjFWNXF3dk54Uw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T06:06:57+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Google、学校でAIと検索機能を禁止可能に 提供拡大から一転 日本経済新聞",
+      "summary_bullets": [
+        "Google、学校でAIと検索機能を禁止可能に 提供拡大から一転 日本経済新聞"
+      ]
+    },
+    {
+      "id": "c761cd7d7747",
+      "title": "AIは「収奪的イノベーション」か 産業革命では100年間賃金低下 [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxS2RWNU5fYjNRUjZlci1sSkRNS2VPdzJYLVItT3ZTWFFJSnB5aHN2dUl5Q3JSOW9RREFXaVp1OTI2Mi1kajBJTVB4dXhVamlZcFZudGViX1JBYm9TamsyTVE1Mm5xRlk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-04T06:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIは「収奪的イノベーション」か 産業革命では100年間賃金低下 [AIの時代] 朝日新聞",
+      "summary_bullets": [
+        "AIは「収奪的イノベーション」か 産業革命では100年間賃金低下 [AIの時代] 朝日新聞"
+      ]
+    },
+    {
+      "id": "aec6107cf0f9",
+      "title": "AIインフラを金融商品に、米モルガン・スタンレーの「錬金術師」たち - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN26ATZ0W6A021C2000000/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-04T05:15:02+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "空前の人工知能（AI）投資ブームが起きている。資本争奪のなか、当事者の信用力だけでは集めきれない成長資金を確保するべく、複雑な調達手法を編み出したのが米金融大手モルガン・スタンレーだ。AI版「錬金術師」たちは、データセンターなどAIインフラを金融商品へと造り替えた。「AIファイナンス」で業界標準を築く10...",
+      "summary_bullets": [
+        "空前の人工知能（AI）投資ブームが起きている",
+        "資本争奪のなか、当事者の信用力だけでは集めきれない成長資金を確保するべく、複雑な調達手法を",
+        "AI版「錬金術師」たちは、データセンターなどAIインフラを金融商品へと造り替えた"
+      ]
+    },
+    {
+      "id": "06fa0b72bd0d",
+      "title": "AI同士で開発組織を作ったら何が起きたか？「統括Director→Director→PM→開発」の24日間・階層運用の実践と失敗の全記録",
+      "url": "https://zenn.dev/kaeyuki/articles/d2ddf3c709bdfb",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-04T02:27:37+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "世の中の95%の開発者は、今「AIにコードを書かせる（1対1のペアプログラミング）」ツールとしてAIを使っています。 しかし、もし 「AI同士で組織を組ませて、人間は経営と最終承認だけに専念する」 としたら、現場では一体何が起きるのでしょうか？ 私たちは過去24日間、実際の開発現場（3つのリポジトリ、10以上のセッション、516コミット、76,000行以上）を実験台にして、 「統括Director → 担当Director → PM → 開発」という階層組織 をAIだけで組成・自律運用する実験を",
+      "summary_bullets": [
+        "世の中の95%の開発者は、今「AIにコードを書かせる（1対1のペアプログラミング）」ツール",
+        "しかし、もし 「AI同士で組織を組ませて、人間は経営と最終承認だけに専念する」 としたら、",
+        "私たちは過去24日間、実際の開発現場（3つのリポジトリ、10以上のセッション、516コミッ"
+      ]
+    },
+    {
+      "id": "5da28dc0473b",
+      "title": "アカウント1つで70+モデルを選べる、OSSのデスクトップAIアシスタント AnyModelBot を作った",
+      "url": "https://zenn.dev/anymodelbot/articles/12846885317500",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-04T01:33:57+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "個人開発のデスクトップ AI アシスタント AnyModelBot を紹介します。Windows / macOS / Linux 向けの MIT オープンソースアプリで、UI は日本語・英語・中国語・韓国語・ロシア語に対応しています（日本語ページ: https://anymodel.bot/ja/ ）。最新版は v0.1.21 です。 アプリ内でアカウントにログインすると、Claude / GPT / Grok / Gemini / DeepSeek など 70以上の最新モデルを自由に選んで使え",
+      "summary_bullets": [
+        "個人開発のデスクトップ AI アシスタント AnyModelBot を紹介します",
+        "Windows / macOS / Linux 向けの MIT オープンソースアプリで、U",
+        "最新版は v0.1.21 です"
+      ]
+    },
+    {
+      "id": "e466aacc660e",
+      "title": "ISUCON2026 で 94 位だったので、人間なしのハーネスを作って感想戦に挑んだ",
+      "url": "https://zenn.dev/marie673/articles/isucon2026-full-harness",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-04T01:03:53+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "ISUCON2026 に同期 3 人で出て、856 チーム中 94 位でした。1 位の方は、競技中に人間が一度も指示を入れなかったそうです。 これを再現したくて、競技が終わったあとも Claude と一緒にハーネスを作り直し、過去問で試し続けました。ちょうど感想戦がオープンしたので試したところ、3 回目の試行で、僕から改善の方向を指示せずに開始 1 時間半で 51 万点まで届き、最高は 575,333 点でした。 この記事は、結果を見て僕が何を考え、ハーネスをどう変えていったかの記録です。 本番",
+      "summary_bullets": [
+        "ISUCON2026 に同期 3 人で出て、856 チーム中 94 位でした",
+        "1 位の方は、競技中に人間が一度も指示を入れなかったそうです",
+        "これを再現したくて、競技が終わったあとも Claude と一緒にハーネスを作り直し、過去問"
+      ]
+    },
+    {
+      "id": "ee76e315e9d9",
+      "title": "DeepEval を「道具」で終わらせない — 継続的な企業 Gold Dataset の作り方",
+      "url": "https://zenn.dev/sscodeai/articles/deepeval-enterprise-gold-dataset",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-04T00:34:25+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "対象: LLM アプリの評価を社内に定着させたい開発者・EM・QA 検証環境: Python 3.12 / deepeval 4.3.2 / 決定論的メトリクスは API キーなしで実行 · 2026-11 本記事の立場: 公開 OSS のコードを読み、手元で実際に動かして確認した範囲だけを書いています。ベンダーの意図やロードマップを示すものではありません。 はじめに：Eval ツールを入れただけでは何も変わらない 「Eval を導入しました」という報告の多くは、フレームワークを pip ins",
+      "summary_bullets": [
+        "対象: LLM アプリの評価を社内に定着させたい開発者・EM・QA 検証環境: Pytho",
+        "ベンダーの意図やロードマップを示すものではありません",
+        "はじめに：Eval ツールを入れただけでは何も変わらない 「Eval を導入しました」とい"
+      ]
+    },
+    {
+      "id": "a85035e5c869",
+      "title": "AI倫理の基本 ― 世界の原則はなぜ似ているのか【AIと社会の基本 #2】",
+      "url": "https://zenn.dev/yui10/articles/ai-society-basics-02-ethics",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-04T00:06:54+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "! シリーズ「AIと社会の基本」の第2回です。公的機関の資料や論文をもとに整理しています。2026年11月時点の情報です。 この記事の要点 AI倫理は、「AIは何者か」という問いと、「AIをどんな原則で作り、使うか」という問いの両方を扱います。 倫理学には、結果を重んじる功利主義、守るべき義務を重んじる義務論、行う人のあり方を重んじる徳倫理などの考え方があり、AIの問題は一つの理論だけでは答えが出ません。 チューリングテスト、中国語の部屋、フレーム問題、記号接地問題といった古典的な問いは、生成A",
+      "summary_bullets": [
+        "! シリーズ「AIと社会の基本」の第2回です",
+        "公的機関の資料や論文をもとに整理しています",
+        "2026年11月時点の情報です"
+      ]
+    }
+  ]
+}
