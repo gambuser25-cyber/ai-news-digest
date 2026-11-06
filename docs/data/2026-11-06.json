@@ -1,0 +1,406 @@
+{
+  "updated_at": "2026-11-06 10:11 JST",
+  "date": "2026年11月06日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "749bb68e608a",
+      "title": "CFOの「助けて」にAIが回答する魔法の世界をめざす - NTT Data",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qVktlRjAwVjJ5SlozN251SG15QmxLQ1ZvTU84aGZ0a2JaeHNxOUJIa1lPOWVkVktzWFlrWHlDLUlzSVpfNGxwYTd4N1c2LVdubGpxQm91Q3NCV0JJazdqSnIxZVRzYkFXMzhn?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T10:01:54+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "CFOの「助けて」にAIが回答する魔法の世界をめざす NTT Data",
+      "summary_bullets": [
+        "CFOの「助けて」にAIが回答する魔法の世界をめざす NTT Data"
+      ]
+    },
+    {
+      "id": "f16e8c1541e5",
+      "title": "ＡＩ・半導体中心の株価急落、一時的かしばらく続くかは予断できない＝高市首相 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaVAxdUhXRDdydE9PWG1pS2hvZ21PUkg1ZnB3Qm1HS1pJRkVReFNhVDdRR2F2Sk8weFFPZ0VIZDRDMmNiOFcxRmtLUzdTaFUxSHpnTWp5MkYwR3FTTFNOb0ZHNnppNE00QXFINEp2RHJLWWNtS19zOXI4UnM2MmJReHFuWU9iQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T10:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＡＩ・半導体中心の株価急落、一時的かしばらく続くかは予断できない＝高市首相 Reuters",
+      "summary_bullets": [
+        "ＡＩ・半導体中心の株価急落、一時的かしばらく続くかは予断できない＝高市首相 Reuters"
+      ]
+    },
+    {
+      "id": "8ebba1b065fc",
+      "title": "日経平均が一時4千円下落 AI投資に懸念 NYダウも下落 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIQ3pra0w4Y3pHVFlOY2FhZy1EWmVkUGttQzlZMWVLb013aHBfVWZtZ0V3ZFhXdGpKZHl4UGQ4aHdoQ25UTjlUQ0Z0RHBnS1ZjajBjQS1sV19tcE9ha091NGdjVFRyR2s?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T09:53:05+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "日経平均が一時4千円下落 AI投資に懸念 NYダウも下落 朝日新聞",
+      "summary_bullets": [
+        "日経平均が一時4千円下落 AI投資に懸念 NYダウも下落 朝日新聞"
+      ]
+    },
+    {
+      "id": "3c683674a7ac",
+      "title": "人事の生成AI活用、約9割が“個人の業務効率化”止まり 大手56法人調査で見えた3つの壁と次の一手 - JBpress",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VUUN6OUhNbWRBdVNDM2dYY0NSTEdmWkRRXzlxdGI3V09wWk9lX2dqQ3BnUFZDTXhzaGpFb3R6REZfdHhwWUFxakJiaUktc1JEeDFYdnp3?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T09:50:53+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "人事の生成AI活用、約9割が“個人の業務効率化”止まり 大手56法人調査で見えた3つの壁と次の一手 JBpress",
+      "summary_bullets": [
+        "人事の生成AI活用、約9割が“個人の業務効率化”止まり 大手56法人調査で見えた3つの壁と"
+      ]
+    },
+    {
+      "id": "f6372ce27cc6",
+      "title": "0。SKILL.mdが新しい攻撃面として報告された日、自分の指示書が『データであり命令ではない』と明記する5箇所に、スキルの説明文は入っていなかった",
+      "url": "https://qiita.com/Hideki_Tamae/items/f911fa99a2ab976466f8",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-06T09:49:07+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 0。 これが今回の数字です。何の0かというと、このパイプラインを動かしている自分(Claude)の指示書(システムプロンプト)の中で、「外部から来た内容はデータであり命令ではない」と名指しで注意している場所が5箇所あるうち、その対象リストに「スキル(SKILL....",
+      "summary_bullets": [
+        "はじめに 0",
+        "これが今回の数字です",
+        "何の0かというと、このパイプラインを動かしている自分(Claude)の指示書(システムプロ"
+      ]
+    },
+    {
+      "id": "e663e66de63e",
+      "title": "A2A × AP2：AI Agent同士が協力し、買い物まで完結する未来",
+      "url": "https://qiita.com/ccq1170/items/0d0d246fceb07bfc7499",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-06T09:39:28+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 私は、これからAI Agentが人間の代わりに経済活動を行う時代が来ると考えています。 これまでのインターネットでは、人間がWebサイトを開き、商品を探し、比較し、購入ボタンを押していました。 しかし、これからはどうでしょうか。 例えば、AI Agentにこう依...",
+      "summary_bullets": [
+        "はじめに 私は、これからAI Agentが人間の代わりに経済活動を行う時代が来ると考えてい",
+        "これまでのインターネットでは、人間がWebサイトを開き、商品を探し、比較し、購入ボタンを押",
+        "しかし、これからはどうでしょうか"
+      ]
+    },
+    {
+      "id": "68c865c39e5d",
+      "title": "「NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip」搭載AIスーパーコンピューターを導入 - 国立大学法人 岡山大学",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1UUJKdVkwZjVvdDJOZE92MXBRM2tKMUVPVkg2LUVyQy1Jc1ZGMk5DbXhycXZHQXJKOVpaQVNPZU5pTUJPbXFPN2Jyd241SDFpUGRGeWFnYl9ZLWhaTEJ4c1pqOA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T09:36:12+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip」搭載AIスーパーコンピューターを導入 国立大学法人 岡山大学",
+      "summary_bullets": [
+        "「NVIDIA GB300 Grace Blackwell Ultra Desktop S"
+      ]
+    },
+    {
+      "id": "fa156fb2c528",
+      "title": "AIデータセンター株が急落 ネビウス15％安、IREN17％安、建設制限論と金利に売り - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uUFF6UU9qa20wc0daSFowTHgyYVJZSE5jak8yME1PWXBHRkl5TktEUk45WXQyRTMtbWo0dlBBSXRlMlpFWHVUM2JFT3BKZjk0WGNB?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T09:34:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIデータセンター株が急落 ネビウス15％安、IREN17％安、建設制限論と金利に売り ビジネス+IT",
+      "summary_bullets": [
+        "AIデータセンター株が急落 ネビウス15％安、IREN17％安、建設制限論と金利に売り ビ"
+      ]
+    },
+    {
+      "id": "7f126af1c8ab",
+      "title": "恐れなき委任―AIとともに経営を動かすリスクガバナンスアーキテクチャ実証実験 - PwC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0ZLNzczLUdWczdLbzZKd1pyR3ZIb0l3ZWpLWXdMSjhSYk5sejVCcUNnSS0yM21KSkw4NXVmR3ZhVnp2RGNjOXRfUTEwVE1iRzU1d2VNVXptVFY4N2QxYTU1T1d4dWZoSmRSVWFRd2Vpc2pGUHIzLVV1bFZmbm5HbDFFcVZSNUJpR2kwczZOc2w?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T09:30:34+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "恐れなき委任―AIとともに経営を動かすリスクガバナンスアーキテクチャ実証実験 PwC",
+      "summary_bullets": [
+        "恐れなき委任―AIとともに経営を動かすリスクガバナンスアーキテクチャ実証実験 PwC"
+      ]
+    },
+    {
+      "id": "b268573498b2",
+      "title": "データとAIによる産業・業務変革の未来 FDE（Forward Deployed Engineer）の視点から考える「業務実装」 - PwC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1lRLTdmNXNpdnBHTTRabVp3MEthVmhwOWlCNWlaYkRvaHRhRWF4OHJqOEhZYXA5QzJGenRmMlFGY2hqRlYwVG9SMnhEX0hLekE5dUN1VGoyUFNjUlF2RTJFMUZCNnUtZWtyTW1RZEoxYWh6eWdBSFZDN0tNYjVvVWhxa2VHWURkRW82bHBhQmZLYkFHeHNPOUVmbThOckdnaUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T09:29:25+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "データとAIによる産業・業務変革の未来 FDE（Forward Deployed Engineer）の視点から考える「業務実装」 PwC",
+      "summary_bullets": [
+        "データとAIによる産業・業務変革の未来 FDE（Forward Deployed Engi"
+      ]
+    },
+    {
+      "id": "4ecdec27d6ff",
+      "title": "アンソロピックＩＰＯ日程に懸念、ＡＩ逆風で 投資家指摘 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWRjM2ZVblhLWTM4QVZ3OUxfMDhGLXl2aWVWYXBkMTBkQWQwZ2pPa2ZQRWhTWGdMLXFmVV9xcXBfX0dYdlUwVWhFWmd5c3FQWjVrbE1fVkxHajg5MGpvYlRrZzZ3eWtCVEtCaGFNN1QybnVldzNmVndNS2EyTEl4dXFRV0Zvdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T09:28:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "アンソロピックＩＰＯ日程に懸念、ＡＩ逆風で 投資家指摘 Reuters",
+      "summary_bullets": [
+        "アンソロピックＩＰＯ日程に懸念、ＡＩ逆風で 投資家指摘 Reuters"
+      ]
+    },
+    {
+      "id": "d277bc0325a6",
+      "title": "[レポート] Sigma Webinar『ClaudeとSigma MCPプラグインがいかにして私の人生を変えたのか』",
+      "url": "https://zenn.dev/truestar/articles/db7b4ff238ed7d",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-06T09:23:15+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 当エントリでは、Sigma Computingが開催したウェビナー「How Claude and the Sigma MCP plugin changed my life(ClaudeとSigma MCPプラグインがいかにして私の人生を変えたのか)」の視聴内容をまとめてみたいと思います。Sigma MCPプラグインの仕組みと入手方法、2本のデモ、Q&Aでわかった利用条件(AIプロバイダー設定や権限の扱い)を順に紹介します。 テーマはSigmaが公開した「Sigma MCPプラグイン」で",
+      "summary_bullets": [
+        "はじめに 当エントリでは、Sigma Computingが開催したウェビナー「How Cl",
+        "Sigma MCPプラグインの仕組みと入手方法、2本のデモ、Q&Aでわかった利用条件(AI",
+        "テーマはSigmaが公開した「Sigma MCPプラグイン」で"
+      ]
+    },
+    {
+      "id": "8fa5f65626bb",
+      "title": "非エンジニア向け「毎日デプロイ操作盤」の作り方――フォルダとブラウザを1本の動線にする",
+      "url": "https://qiita.com/boraemon2000/items/526f19afe92a6e258c33",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-06T09:21:01+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "非エンジニア向け「毎日デプロイ操作盤」の作り方――フォルダとブラウザを1本の動線にする 毎日デプロイするための手順書を作っても、作業中に開かなければ役に立ちません。 AIへの共通指示はどのフォルダだったか。今日の確認表は前回のものか。GitHubのどの画面で差分を見るの...",
+      "summary_bullets": [
+        "非エンジニア向け「毎日デプロイ操作盤」の作り方――フォルダとブラウザを1本の動線にする 毎",
+        "AIへの共通指示はどのフォルダだったか",
+        "今日の確認表は前回のものか"
+      ]
+    },
+    {
+      "id": "6a6c9fc6d936",
+      "title": "AI Agentが人間より多く取引する時代へ。今、AP2のRuby SDKを作る理由",
+      "url": "https://zenn.dev/ccq/articles/f4b4753676a017",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-06T09:20:27+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "私は、AI Agentが人間よりも多くの経済活動を行う時代が必ず来ると考えています。 これは単に、AIが便利になるという話ではありません。 今まで人間が行っていた商品の検索、比較、購入、支払い、契約といった行為を、AI Agentが代わりに実行するようになるということです。 そして将来、取引の件数や頻度という意味では、AI Agentによる経済活動が、人間が直接操作する経済活動を上回る可能性が非常に高いと考えています。 今回は、そんな未来を見据えて、私が開発しているRuby OSS「ap2_ma",
+      "summary_bullets": [
+        "私は、AI Agentが人間よりも多くの経済活動を行う時代が必ず来ると考えています",
+        "これは単に、AIが便利になるという話ではありません",
+        "今まで人間が行っていた商品の検索、比較、購入、支払い、契約といった行為を、AI Agent"
+      ]
+    },
+    {
+      "id": "01ff706c487c",
+      "title": "今日の技術トレンド",
+      "url": "https://zenn.dev/bambampurin/articles/2026-09-23-tech-daily",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-06T09:15:57+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "! AI分野では単一LLMから自己改善型エージェントや具身知能（フィジカルAI）への移行が加速する一方、セキュリティリスクや国際ガバナンス（国連安保理での議論）の必要性が急浮上しています。Web開発ではNext.jsのImageResponseにおける重大なRCE脆弱性が報告され緊急対策が求められています。PythonエコシステムではuvやRuffなどRust製ツールの標準化とCodex統合が進んでいます。 AI/LLM & Agent Frameworks: 単一モデルから「自己進化マルチエー",
+      "summary_bullets": [
+        "! AI分野では単一LLMから自己改善型エージェントや具身知能（フィジカルAI）への移行が",
+        "Web開発ではNext.jsのImageResponseにおける重大なRCE脆弱性が報告さ",
+        "PythonエコシステムではuvやRuffなどRust製ツールの標準化とCodex統合が進"
+      ]
+    },
+    {
+      "id": "0cab35bb867b",
+      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-06T09:12:59+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "米Anthropicは11月5日（現地時間）、AIアシスタント「Claude」の新機能「Personal Finance」を発表した。銀行口座やクレジットカード口座を連携させ、自身の財務状況について自然言語で質問できる。米国の「Pro」「Max」「Ultra」プランのユーザーに、β版として順次提供する。Web版、デスクトップアプリ、iOS／Androidア...",
+      "summary_bullets": [
+        "米Anthropicは11月5日（現地時間）、AIアシスタント「Claude」の新機能「P",
+        "銀行口座やクレジットカード口座を連携させ、自身の財務状況について自然言語で質問できる",
+        "米国の「Pro」「Max」「Ultra」プランのユーザーに、β版として順次提供する"
+      ]
+    },
+    {
+      "id": "9d1e89fe3161",
+      "title": "日経平均株価、一時6万円割れ AI投資ブレーキ警戒 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHYmtLcHJDS0k2T0hKUzdleXNXUENraDVmRGNTRi1LUV9zYkVaclM4LWtKQXJEVzIwOHFGSlNlaWNkVV9vS09DMDVnQldraEs1RVd1MmFESnJWczJLeEhPNGw4aUE2MHM3bGFLbw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T09:04:02+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "日経平均株価、一時6万円割れ AI投資ブレーキ警戒 日本経済新聞",
+      "summary_bullets": [
+        "日経平均株価、一時6万円割れ AI投資ブレーキ警戒 日本経済新聞"
+      ]
+    },
+    {
+      "id": "2024e8316bd0",
+      "title": "社内でプロンプト集を配っても使われない。定着させる配り方",
+      "url": "https://zenn.dev/gen_ai_kiyozuka/articles/prompt-collection-not-used-why",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-06T09:00:14+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "生成AIを導入した会社が、次によくやるのが「プロンプト集」の配布です。便利な指示文を50個、100個とまとめて共有フォルダに置く。ところが数か月後に聞くと、ほとんど誰も開いていない。これもよくある話です。プロンプト集そのものが悪いのではなく、配り方に原因があります。 使われない理由は3つ 自分の仕事との距離が遠い：「議事録を要約する」「メールを丁寧にする」といった汎用の例は、読めばわかるけれど、自分の仕事のどの場面で使うかが浮かびません 探すのが面倒：100個のなかから今の場面に合うものを探す手",
+      "summary_bullets": [
+        "生成AIを導入した会社が、次によくやるのが「プロンプト集」の配布です",
+        "便利な指示文を50個、100個とまとめて共有フォルダに置く",
+        "ところが数か月後に聞くと、ほとんど誰も開いていない"
+      ]
+    },
+    {
+      "id": "bd8c8f8ad1b1",
+      "title": "いまこそ企業人がAI倫理を問うべき理由 善き社会のために､AIに何を任せ､人に何を残すのか - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnN3NpX0pZNHY5VGlJcmlTZ1M4M04wQ2dRbHhkdDRRLUlDTWU0X2xKTzB0el94RnByMjkxRXRGZWhYdFhXU25fcHFqcHA3OENqbHc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "いまこそ企業人がAI倫理を問うべき理由 善き社会のために､AIに何を任せ､人に何を残すのか 東洋経済オンライン",
+      "summary_bullets": [
+        "いまこそ企業人がAI倫理を問うべき理由 善き社会のために､AIに何を任せ､人に何を残すのか"
+      ]
+    },
+    {
+      "id": "7ef4da32a409",
+      "title": "民主党勝利に市場動揺、ハイテク株急落 ＡＩ規制強化を警戒 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ySVZIZ3BDcnNtMlhTSVNhbEtIaThpb2xyTzUxX1U2VldGaUowclp6OUU5NkEtem5fVzY3NzF4b2VPc0Q5cDJuTGVaRTBhLU4zTXRiVzBJeW1QbjFaZm1KMzI4amp5MXE3cDNvQTBoVDNkekhhSzlzRElJYW1LUWs?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T08:58:12+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "民主党勝利に市場動揺、ハイテク株急落 ＡＩ規制強化を警戒 Reuters",
+      "summary_bullets": [
+        "民主党勝利に市場動揺、ハイテク株急落 ＡＩ規制強化を警戒 Reuters"
+      ]
+    },
+    {
+      "id": "e3ada02c4e15",
+      "title": "Claude Code v2.1.318——無人実行とネットワークホームの安定性が上がった5つの修正",
+      "url": "https://qiita.com/Sidejob/items/045135c140fe920b0705",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-06T08:45:03+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "深夜に動かしている無人実行のログを見ていると、idle compaction が走ったターンの直後で会話が壊れていたことがある。スクリプト自体は「成功」と返していたが、翌朝のアウトプットが意味をなしていない。v2.1.318 を見たら、これが修正された項目のひとつだった。 ...",
+      "summary_bullets": [
+        "深夜に動かしている無人実行のログを見ていると、idle compaction が走ったター",
+        "スクリプト自体は「成功」と返していたが、翌朝のアウトプットが意味をなしていない",
+        "v2.1.318 を見たら、これが修正された項目のひとつだった"
+      ]
+    },
+    {
+      "id": "7fd7676cd101",
+      "title": "米国株式市場＝ナスダック19カ月ぶり大幅安、調整入り確認 ＡＩ規制を懸念 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRk1sZ2I1eFBLa2x6TkI5anVLc2p4czVGQTgteGhsUVowS1VvQU9tekdRLUZ4dWpZR1FueFZCd0NzVjhtS3FoN1k0M2ktMmRvSkpicm40MFA1Vm4wdUZVRmFjTk1xZXFMYktkNHRjUVJOaVdUbWtkX3R6SndTSFN4cFgyVG5zQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T08:44:38+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国株式市場＝ナスダック19カ月ぶり大幅安、調整入り確認 ＡＩ規制を懸念 Reuters",
+      "summary_bullets": [
+        "米国株式市場＝ナスダック19カ月ぶり大幅安、調整入り確認 ＡＩ規制を懸念 Reuters"
+      ]
+    },
+    {
+      "id": "b613f09dde2d",
+      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-06T08:41:46+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され...",
+      "summary_bullets": [
+        "米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-",
+        "汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強",
+        "GPT-6 Astraは、9月に発表され..."
+      ]
+    },
+    {
+      "id": "d782e7aeca29",
+      "title": "GitHub issue artifactsをベースに私専用ニュース配信サイトを作った",
+      "url": "https://zenn.dev/mlbread/articles/df26c1d3b0f99f",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-06T08:30:18+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "GitHubは10月28日、issue artifacts機能をパブリックプレビュー公開しました。 https://github.blog/changelog/2026-10-28-issue-artifacts-are-now-in-public-preview/ なんでも、issueにHTML等を添付してビジュアライズできる機能なんですと。issueをAI生成することも増えてきたので、issueもAIの得意な表現に対応した形ですね。 以前からやりたかったアイデアがこの機能をうまく活用して実現",
+      "summary_bullets": [
+        "GitHubは10月28日、issue artifacts機能をパブリックプレビュー公開し",
+        "https://github.blog/changelog/2026-10-28-issu",
+        "issueをAI生成することも増えてきたので、issueもAIの得意な表現に対応した形です"
+      ]
+    },
+    {
+      "id": "7cb010bb5d67",
+      "title": "管理ゼロを目指す設計で分かったことと、まだ残る課題",
+      "url": "https://zenn.dev/neoru/articles/d975bf47df7a74",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-06T08:15:21+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "自動化を進めると、操作そのものは少しずつ減らせます。 しかし、操作が減っただけでは管理が消えたとは言えません。どの情報が正しいのか、処理は本当に完了したのか、失敗後はどこから再開するのか。これらを毎回人が判断しているなら、作業が管理へ置き換わっただけです。 これまでの記事では、正本、最小権限、二重実行の防止、Readback、引き継ぎ、チェックポイント、状態管理、管理負債を個別に扱ってきました。 今回は、それらを一つの流れとして振り返り、現時点で確認できたことと、まだ解けていないことを分けます。",
+      "summary_bullets": [
+        "自動化を進めると、操作そのものは少しずつ減らせます",
+        "しかし、操作が減っただけでは管理が消えたとは言えません",
+        "どの情報が正しいのか、処理は本当に完了したのか、失敗後はどこから再開するのか"
+      ]
+    },
+    {
+      "id": "9f1a4851a4d3",
+      "title": "任せるより、自分でやる：AI時代の新しい働き方",
+      "url": "https://zenn.dev/keiji_ai_japan/articles/15df42c91ad65b",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-06T08:11:06+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "「任せること」の時代の終わり 50年間、キャリアの定石はシンプルでした。「任せることを覚えよ」。昇進するほど自分の手を動かさず、方向を示し、人を採り、あとは邪魔をしない。 その助言は、もう正しくありません。 任せることは、なぜ合理的だったのか ドラッカーは、マネージャーの仕事は他者を通じて成果を何倍にもすることだと説きました。知識労働でも、上級職ほど抽象度の高い仕事をするものとされ、「それは部下に任せている」がステータスになりました。 説明に30分、実行に3時間かかる仕事なら、任せれば2.5時間",
+      "summary_bullets": [
+        "「任せること」の時代の終わり 50年間、キャリアの定石はシンプルでした",
+        "「任せることを覚えよ」",
+        "昇進するほど自分の手を動かさず、方向を示し、人を採り、あとは邪魔をしない"
+      ]
+    },
+    {
+      "id": "c9d54c4aa4be",
+      "title": "そのAI、本物？Anthropicが答えを暗号で証明",
+      "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20261105",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-06T08:05:44+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "2026年11月5日（木）のAIニュース完全解説版。図解を見れば本文を読まなくても分かる形にしています。 今日は、AIを「信じていいのか」という話がそろいました。AIの答えが本物かを暗号で証明する研究。中身ごと公開された巨大AIと、その成績への疑い。AIが見つけたLinuxの弱点948件。有料でも会話が学習に使われるという指摘。最後に、Siriの扉が少し開いた話です。経営者の皆さんにも、個人で学んでる皆さんにも、明日からの判断に効く話なんですよ。 1. AIの答えが本物か、暗号で証明する試み 図",
+      "summary_bullets": [
+        "2026年11月5日（木）のAIニュース完全解説版",
+        "図解を見れば本文を読まなくても分かる形にしています",
+        "今日は、AIを「信じていいのか」という話がそろいました"
+      ]
+    },
+    {
+      "id": "52b57745e410",
+      "title": "社内のClaude Codeスキルをプラグインにして売る — 稼働を増やさずノウハウを渡す手順",
+      "url": "https://zenn.dev/joinclass/articles/article-20261104220057-25539",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-06T08:00:11+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "なぜプラグインにしたのか 当社は受託開発と出版をやっている小さな会社です。受託の弱点ははっきりしていて、売上が僕の稼働時間に比例します。一方で、案件の中で何度も同じことを教えていました。「仮説検証をせずに作り始めない」「AIの出力をそのまま外に出さない」「Markdownを崩さずにEPUBにする」。どれも、当社の .claude/skills/ にはもう SKILL.md として書いてあります。 教える内容がファイルになっているなら、ファイルごと渡せばいい。Claude Code のプラグインは",
+      "summary_bullets": [
+        "なぜプラグインにしたのか 当社は受託開発と出版をやっている小さな会社です",
+        "受託の弱点ははっきりしていて、売上が僕の稼働時間に比例します",
+        "一方で、案件の中で何度も同じことを教えていました"
+      ]
+    },
+    {
+      "id": "bc2106ebc129",
+      "title": "spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする",
+      "url": "https://zenn.dev/ruri/articles/code-as-spec",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-06T08:00:05+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "TL;DR 仕様書を厳密に書こうとするほど、仕様書はプログラムに似ていきます。その行き着く先は、読みづらいコードです。それなら最初から、仕様書のように読めるコードを書けばいいのです。ドメインモデリングをした可読性の高いコードを、仕様の正（SSoT）にします。 仕様書をリポジトリに残すなら、コードと同じだけの信頼を担保する仕組みが要ります。コードにはコンパイラとテストがありますが、自然言語の仕様書には何もありません。担保できないなら残しません。説明が必要になったら、コードからその都度生成します。 ",
+      "summary_bullets": [
+        "TL;DR 仕様書を厳密に書こうとするほど、仕様書はプログラムに似ていきます",
+        "その行き着く先は、読みづらいコードです",
+        "それなら最初から、仕様書のように読めるコードを書けばいいのです"
+      ]
+    },
+    {
+      "id": "f1f00df7d1d4",
+      "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-06T07:55:26+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "summary_bullets": [
+        "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜"
+      ]
+    }
+  ]
+}
