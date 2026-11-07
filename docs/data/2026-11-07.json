@@ -1,0 +1,399 @@
+{
+  "updated_at": "2026-11-07 09:27 JST",
+  "date": "2026年11月07日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "06436082e2b7",
+      "title": "ラクス調査、業務システム化を検討した企業の79.3%が断念した現実｜コストと人材不足を越えて小さく始める3つのステップ",
+      "url": "https://qiita.com/DnD-inc/items/580948e95e8ca7509ba8",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-07T09:17:35+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "ラクス調査、業務システム化を検討した企業の79.3%が断念した現実｜コストと人材不足を越えて小さく始める3つのステップ 本記事は、株式会社DnD（https://dnd-inc.jp）のコラムを一部編集して掲載しています。 初出: https://dnd-inc.jp/...",
+      "summary_bullets": [
+        "ラクス調査、業務システム化を検討した企業の79.3%が断念した現実｜コストと人材不足を越え",
+        "初出: https://dnd-inc.jp/..."
+      ]
+    },
+    {
+      "id": "93d1ca85c0c7",
+      "title": "Google、脆弱性修正AI「CodeMender」を強化 Gemini 4 Argonなど複数AIモデルを使用 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wZXdyRXdtVjZRUHlFYndKclB1c0N4RV9aZk5odklaOUlZVWZrSE4wX1FiWUg0WWNZcEpMQUFJalBtdEhvbEpqLU5BOEkxTFNoYVREUW5xMDBGQ1ZIOS1IU3FZSDRkUFFUTHVISWJ5LVBVc0p5SE5VelU5Q1EyMVE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T09:10:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Google、脆弱性修正AI「CodeMender」を強化 Gemini 4 Argonなど複数AIモデルを使用 Yahoo!ニュース",
+      "summary_bullets": [
+        "Google、脆弱性修正AI「CodeMender」を強化 Gemini 4 Argonな"
+      ]
+    },
+    {
+      "id": "9e0ab3199188",
+      "title": "AIが持つ“無意識の思い込み” 子どもたちの将来の可能性を狭めるおそれ 専門家が提言、教育現場と家庭でできること - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hTE45aFJuV0hPWUw4dzVYSkZ0RTE0aGJSOG01NjFBYm00elFMRkpKUXo3U3pBY1lpQkZtU3pmT0x4NnVTWlpPMnV0VTNYM3p2dmtkTnVOZlZONDZsa1BzaUFPVkxCWk9DVzRoZzFsWkQtWGx3Nmt2b3Z2aC1qOEU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T09:00:42+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIが持つ“無意識の思い込み” 子どもたちの将来の可能性を狭めるおそれ 専門家が提言、教育現場と家庭でできること Yahoo!ニュース",
+      "summary_bullets": [
+        "AIが持つ“無意識の思い込み” 子どもたちの将来の可能性を狭めるおそれ 専門家が提言、教育"
+      ]
+    },
+    {
+      "id": "bf4a6cd7ba35",
+      "title": "米民主党、ＡＩ規制法案を多数提出へ 共和党路線から転換 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWZtVkJKNUl6b0pxeGROY0FRY1RHdWhLRWo3RE5NUnBVX3d2UWNMTlR1aGdiT1RNMldwbVh4Zm9LNnllRUQ2V2l0V0p1azk5?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T08:49:22+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米民主党、ＡＩ規制法案を多数提出へ 共和党路線から転換 Yahoo!ニュース",
+      "summary_bullets": [
+        "米民主党、ＡＩ規制法案を多数提出へ 共和党路線から転換 Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "bc7201d0a11d",
+      "title": "Copilot Studioエージェントの自律度、どう決めるか——実務で使う4つの軸",
+      "url": "https://qiita.com/Sidejob/items/85a9ec07f0d137acffb5",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-07T08:45:03+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "この記事で分かること Copilot Studioエージェントの「自律度」を設定するための判断フレームワーク 承認フローを入れるべきステップと省略できるステップの見分け方 大企業展開で繰り返し遭遇した、自律度設定のよくある失敗パターン 企業でCopilot Stud...",
+      "summary_bullets": [
+        "この記事で分かること Copilot Studioエージェントの「自律度」を設定するための"
+      ]
+    },
+    {
+      "id": "d077fca408b9",
+      "title": "サイバー攻撃、中小に懸念 AIで進化、「何を優先したら」（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRnRoYUtsYTZreFhIZGNMd1BoMjE3VU9ramRVNDJqTnVERnpuaHFSX2toQWR2aHJWNFFwSGUydnJ1QlNqUUhyVjdwYk9PYkNSWktEOFF3bmJva2dDVzVpYTczak9Vb29xRDh2cGhKVDBFZUVKZmlNWDZIS3NQUjQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T08:18:25+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "サイバー攻撃、中小に懸念 AIで進化、「何を優先したら」（時事通信） Yahoo!ニュース",
+      "summary_bullets": [
+        "サイバー攻撃、中小に懸念 AIで進化、「何を優先したら」（時事通信） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "fa7ee59b6894",
+      "title": "日経平均株価5ヶ月半ぶり安値 米民主党の大勝でAI銘柄への逆風は続くのか？ 野村證券・岡崎康平 - 野村證券",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHUlczbHhzRW44amp4NHhfMGZpMldhQk5xa2k5ZUo2RWpIY0c3bE5XOWprUmpYbUFQdmstaW5FR3R2dzdYbWh5Z0gzWGZXNTdaR3huYldFNy1mdFJIUkhz?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T08:16:24+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "日経平均株価5ヶ月半ぶり安値 米民主党の大勝でAI銘柄への逆風は続くのか？ 野村證券・岡崎康平 野村證券",
+      "summary_bullets": [
+        "日経平均株価5ヶ月半ぶり安値 米民主党の大勝でAI銘柄への逆風は続くのか",
+        "野村證券・岡崎康平 野村證券"
+      ]
+    },
+    {
+      "id": "62b1aeca5f1b",
+      "title": "AIにファンタジーフットボールチームの運営を任せてみた。人間を超える日は近いのか - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HeUZsUW1yR01DRlF1dFRJNFYwRUxjVmFZM1M2U1VxZmpUZ3psM1dBM1NWZ3dzenFkbmE1QjVHSm5oX0JsRW1senF4ZTM3c0tMX09SbVFVQWMwb2IyM2FnM0l5eGptZmQ0a0duTjJ2RWVYQnF3alRNaQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIにファンタジーフットボールチームの運営を任せてみた。人間を超える日は近いのか WIRED.jp",
+      "summary_bullets": [
+        "AIにファンタジーフットボールチームの運営を任せてみた",
+        "人間を超える日は近いのか WIRED.jp"
+      ]
+    },
+    {
+      "id": "97afa43569cd",
+      "title": "「感情の理解で人間を超えた」AIで人類は滅亡するのか？ “哲学界のロックスター”マルクス・ガブリエル氏が見つめる可能性とトランプ大統領の盲点【報道1930 前編】 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZTmpFQ0xEUHRSelU3OUw3NDdPcTRTWm5mV0R2bGt4VTl5eEp1alhGSjk3MHlkdWZfWkVoWkZuc1BBOXdBM0UwcHZpT2tFRGt1eUhCQ3ZTNA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「感情の理解で人間を超えた」AIで人類は滅亡するのか？ “哲学界のロックスター”マルクス・ガブリエル氏が見つめる可能性とトランプ大統領の盲点【報道1930 前編】 TBS NEWS DIG",
+      "summary_bullets": [
+        "「感情の理解で人間を超えた」AIで人類は滅亡するのか",
+        "“哲学界のロックスター”マルクス・ガブリエル氏が見つめる可能性とトランプ大統領の盲点【報道"
+      ]
+    },
+    {
+      "id": "5fa7b0a9d164",
+      "title": "【村瀬智一が斬る！深層マーケット】AI規制懸念の世界株安、需給調整の長期化を警戒 - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQNkNCQ29PTi1yallPczNVcVVJSG9sNkVtZUhGa1JFSEQ4UzY0dDNLVTI3QVlWblk3TjBnbGYydk1CaUl2a2ZJaFloWWdkYk42d094WlFOMFo5bUo3bnk3Uw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【村瀬智一が斬る！深層マーケット】AI規制懸念の世界株安、需給調整の長期化を警戒 株探",
+      "summary_bullets": [
+        "【村瀬智一が斬る",
+        "深層マーケット】AI規制懸念の世界株安、需給調整の長期化を警戒 株探"
+      ]
+    },
+    {
+      "id": "5c931f0e6640",
+      "title": "言葉のウラや“行間”まで読む知性「AIの方が人間の価値観を理解している」－哲学者マルクス・ガブリエル氏が説く「異星人の知性」とアライメントの崩壊【報道1930 中編】 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpRGR6NXZFeWtENjYyU1dPbkhoUms3VmJWRTFsYkZmNGZ2RGQxdW1NdFhjdGpYYi1UMWJmaEgyRlFqaUVPWmg3dVozb2ZPYXZONFhaUVJPVQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "言葉のウラや“行間”まで読む知性「AIの方が人間の価値観を理解している」－哲学者マルクス・ガブリエル氏が説く「異星人の知性」とアライメントの崩壊【報道1930 中編】 TBS NEWS DIG",
+      "summary_bullets": [
+        "言葉のウラや“行間”まで読む知性「AIの方が人間の価値観を理解している」－哲学者マルクス・"
+      ]
+    },
+    {
+      "id": "fa8c01e00827",
+      "title": "AIネオクラウド「8割消滅」予測　債務膨張、民主旋風が追い打ち - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-07T07:57:15+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "【シリコンバレー=伴正春】AI（人工知能）データセンターを手がける新興企業に懸念が強まっている。「ネオクラウド」などと呼ばれる米上場6社の負債は1年で8倍となった。米中間選挙で民主党が躍進し、建設延期で資金回収が遅れれば、信用不安が広がる恐れがある。決算、中間選挙に関する質問相次ぐ「進行中のプロジェク...",
+      "summary_bullets": [
+        "【シリコンバレー=伴正春】AI（人工知能）データセンターを手がける新興企業に懸念が強まって",
+        "「ネオクラウド」などと呼ばれる米上場6社の負債は1年で8倍となった",
+        "米中間選挙で民主党が躍進し、建設延期で資金回収が遅れれば、信用不安が広がる恐れがある"
+      ]
+    },
+    {
+      "id": "82f4a5383222",
+      "title": "SpaceX、1年半で13GWのAIインフラ建設へ 世界最大のAIクラウドを目指す - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85cDdBTi1nUndpaGpJOGlUMnpsWURuWnhwYXlRM1BwcDh5OTF4WG1PTE8tNnU5aG52bng4OW5fMjJpWV9UQUdyMXBCUWdfWXo0UlBmc0RueUVMWkdlSjdiMmUyeHMxdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T07:40:39+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "SpaceX、1年半で13GWのAIインフラ建設へ 世界最大のAIクラウドを目指す 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "SpaceX、1年半で13GWのAIインフラ建設へ 世界最大のAIクラウドを目指す 株式会"
+      ]
+    },
+    {
+      "id": "9542eda26d68",
+      "title": "【GitHub日報】security-audit-skillが+2,524で首位、常連入れ替わり10件は直近最多 — 2026-11-07",
+      "url": "https://qiita.com/Git_Dayori/items/d8c5c9811db9e88173b1",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-07T07:31:02+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします。 🆕 初登場（First Timers） 今日初めてトレンド入りしたリポジトリ。 （該当なし） 🔁 常連（Repeat Performers） 過去にもトレ...",
+      "summary_bullets": [
+        "GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアッ",
+        "🆕 初登場（First Timers） 今日初めてトレンド入りしたリポジトリ",
+        "（該当なし） 🔁 常連（Repeat Performers） 過去にもトレ..."
+      ]
+    },
+    {
+      "id": "f1f00df7d1d4",
+      "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T07:24:26+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "summary_bullets": [
+        "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜"
+      ]
+    },
+    {
+      "id": "720d0b3cfaae",
+      "title": "失敗を記録に残して設計に返す ― 「失敗記録」の育て方",
+      "url": "https://qiita.com/ai_secretary/items/7ea145fc0ebe0fc777ea",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-07T07:23:02+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "失敗は「なかったこと」にしない AIで副業や自動化を回し始めると、失敗は必ず出る。投稿がスパム判定を受けた、作った商品が売れなかった、タスクが夜中に止まっていた。問題は失敗そのものではなく、失敗を記録に残さず、同じところで二度つまずくことだ。 そこで私は、運用ルールのファ...",
+      "summary_bullets": [
+        "失敗は「なかったこと」にしない AIで副業や自動化を回し始めると、失敗は必ず出る",
+        "投稿がスパム判定を受けた、作った商品が売れなかった、タスクが夜中に止まっていた",
+        "問題は失敗そのものではなく、失敗を記録に残さず、同じところで二度つまずくことだ"
+      ]
+    },
+    {
+      "id": "c24ea31ac07c",
+      "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T07:12:57+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ ダイヤモンド・オンライン",
+      "summary_bullets": [
+        "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円",
+        "暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒",
+        "ダイヤモンド・オンライン"
+      ]
+    },
+    {
+      "id": "f6307e7e2767",
+      "title": "今週の【早わかり株式市況】急反落、AI規制への警戒感でハイテク株総崩れ - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ncEE0UTl0TV9UcC1ZZ25xemw5eTJZc2V0NWtpbEpQVDZ6VmpiMnN0bUxnSWxHQktDbmZSdThqbTZSX0x4Q1BSMmNEMWxBTlhVcWZCMi02RU1sNTkxTDRKaw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T06:40:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "今週の【早わかり株式市況】急反落、AI規制への警戒感でハイテク株総崩れ 株探",
+      "summary_bullets": [
+        "今週の【早わかり株式市況】急反落、AI規制への警戒感でハイテク株総崩れ 株探"
+      ]
+    },
+    {
+      "id": "90b3442dc7f6",
+      "title": "グローバルAIファンド(予想分配金提示型)【7931419A】：基準価格・投資信託情報 - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zeVlBaU5rNWVUd3R3d3RGdWNfZTVGQWQxbmx4NmdkUTBSNThwRU5BRWF3akJLdHIyNGc4ejRRRVo3dzNPSjNfRWxCUno0SnU5RU9hTg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T06:19:02+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "グローバルAIファンド(予想分配金提示型)【7931419A】：基準価格・投資信託情報 Yahoo!ファイナンス",
+      "summary_bullets": [
+        "グローバルAIファンド(予想分配金提示型)【7931419A】：基準価格・投資信託情報 Y"
+      ]
+    },
+    {
+      "id": "6219383625f8",
+      "title": "AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCYXFnMWoxZ0lDNmRVV25ybUl5REdkYjBKZ203S0dEQmd5Z2c2S0FueDA2Wm1aYzlPZkJRVmV5a0EwTncwZmlSZC13ZnIzQy1Va0hlV3oxaENKUURlREFqeEVoa3dHVVBsM1ZnWg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T06:08:24+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち 日本経済新聞",
+      "summary_bullets": [
+        "AIネオクラウド「8割消滅」予測 債務膨張、民主旋風が追い打ち 日本経済新聞"
+      ]
+    },
+    {
+      "id": "7167ad857d0f",
+      "title": "AI新世紀：死者の尊厳って？「AI故人」がもたらした根源的な問いの難しさ - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZURVY0NoSjRCTEdXZ18wcmpjQjlwWG8yajU4VldXTXVPaEFXX1pscEE1b3lYbFhmM01DcVVDRkhBQ2V2czBpLXRwcnhzSzgtQzVwdnpKOVJLTi1fc0wxV2RGcEMxcnZr?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T06:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI新世紀：死者の尊厳って？「AI故人」がもたらした根源的な問いの難しさ 毎日新聞",
+      "summary_bullets": [
+        "AI新世紀：死者の尊厳って",
+        "「AI故人」がもたらした根源的な問いの難しさ 毎日新聞"
+      ]
+    },
+    {
+      "id": "28356ca3f485",
+      "title": "行政現場「コンサル頼み」の次は「AI活用」？ 河内長野市は脱コンサル宣言 結局問われるのは職員の知恵 - 東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EQXg2alNFd3kwNFJXcGFteFl6QlFWbGtmWEw3RDNDXzY4bmpETUlCWjdldC16aWNZUDNpWG12Ny1KTW1iWllFeEVRSXh2OHowQlJv?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "行政現場「コンサル頼み」の次は「AI活用」？ 河内長野市は脱コンサル宣言 結局問われるのは職員の知恵 東京新聞",
+      "summary_bullets": [
+        "行政現場「コンサル頼み」の次は「AI活用」",
+        "河内長野市は脱コンサル宣言 結局問われるのは職員の知恵 東京新聞"
+      ]
+    },
+    {
+      "id": "1514ae5a426b",
+      "title": "DeepSeekなど中国AIの収益、米AI2社の10分の1 計算資源節約で克服 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoVlhPX0tENUtjbzlyY3daY09zT2liZFdjWEl2S0NwNGk3RzhGaFF6WFlXYlhkQ3djak9jVmhUcUdyajFVb0lhaGNPTXpVdXdIcHRHN01iVUpwcF91eDdLOUlXR0hJVmEyVlltdg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "DeepSeekなど中国AIの収益、米AI2社の10分の1 計算資源節約で克服 日本経済新聞",
+      "summary_bullets": [
+        "DeepSeekなど中国AIの収益、米AI2社の10分の1 計算資源節約で克服 日本経済新"
+      ]
+    },
+    {
+      "id": "0abaa9bfbcbf",
+      "title": "ＡＩは日本の需要にプラス、供給面も検討必要＝日銀総裁 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1neHl0eGhYRXFKdmhCTUtpS19Pc3F3TWU3b3EweklLQlNYZWVRZzcyS1FuSk5VaGZrWHN4T18zOFMtWll5cUp0MEN1MGhIay1sQ2Vkd1RaWlZwclprMHZaZ0NRNnlmRVhNMFpIdS03bTZnSVk0eWlRMHhJMVdmdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-07T02:23:44+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＡＩは日本の需要にプラス、供給面も検討必要＝日銀総裁 Reuters",
+      "summary_bullets": [
+        "ＡＩは日本の需要にプラス、供給面も検討必要＝日銀総裁 Reuters"
+      ]
+    },
+    {
+      "id": "f6e33c722b73",
+      "title": "画像内テキストが崩れないプロンプト設計：商品写真・広告向けチェックリスト",
+      "url": "https://zenn.dev/decomytree/articles/781e53405126ee",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-07T02:18:54+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに AI 画像生成でいちばんつまずきやすいのが、画像の中に入れる文字です。ポスターの見出し、パッケージの商品名、UI モックのラベル——どれも「なんとなく文字っぽい形」までは出るのに、いざ拡大すると字形が崩れたり、意図と違う綴りになったりしがちです。 一方で、EC の商品写真や Meta / TikTok 向けの静的広告では、文字が読めるかどうかがそのまま採用可否になります。この記事では、特定のサービスに依存しない形で、文字入りの商品写真・広告クリエイティブを安定させるプロンプトの書き方を",
+      "summary_bullets": [
+        "はじめに AI 画像生成でいちばんつまずきやすいのが、画像の中に入れる文字です",
+        "ポスターの見出し、パッケージの商品名、UI モックのラベル——どれも「なんとなく文字っぽい",
+        "一方で、EC の商品写真や Meta / TikTok 向けの静的広告では、文字が読めるか"
+      ]
+    },
+    {
+      "id": "f19ea98dc4ad",
+      "title": "guillaumemeyer/watermarks-remover 実機検証＆エラー解決ハンズオンガイド",
+      "url": "https://zenn.dev/shotasone/books/oss-watermarks-remover-guide",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-07T02:06:23+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "linux/arm64 実機検証で判明した guillaumemeyer/watermarks-remover の再現手順・エラー解決・Docker構成を完全収録。",
+      "summary_bullets": [
+        "linux/arm64 実機検証で判明した guillaumemeyer/watermar"
+      ]
+    },
+    {
+      "id": "f7bc8eba6e27",
+      "title": "AIが政策を議論したらどうなるか ― マルチエージェント討論とバーチャル議会の設計",
+      "url": "https://zenn.dev/onelifevibe/articles/cd89b587413b8c",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-07T02:01:33+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 政策の議論では、ひとつの視点だけでは論点の抜け漏れに気づきにくい。異なる立場や専門性を持つ参加者が賛否を述べ合うことで、論点が整理され、反論や前提の違いが可視化される。 人間だけでなく、AIが政策案の賛否を議論すると、論点の抜け漏れに気づきやすくなる。ここでは、複数のAIエージェントによる討論、いわゆるマルチエージェント討論の設計と、その利点と課題を整理する。 マルチエージェント討論という考え方 大規模言語モデルに異なる視点や役割を与え、政策案について討論させる設計がある。各エージェン",
+      "summary_bullets": [
+        "はじめに 政策の議論では、ひとつの視点だけでは論点の抜け漏れに気づきにくい",
+        "異なる立場や専門性を持つ参加者が賛否を述べ合うことで、論点が整理され、反論や前提の違いが可",
+        "人間だけでなく、AIが政策案の賛否を議論すると、論点の抜け漏れに気づきやすくなる"
+      ]
+    },
+    {
+      "id": "7e89ddf5719c",
+      "title": "GodotでAIを使ってスプライト、ピクセルアート、タイルを作る方法",
+      "url": "https://zenn.dev/zivaengine/articles/f68112e1c7c433",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-07T00:36:46+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "この記事は https://ziva.sh/blogs/godot-ai-sprites の日本語版です（英語の原文はZiva.shが2026年11月4日に公開）。 Godotエディターを離れずに2Dゲームのアートを作るには、Godotの中で動くAIエージェントZivaに頼みます。「右向きの64x64のピクセルアートの騎士を作って」のように入力すると、Zivaが画像を生成してチャットに表示し、PNGをres://assets/generated/に保存します。Godotはこのファイルをインポート",
+      "summary_bullets": [
+        "この記事は https://ziva.sh/blogs/godot-ai-sprites ",
+        "Godotエディターを離れずに2Dゲームのアートを作るには、Godotの中で動くAIエージ",
+        "「右向きの64x64のピクセルアートの騎士を作って」のように入力すると、Zivaが画像を生"
+      ]
+    },
+    {
+      "id": "97029879a944",
+      "title": "画像から3Dプリント用のSTLを作る：リトフェインとの違いと、約8万／約150万ポリの使い分けメモ",
+      "url": "https://zenn.dev/xer97/articles/57f76704aabcef",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-07T00:27:46+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "「この写真を3Dプリントしたい」には、だいたい2種類あります。写真そのものを光にかざす板にしたいのか、写っている物を裏側まである立体で欲しいのか。 ここで書くのは後者の話です。筆者は 画像からSTL（英語だと image to stl）の開発者で、作る側から見た判断のポイントをメモしておきます。 リトフェイン／ハイトマップとの違い リトフェインやハイトマップは、画素の明るさを厚みに変換します。出力は常に板で、裏は平らです。写真を飾りたいならこれで十分ですし、無料のツールも多いです。 画像から3D",
+      "summary_bullets": [
+        "「この写真を3Dプリントしたい」には、だいたい2種類あります",
+        "写真そのものを光にかざす板にしたいのか、写っている物を裏側まである立体で欲しいのか",
+        "ここで書くのは後者の話です"
+      ]
+    },
+    {
+      "id": "9d215dc461e1",
+      "title": "生成したスプライトシートを Godot 4 / Unity に入れるときのメモ（5アクション前提）",
+      "url": "https://zenn.dev/xer97/articles/6913c179bb40ff",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-07T00:26:17+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "Godot 4 系を前提に書いています。Unity はバージョンによってメニュー名が少し違うことがあります。 筆者は スプライトジェネレーター（英語だと sprite generator。全身のキャラ画像1枚から Idle / Walk / Run / Jump / Attack を作ってスプライトシートにするツール）の開発者です。宣伝を兼ねていますが、エンジン側の手順は手描きのシートでも同じです。 2Dアクションの試作では、移動とジャンプはできたのにプレイヤーがまだ四角、という期間が長くなりが",
+      "summary_bullets": [
+        "Godot 4 系を前提に書いています",
+        "Unity はバージョンによってメニュー名が少し違うことがあります",
+        "筆者は スプライトジェネレーター（英語だと sprite generator"
+      ]
+    }
+  ]
+}
