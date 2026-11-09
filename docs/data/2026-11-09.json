@@ -1,0 +1,395 @@
+{
+  "updated_at": "2026-11-09 09:09 JST",
+  "date": "2026年11月09日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "f4cad24f9e89",
+      "title": "`claude -p --restricted` の `/スキル名` は展開されていなかった ― モデルが自力で探し当てていた1週間",
+      "url": "https://qiita.com/masamitsu_sera/items/d9d1f55ef6f02c4dcb6f",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-09T09:03:12+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "常駐の Mac で、claude -p を無人で呼ぶ文章生成のジョブを動かしています。1つのジョブが3つの段（入力から題材を選ぶ・下書きする・照合する）で claude -p を呼び、どの段も、リポジトリに置いたスキル（.claude/skills/<スキル名>/SKILL...",
+      "summary_bullets": [
+        "常駐の Mac で、claude -p を無人で呼ぶ文章生成のジョブを動かしています",
+        "1つのジョブが3つの段（入力から題材を選ぶ・下書きする・照合する）で claude -p "
+      ]
+    },
+    {
+      "id": "720820f5b512",
+      "title": "約3000のAIエージェント、業務部門への100名規模のアサイン──みずほFGが向かうAIネイティブへの道筋 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvcUprMTNnX2lkbTNSeXg2V19tczlGRzNMX2JTSi1oMDVCTlZhemNyV1VNblJIVkFvWHJlWjhzVmNtT0dwMHhxVlA4bjZLR2dPUVE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "約3000のAIエージェント、業務部門への100名規模のアサイン──みずほFGが向かうAIネイティブへの道筋 CodeZine",
+      "summary_bullets": [
+        "約3000のAIエージェント、業務部門への100名規模のアサイン──みずほFGが向かうAI"
+      ]
+    },
+    {
+      "id": "0b1786e1c21a",
+      "title": "ゾーホー、AIによるIT運用とセキュリティ運用の連携を訴求 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uVndDRmVKSl92bDhPRXExMDlGdTJTTzl1eFNxbFQ3TjdVZFRJdlRaRFUycmo5czlQQVNvZXptMmdBWlIzZWZGRXlEeW40cDdlSDQtdkgxVTFoQTJYcEpraXFKazJTdzNWb3NpTXZ3VlRublJlOWtqZmpwNEZXYVE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ゾーホー、AIによるIT運用とセキュリティ運用の連携を訴求 Yahoo!ニュース",
+      "summary_bullets": [
+        "ゾーホー、AIによるIT運用とセキュリティ運用の連携を訴求 Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "d32a02725e2c",
+      "title": "オープンＡＩ、110億ドル調達 評価額は当初目標下回る＝関係者 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFNKeVozWWExMmFOZGZONUJqRXlQS3dMVWJESUxqblkxUVl5a3R4b21iRHJxaVVYSGFwS3R1TEtpeU5DTmZqWjJ0dzc3NHFCS3BUUUthX2R1amxZZDNsUURoanZ4dHktdlptS2NNdnBOYkhlelhYYkdHd0JwcTJRSExJaTZpZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T08:47:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "オープンＡＩ、110億ドル調達 評価額は当初目標下回る＝関係者 Reuters",
+      "summary_bullets": [
+        "オープンＡＩ、110億ドル調達 評価額は当初目標下回る＝関係者 Reuters"
+      ]
+    },
+    {
+      "id": "82981724cf7e",
+      "title": "日本で「仕事を奪うAI」は定着しなかった…JR東日本や野村不動産HDなど4800社超の現場で見えた「“間”に入るAI」の可能性 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyQUxRdjFmRTNIZUNRWjVnWVhjQmE2RS02cmZYczYzM3ZWeEJLX2l0T1pMWk4tVjVDbGh1UkZvZkpTU0dXeDEwWkloelJvUWZzWjFLaVpfYmlROFBOWmxwYzNvQW8xLXZfMmc4eG8tOC1qdi1tc1JPNzVwYThjMWM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T08:30:38+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "日本で「仕事を奪うAI」は定着しなかった…JR東日本や野村不動産HDなど4800社超の現場で見えた「“間”に入るAI」の可能性 Yahoo!ニュース",
+      "summary_bullets": [
+        "日本で「仕事を奪うAI」は定着しなかった…JR東日本や野村不動産HDなど4800社超の現場"
+      ]
+    },
+    {
+      "id": "ae7e5818a810",
+      "title": "「禁止」ではなく「手順」で書くCLAUDE.md — 指示の効き方が変わる書き分け",
+      "url": "https://qiita.com/joinclass/items/2b7bba656995a34e3e66",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-09T08:30:02+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに：禁止リストを増やすほどAIが迷った 当社（合同会社ジョインクラス）は、出版・マーケ・営業などの定常業務をClaude Codeとシェルスクリプトで回しています。その中心にあるのが CLAUDE.md です。 過去に僕は、事故が起きるたびに CLAUDE.md へ...",
+      "summary_bullets": [
+        "はじめに：禁止リストを増やすほどAIが迷った 当社（合同会社ジョインクラス）は、出版・マー",
+        "その中心にあるのが CLAUDE.md です",
+        "過去に僕は、事故が起きるたびに CLAUDE.md へ..."
+      ]
+    },
+    {
+      "id": "c3fdfe107aca",
+      "title": "ＡＩによる生産性向上・雇用減、証拠は限定的＝豪中銀総裁補 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb3BpeUl2UUZHY0NaTU5oOGphcmdoMlhQd2lvX1dvMEJjSGt1amw5d3dxOElzNVdHT0FyczVtVkNTTFJpUUxwVk5VZjFPRkJuRTN2ZVpHR2VhcHNBTFBCTk1BQVdGanFib2JKcURBU0FjdzMzVGhybU11NkVvU05CbWhyRzVyZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T08:27:39+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＡＩによる生産性向上・雇用減、証拠は限定的＝豪中銀総裁補 Reuters",
+      "summary_bullets": [
+        "ＡＩによる生産性向上・雇用減、証拠は限定的＝豪中銀総裁補 Reuters"
+      ]
+    },
+    {
+      "id": "2916016a6220",
+      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？（ITmedia NEWS） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PR0FUaWJRMGpaaWExbXpEeXotVlp5a2haYWN4OFFVUXV4M205cEVnVGNZaF9JLUdyR1JPV19mX2hZZ1ItYkl0cjdmWFNEOWFLaDlrSW11b0lCdXVhOXNtQjd6ckQ2Ujl1Skt0QWVFQUdCQmJLelVUZU10X2lQOVU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T08:25:55+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？（ITmedia NEWS） Yahoo!ニュース",
+      "summary_bullets": [
+        "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は",
+        "（ITmedia NEWS） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "1cc5bec1973d",
+      "title": "ＡＩによる生産性向上・雇用減、証拠は限定的＝豪中銀総裁補（ロイター） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RcVRyUXdGZTRYU3FSYzBUUk5ESkJfbXdFRE5MY014Ny1RYkNXR0l3dXVGdDZnRDV4T1BJVEVvcGwydkVuak4ta0VUV2p6d0Z5RkpLVVA3N1ZfOU5pYWlfakx5YmZCanI5SEplSHdFckk1eG94VXhYS0RhUmptcHc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T08:25:11+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＡＩによる生産性向上・雇用減、証拠は限定的＝豪中銀総裁補（ロイター） Yahoo!ニュース",
+      "summary_bullets": [
+        "ＡＩによる生産性向上・雇用減、証拠は限定的＝豪中銀総裁補（ロイター） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "40d4c99e1a8a",
+      "title": "集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方",
+      "url": "https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-09T08:21:58+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "1. はじめに（自己紹介） どうも！最近ゴルフにハマっている注意力散漫＆過集中持ちのエンジニアです。 普段はシステムエンジニアとして働いており、これまで約4年間、データベース関連の開発に携わってきました。 そんな私が今回挑戦し、無事に合格できたのが、AWS Certifi...",
+      "summary_bullets": [
+        "1. はじめに（自己紹介） どうも",
+        "最近ゴルフにハマっている注意力散漫＆過集中持ちのエンジニアです",
+        "普段はシステムエンジニアとして働いており、これまで約4年間、データベース関連の開発に携わっ"
+      ]
+    },
+    {
+      "id": "34395d0ce262",
+      "title": "MCP・MCP Apps・WebMCPは何が違うのか？どう使い分けるかを整理する",
+      "url": "https://qiita.com/tamakiiii/items/e646041d87869de59b8d",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-09T08:21:41+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 名前に「MCP」がつく技術に、MCP、MCP Apps、WebMCPの3つがあります。どれも、AIと外部のサービスやWebページを連携させるための技術です。名前が似ているこの3つは、どんな場面で使い分ければよいのでしょうか。 この記事では2026年11月5日時点...",
+      "summary_bullets": [
+        "はじめに 名前に「MCP」がつく技術に、MCP、MCP Apps、WebMCPの3つがあり",
+        "どれも、AIと外部のサービスやWebページを連携させるための技術です",
+        "名前が似ているこの3つは、どんな場面で使い分ければよいのでしょうか"
+      ]
+    },
+    {
+      "id": "25fbf89e0cee",
+      "title": "北朝鮮ハッカーはAIを全面活用、韓国の防御は検知中心…情報共有の自動化を提言（KOREA WAVE） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GQkYwTEhST0w2Sk5DOWk5UWJ6NXhmNU9yOGRERmF2ZU9OSFJsLVNsNWRzZ1U5UVdwcm9PSTI5ZF9qS2JIelBLdDlNdzhYLTM0T2xFMnljbFZDLVpISW1lX05EaC1MS3JmYVdRX01HaGhTNlhOQTVrMHJMVEphS0k?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T08:08:11+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "北朝鮮ハッカーはAIを全面活用、韓国の防御は検知中心…情報共有の自動化を提言（KOREA WAVE） Yahoo!ニュース",
+      "summary_bullets": [
+        "北朝鮮ハッカーはAIを全面活用、韓国の防御は検知中心…情報共有の自動化を提言（KOREA "
+      ]
+    },
+    {
+      "id": "ab99df234b40",
+      "title": "アンソロピックIPO、AI株急落で暗雲 バリュエーション評価難しく - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CZDY2U09Gakk4cUZJZXl4dnJJX3VRckZuc0hKdkc3X2hFRUFzcXdvdUVpVmRMX3lCOGVvUkllWXZNRUVYajhodk82aW03QVBXY0JnbzFLRmpkMUtfcUNUYWZaUWtfM3RyX0trMQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T08:03:52+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "アンソロピックIPO、AI株急落で暗雲 バリュエーション評価難しく 日本経済新聞",
+      "summary_bullets": [
+        "アンソロピックIPO、AI株急落で暗雲 バリュエーション評価難しく 日本経済新聞"
+      ]
+    },
+    {
+      "id": "af8b4c70e556",
+      "title": "米中間選挙で圧勝した民主党はAI規制強化を進めるか（NRI研究員の時事解説） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYTUzX2pJUlRhVTY3X1NDNnRBNlJ6WlZ3UENVb211dThzYkdDS0c1eUk1MWJSUkJyU09IX2E1VzFKalhqTFBUZkQ3RDFkRjFnd2JNd2ZCSkhSZ0hZUGM1T244NXNDOWZOYkItM3czVU5NUlBzLW5hYzhNRVFsY2s?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T08:03:17+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米中間選挙で圧勝した民主党はAI規制強化を進めるか（NRI研究員の時事解説） Yahoo!ニュース",
+      "summary_bullets": [
+        "米中間選挙で圧勝した民主党はAI規制強化を進めるか（NRI研究員の時事解説） Yahoo!"
+      ]
+    },
+    {
+      "id": "52a8c05a33ad",
+      "title": "「マイクロセグメンテーション」は“AI駆動攻撃”の被害を封じ込める第一歩──Illumioの製品戦略 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNRVlRWUE2Ukk0R1M1ZmRBOXZqalNpVnRhWkFwNXlKZVB1OGtMbkhyWkEwbnk2VTFtQ2ZoU1pXUjhHSkJ4VTJsbURmVExtMEtSUnEwcHhDTk1PZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「マイクロセグメンテーション」は“AI駆動攻撃”の被害を封じ込める第一歩──Illumioの製品戦略 EnterpriseZine",
+      "summary_bullets": [
+        "「マイクロセグメンテーション」は“AI駆動攻撃”の被害を封じ込める第一歩──Illumio"
+      ]
+    },
+    {
+      "id": "ef4df687cc06",
+      "title": "コードの正しさを数学で証明。AIで進化する「形式的検証」の可能性 - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEk3RUdVelJlYkxpOGpuR0J4bkRCT3BaZ0F2dWRhQUw1OFBHVVJTQXM0c01wRERxSWJ3OHpMak1adkdyTEpkMUNfVTVabnJHM1ZvcUhkVnpGdzhwSF9EMWREVFBibXNmUTh6LWRmZG1DSE44Tkd2czI0VHAxTkVmb01aOXExQjlQRW1sUEhpUXVMR3kxZTNkRg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "コードの正しさを数学で証明。AIで進化する「形式的検証」の可能性 WIRED.jp",
+      "summary_bullets": [
+        "コードの正しさを数学で証明",
+        "AIで進化する「形式的検証」の可能性 WIRED.jp"
+      ]
+    },
+    {
+      "id": "0e41ec53f5f5",
+      "title": "今日の株式見通し＝反発、米ナスダック高を好感 ＡＩ・半導体株中心に買い先行 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDdYc3dfOXRoRk56SlZ3cGNxTkU0RlA0Si05bjM3SGRRQlVKYXB5NUswcnRtN09GYy0xcUZWN0ZCanktbUQ4T2htSC1DRUEtUklrX3BwRVNsU2Z6UW5VX0ZvWVdjaWR6Z2ROSjZnZFdvcTNFNFRLTE4weFdrYi1vMzMxN1ZmZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T07:57:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "今日の株式見通し＝反発、米ナスダック高を好感 ＡＩ・半導体株中心に買い先行 Reuters",
+      "summary_bullets": [
+        "今日の株式見通し＝反発、米ナスダック高を好感 ＡＩ・半導体株中心に買い先行 Reuters"
+      ]
+    },
+    {
+      "id": "c67c25afbff7",
+      "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-09T07:49:48+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "Craft Anythingは、お手本にしたい対象を指定して、何を作りたいかを伝えるだけで、「調べる」（Study）、「作る」（Build）、「確認する」（Check）、「完成」（Ready）の4つのステップで新しいプロジェクトを自動生成してくれます。 単にAIがコードを書くだけでなく、完成したものを元の対象と実際に見比べ（ウェブサ...",
+      "summary_bullets": [
+        "Craft Anythingは、お手本にしたい対象を指定して、何を作りたいかを伝えるだけで",
+        "単にAIがコードを書くだけでなく、完成したものを元の対象と実際に見比べ（ウェブサ..."
+      ]
+    },
+    {
+      "id": "840c73e9cff4",
+      "title": "神経質、ＡＩ株は上値重い 企業決算に注目＝今週の東京株式市場 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVTBsOXAyMk1zVU5Zb2lETldUZ193NVRmVWMyd0h5WGdmWGJHTHcwYzQxWkJkTHQycEZldGZhYUZEc1A1eW9vNjhYN000VE5OajIzN0ZSRy1HMTIzSXNYNUtlSElPY1FxM3VFTUhFenpBMzdlQ1ptdlM1R25mejE2U1JlM3BtQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T07:37:25+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "神経質、ＡＩ株は上値重い 企業決算に注目＝今週の東京株式市場 Reuters",
+      "summary_bullets": [
+        "神経質、ＡＩ株は上値重い 企業決算に注目＝今週の東京株式市場 Reuters"
+      ]
+    },
+    {
+      "id": "1dc87fea7431",
+      "title": "AIが「機械的な速度」で攻撃？ インドの銀行への警告から考える、私たちの身を守る3つの習慣 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGd5dFlZUU5ST2wwWGpzZHhzV1l1RjlkN1BhazhPMkhyRzZISWpKY3UxUzFqc0o2TlRVVDhsWjJoa2tId2lpYW9MMWVTSzlFVnZzLXE2aTFFZk9naVprYVJGQk12YUFNb3hnTndCOHJkZXRkYVNHSDdXNko1VjB1SGVjS0w0UTZN?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T07:30:58+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIが「機械的な速度」で攻撃？ インドの銀行への警告から考える、私たちの身を守る3つの習慣 Yahoo!ニュース",
+      "summary_bullets": [
+        "AIが「機械的な速度」で攻撃",
+        "インドの銀行への警告から考える、私たちの身を守る3つの習慣 Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "63c613bf719c",
+      "title": "言及率100%の旅行サイト じゃらんnetがAI推薦1位（FINDERS） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14NkpZUEx3TU1yV1BCOUpUc1F6V3kwOUpPYXlMVEpuRTM4dFZyX2I5eVZPU2FROENkTWxjR3pVel9xM1pRc2t2djJyejNKWDUyWW02WFlnWElteVhyUVQ2R2F2SG0xa3dFTTRWMHRISk15YnUxWG1hQ01NbjNfTXM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T07:06:20+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "言及率100%の旅行サイト じゃらんnetがAI推薦1位（FINDERS） Yahoo!ニュース",
+      "summary_bullets": [
+        "言及率100%の旅行サイト じゃらんnetがAI推薦1位（FINDERS） Yahoo!ニ"
+      ]
+    },
+    {
+      "id": "04d0372f9119",
+      "title": "環境を守るAIが環境を壊す「ジレンマ」（天野健作） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzFqV05HakxmZWUxQUU3Yzljd1F3NEpMSjhMM2ItU3BMbmVfMHRsMWpsX2hVUUkwRDlYY04zRHlOS3NQWVVVLUVxYXFKSWJOTV85NWUybUdPdTBleFpjQlcyeHFxdVY4T09HV1hNMHhUeVRybnFSMzVrMkVwckQ0RWZpNzVYeDVq?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T07:02:21+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "環境を守るAIが環境を壊す「ジレンマ」（天野健作） - エキスパート Yahoo!ニュース",
+      "summary_bullets": [
+        "環境を守るAIが環境を壊す「ジレンマ」（天野健作） - エキスパート Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "7469bf59ec01",
+      "title": "米AI銘柄、半導体から古参まで 業種の垣根越え相場を左右 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2U1g3ejFCNkU3RWlSM1YwNU10Z25EUUtkX2FENjRkZUdYbkRGR25jRjZuUDVGOFdraGpKNWtNNUxRMFM5a0pVam5BNlMzVXZTRnd6ZjJvem5BZHM3aDlKS2dUbkd3Z0dGWVR0aw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米AI銘柄、半導体から古参まで 業種の垣根越え相場を左右 日本経済新聞",
+      "summary_bullets": [
+        "米AI銘柄、半導体から古参まで 業種の垣根越え相場を左右 日本経済新聞"
+      ]
+    },
+    {
+      "id": "3d554093a0f6",
+      "title": "期待ハズレの答えを修正、修正…AIを使ったのに「仕事が遅くなる人」が伝え忘れている“一言” | ニュースな本 - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BMU0ybWtWeDJuNldpZDNWaUk1eTR4TVRCMXhKR3pCRkc2WFcwTDc3STY5UHZiVDdtaGwyTXNNb1FMR0hhRzhvUnM0WXo?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T06:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "期待ハズレの答えを修正、修正…AIを使ったのに「仕事が遅くなる人」が伝え忘れている“一言” | ニュースな本 ダイヤモンド・オンライン",
+      "summary_bullets": [
+        "期待ハズレの答えを修正、修正…AIを使ったのに「仕事が遅くなる人」が伝え忘れている“一言”"
+      ]
+    },
+    {
+      "id": "1f5ffde42171",
+      "title": "AI時代、企業はいかに変革し、成長していくか AI活用のプロが語る 「Xplorers 2026」開催 - 電通報",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PLUlSQmkxT2xoRUdrSENkSVE0dW9SdlhKZ1ZJblBaOE9fMVJmVXN5OWZzWnNSWXZHb016U1JQY2VqVzlmTG0yZWhEWQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-09T05:56:22+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI時代、企業はいかに変革し、成長していくか AI活用のプロが語る 「Xplorers 2026」開催 電通報",
+      "summary_bullets": [
+        "AI時代、企業はいかに変革し、成長していくか AI活用のプロが語る 「Xplorers 2"
+      ]
+    },
+    {
+      "id": "1f6de3d7a1bd",
+      "title": "Claude Codeのトークンを減らす7つの習慣：公式ドキュメントで確かめ、CLAUDE.mdを半分近くに減らした",
+      "url": "https://zenn.dev/shinai/articles/claude-code-token-saving-7habits",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-09T03:07:11+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "Claude Code を毎日使っていると、週の利用上限に先に当たるのは「作業量」より「無駄に読ませた量」だったりします。公式のコスト管理ページ（Manage costs effectively）では、企業での導入例の平均は開発者1人・稼働日1日あたり 約$13（月 $150〜250）、90%のユーザーは1日 $30未満 とされています。これはAPIの費用の目安で、サブスクの追加請求額や週の利用上限を表す数字ではありません。 公式のコスト管理ページとメモリのページ（Manage Claude's",
+      "summary_bullets": [
+        "Claude Code を毎日使っていると、週の利用上限に先に当たるのは「作業量」より「無",
+        "公式のコスト管理ページ（Manage costs effectively）では、企業での導",
+        "これはAPIの費用の目安で、サブスクの追加請求額や週の利用上限を表す数字ではありません"
+      ]
+    },
+    {
+      "id": "cc3900aee572",
+      "title": "Claude × サスケWorks で、目標設定から評価までの自動化を試してみた ― promptfoo を添えて",
+      "url": "https://zenn.dev/interpark/articles/315a520d9590b3",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-09T01:53:20+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "人事の眞鍋さんと、目標管理をテーマにそれぞれツールを作りました。 目指しているのは、会社の成長と、一人ひとりが納得して働けること。そのために何ができるかを、人事とエンジニア、それぞれの立場から考える企画です。 眞鍋さんは、「本人がどうなりたいか」から目標を考えるツールを。私は、「やった仕事をどう評価するか」から逆算して、目標設定と評価をつなぐツールを作りました。 使ったのは、どちらも Claude とサスケWorks です。 同じ課題に、同じ道具で、逆方向から答えてみる。この記事では、エンジニア",
+      "summary_bullets": [
+        "人事の眞鍋さんと、目標管理をテーマにそれぞれツールを作りました",
+        "目指しているのは、会社の成長と、一人ひとりが納得して働けること",
+        "そのために何ができるかを、人事とエンジニア、それぞれの立場から考える企画です"
+      ]
+    },
+    {
+      "id": "fd7ce9149ec4",
+      "title": "AIとの共同作業が楽しくなってきた — 分かってきたことと、まだ見えない深淵",
+      "url": "https://zenn.dev/sugitakenji/articles/a248cfd0475e29",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-09T01:38:14+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "最近、楽しくなってきた 最近、AIとの共同作業が楽しくなってきました。 文章を書き、技術資料を読み直し、プログラムを直し、出来上がったものを確かめる。そうした仕事を一緒に進める中で、「ここをもう少し変えてみよう」「それなら、次はこれもできるのではないか」と思う場面が増えています。 一つの仕事が片付くとうれしい。その過程で、最初には考えていなかったことが見えてくるのも面白い。完成したものを見る楽しさと、考えながら作っている時間の楽しさがあります。 AIがどのようなものなのか、少し分かってきた気がし",
+      "summary_bullets": [
+        "最近、楽しくなってきた 最近、AIとの共同作業が楽しくなってきました",
+        "文章を書き、技術資料を読み直し、プログラムを直し、出来上がったものを確かめる",
+        "そうした仕事を一緒に進める中で、「ここをもう少し変えてみよう」「それなら、次はこれもできる"
+      ]
+    },
+    {
+      "id": "f77d1be85033",
+      "title": "できるだけ無料でHuman-out-of-the-loop（HOOTL）を作ってみた",
+      "url": "https://zenn.dev/ts/articles/ee4686f0ad0309",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-08T23:43:23+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 自宅のWindows PCで、GitHubのIssueをトリガーとして、調査・作成・別のAIによる検証・修正までを人の手を離れて進めるHuman-out-of-the-loop（HOOTL）なエージェントの仕組みを、実験しています。人が関わるのは、最初にIssueでゴールを決めるときと、最後に結果を確認するときだけです。本記事には、その過程で得た知識を記載しました。実験用の構成なので、本番運用には向かないサービスも利用しています。 また、この記事は、作りながら自分の理解を整理するための",
+      "summary_bullets": [
+        "はじめに 自宅のWindows PCで、GitHubのIssueをトリガーとして、調査・作",
+        "人が関わるのは、最初にIssueでゴールを決めるときと、最後に結果を確認するときだけです",
+        "本記事には、その過程で得た知識を記載しました"
+      ]
+    },
+    {
+      "id": "e6d524e59a35",
+      "title": "NVIDIA/auto-ontologyを動かしたら、素朴なtext-to-SQLより遅く間違えた",
+      "url": "https://zenn.dev/matsushima_a/articles/day-040-auto-ontology-sql-hallucination",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-08T23:22:50+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "これは何を試した記事か NVIDIAが公開しているauto-ontology(Apache-2.0)は、データベースのメタデータから「オントロジー」(ビジネス用語・テーブル関係・SQL属性の集合)を自動生成し、AIエージェントが自然言語の質問を正確なSQLに変換できるようにするフレームワークである。 README・モデルカードが掲げる価値は明快で、「エージェントが誤ったテーブル/カラムを参照してSQLを生成してしまう問題」を、事前に構築したオントロジーの知識で防ぐ、というものだ。 筆者はこれを実",
+      "summary_bullets": [
+        "これは何を試した記事か NVIDIAが公開しているauto-ontology(Apache",
+        "README・モデルカードが掲げる価値は明快で、「エージェントが誤ったテーブル/カラムを参",
+        "筆者はこれを実"
+      ]
+    }
+  ]
+}
