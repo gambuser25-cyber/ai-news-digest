@@ -1,0 +1,383 @@
+{
+  "updated_at": "2026-11-10 12:00 JST",
+  "date": "2026年11月10日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "4dea2548a364",
+      "title": "ソフトバンクG、マレーシアでAIインフラ整備へ 10億ドル拠出 [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56ZjFSbEVmUHVhTHpuenNyQ1E2aXYwSGtndlN4eXlIYWJnU2hRNC1jcFRIcWZzWDR3emU0dXhabC1jQUJQWDRHM09lQUxsZF9IYU1Zd3BIQ2tHemFCWjlHVmdER282WG8?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T11:48:14+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ソフトバンクG、マレーシアでAIインフラ整備へ 10億ドル拠出 [AIの時代] 朝日新聞",
+      "summary_bullets": [
+        "ソフトバンクG、マレーシアでAIインフラ整備へ 10億ドル拠出 [AIの時代] 朝日新聞"
+      ]
+    },
+    {
+      "id": "8885d2724710",
+      "title": "無料でAI漫画を試す入力例｜人物・場面・セリフを分けて準備する",
+      "url": "https://qiita.com/Ikechom/items/9ba992a555af37bca4d1",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-10T11:41:43+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "無料枠でAI漫画を試すときは、最初の生成前に人物・場所・小物・出来事を短く整理すると、出力を見て直したい箇所を判断しやすくなります。この記事では、短編を漫画制作向けの入力に変える例と、実際に生成した一コマの確認点を紹介します。 本記事はLyra Japanの公式発信です。L...",
+      "summary_bullets": [
+        "無料枠でAI漫画を試すときは、最初の生成前に人物・場所・小物・出来事を短く整理すると、出力",
+        "この記事では、短編を漫画制作向けの入力に変える例と、実際に生成した一コマの確認点を紹介しま",
+        "本記事はLyra Japanの公式発信です"
+      ]
+    },
+    {
+      "id": "1d163eb26a46",
+      "title": "「うちの前はだめ」反発増えるAIデータセンター、結局海に向かう＝韓国（中央日報日本語版） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55dTNwUEpiUVdudjVibXN1WHIzUWpqZVNKZms0N2xnWnZPRmRCZ0dvMVd5LVN6NVROcUFfdjZTWEN3V1ktZmNYejdSNEJaV21vSUVDQVdkLXRJb2NaMW5SWmh0b2pyN3d5bTR2UmtSSi13ankwM1FmNTBGT1dfODg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T11:36:59+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「うちの前はだめ」反発増えるAIデータセンター、結局海に向かう＝韓国（中央日報日本語版） Yahoo!ニュース",
+      "summary_bullets": [
+        "「うちの前はだめ」反発増えるAIデータセンター、結局海に向かう＝韓国（中央日報日本語版） "
+      ]
+    },
+    {
+      "id": "e5f8e5318a5c",
+      "title": "学校教育における五教科教育の価値が下がる理由",
+      "url": "https://qiita.com/good59548/items/af229e8e8b987ed331f0",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-10T11:36:59+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "学校教育におけるいわゆる「主要五教科（国語・数学・理科・社会・英語）」の絶対的な価値や、それ一辺倒だった指導体制の相対的な価値が下がりつつある（あるいは「それだけでは通用しなくなっている」）背景には、AIや情報技術の進化、産業構造の転換、そして知識獲得のコスト変化という構造...",
+      "summary_bullets": [
+        "学校教育におけるいわゆる「主要五教科（国語・数学・理科・社会・英語）」の絶対的な価値や、そ"
+      ]
+    },
+    {
+      "id": "d0fd82aec006",
+      "title": "広告配信運用AIエージェント「効果おまかせAI」、TikTok広告への対応を開始 短尺動画広告の効果向上を支援 - 株式会社サイバーエージェント",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PdXlqbUF5eWVSTVE4dDh5eDdmNDU5b1FGTW9MbS1jd0p0WnphS1RRUVJNTjdNN2M3TjRwa3RQVTN2SjR0cXVEc1o4bGlQXzlSRkVUU1hreEZWbWQzZ1E?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T11:20:29+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "広告配信運用AIエージェント「効果おまかせAI」、TikTok広告への対応を開始 短尺動画広告の効果向上を支援 株式会社サイバーエージェント",
+      "summary_bullets": [
+        "広告配信運用AIエージェント「効果おまかせAI」、TikTok広告への対応を開始 短尺動画"
+      ]
+    },
+    {
+      "id": "b77cb7596ab1",
+      "title": "ＡＩの暴走報告を義務化、豪政府 サイト不正侵入受け規制強化(ロイター) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGdZTXY3VU8wMVNPUmpVYnc1MnFtV0ozLVFRMFZyRlVoNmJZV3VGQVo3c1dKY2NnazJYZFlhdGUxQVRCQkRmcW9iOGZ2bGpzN3FkRkRIMlk3VmVWQWJ4ODhNTUR2a25PVVM5Yk5rcFZWa3F6VkZvX2c0UWN4bmRUT3hGSzQ3dW8?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T11:09:22+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＡＩの暴走報告を義務化、豪政府 サイト不正侵入受け規制強化(ロイター) Yahoo!ファイナンス",
+      "summary_bullets": [
+        "ＡＩの暴走報告を義務化、豪政府 サイト不正侵入受け規制強化(ロイター) Yahoo!ファイ"
+      ]
+    },
+    {
+      "id": "61fc66a1010b",
+      "title": "2026年11月10日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/89c81b92bc62a6ff14d0",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-10T11:09:13+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 【公式】Pyxel 3.0リリース！世界初（？...",
+      "summary_bullets": [
+        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
+        "通勤中などにながら聴きしよう",
+        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでく"
+      ]
+    },
+    {
+      "id": "98bd2271ba95",
+      "title": "KPMGジャパン、AIの投資対効果を高めるAIコスト適正化（AI FinOps）支援サービスの提供開始 - kpmg.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TN0k5Z3B3UW82SGg5TFh5alctWkUyWkk2X1ROZTRXN0hDaVhjOGlkc3d4SGE2ZnpVb3JJNkFCUkdTbmhZZTBwMTRCemVXcl9rZkI3aFlyOGxhdVplV255bWpkNGtPTUJyb3hUT2pXSjNySE5IQ1pJVmJKY05WUzQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T11:08:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "KPMGジャパン、AIの投資対効果を高めるAIコスト適正化（AI FinOps）支援サービスの提供開始 kpmg.com",
+      "summary_bullets": [
+        "KPMGジャパン、AIの投資対効果を高めるAIコスト適正化（AI FinOps）支援サービ"
+      ]
+    },
+    {
+      "id": "d631d55b83ed",
+      "title": "GASのChatGPT APIを再実行で2重課金しない — キャッシュ3方式（CacheService/Sheets/Properties）の選び方と完全実装",
+      "url": "https://qiita.com/yukihayama/items/f6adce2998012f52d552",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-10T11:06:01+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "夜間バッチでスプレッドシートの1,000行をChatGPT APIで処理していると、6分制限で処理が落ちて再実行になります。そして再実行のたびに、前回までに処理が済んだ行までもう一度課金されている——これに気づいたのは、月のAPI利用明細を見たときでした。この記事では、同一...",
+      "summary_bullets": [
+        "夜間バッチでスプレッドシートの1,000行をChatGPT APIで処理していると、6分制",
+        "そして再実行のたびに、前回までに処理が済んだ行までもう一度課金されている——これに気づいた",
+        "この記事では、同一..."
+      ]
+    },
+    {
+      "id": "32e3bd6dff48",
+      "title": "AI安全確保へ、6カ国と10社が文書署名 仏大統領が呼びかけ [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Bdm00LU5jV3ZCZkl0eXJVZjJQQXgyM1hsRVhmd3lHOXI4c0lRVFFKWnRXdGNqYVVFM2FxYXhyTFgwa1Jobzk1RzhYUWFHZXJSQWluUW4wbFUtRGxKRFBZNWtoN1BQVHM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T10:56:32+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI安全確保へ、6カ国と10社が文書署名 仏大統領が呼びかけ [AIの時代] 朝日新聞",
+      "summary_bullets": [
+        "AI安全確保へ、6カ国と10社が文書署名 仏大統領が呼びかけ [AIの時代] 朝日新聞"
+      ]
+    },
+    {
+      "id": "2cc5db7afe91",
+      "title": "高市首相、ＡＩ対応で国際連携呼び掛け 仏主催会合にオンライン出席 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84ZlJ0emxobW5GTEZXdGtGaXIwRm0yYmJPa29fdlI1akJjcjFoQ2ZKUktvakFIX25PVTAzMUF4Z180RmNDZHhZNnNKRUhSZHp6UlloZUY3Z01XbngtaXpJd2o4WQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T10:55:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "高市首相、ＡＩ対応で国際連携呼び掛け 仏主催会合にオンライン出席 時事ドットコム",
+      "summary_bullets": [
+        "高市首相、ＡＩ対応で国際連携呼び掛け 仏主催会合にオンライン出席 時事ドットコム"
+      ]
+    },
+    {
+      "id": "5f0126ec65aa",
+      "title": "SocioFutureとトレンドマイクロ、AIと人の連携で、特殊詐欺被害を送金前に防ぐ実証実験を本格展開 | トレンドマイクロ (JP) - www.trendmicro.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHlwUElPaHhYampha0ZuTzJGSFU4ckdUTzJkS180TnFlN29zbFdFZnJTaTNHbUVubWFxamExUlpvV015cFRCck8wWXZsZzQtN29QRFBGcEFHeUVGamI4S3JRTURfOVBnUjlvLTNIOE1pOE1hREdnZldBajZCZUJWOXljOFpjampSOElZUTRGczA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T10:47:25+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "SocioFutureとトレンドマイクロ、AIと人の連携で、特殊詐欺被害を送金前に防ぐ実証実験を本格展開 | トレンドマイクロ (JP) www.trendmicro.com",
+      "summary_bullets": [
+        "SocioFutureとトレンドマイクロ、AIと人の連携で、特殊詐欺被害を送金前に防ぐ実証"
+      ]
+    },
+    {
+      "id": "f1f00df7d1d4",
+      "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T10:35:58+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "summary_bullets": [
+        "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜"
+      ]
+    },
+    {
+      "id": "2b62ece62823",
+      "title": "安田秀樹【ゲームと電子部品は脱AI・半導体相場の受け皿となるか】 - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Tb2JKeFZPc0ZmRVRSQ2ktUjhtZmowY29HcEh3LXhqTmlxeGxXOXhOR1I3LXVfQnI5NWFYM2hyWFVsQmNQWm1hREIwc3N3VzlGam9tXzZTcTdzT1FZQXJsdQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T10:30:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "安田秀樹【ゲームと電子部品は脱AI・半導体相場の受け皿となるか】 株探",
+      "summary_bullets": [
+        "安田秀樹【ゲームと電子部品は脱AI・半導体相場の受け皿となるか】 株探"
+      ]
+    },
+    {
+      "id": "8bb70748ec74",
+      "title": "日経平均、一時6万円台回復 AI半導体に買い、原油価格下落も好感 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MVXpyQUZRODJjNDk3YUVvb2x0dGlITjBNdUZsbHQ4RUQ0NEhlbXd4bUhHQkNoYUxuUUtteU1YTzFoSjJiMkZwZktIUjF3ZW1iM0pVMzhibUF3V1I2WlhVMzFpbWJuXzg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T10:10:47+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "日経平均、一時6万円台回復 AI半導体に買い、原油価格下落も好感 朝日新聞",
+      "summary_bullets": [
+        "日経平均、一時6万円台回復 AI半導体に買い、原油価格下落も好感 朝日新聞"
+      ]
+    },
+    {
+      "id": "f40bb4008045",
+      "title": "「NVIDIAスキャンダル」が揺さぶる米国のAI覇権 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95ejU5NnI5NFBheVRSRnp5Q1JaeXVXdUxGaWtBY0JYcVRZb19RZHZNQW03ZkM1SkZfbjEzbmZGODJNSFhtbmRHT2ZrMnBKeW9NWlJTclAwTEY5NTZjM0F0cTd3RFJEc2lP?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T09:45:48+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「NVIDIAスキャンダル」が揺さぶる米国のAI覇権 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "「NVIDIAスキャンダル」が揺さぶる米国のAI覇権 株式会社エクサウィザーズ"
+      ]
+    },
+    {
+      "id": "a752c999ea91",
+      "title": "財務・非財務データをAIでつなぐBooost、シリーズCで計17.5億円を調達 - BRIDGE（ブリッジ）",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aY0VNWWxQMUNwZnpSdkd1RDE1UWE4azM3NENZdHNZcjRIS1V4VEszZDJJMWtua0tEMkZRaEVTY1M1UEZEY0xrRHdQUTdOejJVTmktcXFDaEJyNXdSVXFpc05oNHpyZjFTdThqN05PUk1ydjZvV1pEU1VYYU1DUQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T09:02:38+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "財務・非財務データをAIでつなぐBooost、シリーズCで計17.5億円を調達 BRIDGE（ブリッジ）",
+      "summary_bullets": [
+        "財務・非財務データをAIでつなぐBooost、シリーズCで計17.5億円を調達 BRIDG"
+      ]
+    },
+    {
+      "id": "abb5c397a51b",
+      "title": "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表",
+      "url": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-10T08:00:52+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表 Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Nat...",
+      "summary_bullets": [
+        "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Age"
+      ]
+    },
+    {
+      "id": "170eaede6eec",
+      "title": "G7外相会合（セッション2：AI）｜外務省 - Ministry of Foreign Affairs of Japan",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXVmpNdTBxUzVNb0VGTDNqVF9SeFJ0MTZRTTd3aWFJSmVOSUEwVUlmZmk1RFhRc1pQbTRleERoNlZpblRNTi1Oc2U4Q1FKVVdNOERfVGRlTEY4bGtJSG84WVY2a0UxQjd0UlFz?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T07:54:47+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "G7外相会合（セッション2：AI）｜外務省 Ministry of Foreign Affairs of Japan",
+      "summary_bullets": [
+        "G7外相会合（セッション2：AI）｜外務省 Ministry of Foreign Aff"
+      ]
+    },
+    {
+      "id": "2c81fa29de6c",
+      "title": "ソフトバンク社長「自社システムをGPT-6 Astraで診断したら3.5万件の追加脆弱性を発見」と明かす",
+      "url": "https://japan.cnet.com/article/35254620/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-10T07:53:05+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサムウェア攻撃を謝罪し、AIを使ったサイバー攻撃への対応に追われている現状を明かした。自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったという。",
+      "summary_bullets": [
+        "ソフトバンクの宮川潤一社長は11月9日の決算説明会で、子会社IDCフロンティアへのランサム",
+        "自社システムを新しいAIモデルで再診断すると、新たに3万5000件の脆弱性が見つかったとい"
+      ]
+    },
+    {
+      "id": "8299ea41011a",
+      "title": "Claude Fable 5.2へのプロンプト",
+      "url": "https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-10T07:21:33+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "Claude Fable 5.2およびClaude Mythos 5.2に固有のプロンプトパターン：エフォート、早期停止、承認、コードの所有権、進捗の更新、サブエージェント、蓄積する慎重さ、以前のモデル向けに書かれた指示、最終レポート、拒否について説明します。 このガイドでは、Claude Fable 5.2に固有のプロンプトパターンについて説...",
+      "summary_bullets": [
+        "Claude Fable 5.2およびClaude Mythos 5.2に固有のプロンプト",
+        "このガイドでは、Claude Fable 5.2に固有のプロンプトパターンについて説..."
+      ]
+    },
+    {
+      "id": "682e53a5b535",
+      "title": "AIバブルは崩壊するのか…急成長するアンソロピックが抱える「5180億ドルの爆弾」（ニューズウィーク日本版） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96dmFid0EzSW9aMnE4eFR4RmVtbkthdWJVQkpjcTNHZHZGYzlJV25DQ2xzWFRXNUs0bVJ2NVl1SUxXNFhyeDhpdmlYVnhaT1QyMGs1YUt6eVVkNTRaZzhqVmkyb2VpM3pnbzVvenpQckh3YXhRaEVZb2oxcmNKM3c?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T07:10:19+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIバブルは崩壊するのか…急成長するアンソロピックが抱える「5180億ドルの爆弾」（ニューズウィーク日本版） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIバブルは崩壊するのか…急成長するアンソロピックが抱える「5180億ドルの爆弾」（ニュー"
+      ]
+    },
+    {
+      "id": "c5c2ae3eba90",
+      "title": "AIの専門家は老後のための貯蓄をやめた…「10年以内にAIが人類を滅亡させる確率は50％以上」（海外） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XRnd6M2c1bzFSNUUyWDlhRnQwNFJvVnhzc0dvUlEtREwteEhrYXFjTFB6NnYwZFZxaFg1ZGo2Y2hyaFFhbkFGWGZPSlJwU1c3LVdwWEtORmYyZ0UxZmcyNTFJNm1aZ2pxUWZ0cER5bmUxc0pRVkN1OThCNkZkb0k?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T07:10:01+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIの専門家は老後のための貯蓄をやめた…「10年以内にAIが人類を滅亡させる確率は50％以上」（海外） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIの専門家は老後のための貯蓄をやめた…「10年以内にAIが人類を滅亡させる確率は50％以"
+      ]
+    },
+    {
+      "id": "847de24cc089",
+      "title": "Go における Graceful Shutdown とハマりどころ",
+      "url": "https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-10T06:51:50+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+      "summary_bullets": [
+        "Sponsored · Your Podcast. Everywhere. Effortl"
+      ]
+    },
+    {
+      "id": "d227f890cea4",
+      "title": "メタの新AI「Muse」、想像以上に“勝手に動く”…3つの仕事を任せて分かったこと（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BUzZYZ0N4bUxFMFBuYURqeFBxQ0VEelJ6eWFaM1JKbnEtWVpvcmhwaVZSNk40RlVTR3JZMkJSck42QTZWclU3SXFaWEg3cEJhcnZIMmN2RUFJQ3ZEdG1qTHVGSzZTVVo2QlY5RG9rTk9EeTVmanpOTk0yUmVuZk0?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T06:50:06+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "メタの新AI「Muse」、想像以上に“勝手に動く”…3つの仕事を任せて分かったこと（ビジネス＋IT） Yahoo!ニュース",
+      "summary_bullets": [
+        "メタの新AI「Muse」、想像以上に“勝手に動く”…3つの仕事を任せて分かったこと（ビジネ"
+      ]
+    },
+    {
+      "id": "eec77d5ee77d",
+      "title": "「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞",
+      "url": "https://www.tsukuba-sp.org/news/wghx7ljlx7/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-10T06:05:20+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...",
+      "summary_bullets": [
+        "筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジト",
+        "同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジト"
+      ]
+    },
+    {
+      "id": "2d6a1d7f07e2",
+      "title": "サカナAI、2027年秋にもIPOへ 日米同時上場も視野に国内最大級か（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkMXNnLTh5MGtOeG1mQmZ6SkVmd1lST0JLWThmT2NHWGdNV0cwM1dBdlFwWkpheEpqTFdxLTI1cVRVRnlHbEFfeEx1NTh4bXRlOGJ5SnlBaThUeEsyUXpNQmxEQXk5SmNwbkJUWkJzUXl5ZEFzeWpGX2xhNS1xVFk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T05:54:08+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "サカナAI、2027年秋にもIPOへ 日米同時上場も視野に国内最大級か（ビジネス＋IT） Yahoo!ニュース",
+      "summary_bullets": [
+        "サカナAI、2027年秋にもIPOへ 日米同時上場も視野に国内最大級か（ビジネス＋IT） "
+      ]
+    },
+    {
+      "id": "c869129ca067",
+      "title": "宜野湾市AIオンデマンド交通「あいちゃん」 - 宜野湾市",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWVNelNNTmZNQ0h4RXdDdUVwYlVTYVpzVExfMGc0WjdSQlBnODNCcGkwdHM4X3NEVEdPNFoxcWx3NDlWbTZHR0xuSU00bkd2ckpUNThwNnN5eG1TSG1Bdm53b0pkcjd5Ti1WcGZOYkJJVUpYb3JTWnpCb21sUTZ4OWlWc2FoYlR0Sk5rR3NyamlISGJ1bGdz?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T04:10:30+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "宜野湾市AIオンデマンド交通「あいちゃん」 宜野湾市",
+      "summary_bullets": [
+        "宜野湾市AIオンデマンド交通「あいちゃん」 宜野湾市"
+      ]
+    },
+    {
+      "id": "7afddbeec21c",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-10T04:10:29+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "We’ve upgraded Claude Fable and Claude Mythos—models that are designed to tackle the most daunting technical challenges. Claude Fable 5.2 and Claude Mythos 5.2 show improvements in areas like coding, reasoning, and vision. During prerelease testing t",
+      "summary_bullets": [
+        "We’ve upgraded Claude Fable and Claude Mythos"
+      ]
+    },
+    {
+      "id": "c75c445c5e6e",
+      "title": "暴走は必要悪か、自由を謳歌するAI アンソロピックが気づいた｢感情｣ - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrR09SMkNoUVVBU0lZb3d0bTkxVDlDTFR4N3dzOHFFY1RBZDUtSW9BQng1bkxoNFIzUVZEWFFUcXRUZGo3THRqT0pnMXJlbTVtSDRyZVM0UlFKZWduM2xWQnk0RWRkQ3ZXanVpTA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-10T04:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "暴走は必要悪か、自由を謳歌するAI アンソロピックが気づいた｢感情｣ 日本経済新聞",
+      "summary_bullets": [
+        "暴走は必要悪か、自由を謳歌するAI アンソロピックが気づいた｢感情｣ 日本経済新聞"
+      ]
+    }
+  ]
+}
