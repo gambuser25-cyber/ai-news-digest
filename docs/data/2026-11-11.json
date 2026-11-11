@@ -1,0 +1,391 @@
+{
+  "updated_at": "2026-11-11 09:56 JST",
+  "date": "2026年11月11日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "7ca260341bfe",
+      "title": "犯罪者の手口から逆算する企業防御――AI時代のサイバー攻撃を、どこで止めるのか",
+      "url": "https://qiita.com/comty/items/5fe1c62e63039c651bfe",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-11T09:46:22+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに セキュリティ対策を検討すると、EDR、DLP、ゼロトラスト、多要素認証、SIEMといった技術や製品の話になりがちです。どれも重要なものですが、そもそも何を防ぐために導入するのかが曖昧なままでは、対策が十分に機能しない可能性があります。 例えば、多要素認証を導入...",
+      "summary_bullets": [
+        "はじめに セキュリティ対策を検討すると、EDR、DLP、ゼロトラスト、多要素認証、SIEM",
+        "どれも重要なものですが、そもそも何を防ぐために導入するのかが曖昧なままでは、対策が十分に機",
+        "例えば、多要素認証を導入..."
+      ]
+    },
+    {
+      "id": "93787b250980",
+      "title": "AI需要は半導体市場をどう変えるのか「スーパーサイクル」を読み解く | サイエンス リポート | TELESCOPE magazine - 東京エレクトロン株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMHFEUVgwcDEyRi1iUUdDZHpZV0t1ZnRSVUlqNHc1bzlZN1ZkSUNfc3pZRFRlbnpVQ0daaHlXbl9ubVJZNzYyd0lTeDFzYmFkc19rZlN4MmFtMmZOUnh3TTB0RkhyQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T09:24:59+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI需要は半導体市場をどう変えるのか「スーパーサイクル」を読み解く | サイエンス リポート | TELESCOPE magazine 東京エレクトロン株式会社",
+      "summary_bullets": [
+        "AI需要は半導体市場をどう変えるのか「スーパーサイクル」を読み解く | サイエンス リポー"
+      ]
+    },
+    {
+      "id": "c5c9aa9f8f9f",
+      "title": "同じAIショックなのに…韓国は44％・台湾は20％の下げ幅、衝撃の大きさに違い（中央日報日本語版） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QaWJRU0RpWUhJRTV5TTltenhNbU8xRzNQNzZPSVFMRXl6UXdTampuMjlpaW0wamF1MUU5Vlg0MW5DS3JYRVBHM0F4YXVjbExpcFB3Q2psT2xhUVlMaEdLNGRzUmo3TEVuWXVKT1BZczByUU9tT3Bnb0VHY3R1b28?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T09:21:54+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "同じAIショックなのに…韓国は44％・台湾は20％の下げ幅、衝撃の大きさに違い（中央日報日本語版） Yahoo!ニュース",
+      "summary_bullets": [
+        "同じAIショックなのに…韓国は44％・台湾は20％の下げ幅、衝撃の大きさに違い（中央日報日"
+      ]
+    },
+    {
+      "id": "4c60c0146e19",
+      "title": "東京商工リサーチ、2026年の企業情報漏えいが10月に過去最多更新｜外注したWebシステムの顧客データ管理を見直す3つのステップ",
+      "url": "https://qiita.com/DnD-inc/items/8a6448964a0832e9671a",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-11T09:20:41+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "東京商工リサーチ、2026年の企業情報漏えいが10月に過去最多更新｜外注したWebシステムの顧客データ管理を見直す3つのステップ 本記事は、株式会社DnD（https://dnd-inc.jp）のコラムを一部編集して掲載しています。 初出: https://dnd-in...",
+      "summary_bullets": [
+        "東京商工リサーチ、2026年の企業情報漏えいが10月に過去最多更新｜外注したWebシステム",
+        "初出: https://dnd-in..."
+      ]
+    },
+    {
+      "id": "eefd4bd00ba5",
+      "title": "【Python×Claude API】実務で使える「プロンプト自動最適化＆品質スコアリング」パイプラインの実装",
+      "url": "https://qiita.com/ai_hack_lab/items/7090c8f135366c5bceae",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-11T09:16:19+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "こんにちは、AIハックラボ（@ai_hack_lab）です。 前回公開した【Python×Claude API】プロンプト販売・業務自動化で即戦力になる「プロンプト自動生成・品質検証パイプライン」の実装では、プロンプトを自動生成し、出力を検証する仕組みを解説しました。 本記...",
+      "summary_bullets": [
+        "こんにちは、AIハックラボ（@ai_hack_lab）です",
+        "前回公開した【Python×Claude API】プロンプト販売・業務自動化で即戦力になる",
+        "本記..."
+      ]
+    },
+    {
+      "id": "2125e2b80f6b",
+      "title": "AIエージェントに指示を送ったのに、動いていなかった話",
+      "url": "https://qiita.com/3su3/items/37d3f3080faf40aef4a0",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-11T09:07:30+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 最近、複数のAIエージェントを使った開発フローを整えています。 計画を立てるエージェント、実装するエージェント、レビューするエージェント。それぞれに役割を分けて、必要なタイミングで指示を渡す仕組みです。 この指示の受け渡しも自動化しているんですが、あるとき、ちょ...",
+      "summary_bullets": [
+        "はじめに 最近、複数のAIエージェントを使った開発フローを整えています",
+        "計画を立てるエージェント、実装するエージェント、レビューするエージェント",
+        "それぞれに役割を分けて、必要なタイミングで指示を渡す仕組みです"
+      ]
+    },
+    {
+      "id": "85c3d3b3167d",
+      "title": "コンテンツの熱狂とAIで切り開く、メディアとマーケティングの未来 - 電通報",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYY0lybGdnUTRqazROcmVKenJjcFRxcUppcDVKSS1zdjhDQXZKS1BfQnkyVlpwV0YtUVAwc2o2NFVZUlNERWZMQmV3RQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T09:02:34+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "コンテンツの熱狂とAIで切り開く、メディアとマーケティングの未来 電通報",
+      "summary_bullets": [
+        "コンテンツの熱狂とAIで切り開く、メディアとマーケティングの未来 電通報"
+      ]
+    },
+    {
+      "id": "ee5ac6875d28",
+      "title": "楠木建氏、パナソニック コネクト・LINEヤフーのAI推進リーダーら出演 AIを「使う」から「成果を出す」へ - JBpress",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCZnp5QWRMQmd5ckZGdE16V0xsRkhRWk1wSVhaTmJJMlZ1aU1SVV9fUkQ5MHd3cXB5a3Y1SDB4UGpPb3JsMkJmNS1ON2Nqd19RbWFlalZB?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T09:02:26+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "楠木建氏、パナソニック コネクト・LINEヤフーのAI推進リーダーら出演 AIを「使う」から「成果を出す」へ JBpress",
+      "summary_bullets": [
+        "楠木建氏、パナソニック コネクト・LINEヤフーのAI推進リーダーら出演 AIを「使う」か"
+      ]
+    },
+    {
+      "id": "ab775675016a",
+      "title": "生成AIの利用者は「大卒・大都市・大企業」に偏っている――AIを使えるかどうかが、評価と所得を分けていく - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rc1ptSWVHdlV5LWxtUi1VM0dBOTJ0MVQ4ZnY3Rk5EN1YtRWh1VVpiamxyZThDQXdlMm1INFZkRTJKNEppeWZidlhEMXlYU0E2bHhRbjlUOEQtWWVVUkIxMDhVb0ptb3dIam82aWJJbm5QTC1iY3ZfOWJLMURydkk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T09:00:39+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "生成AIの利用者は「大卒・大都市・大企業」に偏っている――AIを使えるかどうかが、評価と所得を分けていく Yahoo!ニュース",
+      "summary_bullets": [
+        "生成AIの利用者は「大卒・大都市・大企業」に偏っている――AIを使えるかどうかが、評価と所"
+      ]
+    },
+    {
+      "id": "864419230e8f",
+      "title": "AIエージェントの“見えないリスク”に備えてアイデンティティを「関係」で統制する - デジタルクロス",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUWVNpU0NvdE01SDlWWE9XY3N5dGpCQ1ZqS3lNaXBGX3NKVElZdGtHWWFyN1U4djRzZkhjS0tmU0FKN2VRMW5BUHluZktwWU81OHVVVDlLamZXSlhCLUVHUjhkWHY5VWFIenBWQlBjcjNadG9Hbmc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIエージェントの“見えないリスク”に備えてアイデンティティを「関係」で統制する デジタルクロス",
+      "summary_bullets": [
+        "AIエージェントの“見えないリスク”に備えてアイデンティティを「関係」で統制する デジタル"
+      ]
+    },
+    {
+      "id": "1060d3f85eae",
+      "title": "生成AIの利用者は｢大卒･大都市･大企業｣に偏っている―AIを使えるかどうかが､評価と所得を分けていく - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBidzk1M3c0cHQzWmRsY2FtSFJEb2huR0dqYy1yYm15dTVwSkhpZVV6NGhxV2M5NG1JMWQtTTJOYm1tdDk5d09nMDJIOUxxam9BT3c?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "生成AIの利用者は｢大卒･大都市･大企業｣に偏っている―AIを使えるかどうかが､評価と所得を分けていく 東洋経済オンライン",
+      "summary_bullets": [
+        "生成AIの利用者は｢大卒･大都市･大企業｣に偏っている―AIを使えるかどうかが､評価と所得"
+      ]
+    },
+    {
+      "id": "e8a296f638a8",
+      "title": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成：メカ設計ニュース - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54VXFWdlJ2VkpJQVdPUXhQbHppUkd2QmxpZm52NnZKNFBmU2l4dVZNbG5WenBTOGloSDUzZzV3TEtvT3E1NFFERDJ2RUU4VllsNklNNFhPYTJfNUF3cUE1bmdEYWZhaWo0ZzVJVlNYRQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成：メカ設計ニュース MONOist",
+      "summary_bullets": [
+        "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成：メカ設計ニュース MONO"
+      ]
+    },
+    {
+      "id": "24410a7eb638",
+      "title": "exaBase Studio、セキュリティを多層的に強化 ローカルLLMを備えた閉域環境を提供し、AIエージェント開発・運用の安全性と保守性の強化を推進 ～SaaS版では脆弱性管理をダッシュボードで可視化し、緊急停止ルールもお客様と共同で整備 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XbjNsNTdhS3g2SnhuZVlMclZBYzVjaXU3bGRRck1RTDRYLTdzdWZOaGM3SFpUa2xxUm4wa0lwamRldkpjQS12aDJFaHY5WEk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T08:34:07+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "exaBase Studio、セキュリティを多層的に強化 ローカルLLMを備えた閉域環境を提供し、AIエージェント開発・運用の安全性と保守性の強化を推進 ～SaaS版では脆弱性管理をダッシュボードで可視化し、緊急停止ルールもお客様と共同で整備 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "exaBase Studio、セキュリティを多層的に強化 ローカルLLMを備えた閉域環境を"
+      ]
+    },
+    {
+      "id": "cc7513ed1c05",
+      "title": "“年内入試”での生成AI活用めぐり大学の対応分かれる - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VLXpIa1dQWUg0cFVlZElUNElFRFdjMmxmX1JOb1BLUnlLd1BqcFlfMTNwYkczS1NLU2ppUUY0U0RtTGdwY1l5SjZEYjZSZk1EbWtzVkRDbGVvcEVMd2Qw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T08:18:27+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "“年内入試”での生成AI活用めぐり大学の対応分かれる NHKニュース",
+      "summary_bullets": [
+        "“年内入試”での生成AI活用めぐり大学の対応分かれる NHKニュース"
+      ]
+    },
+    {
+      "id": "db5841b68b81",
+      "title": "「大きなAI」が競う時代に、世界銀行が推奨した「小さなAI」とは - IDEAS FOR GOOD",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6d0x6RWt5OVRxRndUSVEzdlAxWUhLMlBxUGxTT3hWcjFLeVdEdW13RFVqVlpFTmMzWkliUzdlZ2c1M0c5YXBLNW5SX0N5OXRqTG5sckR4MXJxbkstWW1hSzgxMTBhQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T08:05:09+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「大きなAI」が競う時代に、世界銀行が推奨した「小さなAI」とは IDEAS FOR GOOD",
+      "summary_bullets": [
+        "「大きなAI」が競う時代に、世界銀行が推奨した「小さなAI」とは IDEAS FOR GO"
+      ]
+    },
+    {
+      "id": "ee9a0fda6d24",
+      "title": "「ブラウザー側で守る」というアプローチ--AIガバナンスを実効化する新潮流 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Mbm90elZ0cW5qd2xNMF9qb0tCWTBCWnZLcU1IODZhQ1BnUHBDWFhhdm1EbXUyTm5FRDFmX2lVTXIyaHg2S0JlckRmM1Y1NkVXWjFF?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「ブラウザー側で守る」というアプローチ--AIガバナンスを実効化する新潮流 ZDNET Japan",
+      "summary_bullets": [
+        "「ブラウザー側で守る」というアプローチ--AIガバナンスを実効化する新潮流 ZDNET J"
+      ]
+    },
+    {
+      "id": "9ff63b2e29f0",
+      "title": "小学生の作品にも「AIくさい」 批判を呼び込む“犬笛“と正義の暴走、疑いが攻撃に変わる社会（AERA DIGITAL） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iVjM5Qndlakg2SllNMmRLdzBQWEsyRWYwZUxpbU92cmh5S1hTUTlELXRJWTVQTFBYczB3WE5zZGV1ZjZhU0hEcktmTW13M3FlYTdvY0RSS3RXWlcyM2ZnN01VT3FVOWZ1aTN1eU9lbzF1LVQxX0V3Vmloa0N0ems?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T07:49:58+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "小学生の作品にも「AIくさい」 批判を呼び込む“犬笛“と正義の暴走、疑いが攻撃に変わる社会（AERA DIGITAL） Yahoo!ニュース",
+      "summary_bullets": [
+        "小学生の作品にも「AIくさい」 批判を呼び込む“犬笛“と正義の暴走、疑いが攻撃に変わる社会"
+      ]
+    },
+    {
+      "id": "4b09faa7aee4",
+      "title": "AIは「黙るべき時」が分かるか 中国MOSI、「空気を読むAI」開発で約240億円調達 - 36Kr Japan",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5adDdkc1BPZ24xcE16dlplZE8zbi1URXplMmdvOVowcm9IUlJ6QkRudEREcDNQWFhCMUFj?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T07:35:54+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIは「黙るべき時」が分かるか 中国MOSI、「空気を読むAI」開発で約240億円調達 36Kr Japan",
+      "summary_bullets": [
+        "AIは「黙るべき時」が分かるか 中国MOSI、「空気を読むAI」開発で約240億円調達 3"
+      ]
+    },
+    {
+      "id": "16a796259313",
+      "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yVThBWVBaRFJSVW5sNWx0VVFUMUNlNVgwN1pVd1BtWkc0Q20xWGdhNGhWQjVCM0RoSTVzQ3NmRUtYcDgtcjl3WUlRSU1EUmJjZW1ISVdUaThEVEd5dWhFZlB3d3RscGtLeHc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T07:03:30+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定 ITmedia",
+      "summary_bullets": [
+        "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位"
+      ]
+    },
+    {
+      "id": "acfe8a579307",
+      "title": "Solutions Journalism in Practice 006：AIの間違い、どう防ぐ？5つの業界から見えた「確認の鉄則」／復旦大学OBチーム - 笹川平和財団",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jWHdLdXBVTmV5UDgtaEIxeVBaVGRMeXNfWDVuaW16TjZpb2JoOGxoOXJ2U3JpZ2hwTElfOGU2bnA4VWtZdTh3UXA0ekJRZDY3b0FKWC00NmdaVjQt?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T07:00:03+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Solutions Journalism in Practice 006：AIの間違い、どう防ぐ？5つの業界から見えた「確認の鉄則」／復旦大学OBチーム 笹川平和財団",
+      "summary_bullets": [
+        "Solutions Journalism in Practice 006：AIの間違い、ど",
+        "5つの業界から見えた「確認の鉄則」／復旦大学OBチーム 笹川平和財団"
+      ]
+    },
+    {
+      "id": "feed315f547a",
+      "title": "AI研究者・開発者の関心を分析 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84TEQ1V1dxaTh0T002a0J5ZDM3by1GdmhBVnZDT1JzemtsYjl6OHhhN0d3dnBXZlJDcFVucksxcGE3UWVKX0pzd1dQcmI1WjMxMWduQUJHUGgwc2Z5bDZPaFVOSS0tQml5dURnV1dMbnhqUQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI研究者・開発者の関心を分析 日経クロステック",
+      "summary_bullets": [
+        "AI研究者・開発者の関心を分析 日経クロステック"
+      ]
+    },
+    {
+      "id": "a5535bc63a20",
+      "title": "「歩かないでください」エスカレーター歩く人をAIで感知、注意促す [愛知県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mcExMY0lHenI5SFJKZTRDZDctemdLVG9iWFFvVlJiZDhaRHZfZTlGVlRVc0Y2aHpRcldzSmhKQnd1a251RmRJZkdPRWlURFZoYkZ1MlNEWlF6RlZTZzRmU0JJSzJGRGc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T06:50:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「歩かないでください」エスカレーター歩く人をAIで感知、注意促す [愛知県] 朝日新聞",
+      "summary_bullets": [
+        "「歩かないでください」エスカレーター歩く人をAIで感知、注意促す [愛知県] 朝日新聞"
+      ]
+    },
+    {
+      "id": "698381a01946",
+      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡　海外では大ヒットなのに、日本での普及は限定的　ビジネスでの活用事例を探る",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-11T05:34:16+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "AI眼鏡で何ができるのか？ まず、AIグラスがどのように進化してきたのかを見てみよう。 AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google Glass」が草分けとされる。通常の眼鏡の外側にディスプレイが付いた構造で、一目で普通の眼鏡とは違うことが分かる。メモリは1GBでストレージは16GB。主...",
+      "summary_bullets": [
+        "AI眼鏡で何ができるのか",
+        "まず、AIグラスがどのように進化してきたのかを見てみよう",
+        "AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google"
+      ]
+    },
+    {
+      "id": "eb1a2ce8a633",
+      "title": "フィジカルAI時代、米中にはない「日本の本当の強み」 - 日経BOOKプラス",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwc0hSNjdfU3ZEWWFPRkdUd3lLYzh3VkxPYU9TR2lJODYySGZGZV9Zcy05MmhqQkgtcUZ1MWoweXZTWlJqNXJpczdLOEIxSFR1UGs1SUpZVU55T2ktLTJzdDd0R25KeVlLQlNNQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "フィジカルAI時代、米中にはない「日本の本当の強み」 日経BOOKプラス",
+      "summary_bullets": [
+        "フィジカルAI時代、米中にはない「日本の本当の強み」 日経BOOKプラス"
+      ]
+    },
+    {
+      "id": "22118409e4b4",
+      "title": "NEC、口調まで模倣の「AI社長」が会議でダメ出し でも議論の質は人次第 - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAza2I5YkNGODVVQlQtdG5RcDlXU3hJX2VvSkgxS1lZU3RWSGZoakJuanhZVldRWEVwTUlUTTBPX0VNUXAxRUtvWTZ6SElpVGQtUEo2QW9QSnQyTWtkMFp6d1kzcVEtX0E?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-11T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "NEC、口調まで模倣の「AI社長」が会議でダメ出し でも議論の質は人次第 日経ビジネス電子版",
+      "summary_bullets": [
+        "NEC、口調まで模倣の「AI社長」が会議でダメ出し でも議論の質は人次第 日経ビジネス電子"
+      ]
+    },
+    {
+      "id": "eda302b58881",
+      "title": "Museでループエンジニアリングしてみた🔁",
+      "url": "https://zenn.dev/teraryu/articles/d9a875c240d136",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-11T00:19:54+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "この記事で持ち帰れること 定期実行のAIエージェントに「どこまで任せるか」の線の引き方（3段階の権限設計） 通知過多を防ぐ「新規がなければ無言」設計と、その設計が失敗を隠すという落とし穴 「設計した」と「回っている」を取り違えた実例と、原因5つ 実行するAIと評価するAIを分けた評価ループの構成（機械的な完了判定 → 意味的な監査 → 上限つき再実行） 「回っている」と言う前に確認する5項目のチェックリスト ! 🎁 Museの招待コード：L1WE6E 登録から48時間以内にこのコードを入れると、",
+      "summary_bullets": [
+        "この記事で持ち帰れること 定期実行のAIエージェントに「どこまで任せるか」の線の引き方（3"
+      ]
+    },
+    {
+      "id": "0ea711f45c15",
+      "title": "Museにすべて賭けろ！！",
+      "url": "https://zenn.dev/soburi61/articles/5cd3bbcb2c36de",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-11T00:01:23+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "最初に断っておきます この記事の使い方は、セキュリティ的にかなりやばいやつです。とくに、AIエージェントが操作するブラウザにパスワードマネージャー（私の場合はBitwarden）をログインさせっぱなしにして、ログイン画面が出たら自動入力やパスキーで突破させる、なんて運用は普通やらない（やっちゃいけない）部類のものです。パスワードマネージャーの中身ってほぼ人生そのものなので、そこをエージェントに触らせる時点でリスクは跳ね上がります。 それが分かってて、あえて全部任せてます。面白そうに見えても、真似",
+      "summary_bullets": [
+        "最初に断っておきます この記事の使い方は、セキュリティ的にかなりやばいやつです",
+        "とくに、AIエージェントが操作するブラウザにパスワードマネージャー（私の場合はBitwar",
+        "パスワードマネージャーの中身ってほぼ人生そのものなので、そこをエージェントに触らせる時点で"
+      ]
+    },
+    {
+      "id": "a6f4f29564e4",
+      "title": "AI画像編集で「生成は成功したのに結果が残らない」問題に向き合った話",
+      "url": "https://zenn.dev/coderlim/articles/650f1b108ddec3",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-10T23:59:46+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "個人開発でAI画像編集サービスを作っています。 ユーザーが画像をアップロードして、編集内容を入力すると、AIが画像を生成する。画面上の操作はシンプルですが、裏側の非同期処理は思っていたより面倒でした。 特に困ったのが、AI側では生成が成功しているのに、アプリ側には結果が保存されていないというケースです。 今回は、この問題をきっかけに見直したWebhook、タスク管理、クレジット処理について書きます。 最初はブラウザからのポーリングに頼っていた 画像編集にはReplicateとfal.aiを利用し",
+      "summary_bullets": [
+        "個人開発でAI画像編集サービスを作っています",
+        "ユーザーが画像をアップロードして、編集内容を入力すると、AIが画像を生成する",
+        "画面上の操作はシンプルですが、裏側の非同期処理は思っていたより面倒でした"
+      ]
+    },
+    {
+      "id": "fc159d7bc357",
+      "title": "安全ガードだけは、あえて参照しない。親リポ1つで7リポジトリのClaude Codeを指揮する設計",
+      "url": "https://zenn.dev/tzp/articles/705d1d29c2dc79",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-10T23:57:38+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 😩「web で直したスキル、admin と service にもコピーしなきゃ…」 🤔「あれ、admin の create-pr って、こんな手順だったっけ？」 😱「このリポのガード、PR のマージを止めてない…？」 AI と開発するリポジトリが増えると、こんなことが起きませんか？ 1 つのリポで育てたスキルや設定を、コピーで配った瞬間から、ずれ始めます。 個人開発している口コミサービス あじぴた は、いま 7 つのリポジトリで動いています。 そのうち 3 つのリポで、Claude C",
+      "summary_bullets": [
+        "はじめに 😩「web で直したスキル、admin と service にもコピーしなきゃ…",
+        "」 😱「このリポのガード、PR のマージを止めてない…",
+        "」 AI と開発するリポジトリが増えると、こんなことが起きませんか"
+      ]
+    },
+    {
+      "id": "d2251dd36283",
+      "title": "Codexが無くても: Claude Codeのサブエージェントだけで越境整合レビューを組む",
+      "url": "https://zenn.dev/shoma46/articles/claude-code-subagent-spec-consistency-review",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-10T23:43:01+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "TL;DR 型検査・lint・テストが通っても残る「境界をまたぐ意味の不整合」を探すレビューを、Claude Codeのskillとサブエージェントだけで組んだ 書いた本人のセッションには判定させない。不変条件を抽出する役と検証する役を別のサブエージェントに分け、どちらにも設計意図や会話の文脈は渡さない 抽出は観点ごとに4つのレンズに分けて並列に走らせ、pushをblockするほどの指摘だけは、3体に別々の観点で反証させ、1体でも反証したら降格する 約2か月半で97回動かし、約半分（49回）でb",
+      "summary_bullets": [
+        "TL;DR 型検査・lint・テストが通っても残る「境界をまたぐ意味の不整合」を探すレビュ",
+        "不変条件を抽出する役と検証する役を別のサブエージェントに分け、どちらにも設計意図や会話の文"
+      ]
+    }
+  ]
+}
