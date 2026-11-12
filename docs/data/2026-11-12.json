@@ -1,0 +1,384 @@
+{
+  "updated_at": "2026-11-12 11:01 JST",
+  "date": "2026年11月12日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "b60c164fccf4",
+      "title": "【Python×Anthropic】Claude 3.5 Sonnetで「構造化JSON」を100%確実に抽出する堅牢パイプラインの実装手法",
+      "url": "https://qiita.com/ai_hack_lab/items/ea9b39a761e02546cedd",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-12T10:59:49+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "こんにちは、AIハックラボ（@ai_hack_lab）です。普段はPythonと生成AIを活用した業務自動化や、プロンプトエンジニアリングの実務ノウハウを発信しています。 前回の記事（【Python×Claude API】実務で使える「プロンプト自動最適化＆品質スコアリング...",
+      "summary_bullets": [
+        "こんにちは、AIハックラボ（@ai_hack_lab）です",
+        "普段はPythonと生成AIを活用した業務自動化や、プロンプトエンジニアリングの実務ノウハ",
+        "前回の記事（【Python×Claude API】実務で使える「プロンプト自動最適化＆品質"
+      ]
+    },
+    {
+      "id": "e2184e24d0ce",
+      "title": "サイバーエージェント、広告売上が過去最高 AI投資を続けながら営業利益5.2％増 - 共同通信PRワイヤー",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtckNUQk9UM1dpOXAtbzNhM2FmMGwzTjJHWmRNd3dRbkVPUVFZSE1XWW9iQ19ySnF5VDJqZXBSN2xSdUNoXy1XSl9lMFVOdFlaNVhzZ2Z4VQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T10:52:30+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "サイバーエージェント、広告売上が過去最高 AI投資を続けながら営業利益5.2％増 共同通信PRワイヤー",
+      "summary_bullets": [
+        "サイバーエージェント、広告売上が過去最高 AI投資を続けながら営業利益5.2％増 共同通信"
+      ]
+    },
+    {
+      "id": "70622f2104d1",
+      "title": "同じ量子化モデル、運命は二つ——片方は拒否、片方は 1.39 ms",
+      "url": "https://qiita.com/anguoyang/items/ba3ab652109c4350d729",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-12T10:41:26+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "量子化した NanoDet を 1 つ、Qualcomm の 2 デバイスに渡しました。片方はロードすら拒否。もう片方は 324 層すべて NPU で 1.39 ms で走りました。モデルは同一、量子化も同一。違いは、量子化器が触れない float の末尾と、デバイスがそれ...",
+      "summary_bullets": [
+        "量子化した NanoDet を 1 つ、Qualcomm の 2 デバイスに渡しました",
+        "片方はロードすら拒否",
+        "もう片方は 324 層すべて NPU で 1.39 ms で走りました"
+      ]
+    },
+    {
+      "id": "717ce5680c1e",
+      "title": "AIロボットを2040年までに国内1000万台 経産省、量産と現場導入を一体支援へ（電波タイムズ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vWUh4TlZNTlhpZnZsNzZSZ1JFSmQ2X2hfVEF6aWhDc0NmRGpNbnR4N0lCUEJVbGtYZXptRVlPeXVqTlNpMDd1NkhzdkF6ZWl5akhUNTUxTlVLWGs1ejZfRFlBVVZEOTMwVkk5c2hDck9tLXh2ZjRUcEFWUTlFLTg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T10:37:21+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIロボットを2040年までに国内1000万台 経産省、量産と現場導入を一体支援へ（電波タイムズ） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIロボットを2040年までに国内1000万台 経産省、量産と現場導入を一体支援へ（電波タ"
+      ]
+    },
+    {
+      "id": "59c1a2b1ee80",
+      "title": "アングル：中国「独身の日」、ＡＩが買い物主導 消費喚起なるかは未知数 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzcFlKdDQtZGdmLXJNbERKckNCemJHVkhrTDVXSFZGNkdnVnpCT3RxZS1yUEJBNzl3ZUJJTDJiaFVjWjdRd2Jxa0VuSkRSWW5PT1dPSUR5a3RoNXVxdERYcmxxa2RzQVhDRzRHSE44VjVPaE1oN3dUcWNldGpmQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T10:35:49+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "アングル：中国「独身の日」、ＡＩが買い物主導 消費喚起なるかは未知数 Reuters",
+      "summary_bullets": [
+        "アングル：中国「独身の日」、ＡＩが買い物主導 消費喚起なるかは未知数 Reuters"
+      ]
+    },
+    {
+      "id": "5d03cf4aa3ab",
+      "title": "アングル：中国「独身の日」、ＡＩが買い物主導 消費喚起なるかは未知数（ロイター） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KeUVpa05kUlUxMFVwUktwamVOQ1gzSmZTYnJKYVVrSFZNZnA1NkhabDFVajJBRnVwTE5uZFdMNF9YZWEzY1lDa2N4RHJTbXlGbEoyaWNWVGp2Znd0YTJ2Rmg5Mlg3MHlzSUdUYTE5R0Q3dTBKQ0VOaTI3R2FrRUU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T10:34:33+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "アングル：中国「独身の日」、ＡＩが買い物主導 消費喚起なるかは未知数（ロイター） Yahoo!ニュース",
+      "summary_bullets": [
+        "アングル：中国「独身の日」、ＡＩが買い物主導 消費喚起なるかは未知数（ロイター） Yaho"
+      ]
+    },
+    {
+      "id": "6b296d4cfb61",
+      "title": "HBMの父「エンジニア1人当たり数百のAIエージェントが必要」＝韓国（中央日報日本語版） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IcWttUTg5Tm9ldGtmTUFqLXQ5SkUzaldtaHB1cXg0QXQwWGNCU3hNMjREWGw5aXFfYnBJTk80SWJMeDlBekFpMXB2bDI2NmJuSkxERGxsamt4a1pWN0UtcmRJcXdfTzRwLUJJYVNqbU5hZkhQNzBTUTEyb190OGM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T10:18:50+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "HBMの父「エンジニア1人当たり数百のAIエージェントが必要」＝韓国（中央日報日本語版） Yahoo!ニュース",
+      "summary_bullets": [
+        "HBMの父「エンジニア1人当たり数百のAIエージェントが必要」＝韓国（中央日報日本語版） "
+      ]
+    },
+    {
+      "id": "f86649b10f06",
+      "title": "自社サービスのChatGPT内での認知状況を分析する提案",
+      "url": "https://qiita.com/uni928/items/6f5a18f7f2a85619885e",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-12T10:17:58+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "提案日：2026年11月12日 対象：自社サービスの広報・集客・サービス運営担当者 提案：Businesses in ChatGPT（Business Hub）の利用可否を確認し、利用可能であれば試験導入する 1. 提案の概要 OpenAIは2026年11月10日、企業が...",
+      "summary_bullets": [
+        "提案日：2026年11月12日 対象：自社サービスの広報・集客・サービス運営担当者 提案："
+      ]
+    },
+    {
+      "id": "3dd5c7b26711",
+      "title": "CodeNestでAIに質問し、修正をテストする：文字列の合計が「01020」になる例",
+      "url": "https://qiita.com/CodeNest_media/items/d8a88363cf244eeeab9d",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-12T10:17:23+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIの提案どおりに直すと、今度は別のエラーが出る。ログを追加で貼ると、さっきとは違う修正が返ってくる。何往復かした後には、どの変更が必要だったのか自分でも追えなくなる。 こうしたやり取りを整理するために、最初に用意したいのが**「この入力なら、この結果になってほしい」という...",
+      "summary_bullets": [
+        "AIの提案どおりに直すと、今度は別のエラーが出る",
+        "ログを追加で貼ると、さっきとは違う修正が返ってくる",
+        "何往復かした後には、どの変更が必要だったのか自分でも追えなくなる"
+      ]
+    },
+    {
+      "id": "e02e519c21aa",
+      "title": "少量データから特定の専門性を有したLLMにチューニングする技術を確立 ～業務固有の知識を持った個社オリジナルのtsuzumiをもっと容易に提供～ - Digital PR Platform",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1TYlQzekVZWkxZWDJiOUZ6NDBYcGE1S0NjU05sblVoUGp6ZUg1aExLVzY4TTF3WjhKNmdkS1JvbURNYkU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T10:02:02+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "少量データから特定の専門性を有したLLMにチューニングする技術を確立 ～業務固有の知識を持った個社オリジナルのtsuzumiをもっと容易に提供～ Digital PR Platform",
+      "summary_bullets": [
+        "少量データから特定の専門性を有したLLMにチューニングする技術を確立 ～業務固有の知識を持"
+      ]
+    },
+    {
+      "id": "0141d09870f9",
+      "title": "AICX協会、物流のフィジカルAI議論する催し開催 - LOGISTICS TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RaTRxcUN2S0FmZnNVSXl0N2p5OHR4ZndCUUxoLTc2aTZQM3BkV0pwM3IxWENQcnk5bUViUmdsS05YZFkySXlZT2hR?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T10:00:58+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AICX協会、物流のフィジカルAI議論する催し開催 LOGISTICS TODAY",
+      "summary_bullets": [
+        "AICX協会、物流のフィジカルAI議論する催し開催 LOGISTICS TODAY"
+      ]
+    },
+    {
+      "id": "9e1756c84804",
+      "title": "ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大幅に効率化 - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZUhzd3pQTlY0c3NNcXhacU54dk41eE9JdWdQaEFiMjEydFJ1VElQdGJQdXRiTko5b1FiUVMtTE9oNU5QMllrbFhIOWNManZMZlJIUWduUS16WGlzWXlxV01tSWhVQkJncVo5bzRyNzBPcm9qRV9FdTYwd2V6VFh1TmJVRUE4UXlCMDRMbzdGdW1zRUtiRC1zZE1Wa1JxQ2RhTEUzQm5iRGtwNkY0czRzVW5RQWRpaVhLLWlHczBnNUE0Rzl1RGFqUi10LVAwTDJOcU8yVUtkNTFOUGc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T09:53:40+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大幅に効率化 Google Cloud",
+      "summary_bullets": [
+        "ＳＯＭＰＯシステムズ：基幹システムコードの保守をナレッジグラフと AI 開発で大幅に効率化"
+      ]
+    },
+    {
+      "id": "385833eeb57c",
+      "title": "AIエージェント向けのデータ基盤のEdelbyte、7,000万ドルを調達 - BRIDGE（ブリッジ）",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zUVc1QjBUZmJSLVAwUkNWNFlCNXlVS0xLWlU3OGJRTkxLWEU3dWItQ2E4emZqYVBLM3I5STl6NXJaX1dBTzUxbnQ0bGhQSXZfNFRKRjN4b3Nab1VOcmltdzNHYjVacU9LZ0hka2VZaGwwcUppSURnb0VSUGw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T09:49:34+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIエージェント向けのデータ基盤のEdelbyte、7,000万ドルを調達 BRIDGE（ブリッジ）",
+      "summary_bullets": [
+        "AIエージェント向けのデータ基盤のEdelbyte、7,000万ドルを調達 BRIDGE（"
+      ]
+    },
+    {
+      "id": "c37188a99cab",
+      "title": "米国株情報＞オープンＡＩ、第３四半期の売上高は前年比３倍の１００億ドルも営業赤字継続(ウエルスアドバイザー) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUZjM1JtUjkzbUFabGV1UjhaZi1VaXJMTnBDZi0wUVhjM3F4eUxsb1J2cnpPSFpISnlaTXFuZlUtSlZnekRhbW1sSkFhRkZ2Mk9NWGp1U292Ni1rVzhDc3p2ZUtER1JEVTMxUkZCdkdQc2dvRHF4dl8tN3VucnlQZVZSSWNqRkk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T09:46:09+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国株情報＞オープンＡＩ、第３四半期の売上高は前年比３倍の１００億ドルも営業赤字継続(ウエルスアドバイザー) Yahoo!ファイナンス",
+      "summary_bullets": [
+        "米国株情報＞オープンＡＩ、第３四半期の売上高は前年比３倍の１００億ドルも営業赤字継続(ウエ"
+      ]
+    },
+    {
+      "id": "e7b00ed99e22",
+      "title": "神戸大とスクールエージェント、生成AI活用の探究学習を共同研究 - リセマム",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5MlFuX0ZEZ3pIekhVN2dnVi00WFFIbmMxVVhTRmNRRE9GanJfM0l4ZmlEbGNTbXRkakVPcmFoMlRJQzdoTFRURUxXN05lR3ktRVJFay05Vm9McmoxemNndlB4dEszZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T09:15:03+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "神戸大とスクールエージェント、生成AI活用の探究学習を共同研究 リセマム",
+      "summary_bullets": [
+        "神戸大とスクールエージェント、生成AI活用の探究学習を共同研究 リセマム"
+      ]
+    },
+    {
+      "id": "3b72fa4bec18",
+      "title": "【製造業編】アクセンチュアが生成AIエージェントの実践事例を披露 契約書作成、CAD設計変更、製造現場の品質改善 - ロボスタ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFV3NGbWMxY3N6Qy0tWktETkl5bUgzUDJUZnEwN2g2MHhXTEpCUm5sZ000N01yZURieWM1N3MwRzhzWGtSSjZrdUtWZS1Db0wwckJYeHJwcG5rdC05Sm5fU29zSWg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T09:10:02+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【製造業編】アクセンチュアが生成AIエージェントの実践事例を披露 契約書作成、CAD設計変更、製造現場の品質改善 ロボスタ",
+      "summary_bullets": [
+        "【製造業編】アクセンチュアが生成AIエージェントの実践事例を披露 契約書作成、CAD設計変"
+      ]
+    },
+    {
+      "id": "7c4b9a993c9a",
+      "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
+      "url": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-12T09:03:49+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "日本の企業・Preferred Networks(PFN)が提供する「PLaMo」はフルスクラッチで開発された国産生成AI基盤モデルで、日本語に特化しているのが特徴。このPLaMoベースで開発された「PLaMo翻訳」はとにかく非常に質の高い翻訳が可能で、テキスト翻訳だけでなくFirefoxやChromeの拡張機能でも提供されています。2026年10月には...",
+      "summary_bullets": [
+        "日本の企業・Preferred Networks(PFN)が提供する「PLaMo」はフルス",
+        "このPLaMoベースで開発された「PLaMo翻訳」はとにかく非常に質の高い翻訳が可能で、テ",
+        "2026年10月には..."
+      ]
+    },
+    {
+      "id": "0823fc072c1a",
+      "title": "AI活用で成果を出すチームは、人材探しではなく役割の組み合わせから始める - デジタルクロス",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtdl9BaGVNX2VZa2FJX0hKODV4dUNUbnlLYmZqWG5KTFc1NGw0UVZmZGxCWVRJMWZ4Z3JiTG11cXo3NzZjd3o5WE5jMlJWUXdMRGpWbFJUOS04NHIyVTVtYUpxaUQ0ZkRpNHpBWWRrdW9zZjlXc1E?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI活用で成果を出すチームは、人材探しではなく役割の組み合わせから始める デジタルクロス",
+      "summary_bullets": [
+        "AI活用で成果を出すチームは、人材探しではなく役割の組み合わせから始める デジタルクロス"
+      ]
+    },
+    {
+      "id": "03ba24b826cc",
+      "title": "Mrs. GREEN APPLE has been chosen to appear in the new Google Search AI mode commercial! - Mrs. GREEN APPLE OFFICIAL SITE",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ubV90V1gyd0NGdVFwV01qb09BVEktUkJrM05CZ2g4ZHhwSXRhSXJRc1haMVJsdDRJZmg3cGtndzZEeWxHblBKLXpnLUMzWmYyWS1FVmZBcDl0a084TjNQOA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T08:58:40+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Mrs. GREEN APPLE has been chosen to appear in the new Google Search AI mode commercial! Mrs. GREEN APPLE OFFICIAL SITE",
+      "summary_bullets": [
+        "Mrs. GREEN APPLE has been chosen to appear in"
+      ]
+    },
+    {
+      "id": "69f2a3dbfee4",
+      "title": "Beyond ARTEX: 45 AI Pentesting Tools and How to Find Them",
+      "url": "https://blog.gitguardian.com/ai-pentesting-tools-beyond-artex/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-12T08:39:34+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "TL;DRAbout 45 open-source frameworks now automate attacks: Each one wires a language model into a loop that runs tools and acts on their output. We cataloged 32 of them into five families; the rest are forks and variants.Four ship a real secret scann",
+      "summary_bullets": [
+        "TL;DRAbout 45 open-source frameworks now auto"
+      ]
+    },
+    {
+      "id": "69e9f925b34a",
+      "title": "企業の顧客は人間からAIへ 米著名VCが「B2A経済」の到来を予測 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DWEVvNjIwVWpCNjNvSElnUzRidC1zSENvSzdqVWdSSnNyenJQWFpHNkxabHk3QUlXeFRIaFBkeVVwTUNzR3dYTXBkQjdEcUhMQWNxWHNfZVlTaTA4b2Nxek1JNFI3UQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T08:31:37+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "企業の顧客は人間からAIへ 米著名VCが「B2A経済」の到来を予測 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "企業の顧客は人間からAIへ 米著名VCが「B2A経済」の到来を予測 株式会社エクサウィザー"
+      ]
+    },
+    {
+      "id": "28b5ff0e9f24",
+      "title": "今日の株式見通し＝もみ合い、米ＡＩ株高とエヌビディアＣＥＯ解任準備との報道が綱引き - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTGpyTWFSXzBXWUZPMnF3ZmtYalRRWXFNd0NKbUJwdm9PQjNTSnVPMDlRZHRvT0lRcGYyXy0zd25NWWhiTTFKaHd0TmVYZEN4d2h2c0JTcFF3bzZvNjBFbFVDWFNfd0xhZHEwZWhCanl5aFN1Z3hrd1NyQ01OV3NqZzJlbUNwZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T08:21:46+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "今日の株式見通し＝もみ合い、米ＡＩ株高とエヌビディアＣＥＯ解任準備との報道が綱引き Reuters",
+      "summary_bullets": [
+        "今日の株式見通し＝もみ合い、米ＡＩ株高とエヌビディアＣＥＯ解任準備との報道が綱引き Reu"
+      ]
+    },
+    {
+      "id": "230734e05d66",
+      "title": "「AIに“中学生らしく書いて”と指示」教員が「もう見抜けない」とお手上げ 「全面禁止論」に納得も現場が直面する残酷な現実 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SVEYzdzB5Y3kyWkQ0azZlb2lwOEt1YWNzejZZUTNRZ192eHJWaW1KaFVWNVdsNFpSUVFheGJ4OG5ZN0RpekpZN2JMRVpPQlZoUVBxQ3lLUnFwcDUxUDBsVDF6Wkpnd3gxV3FuSkRTM0xZQ0RUZlFQQ3lBbzd3aTQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T08:00:41+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「AIに“中学生らしく書いて”と指示」教員が「もう見抜けない」とお手上げ 「全面禁止論」に納得も現場が直面する残酷な現実 Yahoo!ニュース",
+      "summary_bullets": [
+        "「AIに“中学生らしく書いて”と指示」教員が「もう見抜けない」とお手上げ 「全面禁止論」に"
+      ]
+    },
+    {
+      "id": "2199ded4752b",
+      "title": "「AIエージェントに開発を任せ切れない」 “見えない実行コスト”が自律性を妨げる：SlashData調査で見えた料金体系のリスク - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UYWFIbEN3Mk1PWG9fQ0NOdGdiY05SUnNzNTMtc0xYcHFoMGcxMlhyNnRUOWZ1TDNCVi1aWm1Bckd5WWV2bzZRV2xXYnpDc2tFQXdhc2c5cUVjc1F0R0RSZmRyMklIa0JrTFdWX0VWcVFyZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「AIエージェントに開発を任せ切れない」 “見えない実行コスト”が自律性を妨げる：SlashData調査で見えた料金体系のリスク ITmedia",
+      "summary_bullets": [
+        "「AIエージェントに開発を任せ切れない」 “見えない実行コスト”が自律性を妨げる：Slas"
+      ]
+    },
+    {
+      "id": "ca38e28f6d14",
+      "title": "Test your applications against AWS locally with AWS Emulator | Amazon Web Services",
+      "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-12T07:58:04+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "The sessions are set and your seat is waiting. Register now",
+      "summary_bullets": [
+        "The sessions are set and your seat is waiting"
+      ]
+    },
+    {
+      "id": "54f8e3e3c209",
+      "title": "人手不足解消へ ファミマがフィジカルAI導入 | NHKニュース",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261111de74472",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-12T07:52:41+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "コンビニ大手のファミリーマートは、店舗の人手不足の解消に向けて、飲料を自動で補充するフィジカルAIを活用したロボットを2027年1月から全国の店舗に本格導入する方針を固めました。 ファミリーマート…",
+      "summary_bullets": [
+        "コンビニ大手のファミリーマートは、店舗の人手不足の解消に向けて、飲料を自動で補充するフィジ",
+        "ファミリーマート…"
+      ]
+    },
+    {
+      "id": "f1f00df7d1d4",
+      "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T07:48:54+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "summary_bullets": [
+        "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜"
+      ]
+    },
+    {
+      "id": "f4a9bc9d704b",
+      "title": "米国株式市場＝反発、コアウィーブ決算受けＡＩ投資巡る懸念後退 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHl6d3FGb1V1VERRczNJTG1NSzd2dHRra2ZqYlhoWFRraFdpa29PcU44YTFoVFpMUUt4cE8zakpWbXFxdkNrZHRpbHl2dU9JX3FQNS1Lc05udjhxUUR5Zmg3bkQyWVFkMmI1cVhPMUJHV1J1cElqcGlvWjBzeUZvS2tHUG1xUQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-12T07:11:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国株式市場＝反発、コアウィーブ決算受けＡＩ投資巡る懸念後退 Reuters",
+      "summary_bullets": [
+        "米国株式市場＝反発、コアウィーブ決算受けＡＩ投資巡る懸念後退 Reuters"
+      ]
+    },
+    {
+      "id": "26f05cdd0131",
+      "title": "Outlook.comがDMARC認証を受けていないドメインからのメールを拒否",
+      "url": "https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-12T07:11:18+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混乱を招きました...",
+      "summary_bullets": [
+        "2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・M",
+        "Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混"
+      ]
+    },
+    {
+      "id": "c605b56401d1",
+      "title": "【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-12T06:15:31+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "",
+      "summary_bullets": [
+        "【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間"
+      ]
+    }
+  ]
+}
