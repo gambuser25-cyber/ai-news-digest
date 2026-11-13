@@ -1,0 +1,396 @@
+{
+  "updated_at": "2026-11-13 10:32 JST",
+  "date": "2026年11月13日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "f71dcdac585d",
+      "title": "データベースのアカウント、複数人で共有していませんか？",
+      "url": "https://qiita.com/snowqueen_tg/items/5e16bdcf0c5d3217b872",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-13T10:31:30+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "「このデータは誰が更新したのか」 問題が起きて操作履歴を確認しても、記録されているのは全員が使っている「admin」というアカウントだけ。これでは、実際に操作した人までは分かりません。 管理が楽だからという理由で、一つのデータベースアカウントを複数人で共有している現場もあり...",
+      "summary_bullets": [
+        "「このデータは誰が更新したのか」 問題が起きて操作履歴を確認しても、記録されているのは全員",
+        "これでは、実際に操作した人までは分かりません",
+        "管理が楽だからという理由で、一つのデータベースアカウントを複数人で共有している現場もあり."
+      ]
+    },
+    {
+      "id": "31805e276220",
+      "title": "ＩＭＦ、ＡＩ投資動向を注視 見直し判断は時期尚早 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRVBEVE5RdDB5U2xHNjdQSV82Y01USTd6dTdDaVMzRndUdmY0TGdNVC04Zlp3Qm1ESzEwa1BLUHZrUW10V1BLellRbkNmYU9fN1pWTDY3T3hPM25UOGx4aHhaaFBubzNzYVpwVVo4VGpBNzcxRkhzX2VBcVdleVFXWkNKWmxsc1I5c29zQTZpTXU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T10:08:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＩＭＦ、ＡＩ投資動向を注視 見直し判断は時期尚早 Reuters",
+      "summary_bullets": [
+        "ＩＭＦ、ＡＩ投資動向を注視 見直し判断は時期尚早 Reuters"
+      ]
+    },
+    {
+      "id": "8301b43bb7a2",
+      "title": "選挙ポスターAI作成? 戸惑いの声 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WZjRvdjF6NmNmU0h6c256d3RyT2xzRVF5THlxbVpMRHRoRk1rVjVPNmVMRzBhN01NSk9Bc1NSMlFlR09OUHNzcXJLdU9CR1gw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T10:07:21+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "選挙ポスターAI作成? 戸惑いの声 Yahoo!ニュース",
+      "summary_bullets": [
+        "選挙ポスターAI作成? 戸惑いの声 Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "bc7440f2b4d4",
+      "title": "【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそろAI医師免許を解禁しませんか？ - 国立大学法人群馬大学",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OLWFySk8wcjctUkdvZzJZOFpPZDMweHAxY01VYi12UTFtMjJuVUREOVRGMmNDUE9rdWVpM3l4cVdwTVJJazNxUzhjT21wZGQxek0yUEhlRQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T10:06:45+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそろAI医師免許を解禁しませんか？ 国立大学法人群馬大学",
+      "summary_bullets": [
+        "【プレスリリース】誰もが、24時間、かかりつけAI医師に見守られる社会へ そろそろAI医師",
+        "国立大学法人群馬大学"
+      ]
+    },
+    {
+      "id": "35736ad22b1f",
+      "title": "AIで効率は上がったのに、人は動かなかった。DeNAが踏み切ったAIネイティブな「業務フローの組み替え」 - フルスイング - DeNA",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WVdOakFDM2kxTTA3M1BQeEZNYkxRNm90dG5NeERKYThlb25GaEVoWndtZFE5cVM2NUtKUFE5OWh3SDYzSDdMLXRacUF4emRlSVNpcHVR?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T10:02:12+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIで効率は上がったのに、人は動かなかった。DeNAが踏み切ったAIネイティブな「業務フローの組み替え」 フルスイング - DeNA",
+      "summary_bullets": [
+        "AIで効率は上がったのに、人は動かなかった",
+        "DeNAが踏み切ったAIネイティブな「業務フローの組み替え」 フルスイング - DeNA"
+      ]
+    },
+    {
+      "id": "370f9bce9691",
+      "title": "ChatGPT に毎朝のニュースと SNS の投稿づくりを任せる ── 画像まで作り、投稿のボタンは自分で",
+      "url": "https://qiita.com/chooser/items/28341a8c7d6e85fb9af9",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-13T10:01:14+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "上原正吉（EarthLink Network Co., Ltd.）。AI会社・AI社員による業務自動化と、人の逐次介入なしに24時間自動開発を回す仕組みを自社で実践しています。開発ノウハウと具体的な設定方法、運用して分かった改善点を公開しています。 ChatGPT に毎...",
+      "summary_bullets": [
+        "上原正吉（EarthLink Network Co., Ltd.）",
+        "AI会社・AI社員による業務自動化と、人の逐次介入なしに24時間自動開発を回す仕組みを自社",
+        "開発ノウハウと具体的な設定方法、運用して分かった改善点を公開しています"
+      ]
+    },
+    {
+      "id": "e1ee66bea023",
+      "title": "オープンＡＩやグーグルを提訴、非営利団体 最先端ＡＩ開発の停止要求(ロイター) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUnFUVDhRLTVpS1liRy1ETUs0YV85aS1HMmxWWDlsSEk3MnpCNnBLT0VueThlYnhOZjNQM21tRVVNX1BFbkJjaVBTOHYzS0w3RkdaNnRwakRzMVFCRTk2cmdubjFVU1FWQkVneU5MSlN5bEc3azQwOVRFcUNWajFHS0lzNnI2Tnc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T10:01:08+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "オープンＡＩやグーグルを提訴、非営利団体 最先端ＡＩ開発の停止要求(ロイター) Yahoo!ファイナンス",
+      "summary_bullets": [
+        "オープンＡＩやグーグルを提訴、非営利団体 最先端ＡＩ開発の停止要求(ロイター) Yahoo"
+      ]
+    },
+    {
+      "id": "2afe627ebb6b",
+      "title": "オープンＡＩやグーグルを提訴、非営利団体 最先端ＡＩ開発の停止要求 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQkdjODEwQThsOVlpcURhS2hvSDNhMGJjbDNVWkFCSWNkSEp0ZDVxZjJOOEkxYUN5c0NYUnV5Qm1oZWNUY3BtemFEZGwxNFZpa3VuU2Jsd3pReWxNLTBnTTNvV1JRbnFsVzRLaVRZQW43anM0OGZHYS1OTHA4RVN6RlQ3SG9KSXE4Y1E?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T10:01:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "オープンＡＩやグーグルを提訴、非営利団体 最先端ＡＩ開発の停止要求 Reuters",
+      "summary_bullets": [
+        "オープンＡＩやグーグルを提訴、非営利団体 最先端ＡＩ開発の停止要求 Reuters"
+      ]
+    },
+    {
+      "id": "b7c00afff3da",
+      "title": "PC作業をAIにおまかせ『Claude Coworkではじめるシゴト自動化入門』を3名様にプレゼント - Web担当者Forum",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zb1BBZ3MzN3FsT1Y3OXVnWFVaZVJwLWF4amNWTDU5TGJoZFZvVHY5aDRzZ0I4SzQ1aWgwaXdSSmkxN1ZGMHAtb1RUOUNIeXdmLXI5YnI0dw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T10:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "PC作業をAIにおまかせ『Claude Coworkではじめるシゴト自動化入門』を3名様にプレゼント Web担当者Forum",
+      "summary_bullets": [
+        "PC作業をAIにおまかせ『Claude Coworkではじめるシゴト自動化入門』を3名様に"
+      ]
+    },
+    {
+      "id": "30d33b24b250",
+      "title": "データアプリ - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XTmJMaDFKN2JwVm0zRDlxSllhazlKWXNOZTROYTRyUEloZ1E0S1dYanl3ejc1OTRudHo2bzk1eTBuWUJ6M1U1eTlxajJDTkVCRFdwZ0VuY1UwZjcyclhzMWRoUzVrRmVzQnc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T10:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "データアプリ 日本経済新聞",
+      "summary_bullets": [
+        "データアプリ 日本経済新聞"
+      ]
+    },
+    {
+      "id": "d104d33ddf79",
+      "title": "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず 復旧は未定 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IV2tIenlTMXNlNHpsSUF0cUxLN2hXVDc3QUJabGpVLWN0UjU2UE45TDl6MGRfM2l2WEZVY3RSdERKVm1CaUZfQlREQlVVS3lUcWt5YnFtdGNYRVV6c2xJdklsSnFSaGVKaUk4dVFseTRWRVBTdUM5ekE2YkRiR3c?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T09:56:20+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず 復旧は未定 Yahoo!ニュース",
+      "summary_bullets": [
+        "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilo"
+      ]
+    },
+    {
+      "id": "bbfa31cfcf22",
+      "title": "178。WorkOSが『研究者のAIエージェントが検証環境を抜け出して侵害した』と説明した日、自分が頼んでいないのに現れたツール名の数だった",
+      "url": "https://qiita.com/Hideki_Tamae/items/1967156836e0d269a2d5",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-13T09:49:21+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 178。 これが今回の数字です。何の178かというと、今回のタスク実行(このセッション)の中で、自分が個別に呼び出しを頼んだわけでもないのに、「呼び出せる状態」として新たに名前が現れたMCPツールの総数です。 きっかけは、開発者向けプラットフォームWorkOSが...",
+      "summary_bullets": [
+        "はじめに 178",
+        "これが今回の数字です",
+        "何の178かというと、今回のタスク実行(このセッション)の中で、自分が個別に呼び出しを頼ん"
+      ]
+    },
+    {
+      "id": "27e2389debd1",
+      "title": "ＡＩ半導体・クラウドの米セレブラス、堅調な業績見通しで株価17％高（ロイター） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGM1d0TXVGYm55RzYzQ2N3ZEpDY1hsbDZOMG16VklaU3A0SnhzUmEyaWNxbXptdng4UFRRMHFNVnRENjFhMTN2VmNyM3pXQ3hqaUtVRzE2Y21jcUtuR09Oc2tRc1E1cnRNdU5ua0pJVTFSRFBxQzMzdm1CY25kclU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T09:45:47+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＡＩ半導体・クラウドの米セレブラス、堅調な業績見通しで株価17％高（ロイター） Yahoo!ニュース",
+      "summary_bullets": [
+        "ＡＩ半導体・クラウドの米セレブラス、堅調な業績見通しで株価17％高（ロイター） Yahoo"
+      ]
+    },
+    {
+      "id": "a1f3693b5c90",
+      "title": "Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Express」の取り扱いを開始 - 株式会社アスク",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KeWtBUVRDek1keGl1YjFlYnZIY3VaaWIyNzQxc3pldXRHQUowSUl0dFBmbWdOVVRENXNoNUJNNmo5eE9NM3oyT1huYU52QWFMWkJQaUdKakF5cVZZMng2LUtaTVBiOVA0ajFr?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T09:45:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Express」の取り扱いを開始 株式会社アスク",
+      "summary_bullets": [
+        "Lenovo社の検証済みAIサーバーを短納期で提供する「Lenovo AI Express"
+      ]
+    },
+    {
+      "id": "7b76d5f1c91b",
+      "title": "ＡＩ半導体・クラウドの米セレブラス、堅調な業績見通しで株価17％高 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREpxdmJzaVhCUmdqMXJ3dlRFUUQ4ZXpWeGJUOEk1U0JMM2pBTnRhclJlVWt6dUVkNzVvc05YczBsc3gtZmVUSUN3d21oUUlyMU1oSXRkbFpSNi11M2Y1Y2dUS1hFNDkyd3dFaVZyU2dxYk5ndFF3aWVyVDNGc3ZKTkJTSXF3cDBlS0F5Zk02RXZnUQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T09:45:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＡＩ半導体・クラウドの米セレブラス、堅調な業績見通しで株価17％高 Reuters",
+      "summary_bullets": [
+        "ＡＩ半導体・クラウドの米セレブラス、堅調な業績見通しで株価17％高 Reuters"
+      ]
+    },
+    {
+      "id": "4ddb419e964c",
+      "title": "2026年11月13日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/77c1a70cd1c608d63870",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-13T09:42:05+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 集中力散漫＆過集中持ちエンジニアがAWS DE...",
+      "summary_bullets": [
+        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
+        "通勤中などにながら聴きしよう",
+        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでく"
+      ]
+    },
+    {
+      "id": "f419f32bc8e1",
+      "title": "AI を活用したコンプライアンスエビデンス収集システムの構築 - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWVpOGNZaUlkdTdUdjlBWmptTVdIRjhRZVBlaEJVdWpqM3ppUGJoMFNManlxdnp0blVZQ3Zyc25ieFRkMGJsTl95OU0xZ1g3c0dCWlYyYTIyT1JpbHRnTVV4YWNFQlh0YlJTbWRMUTJPR2xPN1lyYklJelBLZW5jZlNjT3paam9PaS1obVFmZ0c0QlJFVGhJVVJfY1Y1S1dFNl9NZQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T09:32:17+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI を活用したコンプライアンスエビデンス収集システムの構築 Amazon Web Services (AWS)",
+      "summary_bullets": [
+        "AI を活用したコンプライアンスエビデンス収集システムの構築 Amazon Web Ser"
+      ]
+    },
+    {
+      "id": "ba89dd05a5ad",
+      "title": "東京ガスが取り組む4つのAIを活用したキャリア開発――社員の内発動機を高める「施策の順番」や「上長との対話」とは - HRプロ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54YThSYV9KUTF4LUNIT3RmNTdvYmUzY3M3RFFOYldjVHNZZ2o1d3lZdkRMT2Yyd3JFdzVZeGs0R0tfWkNyVHpTdnI5TWlwQWJ3eWRHZUZaTV9vVzR4akw4TQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T09:29:22+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "東京ガスが取り組む4つのAIを活用したキャリア開発――社員の内発動機を高める「施策の順番」や「上長との対話」とは HRプロ",
+      "summary_bullets": [
+        "東京ガスが取り組む4つのAIを活用したキャリア開発――社員の内発動機を高める「施策の順番」"
+      ]
+    },
+    {
+      "id": "0cac38c822fd",
+      "title": "ジェンスン・フアン辞任した「ＡＩ帝国」…後継不安、米中関係にも衝撃（ハンギョレ新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtYkpyUFhOOE9ib3hRNWZydXRmYmRkUm16NHBlUlVpa1ktenN6YUQ0V0dIa0w0c2JKYmN5ZWFibFZodWFBaHZuYnlWc3pscmVYbkRsQ29ueU4zVHBiRnFfU2hsVl81ODJKYjJWNlNZUVh6NkxSM2pvNjZOeXZrTEU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T09:29:18+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ジェンスン・フアン辞任した「ＡＩ帝国」…後継不安、米中関係にも衝撃（ハンギョレ新聞） Yahoo!ニュース",
+      "summary_bullets": [
+        "ジェンスン・フアン辞任した「ＡＩ帝国」…後継不安、米中関係にも衝撃（ハンギョレ新聞） Ya"
+      ]
+    },
+    {
+      "id": "fcddab949b02",
+      "title": "日経平均は反発で寄り付く、ＡＩ・半導体関連株が総じてしっかり - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdldVbXBHVXdrMUNETkpfSDlnMTB2TE1yWGZhbm5CeXJDWmFjT3Z5Yno1a0NXTUNBM3hmdzBNX0IyTldLS2w4clBkajR4dEtxTkFQYXlYZVpwWTNXdVI4V0xQWlZWVThZLUpTTE1DOUZJYVNzUk9pQTd3Q0pkRWlsbEk1SnBKQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T09:23:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "日経平均は反発で寄り付く、ＡＩ・半導体関連株が総じてしっかり Reuters",
+      "summary_bullets": [
+        "日経平均は反発で寄り付く、ＡＩ・半導体関連株が総じてしっかり Reuters"
+      ]
+    },
+    {
+      "id": "936d14f64e97",
+      "title": "前場に注目すべき3つのポイント～カスタムAI半導体へのシフトも～ - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVWEdIbWJ0MHR2QmlKYUJSV0E5MUszb2JZY1ZQYmtiMlYtUWNrbG45ME1tenhSTVdBZkxITmhZOGFWMHlCdHRndU1Tb2llMGhVN19iUnlfMHpMZVFGMGJscQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T08:53:37+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "前場に注目すべき3つのポイント～カスタムAI半導体へのシフトも～ 株探",
+      "summary_bullets": [
+        "前場に注目すべき3つのポイント～カスタムAI半導体へのシフトも～ 株探"
+      ]
+    },
+    {
+      "id": "57236ef5cd12",
+      "title": "中国のオープンウェイトAIモデル、ハッキング能力で最先端のクローズドモデルに迫る - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLWp2X1ZCTjJuN24yVDd3THg2dWxra0dBaFpfTmVIeXpEMWRMNUl1aWkxaHowaWtJZXNqcjV2VlA1b1lrbi1GUkJ0MkxDRlRiVEhKNEktWGw3bGVoNXh3c0tEaDhDLTNxbk5rSGIzWVp1TUxUYnRwZXBSdWxkb00tVTZJNk43Z2JEYnc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "中国のオープンウェイトAIモデル、ハッキング能力で最先端のクローズドモデルに迫る WIRED.jp",
+      "summary_bullets": [
+        "中国のオープンウェイトAIモデル、ハッキング能力で最先端のクローズドモデルに迫る WIRE"
+      ]
+    },
+    {
+      "id": "f1f00df7d1d4",
+      "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T07:43:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "summary_bullets": [
+        "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜"
+      ]
+    },
+    {
+      "id": "fa265a5cb7e2",
+      "title": "ＭＳ障害続く、アウトルックなど利用不能 ＡＩサービスにも影響 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZGJXVUZfMklhTUVOZF9UeVBTRFNNMDFMbmc2RGw1S1ZzQ3c4Zlg4YUhYUnpqWXluZlJCTE9OdnlfZEZLMWxXbnFvMThSVFJwbEJjNV9oMkFWamRtNkItQmdCTEJPWjhhNWw5RERXRE4yYVlRQTNxakVrcE1OcGs?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-13T06:47:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＭＳ障害続く、アウトルックなど利用不能 ＡＩサービスにも影響 Reuters",
+      "summary_bullets": [
+        "ＭＳ障害続く、アウトルックなど利用不能 ＡＩサービスにも影響 Reuters"
+      ]
+    },
+    {
+      "id": "227c39a11f8a",
+      "title": "AIの見張りは、決まりを知らずに鳴っていた —— 日付が変わった直後に「投稿が足りない」と鳴った話",
+      "url": "https://zenn.dev/ai_shihan/articles/c2df4982b341b8",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-13T02:49:46+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "X の投稿は、AI の席（広報部）に任せています。投稿するかどうかは、別の見張りが 30 分ごとに調べて、席に知らせる作りです。この見張りが、決まりを知らないまま鳴っていた、という話を書きます。 決まりは文書にあった 投稿の時刻には、決まりがあります。X は日本時間の 9:05・12:05・21:05 の 3 つの枠だけで出す。0 時台や 15 時台、18 時台には出さない。投稿の直後の 2 時間に人が見ている時間を当てるため、10 月末に決めました。 この決まりは、席の手順書には書いてありまし",
+      "summary_bullets": [
+        "X の投稿は、AI の席（広報部）に任せています",
+        "投稿するかどうかは、別の見張りが 30 分ごとに調べて、席に知らせる作りです",
+        "この見張りが、決まりを知らないまま鳴っていた、という話を書きます"
+      ]
+    },
+    {
+      "id": "4b61d6b05da3",
+      "title": "【小学5年生でもわかる】AIプロジェクト管理ってなに？",
+      "url": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-project-management-kids",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-13T02:43:10+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIプロジェクトの進め方 とは AIプロジェクトをビジネスの視点で進める方法について学びます。 AIプロジェクトの進め方 は、技術的な開発だけでなく、ビジネス目標の達成を視点とした管理です。 成功するAIプロジェクトの特徴 明確なビジネス目標 ：何を成し遂げるのか 適切なスコープ ：現実的な規模と期間 ステークホルダー管理 ：関係者との合意形成 リスク対策 ：失敗時の対応策 日常例 医療機関がAIで患者診断を自動化したいとします。 失敗するプロジェクト ：技術者だけで進めて、医者の意見を聞かない",
+      "summary_bullets": [
+        "AIプロジェクトの進め方 とは AIプロジェクトをビジネスの視点で進める方法について学びま",
+        "AIプロジェクトの進め方 は、技術的な開発だけでなく、ビジネス目標の達成を視点とした管理で",
+        "成功するAIプロジェクトの特徴 明確なビジネス目標 ：何を成し遂げるのか 適切なスコープ "
+      ]
+    },
+    {
+      "id": "b661627edbd4",
+      "title": "AIで実装しやすくなった今、何を作るかを考える",
+      "url": "https://zenn.dev/toriumi0118/articles/pluck-ai-ideas-and-decisions",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-13T01:03:34+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "最近、AIを使った個人開発をしていて、以前とは少し違う難しさと面白さを感じています。 それは、どうやって作るかよりも、何を作るか、何を作らないかを決めることです。 Coding Agentを使えば、以前なら実装方法を調べるだけで時間がかかっていた機能も、比較的短い時間で試せるようになりました。 以前の自分なら、ちょっとした便利ツールを思いついても、わざわざアプリにするのは面倒で、なかなか手を出しませんでした。 ところが今は、試しに作ってみること自体のハードルが大きく下がっています。 本当に自分が",
+      "summary_bullets": [
+        "最近、AIを使った個人開発をしていて、以前とは少し違う難しさと面白さを感じています",
+        "それは、どうやって作るかよりも、何を作るか、何を作らないかを決めることです",
+        "Coding Agentを使えば、以前なら実装方法を調べるだけで時間がかかっていた機能も、"
+      ]
+    },
+    {
+      "id": "a89ed0ac3ee7",
+      "title": "AIは機械の速度で仕事をするのに、自分には人間の時間割を組んでいる",
+      "url": "https://zenn.dev/darren_su/articles/c29711048631e7",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-13T00:49:39+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "最近のPersonal Agentを触っていると、OpenClawを試していた頃の感覚が少し戻ってきます。 とくにGrok BotからAgentを動かしていると、いろいろなAIツールで繰り返し出会う問題があります。 AIは、人間のチームの仕事の進め方に合わせて、自分のタスクを組み立てがちです。 たとえば、Agentにプロジェクトの計画を立ててもらうと、こんなスケジュールが出てきます。 1週目に要件を調査し、2週目に方針を決め、3週目に開発、4週目にテストと納品を行う。 こういう予定を見るたびに、",
+      "summary_bullets": [
+        "最近のPersonal Agentを触っていると、OpenClawを試していた頃の感覚が少",
+        "とくにGrok BotからAgentを動かしていると、いろいろなAIツールで繰り返し出会う",
+        "AIは、人間のチームの仕事の進め方に合わせて、自分のタスクを組み立てがちです"
+      ]
+    },
+    {
+      "id": "8b503103c7f2",
+      "title": "日常写真から公的証明写真を自作するAIエージェントスキルを作った：スーツ着せ替えとコンビニ印刷まで一発完結",
+      "url": "https://zenn.dev/lumichy/articles/id-photo-studio-ai-agent-skill-2026",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-13T00:04:41+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "転職の履歴書、パスポートの更新、運転免許証、マイナンバーカード——。 数年に一度、あるいは急な手続きで「証明写真」が必要になるたびに、街中の証明写真機（ボックス）や写真館を探し回った経験はないでしょうか。 「スマホのカメラも綺麗だし、家で自撮りして安く済ませよう」と思い立っても、いざ自力で撮ってみると壁の影が落ちる、部屋の照明で肌が暗い、目線や頭が微妙に傾く、そもそもスーツを着ていない……。さらに各申請ごとの「頭頂余白3mm」「顔の長さ34mm」といった厳密なミリ単位のトリミングや、L判写真用紙",
+      "summary_bullets": [
+        "転職の履歴書、パスポートの更新、運転免許証、マイナンバーカード——",
+        "数年に一度、あるいは急な手続きで「証明写真」が必要になるたびに、街中の証明写真機（ボックス",
+        "「スマホのカメラも綺麗だし、家で自撮りして安く済ませよう」と思い立っても、いざ自力で撮って"
+      ]
+    },
+    {
+      "id": "c555c8b1ae5a",
+      "title": "Decision Model「Clef-Omni」を試してみる：Colabで日本語の留守番電話から最後の意向を判断する",
+      "url": "https://zenn.dev/nakanishitf/articles/be1556b7254484",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-12T23:43:03+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "画像の次は、日本語の音声を判断させてみる 以前の記事では、CloudflareのClefを使って、画像の中に猫がいるかを判定しました。 今回は、音声も入力できる Clef-Omni を使ってみます。 題材は、予約についての留守番電話です。 「キャンセルしてください」だけなら、何をしてほしいかは比較的わかりやすいと思います。 しかし、「キャンセルしたいと思ったのですが、やっぱり、そのままでお願いします」と言われた場合は、最後まで聞いて判断する必要があります。 この録音をモデルに渡し、「キャンセル」",
+      "summary_bullets": [
+        "画像の次は、日本語の音声を判断させてみる 以前の記事では、CloudflareのClefを",
+        "今回は、音声も入力できる Clef-Omni を使ってみます",
+        "題材は、予約についての留守番電話です"
+      ]
+    }
+  ]
+}
