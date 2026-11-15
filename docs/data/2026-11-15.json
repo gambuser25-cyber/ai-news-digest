@@ -1,0 +1,393 @@
+{
+  "updated_at": "2026-11-15 09:27 JST",
+  "date": "2026年11月15日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "b6fbe87b047e",
+      "title": "経済産業省BtoB-EC調査、2025年のEC化率45.9%。仕入先への発注業務がまだ電話・FAXなら整えたい発注管理の3ステップ｜見積書・納品書の手入力をなくす",
+      "url": "https://qiita.com/DnD-inc/items/8aacbfa5bb80f498375f",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-15T09:20:33+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "経済産業省BtoB-EC調査、2025年のEC化率45.9%。仕入先への発注業務がまだ電話・FAXなら整えたい発注管理の3ステップ｜見積書・納品書の手入力をなくす 本記事は、株式会社DnD（https://dnd-inc.jp）のコラムを一部編集して掲載しています。 初...",
+      "summary_bullets": [
+        "経済産業省BtoB-EC調査、2025年のEC化率45.9%",
+        "仕入先への発注業務がまだ電話・FAXなら整えたい発注管理の3ステップ｜見積書・納品書の手入",
+        "初..."
+      ]
+    },
+    {
+      "id": "7b2db1709546",
+      "title": "Claude Code v2.1.325 セキュリティ修正の内容（2026年）",
+      "url": "https://qiita.com/Sidejob/items/27fe982bf44cb9807aa5",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-15T08:45:03+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "この記事で分かること：Claude Code v2.1.325 のセキュリティ修正とは何か。企業・チームで使っている場合に今日確認すべき変更点。MCP・認証・セッション関連の修正の詳細。 2026年11月14日、Claude Code v2.1.325 がリリースされた...",
+      "summary_bullets": [
+        "この記事で分かること：Claude Code v2.1.325 のセキュリティ修正とは何か",
+        "企業・チームで使っている場合に今日確認すべき変更点",
+        "MCP・認証・セッション関連の修正の詳細"
+      ]
+    },
+    {
+      "id": "1dac3cad0090",
+      "title": "MCPツールとサブエージェントで分担する、メール業務の自動化",
+      "url": "https://qiita.com/aiFetchly/items/cdbee0a5138f0035f70d",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-15T08:32:42+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "メール業務は、1通ずつ見れば単純です。読む、判断する、下書きを作る、送る。問題は量です。朝に届いた問い合わせ、見積もり依頼、納期の確認――これらをすべて手作業で処理すると、1日の大半が消えてしまいます。 1つの大きなAIに全部を任せるのではなく、MCPツールとサブエージェン...",
+      "summary_bullets": [
+        "メール業務は、1通ずつ見れば単純です",
+        "読む、判断する、下書きを作る、送る",
+        "問題は量です"
+      ]
+    },
+    {
+      "id": "a78cb03c38fd",
+      "title": "夜間のclaude -pジョブをモデル別に計測する — ログからトークン数・所要時間・失敗率を集計する方法",
+      "url": "https://qiita.com/joinclass/items/9b8f696841ad8e29d6d3",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-15T08:30:05+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに：「いくら使っているか」を誰も知らなかった 当社（合同会社ジョインクラス）では、launchd に登録した30個以上のジョブが夜間・日中に claude -p を呼んでいます。記事生成、朝のダイジェスト、部署ごとの backlog 消化などです。 2026年9月に...",
+      "summary_bullets": [
+        "はじめに：「いくら使っているか」を誰も知らなかった 当社（合同会社ジョインクラス）では、l",
+        "記事生成、朝のダイジェスト、部署ごとの backlog 消化などです",
+        "2026年9月に..."
+      ]
+    },
+    {
+      "id": "5e34b50cc9fa",
+      "title": "アングル：ＡＩ電力不足で中古タービン市場過熱、退役ジェットエンジンも転用 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wbThrUHRNbFVTUk9IMGhNSndGd2NMSGdnZDc1TWFNeVBEZVNWVVhsdk5HMnRSQV9wdDRXYWZ6MjZLUl8wY1lTTVZHc2c0c3UyTW83WmFJS3ktdDZLeGRhZTZBWXZUUHY4cHc3a2JDNGstZWtUYkVUdFdMZlFHZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T08:01:24+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "アングル：ＡＩ電力不足で中古タービン市場過熱、退役ジェットエンジンも転用 Reuters",
+      "summary_bullets": [
+        "アングル：ＡＩ電力不足で中古タービン市場過熱、退役ジェットエンジンも転用 Reuters"
+      ]
+    },
+    {
+      "id": "c24d4faf0655",
+      "title": "AIが検事の取り調べをチェック 録画から言動を分析、年度内導入へ（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rSHhROVEzMGRTbEgwOGxEc1k1Skh6WTNacEc3LUNEQ1dURkN6cFhrRzdVQjlCeG5nci1wd0ItYTYwZndaa2RmN0oxUzdBMlBEMVVkVlpvUDlMSUxEbU8zei1ST2hMZFhKSnVPaDRCZXF1cUlINzVjOEpiMnRGOTg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T06:11:14+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIが検事の取り調べをチェック 録画から言動を分析、年度内導入へ（朝日新聞） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIが検事の取り調べをチェック 録画から言動を分析、年度内導入へ（朝日新聞） Yahoo!"
+      ]
+    },
+    {
+      "id": "d22b3c50710f",
+      "title": "‍‍‍生成AIアニメ制作 完全ガイド ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPWXV6a0FmRFRtQ1NXUU5FUkt3RWxtOGgyZ2sza0pueXBWVG9jZmNibzUtRi1fYXV0NGtFRmRpUkhkZmJkbE10YXNtT01WU2NEeVVjOVlOTjdkVjM2TG1yR1VvOE5ueHpORWdxMlBnbG9GdFY5TUhUN3VvMmo5RkdtLWdTelRwYjJ6dGpkZVp6eXladXdxMHczNEgxQjZSek8tblltUmxiMThMSG9ZT3BGVFBnU1hlVVMxdF9vb0xZWXNJU0VhUXJaN3ZPNlFHRXNYY3FjRXBMcUhSNHJITkFiOTNYUUtta0NQOG1FclpsWUpXOWZJRzNXNWNrc2s3dWktSnpWcnVvNXBjV2pIMTRnbnRQMUdUNVVWSWVReFhDT1ZIU1JBR0IzdlFqc0hZSWFvUTBFb0Q5N1VLLVRlTmFGcURzeVNWcF9wallXaG5UbVU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:57:20+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍生成AIアニメ制作 完全ガイド ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍生成AIアニメ制作 完全ガイド ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "3779554a4e22",
+      "title": "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNU0EwX2FjNHNvQ2w3aDNVZGVSSjBYbDFvQU1OZ25UN2lhWHFfM3RCQ1p2NEkyWGJZcjMxVjVPUXJNWVV1Z0dxbktjc19saF9JcjJKMlB4RGswUVhFakZWd21LRWUtYm9jVnpvRjBSdEZNczNvWXREQkpWOUJQWW9kMTNGNURsT3J3aWhwM3d6ckM2T0tPdER3YVQ0TnJFM1Fzd2VheUMtbmNkbHhsU3hDVXhLeDlrcHhXblJfQW45LTVNbDdQUFZZLWg1aVdUamowRFMxTWdHNUllTml5eDBzYTNXWUhReUlRcjVEa2NRN3Q5TGJrUFI4WnVxUy1FZnVVTDlhSV92cGQ1S1RtUTM3amZyZTVNSngxNGhoS2NhRGduV1VtX2E5d3RsWVFlaU80ODBhODAyUzZfTzdlT01tTVRYR2Z1NTNMSW5TeWwwbzRvTTdCX2dMZ3VJMEVoTC14cEFycTFOQndMUTZNWmdMLUF4T0lNZDBDREp6dHlTLTdfWEE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:57:05+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報 ai 日本取引所グ"
+      ]
+    },
+    {
+      "id": "db94bd6ce39d",
+      "title": "‍‍‍プライバシーに配慮したAI生成ゲイポルノサイト厳選集 ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQaVJ4cHM2RThNaHUtU3poMTA5WXFrejBTV1JNakhEcEtCX2ZXZGZUSU04VUJBZ0xrckpWb2JkV1dCUFRTUng3RGJlRE9xUVJodk9aWUV5bV9mYnRiRnVISGdFS0ZxcURwRERrcnZ6WVk5SG80WVdTV3c2am9IWkhRaFJrV1NyLVBSWm5lNmZ4bFFCWXlyc25JZlM5SjNpNzN1R29kRWl3NUJ1cGFJXzFhSXJ4YU5PYndxWmQ0Ty1IaEZQeVdzT0ZVbFd2X19CeHltSjlqR3RSb2Njb195QTNOUElvMUoxaDRVY2JyelNKNjl6ZHI0cVNzejhCZmZpS3k2NlVIdTZ4SW9CRzFyUDFKMVlPdzNTZGlMZTAzSWxhTFk3ZXZZZXhRQmtFVVNBa1JkQ1lldXA5YXEyRDdFMTVqRkN4Qldnb1BYUTlxS0pVd1BYNEJRbm5BRjE0d0dHekl0VUZ0NGloTWlHaGlJYU04?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:56:58+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍プライバシーに配慮したAI生成ゲイポルノサイト厳選集 ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍プライバシーに配慮したAI生成ゲイポルノサイト厳選集 ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "08aaabc647da",
+      "title": "‍‍‍プライバシー付きTOP AI生成ゲイポルノサイトピック ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNUW1CMFdUOG1wN2pkemlIbHp5RTNYUFNQdkJDcGt6Q2RLTzhkbXM4WUpiM2VLTFZHNGV1UmNXaG5LcHpBM0RDbHJacmNjSlVzZlJvbzRKd19iUHAwTUpsdjAzSXRaZnVLS1hUWEpoRjFGVzF2ck5HUHJMelpjX1lMd2dDQkxUbXI3cGZuVFQ3UjFkVllReWlTNU5nMF9KcGhoRnpvcGJveWJta3ZlOXpvTE5vQTh0M3RZd0pCd2VfeDVXUkk2aV9Rc2R6dHpxa1pMeFQ5bVpYVWswYk5uNUZDXzdSWV9OdklZaUs5ck9uU080UF9KY203czVXeTVsX3owV2k4TmFkWFFpUFpkUWJ2NW5OeHFPNlBOa3d2MkhVdk41MjZ5ak1JZ2RvQk5HY3VDZENFTk5XZWRIQl9wZ3lfdkQ5eWpwQ3drRWVMYnc0VjRhNDlCWTJrdzlmMFl5TkxWdEE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:56:58+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍プライバシー付きTOP AI生成ゲイポルノサイトピック ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍プライバシー付きTOP AI生成ゲイポルノサイトピック ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "8414686c963c",
+      "title": "‍‍‍オンラインAI画像生成: テキストから画像＆写真を作成 ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTjFhbEFBNktnUFozSHpwMC1sTHJJOGpnZkVra0M5Q3dkR0E3b2tBME5rdnhTV3hPZ0o5dGdDUzUyRjE5NjhTRDZMY3VFNF9jWmZRajZEbW5rWG5UdE5HZXN0RW9nUk9jZHVEblNGZk9Mc3lvTjd6ODFNN2FmdXBId0J1b2l2bTBYSkRXdmJ3bFlxZXJ4a3VsU0RtOFlWa1lwVFAtOWNlX0cyTkhDLW5pOUFGalFwNExobVVnems4QWZ6ZENudTBjZEpyOHFpZE8xN0VFenoyY205TlBZNVJWdmQweVlhVFNTTVJRQ1JycU5XRHdRYXZ1SDFhYjJwRlA1ZUl5eFpGdWs5UHYzZE1ObVBTRC01ek9yQkU0eW56RG1mNkt5YnBfaC1vcW8yOHRzb1kwODV4cTdDZ0M4NFIybTVPbUkyTk9vemxmRm42YmNZeXBMbi0wNTZ3ZWVUYlpWdmp5MFZ6enBVS2R1SnBKbng1anp2Z2wwbzVj?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:56:54+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍オンラインAI画像生成: テキストから画像＆写真を作成 ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍オンラインAI画像生成: テキストから画像＆写真を作成 ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "982011809a37",
+      "title": "‍‍‍NSFW（過激な）AI画像生成ツール：機能とデータで比較 ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOcW5HNkJSd1ZBRGEzaGIwT1VjLUNxWDFIQnlWVmM4NE92RHJESVJkTUREM2RzTXZPN0FGX1hQUHNNM3VVeEtHeEZIeVpORC1WZTdOTkF4c3pJZnhjb3pVdzUwdEpmaVY4UGlnZThUSFdTQ1dDSWIyXzQ4eXhuMjhRamxyWG1aaGJjSjBvYl9faWlhNW5JdzEzSWk1akFNdmVzakFQb3VjSjZxRW9jUjVKT1Q5Z2REazFrODBKYUpMZ1VJdk1YcU9KZEl2YURORXo0dW1ISUlaZnB6Vlc0T3Z6aVc1TGh3dG01czloeUlBTFd2S2d6MnlOWlZFRjVkTFZQUk9VNzR4VlY2cGwybUhIRWJhZWhtRWhuLVRueTBMSThTbkhvc2xJWC1jdlVZWXQwV2JHOFBZb2U2cmpiLWRWaHhYeU5WRDNqaWYtb0E0SHdob1NOVDlQdGNrU3R2NFlzNjQ4emlNZ01MV2NIdDNiSTRsYw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:56:53+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍NSFW（過激な）AI画像生成ツール：機能とデータで比較 ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍NSFW（過激な）AI画像生成ツール：機能とデータで比較 ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "9c6dc144ddde",
+      "title": "‍‍‍キャラクターをカスタマイズ可能でプライバシー制御付きのAI生成ポルノを探す ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPQmlKV1VnaXZvblhwR0ZMeXFjZHl0cUxXMHZma2FrOFFBdnJoMXg0R1FtSGQ5NndGaEZ2bDk0cVhfbUswOXdWUzhwUmRBdng4M3A5OGU5cEM2VThiTWxjWDZ5eEZ5QmVCNlo0UWgxQTNhQ3kzbHY0Ymk4UDVXc3R3NWY3RW9DQ25qQWgwZU9KWlJaMlZtVnhpZnZGSGNiVDJLXzJvSEs5dTF3VUg3QU1KZDBxa2g3NG5BR1p4dm11MlVuc0dpSjBWWkNGVHdWS3RxSWRob3JrNVRNUTAteDhtWTVrOWY4aEtVTF9nUnQxS0luNXM2QmJ4UDJjR052NzJvemJ1U0lfeHF3YkVjWU93bHR2N3dTaktHR0hVZTBjM2JnLTdFaUw1R0JlODdBRm1JRWFuVm1YNGs3YTlQM3kyaXlhUTFHTlZEZkRJS2VKV3QxNmlwVG1aYldBT2tGRXU1UTlDTXl0cWVjVHg4Ukw0ZFpnaDM1aTg1WGNDNk5VUTNtemF1RGFJMWNQbS0?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:46:49+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍キャラクターをカスタマイズ可能でプライバシー制御付きのAI生成ポルノを探す ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍キャラクターをカスタマイズ可能でプライバシー制御付きのAI生成ポルノを探す ai 日"
+      ]
+    },
+    {
+      "id": "ecbfb1f2e50a",
+      "title": "‍‍‍キャラクターをカスタマイズできるプライバシー保護付きのAI生成ヘンタイコンテンツオンライン ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQaUpSV05TZm1HcE90ck9GQkpXZENxXzNTTTgyRnpBS2tPZ0M4OTR1Y2ltUTNWWGdMVDlvemRPNTJxVGZ6SmlFNWFGSzJBZ1NZUHpoZHVob21qeWR2dS11cGNZTFhjQ1R2bTFxOUhoV3RSZTE4ekJUZEhnUmw1MXNySGtYVTJWQ2hobHFYOFAyQjU2S1FOdGJITnRLWHcyb25nd2VPM2dxTHcycmthbEF4T05VNjlKa08tQjNCNXdKcnJoeFJDX000dHZPbGdnQ1FRcHA4UWtTWWVmVVF4MDFNZkhaM3JwYzJWYW41WGFxVV9fNG1LTHk5ZGRDcVdsQ0ZPcGo4NGVhMW5WQTV3dDFvLXJKTmFtZlRrM2JXQ3dnazJlSVAtQzVheEFCSzU0MlpfRDB0M3VKak9vZmxEaWxVcDVJcW1MWk9jT0J1dUc0OVhtZUZiWm90Vm4yUTlYemF4NDB3SmctdkRLbTlWd2NacUJMOWMyZzhGaXEyd01VTllRVGRVc3lQdnhrY3h4Z3Bs?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:46:47+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍キャラクターをカスタマイズできるプライバシー保護付きのAI生成ヘンタイコンテンツオンライン ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍キャラクターをカスタマイズできるプライバシー保護付きのAI生成ヘンタイコンテンツオン"
+      ]
+    },
+    {
+      "id": "6851c6951a5b",
+      "title": "‍‍‍画像生成AIおすすめ8選｜選び方と注意点 ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPb19iSXlrWEVBTlFJM1BVQTZiX1oxSHJMSE1yTkxuemE1eGtFNGQ2eVVFckU4Yl9taFRuZ01UaFhoZHRTc1hFakk3akJxN2l5VXZsaVlVUUlVbzRtRzhxLXhSaFJCbUx4dVA4cXRPSFo3cDRNRTlab2xjQnpQVkZNUW51djFJaTdra1luMDBLSkZSWUJMMGJpaHhpdUxqY2dtbjlKMDhQUHlfVzhFaWpfNjBKMzJBZXh0SDNxTVhzRkdoUjVLVnA1U0x0dkFrSmcyVFdnZU1seEtWRFJWSlpjUFQ1eURTTlFiNmM0TXI5eFNTM3ZWVTM0TU5ma1haTDUxYWVyOW9oVGc3Rk5haDRNMjRYRmRER09hSEpEOU5GR0lMYUNVM3pOUVBYbDRoZm5HRHBvbXloeVB5ZUhLUzdhcURMSWNfWUotdVpNMjQ3X2tFdURPQ3dJeHVlZE8xUWJpX09IZlplRDc3YlI2?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:46:30+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍画像生成AIおすすめ8選｜選び方と注意点 ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍画像生成AIおすすめ8選｜選び方と注意点 ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "b9d25c1fba54",
+      "title": "‍‍‍ヘンタイAI生成 ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPTWh1WlBydnBzOUVfOG1QYU5wbWhJd2g3LTVHMzdRUnNiYnJqZWVHTHJwS3I3WDRFLXJza1RXZ2VDT3dlY29DYjR4UVJQaE44TFJKTm9YV090dDVya09XRWJrVFVVWjlZX3dTeFJEaWRqQ1FFNHJJcThLUmdaTkNlZGdFb29FY3hFZEZnVFZIdVF2WU42d1dQMFhybXgzRHJpakFjQ1JpdzRZd2F6R0pSYlZZOGt4M2R1UWtEZGFsRThIbXoyeXZjLWwyMEtPZ2stYTFyNDNhTUtVSElEMzJ4R2Y3aWxxVTF4OTRFMUpMVU5KR2UxMUtrS2Z2eEJ3Q3F2UGRKaFdRSnBoUWlsWkdKRW43cmpZcUFRYlRLQ0VYdkM5RHNrbkUydExfUGRtSzJtekJV?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:46:27+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍ヘンタイAI生成 ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍ヘンタイAI生成 ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "89bc729f0aaf",
+      "title": "‍‍‍2026年最新 画像生成AIおすすめ8選｜選び方と注意点 ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPd0xrcjZkazdHU2dXMDNwV0NCSTRDcXFGajBmNTF5d2s4d2FsbDFvTExlX3RzNU1FT0haTzR2WE0tYnFNcXdtaHdNRjNCNWFQTGRMb3V2NVI2cHZTdFVkWVd3NUxlemRZbW56NWY0NXEtRnJzUjRWUld4bkhWU1R5azRqcUlwMUtvekl5bGxjbnNmYXJYSDV0eHhsMmVpWmlmbUQxMkxIbk5Na0ZnVkJqT0g2WkRTN3prbUxacG1sQUNFVTkyMno1ZjlaV1F1S1o0OG81dlYxRDlTbFNaOWpLVUhtVEw4cXJYcXV1S0ljbWRmR0ZqckdTZXFLNUNsT01vV3lERnlPZmFweEJRVFhDaWVuM3RlQlFjRXZBREFiVWlicnlvei1xc05uY2VlTXZ3cXlIOFBZZXltbHFibEFBbU1Rd0czRG1vSHh6bkNGbUJyRUV3T2JNQXozUnVUNVJVOWRzX0N2TWF0aUpvSk41N1k1bmREVjFoY1dJLURrWVpRczRY?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:44:47+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍2026年最新 画像生成AIおすすめ8選｜選び方と注意点 ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍2026年最新 画像生成AIおすすめ8選｜選び方と注意点 ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "746ee0eb475f",
+      "title": "‍‍‍2026年のAIポルノ：主要なアダルト向けAI生成ツール ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOc05BTUxuQ2tQeXU5b1haWF9mcndYMkMxUXdJNTVyMHJyNmZJRURqaENKUDNyanNWY1YtMXJPbFFQQy1pVElSNFQ1aVU3QUhwT0c3UzdPcXo5Vk9tMTlxVm1ROHd6RWRHMmVyZUdmSk1td1NwUWJ1U0lCeUlzQU1SRS1kTS1RNUI4NUtIUV9YRmZDYzk3SGpOOFpDV2NVMlhjNmRaZmJLUzZZeDdYQUpJZWgyMnFlNUMtVkJGOHZlbFgzVF9WYlE0U1dVWExJemdnZzBvYlBlLVdxUUlyVVRCc3hXVDJSSFdtaWFzQTh3S0pBd3JVcF9seW5qTVpNYWZDSGRMb2J5dTVxcUNKenVENjltUFRCZHFKNTFLOGMtcHVRdTNKMkN0WHVHc3haVko2RHBOY0J1b29Bc3lGcG5ySmRJWEdZTENZSXVOaU5NVnRCVC1vQWFlTlJaVXRxZkx5ZmdQYnFuVmtCOVhPVmc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:44:35+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍2026年のAIポルノ：主要なアダルト向けAI生成ツール ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍2026年のAIポルノ：主要なアダルト向けAI生成ツール ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "bf51ba3bf031",
+      "title": "‍‍‍2026年に試すべきAI生成ゲイポルノ画像 ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOa000RXZfc3gtS2FNMUsyZmxOMTZUVkJpWEpTTDRqRk83V2tfTDd0b2czRk5BTUM2MkhsTWtnck5rQ1NGTGE0TUF6Z0E4bUJnNXJhaE0wWWVhcG5IN25ReEdkajlMaHNNR2dQRzQtdFo3bnZENVRJMjV5Tk1lVmtfQ19SUmZobm80YXFGYnhnejkwQUhjVWtEZjJMNWpIeU1UcG1YaFJoTjVFTlNDUmI1WG50SU5CeGpKaXZ5Rk5JX0haZHVLeGF3TGZVOEtoWDFzdUFsZnVtWkh1MzJjSjV0R3NVS1RRbFBqaDRZWmNGTWswZFd6eEo1ZjhpMW81Ylo3MURHdmtFalRSWVItT1Bsa3VNVEVTa0Y2Zk9obWZ0alVXTzRzUzV5OHJDazVQeHNWTi15aThUdno0XzlpWjNSZE1KN19mTlprRHlEV1BheDVKSjctdExOVWktUXZDMjJ1?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:44:29+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍2026年に試すべきAI生成ゲイポルノ画像 ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍2026年に試すべきAI生成ゲイポルノ画像 ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "616789856985",
+      "title": "‍‍‍無料 NSFW AIアニメジェネレーター — エロ動画生成ai ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNMXFob0RybnhDUHhHeE9KcEpScGJBVE9yOFNTNFRsMkZyN3h3Zi1iNGxuTXFIZTJKX2JfTnphcy1ZTk5nOWVZOTgzOWR3bjBRd2NCVkozY1RvbUNJcTdUUGtGWE1IU18xMTVTZEZibGJsZ3JlcTBRdkpuV3dmSjJ1TjVNMkUxVlR6bGpjR2FySnZQem1hU0JReEoxN2VwMXZoTmVBMThPT2hlTmVKNGYwUFhLWEJDOEw2cGhtNDVXU1psNk9yNlc2OGswOTlGWnlqYm55elZjaGo4d0k0NU1Eby00SlJHZG5JNUZNZzlBeHNZRUY5d2RmRmZoeFpJNTlTRkNOcDhZQ0JCT1FFT2VjYmdjSGI4UlNQR0w1U2xuendSZWlNcWJsQkEtZkNHRmtTZ2pmZl9Fdmw1TmpPQjlkZlJ6OWVmZHVjY1JTVzNFaTFialA3c2UwVGQtQWlLNXFxLTF1V1VkMVB5Z1U?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:36:52+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍無料 NSFW AIアニメジェネレーター — エロ動画生成ai ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍無料 NSFW AIアニメジェネレーター — エロ動画生成ai ai 日本取引所グル"
+      ]
+    },
+    {
+      "id": "d0b9409db15d",
+      "title": "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNSUJueng4SjFfWjU5VUwzR21DUk5FQjQyb05LRjlJSU94RkZEWWdkX2xiRkUwQ0JfX1VUZGxDRnhzOWJVVU40SEYyNnJQNHc3SmVuMW10eC1aM1poMWVvbU9laWlxajdHQk1lNlpXQ283TlVrYkxWVmpncFEtSmJSOWlRc2lSNVBGYWtsZmhHMGZUUExrN0ZzYy0zaEp2eU5CbVNCS1E4R2U1UmFpSlpRZllTcHdBbXVkZFFzV2ZqQ2prdklOa3c5U1RrUEhOMnJVRDZIQnVvSHIwSjlnVXctWG4tWWJ2VnYtV1lxY3MyMHNtYWxudEpBMTIzaU1wZWFPNFNEQVVIR3RfakxxZjRqSm9hcjZfZHNiNlBodkVwQ2NyLXhyLXRxOWJSU3NKYVpnRFlfcUd1bUp4R1lzSDFQei1uSGRWSjNMUldOUHFkUlBQN1duSEdtb2NlY2NVdWRwalR6cDcwakJLVU9MMzdTUkJB?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:36:14+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍NSFW対応の画像生成AI｜アニメキャラ生成マニア ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "e3d444aa22d1",
+      "title": "‍‍‍画像 生成 ai ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQcDJRUXRGWE9DOHd4M2dHWWI0TVVUWm00M0pLYkkzTzRrOTRCTm00RzJYWWhxcHRVdFVxWm5rUk40d1RieUJuc3RHNnQ2dC1FSThaSmtiTFVyelRLRVJIZW5zc3pYYUNLaXRQMmpjODFDYzU5MmtxMS1jcnl3U2xOZmlGNHVQYmo5c2pXbEEzM1hCV0tRN2doaENOeDNlOW9kM1FOLU9ZSks1U1Y1a21BOW1WRTRIQlVSaG9RX2pVWFNXREdETjVNb3Z2X0dyaGNOX1U3WTQtazh3OXJpaDRsbGNCV24zVWpKdnhvd3VUYUtkNnF6OGtGTkQtVWhNSEhOcFhoaEljM3Y0cGptNGlFUWhmMFVpZGJzUzBEWVo5YUhGY2xGcGlkR1BXdFRGLUJUdnRhMC1qQ2x5SDQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:36:03+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍画像 生成 ai ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍画像 生成 ai ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "8d211f530e93",
+      "title": "‍‍‍画像生成AIおすすめ比較【2026年】 ai - 日本取引所グループ",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNWV9qd0FrQUdhbE5pd1c1V0puTUdBM2Y3QWd4OThJcmFOVF9INWdpRVg2M2NSQXQ5Ti1EcXJZZ3ZMOEZwTEVsUUpWWi16MU5VZ29kR25NeEczTHI4dk1zdnhRQ1FMa0ZBSFpDR25KVXdHQTc0UHFSdTFlVGN2OHh5UFY5WG5XdFBvSkVXT3RwWTM2bFBWSXlfUG05OWhIbzJVWTBaR3VfLXNFWDRVbkVpTWd4bkhzRFhsblpNeWV6MDBOeDU0MlJ4MUtXd3A5d2d1NW13dmVraTR4X2ctVTREYi1lXzNNajdyVTZiVHExNm9aRXkxWkhvTEE4ZmV0S0FYdXMwRTQ4MEwwczV6RkkzLTBVMkhtZEg4WHlvYzYxc0VJSlUwMXFwVER0RjdLY1hqb0tobTM2V3p4R2hWeUxmdG5aSmNZZXR0bHV0bFc4azlwWEU5VUQ2LVF3?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-15T03:36:03+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "‍‍‍画像生成AIおすすめ比較【2026年】 ai 日本取引所グループ",
+      "summary_bullets": [
+        "‍‍‍画像生成AIおすすめ比較【2026年】 ai 日本取引所グループ"
+      ]
+    },
+    {
+      "id": "61205abe69fb",
+      "title": "GPTBotは0回、OAI-SearchBotは4,847回。AIクローラーを30日間観測して分かったこと",
+      "url": "https://zenn.dev/rimonoa/articles/8974167fe581c2",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-15T02:33:16+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "自分のサイトに、AIのBotはどのくらい来ているのか。 リモノア（https://rimonoa.jp/）でHTTPリクエストを記録してみると、ある30日集計ではOAI-SearchBotが4,847件、GPTBotが0件でした。同じOpenAI系の名前でも、数字は大きく違います。 ところが、内訳を見ていくと「たくさん来た＝広く読んだ」とも、「GPTBotが来ない＝学習利用もない」とも言えないことが分かります。さらに、自分でAIにサイトを確認させた取得を、外部からの需要に混ぜない工夫も必要でした",
+      "summary_bullets": [
+        "自分のサイトに、AIのBotはどのくらい来ているのか",
+        "リモノア（https://rimonoa.jp/）でHTTPリクエストを記録してみると、あ",
+        "同じOpenAI系の名前でも、数字は大きく違います"
+      ]
+    },
+    {
+      "id": "87015b3ef5bc",
+      "title": "Claude Codeに「公開」を押させない：CLAUDE.mdに書く「外に出す操作」の決まり5行",
+      "url": "https://zenn.dev/tsugu_sukima/articles/2b19ac59da1b2a",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-15T02:08:27+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "この記事でやること Claude Code は、頼まれれば公開に近い操作もそのまま行うことがあります。筆者が決まりを置かずに「article.md の published を true に」と頼んだときは、その場で書き換えられました（下の「比べる」の節）。「書いて、できたら公開して」のようにまとめて頼むときも、書くところまでで止まってほしいはずです。公開や送信は、押したあとに自分だけでは取り消せないことがあります。 この記事では、CLAUDE.md に5行の決まりを書いて、次の3つを Claud",
+      "summary_bullets": [
+        "この記事でやること Claude Code は、頼まれれば公開に近い操作もそのまま行うこと",
+        "筆者が決まりを置かずに「article.md の published を true に」と",
+        "「書いて、できたら公開して」のようにまとめて頼むときも、書くところまでで止まってほしいはず"
+      ]
+    },
+    {
+      "id": "d39f3641a4ae",
+      "title": "【初投稿】僕の個人ウェブサイトを公開しました🌟",
+      "url": "https://zenn.dev/kagam_io/articles/7bb21a81e14830",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-15T01:38:13+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに はじめまして、Kagami といいます。 僕はこれまでネットはただ見るだけでした。人の記事に助けられたり、個人サイトを眺めて「いいな」と思うだけで、自分から何かを発信することはほとんどなかったです。 でも今回、初めて自分で発信してみようと思ったのがきっかけで、個人サイトを作ってみました。 https://kagam.io このサイトについて、どんなものか、どうやって作ったのか、軽く紹介します。 ※この記事は、一部AIを使用して文章の推敲・校正を行っています。 どんなサイト？ サイトのテ",
+      "summary_bullets": [
+        "はじめに はじめまして、Kagami といいます",
+        "僕はこれまでネットはただ見るだけでした",
+        "人の記事に助けられたり、個人サイトを眺めて「いいな」と思うだけで、自分から何かを発信するこ"
+      ]
+    },
+    {
+      "id": "84f464cf4148",
+      "title": "Does a “no-limit” image to video AI page mean unlimited free generatio",
+      "url": "https://zenn.dev/sarabuilds/articles/2b106365722f4d",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-15T01:34:23+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "No. The “no-limit” in the image to video AI URL is not evidence of unlimited free generations. You can upload a photo and write a prompt without an account, and some models include one free attempt, but later generations use credits, and the price is",
+      "summary_bullets": [
+        "No. The “no-limit” in the image to video AI U"
+      ]
+    },
+    {
+      "id": "4aa0ed0fc341",
+      "title": "ClaudeはSAPの「外側」を取りに来た――SheetsとDataが示す、Jouleとの境界線",
+      "url": "https://zenn.dev/dantarg/articles/claude-sheets-data-outside-sap",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-15T01:12:07+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "私は2003年から、SAPの導入と運用、開発の現場にいます。その間ずっと見てきた光景があります。SAPの中で作られた数字は、最後は必ずExcelに出ていく、という光景です。 月次決算の集計、原価の内訳、在庫の推移。 画面の中で確定したはずの数字が、表計算に書き出され、寄せ集められ、グラフになり、会議資料になって、ようやく「仕事の数字」になる。 私自身、その書き出しと寄せ集めを山ほどやってきました。 プロジェクトの立場から「なぜSAPの中で完結しないのか」と問われ続けたことも、一度や二度ではありま",
+      "summary_bullets": [
+        "私は2003年から、SAPの導入と運用、開発の現場にいます",
+        "その間ずっと見てきた光景があります",
+        "SAPの中で作られた数字は、最後は必ずExcelに出ていく、という光景です"
+      ]
+    },
+    {
+      "id": "6932ccf20779",
+      "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+      "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-15T01:06:17+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents",
+      "summary_bullets": [
+        "以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です",
+        "https://claude.com/ja/resources/articles/buil"
+      ]
+    },
+    {
+      "id": "e4f1f617e283",
+      "title": "ACPを捨てて作り直した ― 他人のAIエージェントに仕事を頼む『sealbridge』をnpm公開した",
+      "url": "https://zenn.dev/acidnyan/articles/5b7c443f14ff89",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-15T00:34:56+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 以前、他人のClaude CodeやCodexにAPIキーを渡さず仕事を委譲するゼロトラスト基盤「ACP」をOSS公開した という記事を書きました。 あれから開発を進める中で、設計も配布形態も大きく作り直すことになり、後継を sealbridge として公開し直しました。ACPの開発は終了し、リポジトリはそのまま sealbridge に改名して、後継の開発リポジトリになっています（旧URLからも転送されます）。この記事では、sealbridgeで何ができるか、ACPから何を変えたか、",
+      "summary_bullets": [
+        "はじめに 以前、他人のClaude CodeやCodexにAPIキーを渡さず仕事を委譲する",
+        "あれから開発を進める中で、設計も配布形態も大きく作り直すことになり、後継を sealbri",
+        "ACPの開発は終了し、リポジトリはそのまま sealbridge に改名して、後継の開発リ"
+      ]
+    }
+  ]
+}
