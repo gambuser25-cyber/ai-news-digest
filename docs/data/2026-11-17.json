@@ -1,0 +1,408 @@
+{
+  "updated_at": "2026-11-17 12:15 JST",
+  "date": "2026年11月17日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "6717852c65c7",
+      "title": "VoiceStudio入門 ― 自分のPCで声をクローンする。ElevenLabsの代わりをローカルで動かし、日本語で実測する",
+      "url": "https://zenn.dev/ikesita/articles/171ac68813cbfa",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T12:14:53+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "VoiceStudio入門 ― 自分のPCで声をクローンする。ElevenLabsの代わりをローカルで動かし、日本語で実測する AIツールウォッチ第4回 / 検証日：2026-11-15 / 検証対象：VoiceStudio（debpalash/VoiceStudio、安定版 v0.5.8／2026-11-12公開、ベータ v0.5.9-beta.2／2026-11-14公開） ※「実測」と書いたものは検証環境で実際に測った値、「公式値」と書いたものは開発者の公開資料（GitHub・公式ドキュメ",
+      "summary_bullets": [
+        "VoiceStudio入門 ― 自分のPCで声をクローンする",
+        "ElevenLabsの代わりをローカルで動かし、日本語で実測する AIツールウォッチ第4回"
+      ]
+    },
+    {
+      "id": "446ad79aaebc",
+      "title": "【金融AIカオスマップ特別企画】熟練者の判断を組織の力へ ～ 審査・査定AIを実務に定着させる条件 - グッドウェイ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54SEJZOUgtTjR3NjB0MVRmY1lRSEd6Znd5cXBGendJdFhhTnlUQ0x4bEgwZzVvUVR0V09mbEJiRXUwLUR0VlNCVkJCcWw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T12:10:46+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【金融AIカオスマップ特別企画】熟練者の判断を組織の力へ ～ 審査・査定AIを実務に定着させる条件 グッドウェイ",
+      "summary_bullets": [
+        "【金融AIカオスマップ特別企画】熟練者の判断を組織の力へ ～ 審査・査定AIを実務に定着さ"
+      ]
+    },
+    {
+      "id": "8fabb5fea5d1",
+      "title": "AI に書かせたテストは、どれだけ穴を見つけるのか。Claude Code・Codex・Gemini CLI のテストを変異テストで48回採点したら、95%以上を見抜き、仕様を渡すと点が下がった",
+      "url": "https://qiita.com/suwa_nobu/items/faf0d787a602cc5ec74c",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-17T12:05:14+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "「AI がテストを書いて、全部通りました」。それで本当に確かめられているのかは、テストが通ったことだけでは分かりません。 11月9日の「AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話」は、変異テストでこの穴を見つける方法を紹介し、11月17...",
+      "summary_bullets": [
+        "「AI がテストを書いて、全部通りました」",
+        "それで本当に確かめられているのかは、テストが通ったことだけでは分かりません",
+        "11月9日の「AI「テスト通りました」← これ､本当"
+      ]
+    },
+    {
+      "id": "b9f90256d6de",
+      "title": "Claude Code に自分の作業の台帳を作らせる（1）なぜ作るか・守ったルール",
+      "url": "https://zenn.dev/work_claude_out/articles/ai-ledger-series-01",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T12:01:20+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "Claude Code に、Claude Code 自身の作業を数えるアプリを開発させています。その経過を連載で書きます。今回は、なぜ作るのかと、先に決めたルールです。 この連載の下書きは Claude Code が書き、人（オーナー）が確かめてから出します。 1. 何を作っているか 作っているものは2つです。 台帳の画面: 作業ログを取り込んで台帳にし、作業の数や結果を画面で見る 判断待ちボード: 人の判断が要るものを1か所に並べる 判断箱は、人に決めてもらいたいことを1件ずつ置いておく場所で",
+      "summary_bullets": [
+        "Claude Code に、Claude Code 自身の作業を数えるアプリを開発させてい",
+        "その経過を連載で書きます",
+        "今回は、なぜ作るのかと、先に決めたルールです"
+      ]
+    },
+    {
+      "id": "19a3e4bda826",
+      "title": "LINE MUSICとLINEヤフーのAIエージェント「Agent i」が連携、あなた好みのプレイリストを提案する新機能「AI PlayList」を導入開始 - LY Corporation",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUVUQyMW0tSkpPMEZFZTlGdEk2NEtqblIyd3g5cUZIenFILXBKVnJ6T1pXVmdaMFVJU1Q3T1kyN3VOdkpXOWYtYnRfYnpKYmF3Y0tRcUVwaXJ3dzV2?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T12:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "LINE MUSICとLINEヤフーのAIエージェント「Agent i」が連携、あなた好みのプレイリストを提案する新機能「AI PlayList」を導入開始 LY Corporation",
+      "summary_bullets": [
+        "LINE MUSICとLINEヤフーのAIエージェント「Agent i」が連携、あなた好み"
+      ]
+    },
+    {
+      "id": "23ac80d572f1",
+      "title": "「1年以内に政府転覆可能なAI」OpenAI財団理事が警告 開発の一時停止を提言 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcmh2Mm1yemo0N1YtSVU5bkszMElib3RFbHR5WkczcG9wd2F6bjR4RGF2ZXQtSEFSR19mVFVQZDhHQzlOd1NOZzh2VHU2RkhrRWthTkc1M3d2R0IwQ0ROVlpyZnM0QmM0?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T11:56:50+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「1年以内に政府転覆可能なAI」OpenAI財団理事が警告 開発の一時停止を提言 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "「1年以内に政府転覆可能なAI」OpenAI財団理事が警告 開発の一時停止を提言 株式会社"
+      ]
+    },
+    {
+      "id": "387f6b8d71b5",
+      "title": "生成AIが韓国の司法試験・大学修学能力試験を瞬時に解答…3〜5年以内に試験成績の信頼性崩壊との警告 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OTVpzZmgzdlREWFJ4R0k5Q3ZSMXF2cUdkdmpFdjNvOG1YS09jRHM2QXVkTzRtNko2dVFaNUotOEVxUmdDOWY1Z3lSM3hfMUl0Z3FsbUxVYXV6bktvOXJjcURyaHA4TXV0andaQk05ZkFIdzgy?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T11:56:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "生成AIが韓国の司法試験・大学修学能力試験を瞬時に解答…3〜5年以内に試験成績の信頼性崩壊との警告 BigGo ファイナンス",
+      "summary_bullets": [
+        "生成AIが韓国の司法試験・大学修学能力試験を瞬時に解答…3〜5年以内に試験成績の信頼性崩壊"
+      ]
+    },
+    {
+      "id": "7fd42b77d3b5",
+      "title": "ＡＩ企業の規則違反、提訴も視野と加州消費者保護当局トップ（ロイター） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vS3N2SjVyNVRjS2ZmQW9TM201YXRlbE9mLXpEQzBad1VVamtyTG94QmRhT1plOWxpNXhKLWFxTEM2Q0R1eHpucGdQN0tYbXZKbXdTOG1CUVNVa3RxQmx0dHVKR195UWlYcWlNaTQ4ZWRCdlN6WWNIQ2V6STRPNGc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T11:49:51+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＡＩ企業の規則違反、提訴も視野と加州消費者保護当局トップ（ロイター） Yahoo!ニュース",
+      "summary_bullets": [
+        "ＡＩ企業の規則違反、提訴も視野と加州消費者保護当局トップ（ロイター） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "09db80e08617",
+      "title": "Claude Code LLMプロキシ運用の1週間：中国語混入からsystemd化までの4教訓",
+      "url": "https://qiita.com/fukukei23/items/a4e76f55cd4fb0496c41",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-17T11:49:07+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに Claude Code を複数のLLMで使い分けるため、ローカルにLLMプロキシを立てて運用している。設定やスクリプトは自分のリポジトリでバージョン管理しているのだが、ある1週間で「新モデルの品質問題」と「プロセス管理の事故」が連続して発生し、20件近いコミット...",
+      "summary_bullets": [
+        "はじめに Claude Code を複数のLLMで使い分けるため、ローカルにLLMプロキシ",
+        "設定やスクリプトは自分のリポジトリでバージョン管理しているのだが、ある1週間で「新モデルの"
+      ]
+    },
+    {
+      "id": "ab408a496d88",
+      "title": "Claude Code・Codex・SWE-2 のリアルな使い分け",
+      "url": "https://zenn.dev/imnoaz/articles/196e4b85cd2e42",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T11:48:03+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "ターミナルで動くAIコーディングCLIが色々と登場しており、日常の開発で使い続けています。 現在、私が契約して使っているプランは以下の通りです（合計で月$340ほど）。 Claude Code: Ultra プラン ($220/月) ChatGPT (Codex CLI): Pro プラン ($100/月) Devin (SWE-2 / Devin CLI): Pro プラン ($20/月) 3AIで毎日コードを書かせてみて痛感したのは、 「ひとつのCLIツールに全部任せようとすると、トークンが",
+      "summary_bullets": [
+        "ターミナルで動くAIコーディングCLIが色々と登場しており、日常の開発で使い続けています",
+        "現在、私が契約して使っているプランは以下の通りです（合計で月$340ほど）",
+        "Claude Code: Ultra プラン ($220/月) ChatGPT (Code"
+      ]
+    },
+    {
+      "id": "242804aa1d8d",
+      "title": "Claude Meetingsを自前実装する",
+      "url": "https://zenn.dev/headwaters/articles/cb51d23381dfe9",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T11:47:11+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "Claude Meetings 登場！すごい！ → Google Meet のみ対応（登場時点） Google Meetなんて使ってない。。。 となったので、自前で実装してみました。 Claude Meetingsの機能には遠く及びませんが、PCで流れている会議の音をローカルで文字起こしし、Claude Code に「さっき何て言ってた？」と聞けるようにしました。 PCの音 → 文字起こし（ローカル） → transcript_*.txt → Claude Code（Skill） ! 会議の音声",
+      "summary_bullets": [
+        "Claude Meetings 登場",
+        "すごい",
+        "→ Google Meet のみ対応（登場時点） Google Meetなんて使ってない"
+      ]
+    },
+    {
+      "id": "010f7c9ada5e",
+      "title": "禁止語8つが拾ったのは9本中1本——AI下書き20本で機械チェックとAIレビューを数え比べた",
+      "url": "https://zenn.dev/tyuya/articles/sns-draft-machine-check-vs-ai-review",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T11:36:11+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "10月12日、AIに作らせたSNSの下書き7本に、機械チェックをかけました。結果は「問題なし」です。そのあとレビュー担当のAIに読ませると、【重大】が3件出ました（2件がこの7本、1件は前から作り置きしてあった1本）。1つは、農林水産省の「十分に加熱すると身がちぢむ」という説明を、「縮んだら火が通った合図」と逆向きの目安に書き換えたものでした。食中毒に関わる間違いです。 機械チェックは何も止めず、AIレビューが止めた。それなら機械チェックは外していいのか。逆に、AIレビューだけにすると何を落とす",
+      "summary_bullets": [
+        "10月12日、AIに作らせたSNSの下書き7本に、機械チェックをかけました",
+        "結果は「問題なし」です",
+        "そのあとレビュー担当のAIに読ませると、【重大】が3件出ました（2件がこの7本、1件は前か"
+      ]
+    },
+    {
+      "id": "32432b615290",
+      "title": "OpenTelemetry×Cloudflareで組織のClaude Code利用ログを収集する",
+      "url": "https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T11:35:22+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに こんにちは、sosoです！ 以前の記事で書いた通り、GemcookではClaude Codeを全社導入しています。 https://zenn.dev/gemcook/articles/claude-code-company-wide 導入したら次に気になるのが「実際どれくらい使われているのか」です。AI活用を推進していくために、Claude Codeの利用状況をモニタリングしたくなりました。 そこでClaude CodeのOpenTelemetry対応を使い、活用状況をCloudfla",
+      "summary_bullets": [
+        "はじめに こんにちは、sosoです",
+        "以前の記事で書いた通り、GemcookではClaude Codeを全社導入しています",
+        "https://zenn.dev/gemcook/articles/claude-code"
+      ]
+    },
+    {
+      "id": "46e0f95b7d7e",
+      "title": "2026年11月17日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "url": "https://qiita.com/ennagara128/items/5f649257e47609a68592",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-17T11:32:58+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 はじめてのAPIログ設計 — 「ログはあるのに...",
+      "summary_bullets": [
+        "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています",
+        "通勤中などにながら聴きしよう",
+        "（Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでく"
+      ]
+    },
+    {
+      "id": "70d90e0015d0",
+      "title": "トークン節約にスキル(ponytail)を入れたけど、本当の犯人は CLAUDE.md だった",
+      "url": "https://zenn.dev/robit/articles/suwaritai-ponytail-claude-md",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T11:32:06+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに AI と一緒に作っているブラウザゲーム「スワリタイ！」のコードが、1 万行をこえてふくらんできました。そこで、AI に余計なコードを書かせないスキル「ponytail」を入れてみることにしました。 スワリタイは、電車で降りる人を見極めて座る、一人称のバカゲーです。ブラウザですぐ遊べます。 ▶ スワリタイ！を遊ぶ（無料） 毎日のように「これも入れたい」を足していった結果、ボス駅、オンライン対戦、環状線の乱入、リプレイ、ランキング……と機能が増え続けました。機能が増えるのはうれしい反面、直",
+      "summary_bullets": [
+        "はじめに AI と一緒に作っているブラウザゲーム「スワリタイ",
+        "」のコードが、1 万行をこえてふくらんできました",
+        "そこで、AI に余計なコードを書かせないスキル「ponytail」を入れてみることにしまし"
+      ]
+    },
+    {
+      "id": "6cdadd2d4f8a",
+      "title": "テクミラホールディングス[3627]：ネオスのAIエージェント【OfficeAI社員】、専門領域の複雑な質問にも対応する新機能「DeepReadsモード」をリリース 2026年11月17日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVmVsTWk3SHpzUGxsdHVVUWY0UzVVNS1sOXZTZnQ5S3VqYzZVUEY2VzRibTVoSXJ6VFBDUmhWaF84a1VDSFJTQzZVUXpGbDFvaTBILWZoNkxuZDR0d1E2ZUZoa0ZQb2lOeTVFSG9ydm1rbXUzOUt5am9OVUhzTWRuREtVbF9rNTd3Z3lMN2tpLXFCY0pyQkxFWWI1aFl1YTh1WnhNQUM5QlRCOFloRGhxMHRvcmhxZHhRUEtfUERPUWpuT19aQ0J3Ym50OVk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T11:30:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "テクミラホールディングス[3627]：ネオスのAIエージェント【OfficeAI社員】、専門領域の複雑な質問にも対応する新機能「DeepReadsモード」をリリース 2026年11月17日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "summary_bullets": [
+        "テクミラホールディングス[3627]：ネオスのAIエージェント【OfficeAI社員】、専"
+      ]
+    },
+    {
+      "id": "c8ee9688bb19",
+      "title": "個人開発の相棒にAIエージェント「Muse」を使って、駐車場データベースを構築・運用している話",
+      "url": "https://qiita.com/kirbykaito/items/38108d4853ee571762b9",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-17T11:22:50+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 仙台中心部の駐車場データベースを個人で構築・運用しています。対象は11月17日時点で1,188件、料金は運営会社の公式情報で確認できたものを中心に掲載し、確認できていない項目は「未確認」と表示しています。この開発と運用の相棒として、パーソナルAIエージェントの ...",
+      "summary_bullets": [
+        "はじめに 仙台中心部の駐車場データベースを個人で構築・運用しています",
+        "対象は11月17日時点で1,188件、料金は運営会社の公式情報で確認できたものを中心に掲載",
+        "この開発と運用の相棒として、パーソナルAIエージェントの ..."
+      ]
+    },
+    {
+      "id": "d00b1e03f5ff",
+      "title": "テンプレートの寸法のまま、書き出してはいけない",
+      "url": "https://zenn.dev/archybase/articles/087c85bfa75fdc",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T11:21:24+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "間取り図のテンプレートを開いた瞬間、部屋名も面積も、それらしい家具も、すでに載っていることがある。その見栄えは、仕事が終わった錯覚を誘う。だが、そこに書いてある寸法は、いま対面している壁の寸法ではない。テンプレートの寸法だ。 私は FloorAI の担当者ではない。ArchyBase で空間推論まわりを見ている。FloorAI は、同じチームが作っている別のプロダクトだ。それでもこの話を書くのは、「編集できる図面」と「渡してよい図面」は、同じファイル拡張子では区別できないと思うからだ。以前書いた",
+      "summary_bullets": [
+        "間取り図のテンプレートを開いた瞬間、部屋名も面積も、それらしい家具も、すでに載っていること",
+        "その見栄えは、仕事が終わった錯覚を誘う",
+        "だが、そこに書いてある寸法は、いま対面している壁の寸法ではない"
+      ]
+    },
+    {
+      "id": "5b64677a432b",
+      "title": "豪ドル円見通し｜107円台に下落、AI株安と日銀利上げ観測が重し、エヌビディア決算に注目 2026年11月17日 - 外為どっとコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BSldnQTNzYmx4SUVZbEltVUZuNTEtN2U4QjdFd21paTlEYXlSLUdYNmo1cWtFbWxsZWJpcWVOcUhOazdtbHhaeEFfQkhKOFNtdzh3UndNQi01X25Nd1A3eXFWYw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T11:15:58+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "豪ドル円見通し｜107円台に下落、AI株安と日銀利上げ観測が重し、エヌビディア決算に注目 2026年11月17日 外為どっとコム",
+      "summary_bullets": [
+        "豪ドル円見通し｜107円台に下落、AI株安と日銀利上げ観測が重し、エヌビディア決算に注目 "
+      ]
+    },
+    {
+      "id": "f36b93ff66f6",
+      "title": "AIに頼んだら1年分のノートが消えた話",
+      "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20261116",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T11:09:03+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "2026年11月16日（月）のAIニュース完全解説版。図解を見れば本文を読まなくても分かる形にしています。 おはようございます、菅原です。今日はちょっと怖い話から入ります。AIにページ番号の振り直しを頼んだら、1年分の講義ノートが消えた、という出来事です。ほかにも、メルカリの開発が数十分になった後に見えてきた壁、Nvidia騒動のその後、AIで作ったコードは誰のものかという議論、オートバックスの脱マクロまで。全部、皆さんがAIとどう付き合うかに関わる話なんですよ。 1. Claudeが番号振り直",
+      "summary_bullets": [
+        "2026年11月16日（月）のAIニュース完全解説版",
+        "図解を見れば本文を読まなくても分かる形にしています",
+        "おはようございます、菅原です"
+      ]
+    },
+    {
+      "id": "70fb2e50472d",
+      "title": "フィジカルAIの安全を、ロボットの外側からも考える - MRI 三菱総合研究所",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01eWZGM0ZuZlJ3SUREcE55YXNrWDh1M1ZlVV9nb1psb1NZVE5KVHNlS3NNZEVwVldmNlVBTVhmdDdMcS1BTGJDMlBsWW5SajBKekh1dm14emhxaTdxRTV3V1BjX0NRSHIxbEE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T11:08:22+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "フィジカルAIの安全を、ロボットの外側からも考える MRI 三菱総合研究所",
+      "summary_bullets": [
+        "フィジカルAIの安全を、ロボットの外側からも考える MRI 三菱総合研究所"
+      ]
+    },
+    {
+      "id": "2a4098c42dcb",
+      "title": "クラウドサービス「Notion」のAI機能委託先への不正アクセスに関するお知らせ（第一報） - 株式会社SmartHR",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tU0NTVFY3cHp4S09YcXNUaDRzWWRXNG1YNUZVMmFqNTNHY1VyQS1rVUVCTjlxdWdNckw4NHgyWEVWVlp1M0tqOVhDMl9tMjBNaElB?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T11:05:31+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "クラウドサービス「Notion」のAI機能委託先への不正アクセスに関するお知らせ（第一報） 株式会社SmartHR",
+      "summary_bullets": [
+        "クラウドサービス「Notion」のAI機能委託先への不正アクセスに関するお知らせ（第一報）"
+      ]
+    },
+    {
+      "id": "05ccf19bd1ad",
+      "title": "AnthropicのIPOに応募6倍、OpenAIは資金調達に苦戦 AI投資市場に異変 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WeTA0VWRMZU9HT0NTWmp2RTFyUTJDM1dyVkU5Z1czMWE4bnJwTTBRQmZSejVoRGh4YVp5eTQzZnlRWEV1WEJxLW9naWNTSVNDX2syNWtjTnVYQTNPVGh6MXhYOXNYQXB0?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T10:51:05+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AnthropicのIPOに応募6倍、OpenAIは資金調達に苦戦 AI投資市場に異変 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "AnthropicのIPOに応募6倍、OpenAIは資金調達に苦戦 AI投資市場に異変 株"
+      ]
+    },
+    {
+      "id": "e0de708837fd",
+      "title": "MCP で AI に電話を持たせて、音声 AI をテストする",
+      "url": "https://zenn.dev/genax_corp/articles/20260910-mcpcon-telephone-mcp",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T10:47:23+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "! 本記事は、2026年9月10日に開催された AGNTCon + MCPCon Japan 2026 のセッション「Legacy Meets LLM: Giving Frontier Models a Telephone (PSTN) over MCP」（登壇: Gen-AX 齊藤慎也）を記事にしたものです。スライドは当日使った英語版を載せています。 はじめに Gen-AX でバックエンドエンジニアをしている齊藤です。コンタクトセンター向けの音声 AI エージェント X-Ghost（クロスゴー",
+      "summary_bullets": [
+        "! 本記事は、2026年9月10日に開催された AGNTCon + MCPCon Japa",
+        "スライドは当日使った英語版を載せています",
+        "はじめに Gen-AX でバックエンドエンジニアをしている齊藤です"
+      ]
+    },
+    {
+      "id": "9403a26af151",
+      "title": "同じ通知が5回鳴って、毎回「検出が悪い」と書いた。原因は、自分の記帳漏れだった",
+      "url": "https://zenn.dev/ai_shihan/articles/9dd9eea6fa7359",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T10:42:38+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "X の投稿は、AI の席（広報部）に任せています。席は、投稿するたびに、実績の台帳へ1行書きます。台帳をもとに、別の見張りが「今日の X の投稿が足りない」と席に知らせる仕組みです。 この見張りの通知が、2日間で5回、同じ内容で鳴りました。5回とも、席は「検出の数え方がずれている」と書いて、片付けました。原因は、席の記帳漏れでした。 鳴った5回 通知の中身は、毎回「今日の X の投稿が足りない」でした。数字が出ていたので、並べます。 日時 見張りの数え方 その日に実際に出した本数 11/15 1",
+      "summary_bullets": [
+        "X の投稿は、AI の席（広報部）に任せています",
+        "席は、投稿するたびに、実績の台帳へ1行書きます",
+        "台帳をもとに、別の見張りが「今日の X の投稿が足りない」と席に知らせる仕組みです"
+      ]
+    },
+    {
+      "id": "ddb8c67896d9",
+      "title": "Money, people, and the next decade of the game industry",
+      "url": "https://zenn.dev/pmnote/articles/6419d9df60c0c5",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T10:28:19+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "This English version is adapted from the public Chinese original: 游戏行业的钱、人和下一个十年 The short version first: Strategic investment is receding, and financial capital is coming back in. Money is flowing into the game industry in a different way: small and",
+      "summary_bullets": [
+        "This English version is adapted from the publ"
+      ]
+    },
+    {
+      "id": "99bffddbc0d6",
+      "title": "「興奮して2晩眠れなかった」Altman氏、AIが科学的発見のフェーズに - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15eEl6LVlhYTRjbGNNeTZqaXJqNnZsXzlkdTVSM0M5YTFzdVRmMF9iZ1hyRzVfdkRobU4yOFExOEphSm92OWFkYVIwWmllLXNSSTZld0ZmZHdiaE95Y2JZV2NOVVJmQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-17T10:25:48+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「興奮して2晩眠れなかった」Altman氏、AIが科学的発見のフェーズに 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "「興奮して2晩眠れなかった」Altman氏、AIが科学的発見のフェーズに 株式会社エクサウ"
+      ]
+    },
+    {
+      "id": "282593841b5e",
+      "title": "プロンプトの良し悪しをSQLで測る：Snowflake  Cortex AIの評価・最適化機能",
+      "url": "https://zenn.dev/snowflakejp/articles/f44f72f930be42",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T10:22:07+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "! 著者は Snowflake に所属していますが、本記事は個人の見解であり、所属する組織の公式見解ではありません。 こんにちは。Snowflake で Senior AI/ML Architect, Applied Engineering/Field CTO を務めている澁井（しぶい）です。 Snowflake Cortex AI Functions を使うと、LLM による分類や抽出を SQL から実行できます。一方、業務で使うには、次のような疑問に答えなければなりません。 このプロンプトは",
+      "summary_bullets": [
+        "! 著者は Snowflake に所属していますが、本記事は個人の見解であり、所属する組織",
+        "こんにちは",
+        "Snowflake で Senior AI/ML Architect, Applied E"
+      ]
+    },
+    {
+      "id": "e7dc65e0c545",
+      "title": "TechLead Conference 2026 Autumn 参加レポート",
+      "url": "https://zenn.dev/tatsu_tanu/articles/f747251bb9e284",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T10:09:59+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "2026/11/06に有明セントラルタワーホール＆カンファレンスで開催されたTechLead Conference 2026 Autumnに参加したので、セッションごとに要点とそこから考えたことを感想にまとめます。 「そもそもITエンジニアは必要か？」というオープニングで問いが投げかけられ、カンファレンスはスタートしました。 基調講演①：AIがコードを書く時代に、組織の中でエンジニアをどう育てるか 登壇：和田卓人 氏（タワーズ・クエスト株式会社 代表取締役社長） 内容 技術的負債に加えて「認知負",
+      "summary_bullets": [
+        "2026/11/06に有明セントラルタワーホール＆カンファレンスで開催されたTechLea",
+        "「そもそもITエンジニアは必要か",
+        "」というオープニングで問いが投げかけられ、カンファレンスはスタートしました"
+      ]
+    },
+    {
+      "id": "782f5db33545",
+      "title": "Claude DesktopのST作成で変数・FBの台帳と照合させる——コードはフォルダのテキストで残し、既存ファイルは編集させない",
+      "url": "https://zenn.dev/kensho_ya/articles/sysmac-st-variable-fb-ledger-check-text-files",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-17T10:08:27+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIにSysmac Studio向けのSTを書かせていて、いちばん気になっているのは、関数名や変数名をそれらしく作ってしまうことだ。命令や関数の名前は、#2 や #12 で書いたように、マニュアルとスキルの許可リストで押さえられる。残るのは、自分のプロジェクトの中だけにある名前のほうだ。グローバル変数や構造体のメンバ、自分で作ったFUNやFBとその入出力は、マニュアルには載っていない。 この記事では、その対策としていま取っている運用を書く。軸は2つある。変数・構造体・FUN・FBの管理台帳を作り",
+      "summary_bullets": [
+        "AIにSysmac Studio向けのSTを書かせていて、いちばん気になっているのは、関数",
+        "命令や関数の名前は、#2 や #12 で書いたように、マニュアルとスキルの許可リストで押さ",
+        "残るのは、自分のプロジェクトの中だけにある名前のほうだ"
+      ]
+    }
+  ]
+}
