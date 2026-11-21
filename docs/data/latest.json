@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 10:50 JST",
+  "updated_at": "2026-11-21 14:08 JST",
   "date": "2026年11月21日",
   "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
   "total_count": 30,
@@ -11,16 +11,249 @@
   ],
   "articles": [
     {
-      "id": "1392ff121768",
-      "title": "【2026年版】画像から3Dモデル生成AI 5種を徹底比較：Idol Max / Turbo・Tripo・Meshy・Hunyuan3D・TRELLISの料金・リギング・PBR・導入コスト",
-      "url": "https://qiita.com/czmilo/items/c3da0648aeb973651b05",
-      "source": "Qiita (AI)",
-      "published_at": "2026-11-21T10:41:02+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "結論（最初にまとめ） 2026年時点で「1枚の画像から実用的な3Dモデル（GLB）を生成するAI」を選ぶ場合、用途別の最適解は以下の通り明確に分かれます。 月額課金なし・20〜50秒でゲーム向け約3万ポリゴンGLB＋自動リギング（walk/run/jump/idle）...",
+      "id": "03b39b71c8c7",
+      "title": "AIでリーマン予想証明か 精査続く - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DRDFOMjk2NHlWYXVUYVFaR0JaNVhvbE1aUW9wYVo0X3NITHhoMUhqVkJZaVhma29nVHRmNlV3U0w5NmR0U2NLM09mRmtRbVll?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T13:59:13+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIでリーマン予想証明か 精査続く Yahoo!ニュース",
       "summary_bullets": [
-        "結論（最初にまとめ） 2026年時点で「1枚の画像から実用的な3Dモデル（GLB）を生成す",
-        "月額課金なし・20〜50秒でゲーム向け約3万ポリゴンGLB＋自動リギング（walk/run"
+        "AIでリーマン予想証明か 精査続く Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "078a95bf0e06",
+      "title": "『AIDOL課長』Season2が配信開始 AIアイドル「あいぴょす」の企業タイアップも募集（ENCOUNT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sNXMyb0FTaWo5dUVQOURoOEgxUmR1dW16UUxmVUdDWWlldGRFd0ZJc1U1X1lVS2RyQ09QU25FN1dSekFjaWxyOHhyU252elBsekx4THAxdWo0NVkyLUoxSUhVQWduRmk5N3VXRVVYSi1JTks0alZ0b25KclprY0E?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T13:45:13+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "『AIDOL課長』Season2が配信開始 AIアイドル「あいぴょす」の企業タイアップも募集（ENCOUNT） Yahoo!ニュース",
+      "summary_bullets": [
+        "『AIDOL課長』Season2が配信開始 AIアイドル「あいぴょす」の企業タイアップも募"
+      ]
+    },
+    {
+      "id": "80f4c0a77ae1",
+      "title": "【AWS】AgentCore Gatewayにおけるアクセスコントロールとメタデータフィルタリング",
+      "url": "https://qiita.com/yakumo_09/items/ea2debc1e73e27caa6a0",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-21T13:21:02+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに Managed Knowledge Baseは、AgentCore GatewayのConnector Targetとしてエージェントから呼べます。このとき、Retrieve ツールの引数でメタデータフィルタも指定できます。 部署ごとに文書を絞り込めるか、Gat...",
+      "summary_bullets": [
+        "はじめに Managed Knowledge Baseは、AgentCore Gatewa",
+        "このとき、Retrieve ツールの引数でメタデータフィルタも指定できます",
+        "部署ごとに文書を絞り込めるか、Gat..."
+      ]
+    },
+    {
+      "id": "97e7fe41836c",
+      "title": "Alibaba Cloud、香港サミットで新たなAIイニシアチブを発表——都市のAIエコシステム構築を加速",
+      "url": "https://qiita.com/alibabacloud-sa/items/a5c49274d28414482ca2",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-21T13:12:02+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "● Qwen4-Maxの提供開始に加え、企業向けAIエージェント開発およびセキュリティ機能を強化 ● 香港における顧客数が65,000社を超えるとともに、Alibaba Cloudは6年連続で香港IaaS市場（売上高ベース）で首位を維持 香港、2026年11月17日 — A...",
+      "summary_bullets": [
+        "● Qwen4-Maxの提供開始に加え、企業向けAIエージェント開発およびセキュリティ機能"
+      ]
+    },
+    {
+      "id": "62cfd4aee283",
+      "title": "Alibaba Cloud、全国規模の若者コンテストと産業連携を通じてマレーシアにおけるAI普及を加速",
+      "url": "https://qiita.com/alibabacloud-sa/items/da26747230ca3f927db3",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-21T13:09:40+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "** *● Alibabaがこれまでに開発した最も高性能な大規模言語モデル（LLM）「Qwen4-Max」の発表 *● 「AI untuk Rakyat（国民のためのAI）」イニシアチブの一環として実施される全国規模の若者向けコンテスト「Kita Bersama AI（私た...",
+      "summary_bullets": [
+        "** *● Alibabaがこれまでに開発した最も高性能な大規模言語モデル（LLM）「Qw"
+      ]
+    },
+    {
+      "id": "fd4e869eb25f",
+      "title": "【pre:Inventまとめ】AWSのAIエージェント認証がいろいろ進化！MCPサーバー構築を例に一挙解説",
+      "url": "https://qiita.com/minorun365/items/bd6091f2599a0f37326b",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-21T13:03:14+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIエージェントの認証まわりがまとめて進化！ もうすぐ12月ですね。AWS ユーザーにとっては、毎年ラスベガスで開かれる大型カンファレンス re:Invent の季節です。 その直前の数週間は新機能の発表が相次ぎ、「pre:Invent」と呼ばれています。 今年は ...",
+      "summary_bullets": [
+        "AIエージェントの認証まわりがまとめて進化",
+        "もうすぐ12月ですね",
+        "AWS ユーザーにとっては、毎年ラスベガスで開かれる大型カンファレンス re:Invent"
+      ]
+    },
+    {
+      "id": "126d81756c45",
+      "title": "AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zeTR4VktHTGx4cjVVaEthaU15aWxxVW1qYXB6czQ0UGcwbjZWUms1d21UQTYtQmlwVTBnRG9NekNPb1E3ejg4OVBValQwS0k2a05uQmRWU3Qwa3VqSEEtX9IBZkFVX3lxTE05a18zUmcyaktvOGVoQTd3YWVEb2l0c3VUcFh0V29KSU9UVDAweWRYN1N6dGdxM2NiV05mZGJhT3UtVkJoUTR4YXhEZEs1S3dzTFFWTk84dVlteE5kMVpqN0xJWm1lZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T12:57:58+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIが数学の未解決問題「リーマン予想」を証明か 米アンソロピックの数学者が主張 BBC",
+      "summary_bullets": [
+        "AIが数学の未解決問題「リーマン予想」を証明か 米アンソロピックの数学者が主張 BBC"
+      ]
+    },
+    {
+      "id": "9870bf2289bf",
+      "title": "来歴情報「C2PA」付き画像は5.8%、生成AI記録ありでも「可能性高い」判定は約4割 Uravation調査 - Media Innovation",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CUW5KekMteDFNRndZd1AzZ0k5MDJ1RktOWm9jazRMZ3FxUElFdUVjeFhSWU1FQjQ0akotdFpKSHdINVkzWVpLZVFVZ3k2bUJ0SWZqbFFXRHFQc1FGSm92SkJ4S29IYXJUMnc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T12:50:02+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "来歴情報「C2PA」付き画像は5.8%、生成AI記録ありでも「可能性高い」判定は約4割 Uravation調査 Media Innovation",
+      "summary_bullets": [
+        "来歴情報「C2PA」付き画像は5.8%、生成AI記録ありでも「可能性高い」判定は約4割 U"
+      ]
+    },
+    {
+      "id": "282ab237c81c",
+      "title": "超難問「リーマン予想」AIと証明か 米アンソロピックの数学者発表（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NZURqQ0RkeUxOSG1OaXRHMThUaDRsT3Z4VUgxX2Y2RjkxMVY4UEx5N09oVU9PbG5wMXJHcmFyQzlQcUJSUjU2S3ppVmRsRFlMV05HT0dpdy1HLThkYkd3Yk1lclpKZkl4UTlrdk9VcmFHRmdoS05QQXVxZDlSLTQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T12:23:02+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "超難問「リーマン予想」AIと証明か 米アンソロピックの数学者発表（朝日新聞） Yahoo!ニュース",
+      "summary_bullets": [
+        "超難問「リーマン予想」AIと証明か 米アンソロピックの数学者発表（朝日新聞） Yahoo!"
+      ]
+    },
+    {
+      "id": "c0dfd8f67292",
+      "title": "韓国の試験でAI不正、「暴力団員がソウル大医学部に合格」の風刺画像が拡散（KOREA WAVE） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3Qkh5Y3c2Y1A4ZVVnOVZYVWZBN1p5T1lQMlpKNFgyUjlzU25hV1ZXOUxRVHZEbWcwMzRKU21Sbl93UXFKb2JEXzV2bm5JbVVlOTRlak9xeFpoQTVaQS00eWNPWmhsaE1fR0pjMmtHc216elZuM2RTX0tzbnYwQ00?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T12:12:16+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "韓国の試験でAI不正、「暴力団員がソウル大医学部に合格」の風刺画像が拡散（KOREA WAVE） Yahoo!ニュース",
+      "summary_bullets": [
+        "韓国の試験でAI不正、「暴力団員がソウル大医学部に合格」の風刺画像が拡散（KOREA WA"
+      ]
+    },
+    {
+      "id": "a709a40330c3",
+      "title": "生成AIは物価を押し上げるのか、それともデフレに戻すのか…経済学者・田中秀臣氏が総需要と総供給から読み解く - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSjVjcEZXaUxaZ3RxaTBFblhiNV8ydU5UZGdTV3ZNbEh3X0FrMmZHbHhYZzN3NDAyQWxlbGthNzFKMV9VY1NfZW9ST3NEOHd2MHdmSlZxVU5nY0NVTE9pNjFoYnFZWGE2VERRcjlvVzFmZTIwUnBHVU43SDBrTW8?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T12:10:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "生成AIは物価を押し上げるのか、それともデフレに戻すのか…経済学者・田中秀臣氏が総需要と総供給から読み解く Yahoo!ニュース",
+      "summary_bullets": [
+        "生成AIは物価を押し上げるのか、それともデフレに戻すのか…経済学者・田中秀臣氏が総需要と総"
+      ]
+    },
+    {
+      "id": "f1f00df7d1d4",
+      "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T12:03:40+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "summary_bullets": [
+        "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜"
+      ]
+    },
+    {
+      "id": "82658ebba97f",
+      "title": "世界AI企業の評価額、OpenAIが200兆円で首位 中国DeepSeekは14兆円で5位 - 36Kr Japan",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE51eGFwbW5kcFk2Vng2SXJaOFpaRk5XZHdhQWdnSmpQem1JQXZKeFRYWUdiMzZtYzNnd1Y4?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T12:03:32+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "世界AI企業の評価額、OpenAIが200兆円で首位 中国DeepSeekは14兆円で5位 36Kr Japan",
+      "summary_bullets": [
+        "世界AI企業の評価額、OpenAIが200兆円で首位 中国DeepSeekは14兆円で5位"
+      ]
+    },
+    {
+      "id": "ebf8acb1191b",
+      "title": "焼津の老舗建設会社がAIの産業化に挑むワケ 開発企業と提携、2027年4月に合弁会社設立を判断（テレビ静岡NEWS） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xYUJrOEVqVzlHYXhaZzdHcWNBcmg3VHdKU2Y4YUlOMWp0UzA0b3RfVXp5dVp6TGVxeTI5WDVNYWJTbHVYc1VvaFl5cDZ1bUlkUDVJNkNkSXdydVRNNkpfUFcxN0lpazJ4ZkJ1Tng5U0tLYnZwQXBHODAwVDlLNWM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T12:00:02+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "焼津の老舗建設会社がAIの産業化に挑むワケ 開発企業と提携、2027年4月に合弁会社設立を判断（テレビ静岡NEWS） Yahoo!ニュース",
+      "summary_bullets": [
+        "焼津の老舗建設会社がAIの産業化に挑むワケ 開発企業と提携、2027年4月に合弁会社設立を"
+      ]
+    },
+    {
+      "id": "5c215a253257",
+      "title": "AIにファクトチェックをどこまで任せられるか - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByblpWNml3YnRkY09CUTdPVjAtQU5OaGRUb3lwdlF6TG83VkdDVUg5MTNhUlV6MEJKWEExZHBoOWtkZXNPN04teU5fMVd5NHhCNkFVZg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T12:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIにファクトチェックをどこまで任せられるか WIRED.jp",
+      "summary_bullets": [
+        "AIにファクトチェックをどこまで任せられるか WIRED.jp"
+      ]
+    },
+    {
+      "id": "8026404ab687",
+      "title": "【Inter BEE 2026】4BY4は買い切り25,000円のAI映像高画質化ソフト「AI PIXELL PRO」やNuke／DaVinci Resolve用プラグインを展示 - VIDEO SALON",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16Wll0dUZvQTVHM3oyZG5lTktxNk0wdGpOOE9rSVlvZjloWmZHLV9HOGlFcFY1TkpyUzB3VTlnWnUxbjZYLTE2STNibmdIRlM2RFE2aHdjc2htWEhwUlE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T11:58:20+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【Inter BEE 2026】4BY4は買い切り25,000円のAI映像高画質化ソフト「AI PIXELL PRO」やNuke／DaVinci Resolve用プラグインを展示 VIDEO SALON",
+      "summary_bullets": [
+        "【Inter BEE 2026】4BY4は買い切り25,000円のAI映像高画質化ソフト「"
+      ]
+    },
+    {
+      "id": "618479a5ccc1",
+      "title": "韓国「修能」に続き、大学別の論述・面接でもAI不正対策…メガネ点検や金属探知機（KOREA WAVE） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NTmh0b2U0MHpIVW1UTVVDWUZHekFmSzU1OTlNb1ExeVMzS0xqd2RJYUMxblNQMlJCSnA1dWlTQUo3aWV3MF9Xcy1wMjhaVTZ5UURDTjUwejkzeC1iRHpMaTJpU1VGbmRDMEN2dlg3bGRXY2NMZnE2dG5RYkU0Wnc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T11:51:17+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "韓国「修能」に続き、大学別の論述・面接でもAI不正対策…メガネ点検や金属探知機（KOREA WAVE） Yahoo!ニュース",
+      "summary_bullets": [
+        "韓国「修能」に続き、大学別の論述・面接でもAI不正対策…メガネ点検や金属探知機（KOREA"
+      ]
+    },
+    {
+      "id": "62dc3d9f040a",
+      "title": "アンソロピック上場もAI不安を払拭できず、ハイテク株に激しい売り ナスダックは年初来の上昇分消失 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92dXd1TVpqYUZBTlItUXBqSDB0UW1QTHlVX09CUHBFU25aV0oxLV91TVpkVE9MYkxhVXc3R3JFU2hvREJBNzhqMFF4WTMzWHZCZVNJVmZnTQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T11:38:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "アンソロピック上場もAI不安を払拭できず、ハイテク株に激しい売り ナスダックは年初来の上昇分消失 CNN",
+      "summary_bullets": [
+        "アンソロピック上場もAI不安を払拭できず、ハイテク株に激しい売り ナスダックは年初来の上昇"
+      ]
+    },
+    {
+      "id": "ebdab4dd8a48",
+      "title": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOSG20CQC0Q6A121C2000000/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-21T11:33:27+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "人工知能（AI）開発の米アンソロピックの研究者は20日、数学最大の難問の一つとされる「リーマン予想」を同社の生成AIを使って証明したと発表した。専門家の検証を待つ必要があるが、証明が正しければAIを活用した数学研究の大きな成果となる。リーマン予想は素数の並び方に関係する数学の難問だ。素数は1とその数以外で...",
+      "summary_bullets": [
+        "人工知能（AI）開発の米アンソロピックの研究者は20日、数学最大の難問の一つとされる「リー",
+        "専門家の検証を待つ必要があるが、証明が正しければAIを活用した数学研究の大きな成果となる",
+        "リーマン予想は素数の並び方に関係する数学の難問だ"
+      ]
+    },
+    {
+      "id": "e2b5b9e1106a",
+      "title": "モデル世代――AIは大学と若者の進路をどう変えたか｜Trans-N - note",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdUdMODI2NDhrc2ZYVGRmVS1HZVJvTlQtck1NRldFQ2k3NFcyUkFiaWc1b2llaFc2T1BpX29WcFNkTzlBQU9nZzRpc3NESF9rbjN4WTBR?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-21T10:47:46+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "モデル世代――AIは大学と若者の進路をどう変えたか｜Trans-N note",
+      "summary_bullets": [
+        "モデル世代――AIは大学と若者の進路をどう変えたか｜Trans-N note"
       ]
     },
     {
@@ -36,82 +269,6 @@
       ]
     },
     {
-      "id": "88192f0dc635",
-      "title": "未解決を放置にしない――AIとの作業で「直さなかった理由」を公開記録へ残した話",
-      "url": "https://qiita.com/boraemon2000/items/13102ca9ebd6e9b2c3f4",
-      "source": "Qiita (AI)",
-      "published_at": "2026-11-21T10:20:50+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "未解決を放置にしない――AIとの作業で「直さなかった理由」を公開記録へ残した話 昨日、私は毎日の公開前検査で繰り返し表示されるWARNINGを記事にしました。 確認したのは、次の2つです。 CURRENT_CONTEXTの競合コピーが6件ある 公開準備在庫が目標7本に対...",
-      "summary_bullets": [
-        "未解決を放置にしない――AIとの作業で「直さなかった理由」を公開記録へ残した話 昨日、私は",
-        "確認したのは、次の2つです",
-        "CURRENT_CONTEXTの競合コピーが6件ある 公開準備在庫が目標7本に対..."
-      ]
-    },
-    {
-      "id": "66b8058727d4",
-      "title": "Claude Code 開発者が注目している5つのアップデート（v2.1.326 - v2.1.330）",
-      "url": "https://qiita.com/NaokiIshimura/items/a75af610ec8c0d2ff699",
-      "source": "Qiita (AI)",
-      "published_at": "2026-11-21T10:11:32+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "Claude Code の v2.1.326 〜 v2.1.330 の中から、実務への影響が大きいと思われるものを5つ選んで深掘りします。網羅的な変更点一覧は リリースノートまとめ にあるので、今回は「なぜ注目に値するか」にフォーカスします。 1. Bash サンドボッ...",
-      "summary_bullets": [
-        "Claude Code の v2.1.326 〜 v2.1.330 の中から、実務への影響",
-        "網羅的な変更点一覧は リリースノートまとめ にあるので、今回は「なぜ注目に値するか」にフォ",
-        "1. Bash サンドボッ..."
-      ]
-    },
-    {
-      "id": "b00507f121da",
-      "title": "Claude Code v2.1.326 - v2.1.330 リリースノートまとめ",
-      "url": "https://qiita.com/NaokiIshimura/items/0b054c35b3c8b8aa5796",
-      "source": "Qiita (AI)",
-      "published_at": "2026-11-21T10:10:39+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "Claude Code v2.1.326〜v2.1.330 では、Bash サンドボックス・パーミッションチェックの大幅な強化（v2.1.326）、Opus 4.6 / Sonnet 4.6 の auto mode をサードパーティプロバイダーで解禁（v2.1.328）、/...",
-      "summary_bullets": [
-        "Claude Code v2.1.326〜v2.1.330 では、Bash サンドボックス"
-      ]
-    },
-    {
-      "id": "f1f00df7d1d4",
-      "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T10:05:44+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
-      "summary_bullets": [
-        "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜"
-      ]
-    },
-    {
-      "id": "cf27ede6863d",
-      "title": "激論、AI時代に英語学習は必要か 愛国心あおる「崇洋媚外」論が批判を呼ぶ【洞察☆中国】（時事通信） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xMTN2TDhSNVB6c1B6cjlDX0lSMzVBLTNKQ1BjT1B4aHZELTVGaU5jSHlfdFZfREJtTDVDZG9NX1pRRjlqZDBXVjRteGhDWVJ6NzNoU3BuRTNGSGJrckF4M0c5MmZfSjViYUJWXzJmYjY2SnlCZkN3WnlIWWk2WFU?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T10:03:19+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "激論、AI時代に英語学習は必要か 愛国心あおる「崇洋媚外」論が批判を呼ぶ【洞察☆中国】（時事通信） Yahoo!ニュース",
-      "summary_bullets": [
-        "激論、AI時代に英語学習は必要か 愛国心あおる「崇洋媚外」論が批判を呼ぶ【洞察☆中国】（時"
-      ]
-    },
-    {
-      "id": "26418e4b3b3a",
-      "title": "米中首脳、AI安全策で合意 人間介さぬ軍事行動「容認せず」（毎日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LSVVxTWlNdTlENWJHNTdJam5EeTBaTG1mSkx5LWJPMWEtNmRnZWh1WmdCR29ya0ZiU2Eya3pRcjN2RHlTRmdBUnVkMWdoMkxHTGNFZHd5LTZaR2oxZEI1dU1TbjZPd3J4bncxeVVidGU1VDJsYm5uUkpjTHdtSWM?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T09:51:26+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "米中首脳、AI安全策で合意 人間介さぬ軍事行動「容認せず」（毎日新聞） Yahoo!ニュース",
-      "summary_bullets": [
-        "米中首脳、AI安全策で合意 人間介さぬ軍事行動「容認せず」（毎日新聞） Yahoo!ニュー"
-      ]
-    },
-    {
       "id": "3d1a6b4d4b16",
       "title": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaVJUdXRuWHY0M3UwUXljX0FxZjM1OGM3TFRMSFVTS0NDU3JQMmhhd2M4TDNhWmgydlVjcU14U2Y1Tlk0NnJOd2NqanZsSjZBYXRWOVh6Zk1pckhEbWlDd09BS0JjRXAwV2hPQQ?oc=5",
@@ -121,103 +278,6 @@
       "clean_desc": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 日本経済新聞",
       "summary_bullets": [
         "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 日本経済新聞"
-      ]
-    },
-    {
-      "id": "51ef656f2fdf",
-      "title": "「生成AI」の進化で賞やコンテストはどうなる?（4）音楽編〜「レコ大」や「MAJ」に聞く〜【調査情報デジタル】 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GS2w5c0w5bHlLeWhiWV9ZSGpncHIwQ2s4WF94OWRNNzlFcDhjdWpaRVVuX001T20wYU91QXdEYTUxNjZIc1gyMHF4eU9NNDFVTGxsU01yMmpCRy02VzA1THpjQ2VtWEpoVEJ4UzBRTUtwOG5TMjczUHNXME5uTDg?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T09:00:32+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "「生成AI」の進化で賞やコンテストはどうなる?（4）音楽編〜「レコ大」や「MAJ」に聞く〜【調査情報デジタル】 Yahoo!ニュース",
-      "summary_bullets": [
-        "「生成AI」の進化で賞やコンテストはどうなる?（4）音楽編〜「レコ大」や「MAJ」に聞く〜"
-      ]
-    },
-    {
-      "id": "f66aef71f803",
-      "title": "米中首脳、ＡＩ安全策で合意（時事通信） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qb1pTeUU1Sy10S0stQjlNVjB4cVhPSGYwbnBsVk5rcVpaV0p2aUIxRjA2SFFWc3F6WUVFT0d0NW5ISWVLYmRXTnV5b25Xak1VQnRrWXBzcng4azRxZExOd0FZa0dXT0hCMzVOSDRPT1JaVVZWYkFXVlB5eUVyUXc?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T09:00:01+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "米中首脳、ＡＩ安全策で合意（時事通信） Yahoo!ニュース",
-      "summary_bullets": [
-        "米中首脳、ＡＩ安全策で合意（時事通信） Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "e2598bfbb64a",
-      "title": "「生成AI」の進化で賞やコンテストはどうなる？（4）音楽編～「レコ大」や「MAJ」に聞く～【調査情報デジタル】 - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UUGtJcGpKRmo0NWVMVlMzQjNOQkUteG9yR2k5WkFRVXp6VWRZV3pNOE8xZlJxVk05NW1CMTZpTktEeGxpQW5zUlVTeXBMMlAwU0dmRG5Lbw?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T09:00:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "「生成AI」の進化で賞やコンテストはどうなる？（4）音楽編～「レコ大」や「MAJ」に聞く～【調査情報デジタル】 TBS NEWS DIG",
-      "summary_bullets": [
-        "「生成AI」の進化で賞やコンテストはどうなる",
-        "（4）音楽編～「レコ大」や「MAJ」に聞く～【調査情報デジタル】 TBS NEWS DIG"
-      ]
-    },
-    {
-      "id": "bcad27c27952",
-      "title": "アステラス、AIで創薬効率向上 マイクロソフトの基盤導入で（共同通信） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByZTVxVjFoYVJzWFdxMnZjNHZHSk54eEpKckdLTV9HUWhNOHp4blF4YU9EQ2gyUmpYc0huaFoyOEx3Q01jSTNnWkQ3MWN1N2FBZzBWbkVodjh5aEMyTE8wVTRqaVBLRlg2Q2MxbUdsemY0M1M1c2xjdWVhUXFlTmM?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T08:43:03+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "アステラス、AIで創薬効率向上 マイクロソフトの基盤導入で（共同通信） Yahoo!ニュース",
-      "summary_bullets": [
-        "アステラス、AIで創薬効率向上 マイクロソフトの基盤導入で（共同通信） Yahoo!ニュー"
-      ]
-    },
-    {
-      "id": "952fa292a804",
-      "title": "相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家 - CNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqd0NsdUo1cWtRSktadUlFQ2otbTJJQ0pycGZVWnZmamtjRnYwaTR3SW5UNkhjVjBKS1BGRVBKc2ljVGlHZ2dNeC1xWkxITEVIeGc?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T08:30:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家 CNET Japan",
-      "summary_bullets": [
-        "相次ぐシステム障害、AIはどこまで関係しているのか--「12月はさらに深刻に」と専門家 C"
-      ]
-    },
-    {
-      "id": "20cffd1154d9",
-      "title": "トランプ氏 米中首脳会談でAI安全策で合意 軍事利用での“人間関与”でも一致 - テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wbmxKZHlJeWlGa0huVldCQ2RoS3ZxaXdvcmFGOG9sbk9zeHozdVBmQ3VUeHNzdzZZdnJTWVRfOEQ0b3JNenFoR1ZTU25lLXVEdlZlaVZZTndnMFFzWkNqRGNRYUlEMy1LWFFzdkMzNk9KWlBkOU1Za0VR?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T08:20:07+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "トランプ氏 米中首脳会談でAI安全策で合意 軍事利用での“人間関与”でも一致 テレ朝NEWS",
-      "summary_bullets": [
-        "トランプ氏 米中首脳会談でAI安全策で合意 軍事利用での“人間関与”でも一致 テレ朝NEW"
-      ]
-    },
-    {
-      "id": "bc92fc723bab",
-      "title": "元OpenAI幹部のAI企業、ノートPC用AI「Inkling 2 Mini」公開、思考を3周して首位主張 - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aVmFLYWEwQ2t0RmNfMjFqRVRGQUJDU1U3OEdhTS1ocmVZWUFJc0RpaEZCNGZaRDVoYm9pNjZiT08xamdHUUJNTlp2aHE0bGMtR1lB?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T08:12:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "元OpenAI幹部のAI企業、ノートPC用AI「Inkling 2 Mini」公開、思考を3周して首位主張 ビジネス+IT",
-      "summary_bullets": [
-        "元OpenAI幹部のAI企業、ノートPC用AI「Inkling 2 Mini」公開、思考を"
-      ]
-    },
-    {
-      "id": "80d80a4ca3af",
-      "title": "アングル：ＡＩブームの恩恵届かぬ韓国個人投資家、株乱高下で消費も冷え込む - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUG9zYnJTbXYxZ1FST3U2ME90VkhJQVlacmdUNzVoblFMSHBHVDVqQTFXWi1td204dzhEcnZTMFJMWnhETHF2NnBvX29xcW5sWWMya0kxcENEY0FnVVBELXNnUHRnazJzOERXRGtJS1ZVVWFSX01DTnNDWi14T1p6OGFzbFRIUQ?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T08:08:54+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "アングル：ＡＩブームの恩恵届かぬ韓国個人投資家、株乱高下で消費も冷え込む Reuters",
-      "summary_bullets": [
-        "アングル：ＡＩブームの恩恵届かぬ韓国個人投資家、株乱高下で消費も冷え込む Reuters"
       ]
     },
     {
@@ -239,62 +299,11 @@
       "title": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-21T07:55:01+09:00",
+      "published_at": "2026-11-21T07:51:15+09:00",
       "category": "ビジネス・動向",
       "clean_desc": "「リーマン予想」生成AIが証明か Yahoo!ニュース",
       "summary_bullets": [
         "「リーマン予想」生成AIが証明か Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "00b33284760a",
-      "title": "アンソロピック株急落 上場翌日に一時15％安 AI関連銘柄が全面安の展開 - テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpWmZYVlR3UzJMSTRuNE1MQ1d5TTBTRW4tNVRtMzl4Uzl6d1NjOEV0Mk9icFIxU2lfN2tLVTV5WThTTXUtQktPWTlJcWRlT19tWDNDM1FyNkYzUHNVY2NEOXJHaEtEMk5rZUpwYnNjUXpBR2l1ZEZwbVF3?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T07:46:08+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "アンソロピック株急落 上場翌日に一時15％安 AI関連銘柄が全面安の展開 テレ朝NEWS",
-      "summary_bullets": [
-        "アンソロピック株急落 上場翌日に一時15％安 AI関連銘柄が全面安の展開 テレ朝NEWS"
-      ]
-    },
-    {
-      "id": "510599a70e3b",
-      "title": "“AI面接官”「企業の2社に1社が導入or検討」、普及の背景と採点基準は？ 専門家「人はAIの情報を見ると信じ込んでしまう」頼りすぎる危うさも（ABEMA TIMES） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSSFV6WS1nSm9aM1hTQkpHZXRQVnNpM29ZcG1lcDUxUkpZWmRIWklVd2xqdE5DanpNNEF2UENIc3h3YjVYVkZlbmtXS1VZQVJhWm1OaENQekhIblBLbFJPc3l2R0tOYi10WHVZMVdaSS1yYTF3Tm0zSkZuWVdReHc?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T07:19:53+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "“AI面接官”「企業の2社に1社が導入or検討」、普及の背景と採点基準は？ 専門家「人はAIの情報を見ると信じ込んでしまう」頼りすぎる危うさも（ABEMA TIMES） Yahoo!ニュース",
-      "summary_bullets": [
-        "“AI面接官”「企業の2社に1社が導入or検討」、普及の背景と採点基準は",
-        "専門家「人はAIの情報を見ると信じ込んでしまう」頼りすぎる危うさも（ABEMA TIMES"
-      ]
-    },
-    {
-      "id": "c865c7a05565",
-      "title": "【今週読まれた記事】AI期待の剥落後に残るものは - 株探",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ScHlTa0xnTjJadklsMWRCSldZQmdUa2ZobGdQcjNaZ2ZXdUUwamM2cnE3X0NENWt3UmpINUlvUFg0M211Vk1VdjJmVFJESTFaRE9DS2VHenI3YzFDTFd4bw?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T06:30:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "【今週読まれた記事】AI期待の剥落後に残るものは 株探",
-      "summary_bullets": [
-        "【今週読まれた記事】AI期待の剥落後に残るものは 株探"
-      ]
-    },
-    {
-      "id": "d4ad13800535",
-      "title": "アルゴリズムバイアス【G検定 技術解説】",
-      "url": "https://zenn.dev/tkrndisk/articles/g-kentei-algorithm-bias-tech",
-      "source": "Zenn (AI)",
-      "published_at": "2026-11-21T05:36:58+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "概要 アルゴリズムバイアスは、G検定のシラバスで重要な概念です。この記事では、技術的な詳細について解説します。 定義と背景 アルゴリズムバイアスについて、以下の観点から理解することが重要です： 理論的背景 実装方法 実務での応用 G検定での出題ポイント 技術的詳細 基本原理 アルゴリズムバイアスの基本となる原理を理解することは、G検定合格に向けて必須です。 実装とアプリケーション 実務では以下の点に注意します： パフォーマンス最適化 スケーラビリティ 保守性 監視とロギング 参考資源 JDLA公",
-      "summary_bullets": [
-        "概要 アルゴリズムバイアスは、G検定のシラバスで重要な概念です",
-        "この記事では、技術的な詳細について解説します",
-        "定義と背景 アルゴリズムバイアスについて、以下の観点から理解することが重要です： 理論的背"
       ]
     },
     {
@@ -311,15 +320,27 @@
       ]
     },
     {
-      "id": "5f33a8f237ed",
-      "title": "トランプ氏、海外にデータセンター建設の米企業に罰則科す方針 対中ＡＩ競争で - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEl6QnVlSWxLYVJfY1o5M092X3FlYm5lcVB1UmQyLWg2ZDdLS0haWVY4OUdlRktlLU4zSkwwYXlzbjMzeHZ4bVJXY3N2bVJldE8zT3RBQWJqUjA3cHBaYlJyakxfNkpLb2pmYkxCN0xyQXNoSTQ1WHRPVmh2WUxZWWFzNnE4VGc?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T04:27:46+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "トランプ氏、海外にデータセンター建設の米企業に罰則科す方針 対中ＡＩ競争で Reuters",
+      "id": "4920432a9774",
+      "title": "Unforced Euler singularity, unforced Navier-Stokes singularity, and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-21T04:03:01+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "Obviously these results will be reported widely in other outlets, but I will note them here, in decreasing order of how “digested” the results currently are: Levent Alpöge, Tristan Buckmaster, and Matei Coiculescu, with heavy AI assistance, have writ",
       "summary_bullets": [
-        "トランプ氏、海外にデータセンター建設の米企業に罰則科す方針 対中ＡＩ競争で Reuters"
+        "Obviously these results will be reported wide"
+      ]
+    },
+    {
+      "id": "4558f796c617",
+      "title": "New Relicのアラート対応をClaude Codeで自動修正するワークフローを作った話",
+      "url": "https://speakerdeck.com/manabuseki/new-relic-no-taiou-o-claude-code-de-jidou-shuusei-suru-waku-furo-o-tsukuta-hanashi",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-21T02:42:07+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "自己紹介 関 学(せき まなぶ) 株式会社MIXI みてね事業本部 バックエンドエンジニア 好きな言語は Ruby 主に参加しているコミュニティ #Omotesando.rb / #Roppongi.rb #Tokyu.rb / #RailsTokyo など ©MIXI 2 家族アルバム みてね（2/2） 2015年のリリースから、7言語・175の国と地域で3,000万人以上の方にご利用いただい...",
+      "summary_bullets": [
+        "自己紹介 関 学(せき まなぶ) 株式会社MIXI みてね事業本部 バックエンドエンジニア"
       ]
     },
     {
@@ -360,34 +381,6 @@
         "Claude や Cursor に「いま開いている Blender のシーンを触らせる」た",
         "筆者は Klakix の開発側の人間なので、中立的なレビューではなく、作った側から見た導入",
         "Klakix Bridge とは Blender 4.2 以降で動く、無料の GPL-3."
-      ]
-    },
-    {
-      "id": "494547b0bd4a",
-      "title": "作れるエンジニアから、価値を届けるエンジニアへ",
-      "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
-      "source": "Zenn (AI)",
-      "published_at": "2026-11-21T00:50:41+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "AIプロダクトグループの中山 龍 (@ryu_develop)です。 この記事は、手羽先プロンプト #2 で発表した LT「作れるエンジニアから、価値を届けるエンジニアへ」を記事にしたものです。 僕は「手羽先プロンプト」という名古屋の勉強会を主催しているのですが、そこでトークした内容の評判が良かったので、せっかくならと思って記事にしてみました。 僕自身がこの半年で経験し学んだこと・考えたことを書いています。 「この内容が正しい」だったり「自分は実践できています」とは言い切れないですが、自分の学び",
-      "summary_bullets": [
-        "AIプロダクトグループの中山 龍 (@ryu_develop)です",
-        "この記事は、手羽先プロンプト #2 で発表した LT「作れるエンジニアから、価値を届けるエ",
-        "僕は「手羽先プロンプト」という名古屋の勉強会を主催しているのですが、そこでトークした内容の"
-      ]
-    },
-    {
-      "id": "c4a47b3b38d2",
-      "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
-      "url": "https://note.com/kajinari/n/n19c73d819b14",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-21T00:27:05+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "おはようございます！こんにちは！おやすみなさい！NOTA で Corp IT（情シス）を担当している kajinari です。 この 1 年で、Corp IT の日々の運用作業のほとんどを Claude の Skill として定義しました。アカウントの発行、クラウドサービス権限の付与、クラウドサービスの設定変更、PC や iPhone の手配、Zoom Phone ...",
-      "summary_bullets": [
-        "おはようございます",
-        "こんにちは",
-        "おやすみなさい"
       ]
     }
   ]
