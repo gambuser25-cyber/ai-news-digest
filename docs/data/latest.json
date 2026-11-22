@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21 14:08 JST",
-  "date": "2026年11月21日",
+  "updated_at": "2026-11-22 09:43 JST",
+  "date": "2026年11月22日",
   "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
   "total_count": 30,
   "categories": [
@@ -11,139 +11,265 @@
   ],
   "articles": [
     {
-      "id": "03b39b71c8c7",
-      "title": "AIでリーマン予想証明か 精査続く - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DRDFOMjk2NHlWYXVUYVFaR0JaNVhvbE1aUW9wYVo0X3NITHhoMUhqVkJZaVhma29nVHRmNlV3U0w5NmR0U2NLM09mRmtRbVll?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T13:59:13+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AIでリーマン予想証明か 精査続く Yahoo!ニュース",
-      "summary_bullets": [
-        "AIでリーマン予想証明か 精査続く Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "078a95bf0e06",
-      "title": "『AIDOL課長』Season2が配信開始 AIアイドル「あいぴょす」の企業タイアップも募集（ENCOUNT） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sNXMyb0FTaWo5dUVQOURoOEgxUmR1dW16UUxmVUdDWWlldGRFd0ZJc1U1X1lVS2RyQ09QU25FN1dSekFjaWxyOHhyU252elBsekx4THAxdWo0NVkyLUoxSUhVQWduRmk5N3VXRVVYSi1JTks0alZ0b25KclprY0E?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T13:45:13+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "『AIDOL課長』Season2が配信開始 AIアイドル「あいぴょす」の企業タイアップも募集（ENCOUNT） Yahoo!ニュース",
-      "summary_bullets": [
-        "『AIDOL課長』Season2が配信開始 AIアイドル「あいぴょす」の企業タイアップも募"
-      ]
-    },
-    {
-      "id": "80f4c0a77ae1",
-      "title": "【AWS】AgentCore Gatewayにおけるアクセスコントロールとメタデータフィルタリング",
-      "url": "https://qiita.com/yakumo_09/items/ea2debc1e73e27caa6a0",
+      "id": "4cc068663c1d",
+      "title": "撮影なしで、創業者が登場する1分46秒の動画をAIモデルで作ったときのハマりどころ5つ（音声・リップシンク・肌・BGM・AI判定）",
+      "url": "https://qiita.com/wiroai/items/a7b781440cf9c4914518",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-21T13:21:02+09:00",
+      "published_at": "2026-11-22T09:13:35+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに Managed Knowledge Baseは、AgentCore GatewayのConnector Targetとしてエージェントから呼べます。このとき、Retrieve ツールの引数でメタデータフィルタも指定できます。 部署ごとに文書を絞り込めるか、Gat...",
+      "clean_desc": "はじめに Product Hunt でのローンチに合わせて、創業者が登場する1分46秒の動画を作りました。ただし、撮影は一度もしていません。映像のカットはすべて生成したもので、声はクローン音声、画面のアニメーションは HTML ページを1フレームずつレンダリングしたもので...",
       "summary_bullets": [
-        "はじめに Managed Knowledge Baseは、AgentCore Gatewa",
-        "このとき、Retrieve ツールの引数でメタデータフィルタも指定できます",
-        "部署ごとに文書を絞り込めるか、Gat..."
+        "はじめに Product Hunt でのローンチに合わせて、創業者が登場する1分46秒の動",
+        "ただし、撮影は一度もしていません",
+        "映像のカットはすべて生成したもので、声はクローン音声、画面のアニメーションは HTML ペ"
       ]
     },
     {
-      "id": "97e7fe41836c",
-      "title": "Alibaba Cloud、香港サミットで新たなAIイニシアチブを発表——都市のAIエコシステム構築を加速",
-      "url": "https://qiita.com/alibabacloud-sa/items/a5c49274d28414482ca2",
+      "id": "14a0b39d8759",
+      "title": "来週（11/24～27）の日経平均株価の予想レンジは、5万3000～6万円！ 11/6の安値も割り込んで自律反発に期待も、明確な“底入れ”まで材料株の物色が中心 - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YTm96TE1rTnF5NzVOR0M2cnJMY05ZbGVNUU1ZZzlWNFVHRDJ2WlYwS2ladFhpWlJuTzlNTjhXczRQMjR5VFFUalI4QTUteXBmQUdv?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T08:47:26+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "来週（11/24～27）の日経平均株価の予想レンジは、5万3000～6万円！ 11/6の安値も割り込んで自律反発に期待も、明確な“底入れ”まで材料株の物色が中心 ダイヤモンド・オンライン",
+      "summary_bullets": [
+        "来週（11/24～27）の日経平均株価の予想レンジは、5万3000～6万円",
+        "11/6の安値も割り込んで自律反発に期待も、明確な“底入れ”まで材料株の物色が中心 ダイヤ"
+      ]
+    },
+    {
+      "id": "7451a8fe5192",
+      "title": "AIブームの動揺が米国株の売り圧力を誘発、S&P500とダウ平均がそろって調整局面入り - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TWGM2MUpfOTdhQ2NkN2ZXVFE3ZFVwQkxqNm5IMWktcGtMNUZBT2Vma1pheWFrS1dSa3BtbDNZMGI0M3RMOU90ai1oa1JzWlpWSThKUXcwUUNYc09mMk8yS2JnR0QzWWVSZGdWa2M0aTdKNWpT?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T08:35:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIブームの動揺が米国株の売り圧力を誘発、S&P500とダウ平均がそろって調整局面入り BigGo ファイナンス",
+      "summary_bullets": [
+        "AIブームの動揺が米国株の売り圧力を誘発、S&P500とダウ平均がそろって調整局面入り B"
+      ]
+    },
+    {
+      "id": "adb474c561c0",
+      "title": "Claude Codeの--fallback-modelで無人ジョブを止めない：混雑・利用上限・終了コードの3つの落とし穴と実装",
+      "url": "https://qiita.com/joinclass/items/080927f3b092b9de46e6",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-21T13:12:02+09:00",
+      "published_at": "2026-11-22T08:30:07+09:00",
       "category": "モデル・技術",
-      "clean_desc": "● Qwen4-Maxの提供開始に加え、企業向けAIエージェント開発およびセキュリティ機能を強化 ● 香港における顧客数が65,000社を超えるとともに、Alibaba Cloudは6年連続で香港IaaS市場（売上高ベース）で首位を維持 香港、2026年11月17日 — A...",
+      "clean_desc": "はじめに：朝起きたらジョブが全部落ちていた 当社（合同会社ジョインクラス）は、記事作成・朝のレポート・各部署の作業など30以上のジョブを launchd から claude -p で無人実行しています。 2026年9月、朝のログを見ると複数のジョブが同じ時間帯にまとめて失...",
       "summary_bullets": [
-        "● Qwen4-Maxの提供開始に加え、企業向けAIエージェント開発およびセキュリティ機能"
+        "はじめに：朝起きたらジョブが全部落ちていた 当社（合同会社ジョインクラス）は、記事作成・朝",
+        "2026年9月、朝のログを見ると複数のジョブが同じ時間帯にまとめて失..."
       ]
     },
     {
-      "id": "62cfd4aee283",
-      "title": "Alibaba Cloud、全国規模の若者コンテストと産業連携を通じてマレーシアにおけるAI普及を加速",
-      "url": "https://qiita.com/alibabacloud-sa/items/da26747230ca3f927db3",
+      "id": "08be7302ab73",
+      "title": "自作MCPサーバー その27",
+      "url": "https://qiita.com/ohisama@github/items/637d9abfad1ca7193232",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-21T13:09:40+09:00",
+      "published_at": "2026-11-22T08:27:59+09:00",
       "category": "モデル・技術",
-      "clean_desc": "** *● Alibabaがこれまでに開発した最も高性能な大規模言語モデル（LLM）「Qwen4-Max」の発表 *● 「AI untuk Rakyat（国民のためのAI）」イニシアチブの一環として実施される全国規模の若者向けコンテスト「Kita Bersama AI（私た...",
+      "clean_desc": "概要 MCPサーバーが気になったので、調べてみた。 「ACDLを提唱します。」 ACDLを提唱します。 ご共有いただいたQiitaの記事は、「アプリはクラウド（Application Cloud）、大切なデータはローカル（Data Local）」を略した「ACDL」とい...",
       "summary_bullets": [
-        "** *● Alibabaがこれまでに開発した最も高性能な大規模言語モデル（LLM）「Qw"
+        "概要 MCPサーバーが気になったので、調べてみた",
+        "「ACDLを提唱します",
+        "」 ACDLを提唱します"
       ]
     },
     {
-      "id": "fd4e869eb25f",
-      "title": "【pre:Inventまとめ】AWSのAIエージェント認証がいろいろ進化！MCPサーバー構築を例に一挙解説",
-      "url": "https://qiita.com/minorun365/items/bd6091f2599a0f37326b",
+      "id": "4409336f90a9",
+      "title": "AWS AIプラクティショナー試験対策⑥：エージェンティックAIとMCPの基礎",
+      "url": "https://qiita.com/IT-love-pug/items/3e369b5d119138325603",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-21T13:03:14+09:00",
+      "published_at": "2026-11-22T08:15:21+09:00",
       "category": "モデル・技術",
-      "clean_desc": "AIエージェントの認証まわりがまとめて進化！ もうすぐ12月ですね。AWS ユーザーにとっては、毎年ラスベガスで開かれる大型カンファレンス re:Invent の季節です。 その直前の数週間は新機能の発表が相次ぎ、「pre:Invent」と呼ばれています。 今年は ...",
+      "clean_desc": "AWS AIプラクティショナー試験対策⑥：エージェンティックAIとMCPの基礎 この記事は、AWS認定AIプラクティショナー（AIF-C01）試験対策の連載第6回です。分野2「生成AIの基礎」（タスク2.1）のうち、エージェンティックAIと**MCP（Model Cont...",
       "summary_bullets": [
-        "AIエージェントの認証まわりがまとめて進化",
-        "もうすぐ12月ですね",
-        "AWS ユーザーにとっては、毎年ラスベガスで開かれる大型カンファレンス re:Invent"
+        "AWS AIプラクティショナー試験対策⑥：エージェンティックAIとMCPの基礎 この記事は",
+        "分野2「生成AIの基礎」（タスク2.1）のうち、エージェンティックAIと**MCP（Mod"
       ]
     },
     {
-      "id": "126d81756c45",
-      "title": "AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zeTR4VktHTGx4cjVVaEthaU15aWxxVW1qYXB6czQ0UGcwbjZWUms1d21UQTYtQmlwVTBnRG9NekNPb1E3ejg4OVBValQwS0k2a05uQmRWU3Qwa3VqSEEtX9IBZkFVX3lxTE05a18zUmcyaktvOGVoQTd3YWVEb2l0c3VUcFh0V29KSU9UVDAweWRYN1N6dGdxM2NiV05mZGJhT3UtVkJoUTR4YXhEZEs1S3dzTFFWTk84dVlteE5kMVpqN0xJWm1lZw?oc=5",
+      "id": "386feec5482a",
+      "title": "「AIは銃のようなものに」 銀行口座･インフラも標的 専門家が警鐘 急増するサイバー攻撃 被害どう防ぐ（CBCテレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OcGxZYmFPQXhBVW9YRU8xbDRWYmI4MUlwaVdmYWdDUUdSOUdKdmpQdU5OeXhPbWpVMnhUam5UOU9NYVRvZVpycXF0NTk0Q2hzRVAtTGhZZzZadnV2cUo1T1NWcWo0ajRYTmhJbTY4UmwtYXNEaFlhYWxoNmJ0Q0k?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-21T12:57:58+09:00",
+      "published_at": "2026-11-22T08:04:44+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "AIが数学の未解決問題「リーマン予想」を証明か 米アンソロピックの数学者が主張 BBC",
+      "clean_desc": "「AIは銃のようなものに」 銀行口座･インフラも標的 専門家が警鐘 急増するサイバー攻撃 被害どう防ぐ（CBCテレビ） Yahoo!ニュース",
       "summary_bullets": [
-        "AIが数学の未解決問題「リーマン予想」を証明か 米アンソロピックの数学者が主張 BBC"
+        "「AIは銃のようなものに」 銀行口座･インフラも標的 専門家が警鐘 急増するサイバー攻撃 "
       ]
     },
     {
-      "id": "9870bf2289bf",
-      "title": "来歴情報「C2PA」付き画像は5.8%、生成AI記録ありでも「可能性高い」判定は約4割 Uravation調査 - Media Innovation",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CUW5KekMteDFNRndZd1AzZ0k5MDJ1RktOWm9jazRMZ3FxUElFdUVjeFhSWU1FQjQ0akotdFpKSHdINVkzWVpLZVFVZ3k2bUJ0SWZqbFFXRHFQc1FGSm92SkJ4S29IYXJUMnc?oc=5",
+      "id": "8ee9a8662e3b",
+      "title": "｢AIは銃のようなものに｣ 銀行口座･インフラも標的 専門家が警鐘 急増するサイバー攻撃 被害どう防ぐ - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HUjB0TnllV1B6cml5ellhUnZkc09pRnhYdWNHeVNjWGtwQjhLSy10YmhESTQ2N3FRNmtzeVFxREJGTlNNRjRFQ1kyX1RzOHFKRWxSTFVpUGtXZw?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-21T12:50:02+09:00",
+      "published_at": "2026-11-22T08:00:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "来歴情報「C2PA」付き画像は5.8%、生成AI記録ありでも「可能性高い」判定は約4割 Uravation調査 Media Innovation",
+      "clean_desc": "｢AIは銃のようなものに｣ 銀行口座･インフラも標的 専門家が警鐘 急増するサイバー攻撃 被害どう防ぐ TBS NEWS DIG",
       "summary_bullets": [
-        "来歴情報「C2PA」付き画像は5.8%、生成AI記録ありでも「可能性高い」判定は約4割 U"
+        "｢AIは銃のようなものに｣ 銀行口座･インフラも標的 専門家が警鐘 急増するサイバー攻撃 "
       ]
     },
     {
-      "id": "282ab237c81c",
-      "title": "超難問「リーマン予想」AIと証明か 米アンソロピックの数学者発表（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NZURqQ0RkeUxOSG1OaXRHMThUaDRsT3Z4VUgxX2Y2RjkxMVY4UEx5N09oVU9PbG5wMXJHcmFyQzlQcUJSUjU2S3ppVmRsRFlMV05HT0dpdy1HLThkYkd3Yk1lclpKZkl4UTlrdk9VcmFHRmdoS05QQXVxZDlSLTQ?oc=5",
+      "id": "184013a5de44",
+      "title": "「バグマゲドン」はいつ終わるのか AIが壊す安全、AIが取り戻す安全 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWW1DeWRYRGFnb2thekpoak1EQ01qekM1U1VsalE5a08zdWt4U24yck9CMWlGejc4Ym9HalQ3Y0hNZnZ0WmwwdXFoMlktZXhYdDNEaWRuOTlWYkJPN3g2RDYxSGpxUQ?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-21T12:23:02+09:00",
+      "published_at": "2026-11-22T07:53:27+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "超難問「リーマン予想」AIと証明か 米アンソロピックの数学者発表（朝日新聞） Yahoo!ニュース",
+      "clean_desc": "「バグマゲドン」はいつ終わるのか AIが壊す安全、AIが取り戻す安全 株式会社エクサウィザーズ",
       "summary_bullets": [
-        "超難問「リーマン予想」AIと証明か 米アンソロピックの数学者発表（朝日新聞） Yahoo!"
+        "「バグマゲドン」はいつ終わるのか AIが壊す安全、AIが取り戻す安全 株式会社エクサウィザ"
       ]
     },
     {
-      "id": "c0dfd8f67292",
-      "title": "韓国の試験でAI不正、「暴力団員がソウル大医学部に合格」の風刺画像が拡散（KOREA WAVE） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3Qkh5Y3c2Y1A4ZVVnOVZYVWZBN1p5T1lQMlpKNFgyUjlzU25hV1ZXOUxRVHZEbWcwMzRKU21Sbl93UXFKb2JEXzV2bm5JbVVlOTRlak9xeFpoQTVaQS00eWNPWmhsaE1fR0pjMmtHc216elZuM2RTX0tzbnYwQ00?oc=5",
+      "id": "99018ab333b0",
+      "title": "AI値下げをなぜ今歓迎？ アルトマン氏が語る、価格競争の先にあるOpenAIの勝ち筋（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQ09UN0d4d0FMV0I2UlVRdlNTa1RZLWZka1M2Si03UEJFUzNWLWRpSlZhTnE2TVE5UEZVWi1hR2hJMVF1NlN5NEpoS2lyX21oU1c4aTVhcFNfM2FCakRYSzRER0VhbkVkZjlPbnBwTURjM3FlUGhzbjJ5UzJNZGc?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-21T12:12:16+09:00",
+      "published_at": "2026-11-22T07:24:01+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "韓国の試験でAI不正、「暴力団員がソウル大医学部に合格」の風刺画像が拡散（KOREA WAVE） Yahoo!ニュース",
+      "clean_desc": "AI値下げをなぜ今歓迎？ アルトマン氏が語る、価格競争の先にあるOpenAIの勝ち筋（ビジネス＋IT） Yahoo!ニュース",
       "summary_bullets": [
-        "韓国の試験でAI不正、「暴力団員がソウル大医学部に合格」の風刺画像が拡散（KOREA WA"
+        "AI値下げをなぜ今歓迎",
+        "アルトマン氏が語る、価格競争の先にあるOpenAIの勝ち筋（ビジネス＋IT） Yahoo!"
       ]
     },
     {
-      "id": "a709a40330c3",
-      "title": "生成AIは物価を押し上げるのか、それともデフレに戻すのか…経済学者・田中秀臣氏が総需要と総供給から読み解く - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSjVjcEZXaUxaZ3RxaTBFblhiNV8ydU5UZGdTV3ZNbEh3X0FrMmZHbHhYZzN3NDAyQWxlbGthNzFKMV9VY1NfZW9ST3NEOHd2MHdmSlZxVU5nY0NVTE9pNjFoYnFZWGE2VERRcjlvVzFmZTIwUnBHVU43SDBrTW8?oc=5",
+      "id": "66c76072408c",
+      "title": "巨大IPO、AI時代を象徴 「人類存亡リスク」、対応見通せず 米アンソロピック〔深層探訪〕（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5dUZTbHNMbHpMS2ZHQV90YUJ3Q08yQUdyRERKUzhyNjV5VktfRHpzbUZaNHBLYnNPR3IwU0hiU0QxSHNKVTI5bEpOb19hUzZ2cmpEOWRFMXpvRnd2SnZJZE9GMUY0RXhEY2k2UFREb3V0Z2VVU1lvWVlkOFVNaVU?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-21T12:10:43+09:00",
+      "published_at": "2026-11-22T07:11:26+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "生成AIは物価を押し上げるのか、それともデフレに戻すのか…経済学者・田中秀臣氏が総需要と総供給から読み解く Yahoo!ニュース",
+      "clean_desc": "巨大IPO、AI時代を象徴 「人類存亡リスク」、対応見通せず 米アンソロピック〔深層探訪〕（時事通信） Yahoo!ニュース",
       "summary_bullets": [
-        "生成AIは物価を押し上げるのか、それともデフレに戻すのか…経済学者・田中秀臣氏が総需要と総"
+        "巨大IPO、AI時代を象徴 「人類存亡リスク」、対応見通せず 米アンソロピック〔深層探訪〕"
+      ]
+    },
+    {
+      "id": "b434ae9719ca",
+      "title": "AI危機管理、米中から世界へ 日本の役割も焦点（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mSUE4WFFSN2RTaExmZkhNUkFSY1l3VklQUENfZkpaTU1mZUxQcHdCVVdJTWFoSURSN1pkUkVBQV85eGlwZV9UdGlZbEVUOGxNWGFHM1pCdzJBQzBVbUFyVXhPc0tNMzcyZnVITFdhTXliVnVoT2g3aUdENmpDME0?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T07:09:02+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI危機管理、米中から世界へ 日本の役割も焦点（時事通信） Yahoo!ニュース",
+      "summary_bullets": [
+        "AI危機管理、米中から世界へ 日本の役割も焦点（時事通信） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "b09e9b174c96",
+      "title": "米国、AI研究所内への政府検査官常駐を検討 ピーター・ウィルデフォード氏、RSI禁止法案の成立確率を60%と予測 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZU9hU3g4aW80ZGowVnlNSjFBLWh2cU42MTVsQm9OanJVbTd1cFZoUnJEelNYdDhjVWRsdHRKV2NWS202RjNBd2NvNHFuRW5ON3lYWGlrdEhEdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T07:08:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米国、AI研究所内への政府検査官常駐を検討 ピーター・ウィルデフォード氏、RSI禁止法案の成立確率を60%と予測 BigGo ファイナンス",
+      "summary_bullets": [
+        "米国、AI研究所内への政府検査官常駐を検討 ピーター・ウィルデフォード氏、RSI禁止法案の"
+      ]
+    },
+    {
+      "id": "b55bc2b9fbee",
+      "title": "「オープンAIの文化壊れてた」 暴走止められず、辞めた社員の告白 [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJSDBFU0VmenhDd01NTU83NzNJYmoyeDlUem4yYzcxMDhVbDlscXdULTJrNVRqcWJCVGNxVzNKaF9sTE9LRTVjbDFkamZubnVoOWMxWWhITlJwa1RZdkp2Y3FLZkVuTzQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T06:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「オープンAIの文化壊れてた」 暴走止められず、辞めた社員の告白 [AIの時代] 朝日新聞",
+      "summary_bullets": [
+        "「オープンAIの文化壊れてた」 暴走止められず、辞めた社員の告白 [AIの時代] 朝日新聞"
+      ]
+    },
+    {
+      "id": "25e733180776",
+      "title": "AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点 - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeXVxNmZmdEd1VmhvX0NsMVhtQzM0TjBJRldtVWYzVGxISTV6SkR2STRTdlJ3eVBLUW1DMGhObjc5WFVjeG45ZmFxLV9nNzBzVjE1X2ZfSktkbktvWkFndWN2TmVxQQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T06:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点 キーマンズネット",
+      "summary_bullets": [
+        "AIに必要なのは知識か、企業独自の判断基準か",
+        "管理職調査で見えたAI活用の盲点 キーマンズネット"
+      ]
+    },
+    {
+      "id": "65f8a39321af",
+      "title": "生成ＡＩを使った訪日客誘客策セミナー、上越市で観光関係者ら有効的な情報発信学ぶ - 新潟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkRE1mSk44Z0hpM3d0TVFSelRna041ZU8tekRQTER3Y2tLNGVlRlBQZU9LRXUzREdFQ1c3OFduU3RxX1d5bEtpM3Q3QzBzWlRvbnhuUFFpemhjdmkzakE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T06:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "生成ＡＩを使った訪日客誘客策セミナー、上越市で観光関係者ら有効的な情報発信学ぶ 新潟日報",
+      "summary_bullets": [
+        "生成ＡＩを使った訪日客誘客策セミナー、上越市で観光関係者ら有効的な情報発信学ぶ 新潟日報"
+      ]
+    },
+    {
+      "id": "257f03482909",
+      "title": "【マイルCS】AI予想 高指数92 エンブロイダリーを指名 - スポニチ競馬Web",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rZkM2Y282U0F2NFE2ZXBqS3pRSzJydnZHbVN1NkdKOXl4Qy1wcmYweDc5R3dZSEwxOEw4R2hBN2hfdERhcE9sR3JKMTFFVGlBazFHMUpNNW5PaTZWT0NKTF82UnJkS2ZmUmc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T05:29:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【マイルCS】AI予想 高指数92 エンブロイダリーを指名 スポニチ競馬Web",
+      "summary_bullets": [
+        "【マイルCS】AI予想 高指数92 エンブロイダリーを指名 スポニチ競馬Web"
+      ]
+    },
+    {
+      "id": "396ce5a5cad2",
+      "title": "【人工知能学会前会長・栗原聡インタビュー #4】AI時代の教育術｜生成AIで子どもの思考力が低下する？ AI教育に要注意の年代とは - 新潮QUE",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uX0FVYnYwZ3RrT3JRUlo5ampyNlNxYXhsLTJBc2l1cHh3TXVBVkNDakxGVGtGakpsSGNWbVRUQkVLZHo3WVVVWEYzYmpsVENv?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T05:03:06+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【人工知能学会前会長・栗原聡インタビュー #4】AI時代の教育術｜生成AIで子どもの思考力が低下する？ AI教育に要注意の年代とは 新潮QUE",
+      "summary_bullets": [
+        "【人工知能学会前会長・栗原聡インタビュー #4】AI時代の教育術｜生成AIで子どもの思考力",
+        "AI教育に要注意の年代とは 新潮QUE"
+      ]
+    },
+    {
+      "id": "6361eea11b93",
+      "title": "AI兵器の規制、米国・ロシア反対で足踏み NGO「人類を危険に」 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaFJ1ZGJ1dHRvaVppWUNuLUZvMzBjYXlaTDN1UTR6cTlMZzB4OHMxTXdXWThhYjZHRTlaUjF0dHpRSVdCZkYySEt2bTJmQVhldjhURVFfUW9pb0dKZjhVTm0yM0NPS0wxTTk4WQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI兵器の規制、米国・ロシア反対で足踏み NGO「人類を危険に」 日本経済新聞",
+      "summary_bullets": [
+        "AI兵器の規制、米国・ロシア反対で足踏み NGO「人類を危険に」 日本経済新聞"
+      ]
+    },
+    {
+      "id": "ba7d3fbf0df4",
+      "title": "難問のリーマン予想、「ＡＩと共同で証明」 正しければ歴史的成果 米アンソロピックの数学者発表 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GYkpCb2VGS0E1VGI3ajdKeHRza1BHUjcxV25FZFQ2QTQ1a2hZam1jSGk3bVd2SUt6SG9ZVVBDZ2FPSk1wM3ZIYWkzaF9PMjhQZVR6YUwybmpMQkow?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "難問のリーマン予想、「ＡＩと共同で証明」 正しければ歴史的成果 米アンソロピックの数学者発表 朝日新聞",
+      "summary_bullets": [
+        "難問のリーマン予想、「ＡＩと共同で証明」 正しければ歴史的成果 米アンソロピックの数学者発"
+      ]
+    },
+    {
+      "id": "d555f5f6ba3d",
+      "title": "ＡＩと挑む、１６７年の難問 「クロードは私を追い越した」 リーマン予想「証明」 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HT2syMVhjU2xXeXh0TWFXMWJDeGpPTmxqOWFMV0d3ZzFtb2hMM3NFX2syWDhtWF9XVXJNTWtpTWZ0b2UzVEt6VHJKT3N5N0Y4TFhLWWhYQkNsenhP?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-22T05:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ＡＩと挑む、１６７年の難問 「クロードは私を追い越した」 リーマン予想「証明」 朝日新聞",
+      "summary_bullets": [
+        "ＡＩと挑む、１６７年の難問 「クロードは私を追い越した」 リーマン予想「証明」 朝日新聞"
       ]
     },
     {
@@ -151,7 +277,7 @@
       "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-21T12:03:40+09:00",
+      "published_at": "2026-11-22T04:19:24+09:00",
       "category": "ビジネス・動向",
       "clean_desc": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
       "summary_bullets": [
@@ -159,228 +285,112 @@
       ]
     },
     {
-      "id": "82658ebba97f",
-      "title": "世界AI企業の評価額、OpenAIが200兆円で首位 中国DeepSeekは14兆円で5位 - 36Kr Japan",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE51eGFwbW5kcFk2Vng2SXJaOFpaRk5XZHdhQWdnSmpQem1JQXZKeFRYWUdiMzZtYzNnd1Y4?oc=5",
+      "id": "91746fe9a1a8",
+      "title": "がっちりマンデー!!ＡＩが話題になる前から先回り！あのＡＩＡＩ言ってた会社が超進化 - TBSテレビ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWRTdrVzFHai14Zm1VcnZmMTJ1bmtuSHdCRGZQRmdzYU5sWS1QWGgwcVM5aXdELWtnUFBGbTFiaWs4eDB4TWpFTjNjR19YR3lyQ3ZyQ2tR?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-21T12:03:32+09:00",
+      "published_at": "2026-11-22T04:13:33+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "世界AI企業の評価額、OpenAIが200兆円で首位 中国DeepSeekは14兆円で5位 36Kr Japan",
+      "clean_desc": "がっちりマンデー!!ＡＩが話題になる前から先回り！あのＡＩＡＩ言ってた会社が超進化 TBSテレビ",
       "summary_bullets": [
-        "世界AI企業の評価額、OpenAIが200兆円で首位 中国DeepSeekは14兆円で5位"
+        "がっちりマンデー!!ＡＩが話題になる前から先回り",
+        "あのＡＩＡＩ言ってた会社が超進化 TBSテレビ"
       ]
     },
     {
-      "id": "ebf8acb1191b",
-      "title": "焼津の老舗建設会社がAIの産業化に挑むワケ 開発企業と提携、2027年4月に合弁会社設立を判断（テレビ静岡NEWS） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xYUJrOEVqVzlHYXhaZzdHcWNBcmg3VHdKU2Y4YUlOMWp0UzA0b3RfVXp5dVp6TGVxeTI5WDVNYWJTbHVYc1VvaFl5cDZ1bUlkUDVJNkNkSXdydVRNNkpfUFcxN0lpazJ4ZkJ1Tng5U0tLYnZwQXBHODAwVDlLNWM?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T12:00:02+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "焼津の老舗建設会社がAIの産業化に挑むワケ 開発企業と提携、2027年4月に合弁会社設立を判断（テレビ静岡NEWS） Yahoo!ニュース",
-      "summary_bullets": [
-        "焼津の老舗建設会社がAIの産業化に挑むワケ 開発企業と提携、2027年4月に合弁会社設立を"
-      ]
-    },
-    {
-      "id": "5c215a253257",
-      "title": "AIにファクトチェックをどこまで任せられるか - WIRED.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByblpWNml3YnRkY09CUTdPVjAtQU5OaGRUb3lwdlF6TG83VkdDVUg5MTNhUlV6MEJKWEExZHBoOWtkZXNPN04teU5fMVd5NHhCNkFVZg?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T12:00:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "AIにファクトチェックをどこまで任せられるか WIRED.jp",
-      "summary_bullets": [
-        "AIにファクトチェックをどこまで任せられるか WIRED.jp"
-      ]
-    },
-    {
-      "id": "8026404ab687",
-      "title": "【Inter BEE 2026】4BY4は買い切り25,000円のAI映像高画質化ソフト「AI PIXELL PRO」やNuke／DaVinci Resolve用プラグインを展示 - VIDEO SALON",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16Wll0dUZvQTVHM3oyZG5lTktxNk0wdGpOOE9rSVlvZjloWmZHLV9HOGlFcFY1TkpyUzB3VTlnWnUxbjZYLTE2STNibmdIRlM2RFE2aHdjc2htWEhwUlE?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T11:58:20+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "【Inter BEE 2026】4BY4は買い切り25,000円のAI映像高画質化ソフト「AI PIXELL PRO」やNuke／DaVinci Resolve用プラグインを展示 VIDEO SALON",
-      "summary_bullets": [
-        "【Inter BEE 2026】4BY4は買い切り25,000円のAI映像高画質化ソフト「"
-      ]
-    },
-    {
-      "id": "618479a5ccc1",
-      "title": "韓国「修能」に続き、大学別の論述・面接でもAI不正対策…メガネ点検や金属探知機（KOREA WAVE） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NTmh0b2U0MHpIVW1UTVVDWUZHekFmSzU1OTlNb1ExeVMzS0xqd2RJYUMxblNQMlJCSnA1dWlTQUo3aWV3MF9Xcy1wMjhaVTZ5UURDTjUwejkzeC1iRHpMaTJpU1VGbmRDMEN2dlg3bGRXY2NMZnE2dG5RYkU0Wnc?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T11:51:17+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "韓国「修能」に続き、大学別の論述・面接でもAI不正対策…メガネ点検や金属探知機（KOREA WAVE） Yahoo!ニュース",
-      "summary_bullets": [
-        "韓国「修能」に続き、大学別の論述・面接でもAI不正対策…メガネ点検や金属探知機（KOREA"
-      ]
-    },
-    {
-      "id": "62dc3d9f040a",
-      "title": "アンソロピック上場もAI不安を払拭できず、ハイテク株に激しい売り ナスダックは年初来の上昇分消失 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92dXd1TVpqYUZBTlItUXBqSDB0UW1QTHlVX09CUHBFU25aV0oxLV91TVpkVE9MYkxhVXc3R3JFU2hvREJBNzhqMFF4WTMzWHZCZVNJVmZnTQ?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T11:38:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "アンソロピック上場もAI不安を払拭できず、ハイテク株に激しい売り ナスダックは年初来の上昇分消失 CNN",
-      "summary_bullets": [
-        "アンソロピック上場もAI不安を払拭できず、ハイテク株に激しい売り ナスダックは年初来の上昇"
-      ]
-    },
-    {
-      "id": "ebdab4dd8a48",
-      "title": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOSG20CQC0Q6A121C2000000/",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-21T11:33:27+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "人工知能（AI）開発の米アンソロピックの研究者は20日、数学最大の難問の一つとされる「リーマン予想」を同社の生成AIを使って証明したと発表した。専門家の検証を待つ必要があるが、証明が正しければAIを活用した数学研究の大きな成果となる。リーマン予想は素数の並び方に関係する数学の難問だ。素数は1とその数以外で...",
-      "summary_bullets": [
-        "人工知能（AI）開発の米アンソロピックの研究者は20日、数学最大の難問の一つとされる「リー",
-        "専門家の検証を待つ必要があるが、証明が正しければAIを活用した数学研究の大きな成果となる",
-        "リーマン予想は素数の並び方に関係する数学の難問だ"
-      ]
-    },
-    {
-      "id": "e2b5b9e1106a",
-      "title": "モデル世代――AIは大学と若者の進路をどう変えたか｜Trans-N - note",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdUdMODI2NDhrc2ZYVGRmVS1HZVJvTlQtck1NRldFQ2k3NFcyUkFiaWc1b2llaFc2T1BpX29WcFNkTzlBQU9nZzRpc3NESF9rbjN4WTBR?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T10:47:46+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "モデル世代――AIは大学と若者の進路をどう変えたか｜Trans-N note",
-      "summary_bullets": [
-        "モデル世代――AIは大学と若者の進路をどう変えたか｜Trans-N note"
-      ]
-    },
-    {
-      "id": "274dd85f9d8c",
-      "title": "米国株式市場、ＡＩ懸念で売り加速：識者はこうみる - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlVDZTBzZDMyaDhNRnI5ZDRvTG8zbExWX3VMMk4xb0NXU212Q29OcVBTYXJQU0JvU012d29vUThyaFdDTHJIUzlfNkZZZVZGb1M1dndnRjVZeS1RV0d5akJjQVNpZl9jekZXRDlRRmpna3lZUVdhUWRkTWpaOHFxZFBESlA5RzhXZ0E0eW1ON2s?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T10:23:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "米国株式市場、ＡＩ懸念で売り加速：識者はこうみる Reuters",
-      "summary_bullets": [
-        "米国株式市場、ＡＩ懸念で売り加速：識者はこうみる Reuters"
-      ]
-    },
-    {
-      "id": "3d1a6b4d4b16",
-      "title": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaVJUdXRuWHY0M3UwUXljX0FxZjM1OGM3TFRMSFVTS0NDU3JQMmhhd2M4TDNhWmgydlVjcU14U2Y1Tlk0NnJOd2NqanZsSjZBYXRWOVh6Zk1pckhEbWlDd09BS0JjRXAwV2hPQQ?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T09:44:41+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 日本経済新聞",
-      "summary_bullets": [
-        "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 日本経済新聞"
-      ]
-    },
-    {
-      "id": "875b3efe2eac",
-      "title": "Claudeを使い「リーマン予想」を証明か　Anthropic数学者が発表　Lean検証も通過、数学界が精査へ",
-      "url": "https://japan.cnet.com/article/35255245/",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-21T08:02:01+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。",
-      "summary_bullets": [
-        "米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude",
-        "米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと",
-        "追加の検証も続いている"
-      ]
-    },
-    {
-      "id": "bf1911ac313d",
-      "title": "「リーマン予想」生成AIが証明か - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T07:51:15+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "「リーマン予想」生成AIが証明か Yahoo!ニュース",
-      "summary_bullets": [
-        "「リーマン予想」生成AIが証明か Yahoo!ニュース"
-      ]
-    },
-    {
-      "id": "cf4f3e5b1312",
-      "title": "日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」 | ＤＯＬ特別レポート - ダイヤモンド・オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UazVHN242cVdWenZSYnZsakdtc3lYWXVkRGNrNzVBMTBtbURZWFl3Z2M5TnpCRjZmNVlrbVlHOWdXanU3bmwwTi1iU18?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T05:00:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」 | ＤＯＬ特別レポート ダイヤモンド・オンライン",
-      "summary_bullets": [
-        "日本株はなぜ「AI失望売り」で全面安になったのか",
-        "浮かび上がった「次の主役企業」 | ＤＯＬ特別レポート ダイヤモンド・オンライン"
-      ]
-    },
-    {
-      "id": "4920432a9774",
-      "title": "Unforced Euler singularity, unforced Navier-Stokes singularity, and the Generalized Riemann Hypothesis",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-21T04:03:01+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "Obviously these results will be reported widely in other outlets, but I will note them here, in decreasing order of how “digested” the results currently are: Levent Alpöge, Tristan Buckmaster, and Matei Coiculescu, with heavy AI assistance, have writ",
-      "summary_bullets": [
-        "Obviously these results will be reported wide"
-      ]
-    },
-    {
-      "id": "4558f796c617",
-      "title": "New Relicのアラート対応をClaude Codeで自動修正するワークフローを作った話",
-      "url": "https://speakerdeck.com/manabuseki/new-relic-no-taiou-o-claude-code-de-jidou-shuusei-suru-waku-furo-o-tsukuta-hanashi",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-21T02:42:07+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "自己紹介 関 学(せき まなぶ) 株式会社MIXI みてね事業本部 バックエンドエンジニア 好きな言語は Ruby 主に参加しているコミュニティ #Omotesando.rb / #Roppongi.rb #Tokyu.rb / #RailsTokyo など ©MIXI 2 家族アルバム みてね（2/2） 2015年のリリースから、7言語・175の国と地域で3,000万人以上の方にご利用いただい...",
-      "summary_bullets": [
-        "自己紹介 関 学(せき まなぶ) 株式会社MIXI みてね事業本部 バックエンドエンジニア"
-      ]
-    },
-    {
-      "id": "de0076abb5ee",
-      "title": "Claude Code のログを分析する仕組みを作ったら、hook の問題から Claude Code の不具合 2 件まで切り分けられた",
-      "url": "https://zenn.dev/murooka_az/articles/failure-scan-two-claude-code-bugs",
+      "id": "34168a9c9c81",
+      "title": "Excelのエラー表示、AIに聞くときの「3点セット」：表計算をAIに頼む頼み方",
+      "url": "https://zenn.dev/tenpurekoubou/articles/cc34739277baa1",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-21T02:37:18+09:00",
+      "published_at": "2026-11-22T03:44:33+09:00",
       "category": "モデル・技術",
-      "clean_desc": "Claude Code で同じ失敗が何度も起きると、CLAUDE.md や rule に「こうしない」と一文足したくなります。足しても止まらなければ、言い方を変えてまた足す。なんなら、Claude 自身が CLAUDE.md にどんどん追加しようとします。そうして CLAUDE.md が長くなっていきます。 手元の会話の記録で、止められた呼び出しと失敗した呼び出しをスクリプトで数え、その原因を LLM に分析させてみました。直す価値があると分析が判断したものには、次のようなものがありました。 す",
+      "clean_desc": "「#VALUE!って何？」だけでは、自分の答えは返ってこない Excelやスプレッドシートでエラー表示が出たとき、生成AIに聞く人は多いと思います。でも、「#VALUE!って何？」とだけ聞くと、返ってくるのは一般的な説明だけ。自分の表のどこが悪いのかは分かりません。 精度を分けるのは、渡す材料の3点セットです。 エラー表示（セルの表示そのまま） 入れた関数（セルの中身をコピー） 周辺の状況（周りのセルに何が入っているか、直前に何をしたか） この3つがそろうと、AIの回答が「B2に文字が入っている",
       "summary_bullets": [
-        "Claude Code で同じ失敗が何度も起きると、CLAUDE.md や rule に「",
-        "足しても止まらなければ、言い方を変えてまた足す",
-        "なんなら、Claude 自身が CLAUDE.md にどんどん追加しようとします"
+        "「#VALUE!って何",
+        "」だけでは、自分の答えは返ってこない Excelやスプレッドシートでエラー表示が出たとき、",
+        "でも、「#VALUE!って何"
       ]
     },
     {
-      "id": "9fb3447357ed",
-      "title": "ビットコイン、7月以来初の6万ドル割れ ＡＩ株安でリスク資産に売り - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdWIxREwyUUpnOUdGcHpzQ2p1RW03OTIwOW9aMkRRTXhISW9pa2lUZlBLdnhTdk9ndkk0RHFLM2ZuUThwUWdPT3VGNW1BcExfdzJaTm9BLWx3aGpoRnhEM1Z5QkxHdms0b0ZzcjNqZFo1eUc3bmxDaERkVFd4dw?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-21T02:22:18+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "ビットコイン、7月以来初の6万ドル割れ ＡＩ株安でリスク資産に売り Reuters",
-      "summary_bullets": [
-        "ビットコイン、7月以来初の6万ドル割れ ＡＩ株安でリスク資産に売り Reuters"
-      ]
-    },
-    {
-      "id": "db4238ba00f8",
-      "title": "ClaudeやCursorからBlenderを操作する: Klakix Bridgeアドオンの導入と使い方",
-      "url": "https://zenn.dev/klakix/articles/a10253affc97cf",
+      "id": "e00791c8471a",
+      "title": "LLM出力の壊れたJSONをPython標準ライブラリで決定的に修復・型検証する実装パターン",
+      "url": "https://zenn.dev/inemuri/articles/llm-broken-json-repair-validator",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-21T01:17:18+09:00",
+      "published_at": "2026-11-22T03:07:38+09:00",
       "category": "モデル・技術",
-      "clean_desc": "Claude や Cursor に「いま開いている Blender のシーンを触らせる」ためのアドオン、Klakix Bridge の使い方をまとめます。筆者は Klakix の開発側の人間なので、中立的なレビューではなく、作った側から見た導入ガイドとして読んでください。 Klakix Bridge とは Blender 4.2 以降で動く、無料の GPL-3.0 アドオンです。ホスト型の Klakix MCP サーバーと Blender をつなぎ、MCP クライアント(Claude、ChatG",
+      "clean_desc": "LLMにJSON形式での出力を指示しても、実運用では次のような「あと一歩で壊れているJSON」が必ず混ざります。 前後に説明文や ```json ... ``` のコードフェンスが付く 末尾カンマ（trailing comma）や // コメントが入る シングルクォートや Python の True / False / None が混ざる 最大トークン上限に当たって末尾の } や ] が欠けたまま途切れる これを毎回LLMに「直して」と再プロンプトすると、API費用も遅延も倍増します。そこで L",
       "summary_bullets": [
-        "Claude や Cursor に「いま開いている Blender のシーンを触らせる」た",
-        "筆者は Klakix の開発側の人間なので、中立的なレビューではなく、作った側から見た導入",
-        "Klakix Bridge とは Blender 4.2 以降で動く、無料の GPL-3."
+        "LLMにJSON形式での出力を指示しても、実運用では次のような「あと一歩で壊れているJSO",
+        "前後に説明文や ```json ... ``` のコードフェンスが付く 末尾カンマ（tra",
+        "そこで L"
+      ]
+    },
+    {
+      "id": "44bd1b5c4639",
+      "title": "TechLead Conference 2026 Autumn 参加レポート:テックリードは、エンジニアの上位版ではなかった",
+      "url": "https://zenn.dev/dip_techblog/articles/f3e463cfe79fc3",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-22T01:59:37+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 2026年11月6日、TechLead Conference 2026 Autumn に参加してきました。主催は Eight、会場は有明、12時半から20時半までの一日開催です。650名の枠に当日受付も出ていました。 セッションの要約はしません。自分の立場に当たったところだけ書きます。 自分の立場を先に書いておきます。認証基盤のプロダクトオーナーをしていて、開発組織の運営をしています。手を動かす仕事は減って、決めることと説明することが増えました。 行く前にいちばん知りたかったのは、AI",
+      "summary_bullets": [
+        "はじめに 2026年11月6日、TechLead Conference 2026 Autu",
+        "主催は Eight、会場は有明、12時半から20時半までの一日開催です",
+        "650名の枠に当日受付も出ていました"
+      ]
+    },
+    {
+      "id": "2293d989afd8",
+      "title": "Steamの登録料$100と手数料30%をゼロに！30言語＆29通貨換算対応のゲーム配信ストア『Zteam』を個人開発した",
+      "url": "https://zenn.dev/mcp/articles/6b8f51b13c099b",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-22T01:31:05+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "! TL;DR（3行まとめ） Steam Directの 「1タイトル登録料 $100（約15,500円）＋売上30%徴収＋審査30日待ち」 の壁をなくすため、登録料 ¥0・手数料 0%・即時公開のインディーゲーム配信ストア 『Zteam』 を個人開発して公開しました！ Steam標準の全30言語（インラインSVG国旗ピッカー付き）、全29通貨のブラウザロケール自動為替換算、有料作品向けの BOOTH / Gumroad / itch.io / Patreon 直結リンク、HTML5 / Web",
+      "summary_bullets": [
+        "! TL;DR（3行まとめ） Steam Directの 「1タイトル登録料 $100（約",
+        "Steam標準の全30言語（インラインSVG国旗ピッカー付き）、全29通貨のブラウザロケー"
+      ]
+    },
+    {
+      "id": "b079c1411b2b",
+      "title": "複数のAIに役を分け、機械の関所で確かめる——ひとりで回すAIスタジオの設計と実装",
+      "url": "https://zenn.dev/zeuslab/books/3e4510456deb81",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-22T00:23:13+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "1つのチャット欄にすべてを任せていた頃、当方では同じ見落としが繰り返されました。構想・構造・実装・独立検の役を分け、議論の余地がないことはAIを使わない小さなプログラムに任せる。ひとりで事業を回すための設計を実際に動いているフックのコードと、うまくいかなかった判断の記録と一緒にまとめました。",
+      "summary_bullets": [
+        "1つのチャット欄にすべてを任せていた頃、当方では同じ見落としが繰り返されました",
+        "構想・構造・実装・独立検の役を分け、議論の余地がないことはAIを使わない小さなプログラムに",
+        "ひとりで事業を回すための設計を実際に動いているフックのコードと、うまくいかなかった判断の記"
+      ]
+    },
+    {
+      "id": "c479bab39990",
+      "title": "月3,000回の無料枠で、「AIに任せないこと」を先に決めた。猫耳秘書と宇宙を旅した話",
+      "url": "https://zenn.dev/nanako1129/articles/799de43c4e556c",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-22T00:00:06+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "無料枠でAIを使うとしたら何をする？ 最近、個人開発でゲームを作っています。 さて、さくらのAI Engineの無料枠を使って何をしてみようか？ 今回は、個人で作っているブラウザゲームに、さくらのAI Engineで「喋れるAI秘書」を入れました。 秘書って、現実だといろんなことを相談しますよね？でも私が作っているゲームだと、同じ答えしかできない。AIで自然に会話させてみたいなと常々思っていました。 今回、やってみて一番大事だったのは、APIのつなぎ方ではなく、AIに何を任せないかを先に決めるこ",
+      "summary_bullets": [
+        "無料枠でAIを使うとしたら何をする",
+        "最近、個人開発でゲームを作っています",
+        "さて、さくらのAI Engineの無料枠を使って何をしてみようか"
+      ]
+    },
+    {
+      "id": "bcce70527cd3",
+      "title": "Antigravityの調子が良いので全部の作業を任せてみた話",
+      "url": "https://zenn.dev/ququla89/articles/antigravity-is-better-now-i-think",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-21T23:59:22+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 皆様こんにちは！‍​‌‌‌​‌​​​‌‌​​‌​‌​‌‌‌‌​​​​‌‌‌​‌​​​​‌​‌‌​‌​‌‌‌​​‌‌​‌‌​‌​​​​‌‌​‌​​‌​‌‌​​‌​‌​‌‌​‌‌​​​‌‌​​‌​​​​‌‌‌​‌​​‌‌‌​‌‌​​​‌‌​​​‌​​‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​​‌​​‌‌​​​​‌​‌‌‌​‌​‌​‌‌‌​‌​​​‌‌​‌​​​​‌‌​‌‌‌‌​‌‌‌​​‌​​​‌​​​‌​​​‌‌‌​‌​​​‌​​​‌​​‌​‌​​​‌​‌‌‌​‌​‌​‌​‌​​​‌​‌‌‌",
+      "summary_bullets": [
+        "はじめに 皆様こんにちは",
+        "‍​‌‌‌​‌​​​‌‌​​‌​‌​‌‌‌‌​​​​‌‌‌​‌​​​​‌​‌‌​‌​‌‌‌"
       ]
     }
   ]
