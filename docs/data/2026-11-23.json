@@ -1,0 +1,389 @@
+{
+  "updated_at": "2026-11-23 10:10 JST",
+  "date": "2026年11月23日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "598e09cff62c",
+      "title": "機密かどうかを AI に聞く前に、自前の regex で伏せる ── 判断モデルを比べた結果と、本番への組み込み",
+      "url": "https://qiita.com/chooser/items/fac17f40dac121e38286",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-23T10:01:47+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "上原正吉（EarthLink Network Co., Ltd.）。Claude Codeを開発の主体に据え、20を超えるプロダクトを1人で同時に開発・運用しています。これは、その現場の実測記です。 機密かどうかを AI に聞く前に、自前の regex で伏せる ── ...",
+      "summary_bullets": [
+        "上原正吉（EarthLink Network Co., Ltd.）",
+        "Claude Codeを開発の主体に据え、20を超えるプロダクトを1人で同時に開発・運用し",
+        "これは、その現場の実測記です"
+      ]
+    },
+    {
+      "id": "35653e120329",
+      "title": "エンタープライズ業務エージェントにおける状態永続化と例外ルール継承の設計パターン（ステートレスLLMの文脈欠落対策）",
+      "url": "https://qiita.com/derekwang8866/items/a46200daf0fad7a2948c",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-23T09:53:46+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 業務ワークフローへLLMエージェントを組み込む際、PoC段階では単発プロンプトで順調に動いた処理が、実運用に入った途端に「部署特有の例外規定を忘れる」「前回承認された差戻し条件を引き継げない」といった不具合を起こすケースが少なくありません。 本記事では、商用の受...",
+      "summary_bullets": [
+        "はじめに 業務ワークフローへLLMエージェントを組み込む際、PoC段階では単発プロンプトで",
+        "本記事では、商用の受..."
+      ]
+    },
+    {
+      "id": "c72d3b428f7c",
+      "title": "韓国KOSPI、高値から47%急落でも「4300まで下げ余地」…AI収益性への疑念が起爆剤に - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CanFtVHFkNnZLaENhLUotNEtYZEUwS1VjOHUtdEhQZnhDVElSejI1UVpGT1NlX2RaX0o2MWNVcTBaUFZGUmc4NmFxV2hLZUY5d2ZlUzJyQ3lGZDVEUTVmZHBQV0laempubmczUjZFR29oeU5f?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T09:35:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "韓国KOSPI、高値から47%急落でも「4300まで下げ余地」…AI収益性への疑念が起爆剤に BigGo ファイナンス",
+      "summary_bullets": [
+        "韓国KOSPI、高値から47%急落でも「4300まで下げ余地」…AI収益性への疑念が起爆剤"
+      ]
+    },
+    {
+      "id": "cb1852a92777",
+      "title": "AIの危険性を訴える投資家、アンソロピック上場で資産約2.9兆円に増加 - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vbzdHRDVqaS0xaTQ1QWhnN0MteFYwOEhhSmVmQXBocjBkZ1dwSzFxdElIaW5zR3hCWWlpbm5TN3B1T2ZLWE1icVBfWWNaOXE5NzhyWTBzYnE4dw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T09:30:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIの危険性を訴える投資家、アンソロピック上場で資産約2.9兆円に増加 Forbes JAPAN",
+      "summary_bullets": [
+        "AIの危険性を訴える投資家、アンソロピック上場で資産約2.9兆円に増加 Forbes JA"
+      ]
+    },
+    {
+      "id": "4f30026bc6f1",
+      "title": "帝国データバンク調査、正社員不足が53.6%と10月で5年連続5割超｜現場の帳票・伝票入力を減らす自動化の3ステップ",
+      "url": "https://qiita.com/DnD-inc/items/2631358c0010946b2a38",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-23T09:28:42+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "帝国データバンク調査、正社員不足が53.6%と10月で5年連続5割超｜現場の帳票・伝票入力を減らす自動化の3ステップ 本記事は、株式会社DnD（https://dnd-inc.jp）のコラムを一部編集して掲載しています。 初出: https://dnd-inc.jp/b...",
+      "summary_bullets": [
+        "帝国データバンク調査、正社員不足が53.6%と10月で5年連続5割超｜現場の帳票・伝票入力",
+        "初出: https://dnd-inc.jp/b..."
+      ]
+    },
+    {
+      "id": "51d410ce8260",
+      "title": "米オラクル、オープンＡＩ向けインフラ契約の資金全額確保（ロイター） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VVy15cFBzVnpodTROUmpZQXZtWHpjbEc4RGVHOTE2OGRxRWJWczUwTGg1d21fVWFrcVhwVTFEZG5LSVFmd2lqVjdGWlFLdWx1TDJabHB2NS1iSno3TnN0cE9LTGNZdXk1SWRyUzFxRW5EbGtmbkZPZ3BreWpuNDQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T09:02:26+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米オラクル、オープンＡＩ向けインフラ契約の資金全額確保（ロイター） Yahoo!ニュース",
+      "summary_bullets": [
+        "米オラクル、オープンＡＩ向けインフラ契約の資金全額確保（ロイター） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "366219ba8660",
+      "title": "米オラクル、オープンＡＩ向けインフラ契約の資金全額確保 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNU1waWVDWXV0VER2SmpZbWJmeUVOZ0RiMERnZ1ZLZXZQakVfWWtuMFBra2hGcHZGcnlsTFZIN0toZGhUcUxMV1dncVNJcVpDX0R2R1dWN0M4WHlwOU52Ym5nbVJqU21xQTJRa2UwSWV4SllxMU9NYmxPal9VRlhybVJKM0E5Zw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T09:02:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米オラクル、オープンＡＩ向けインフラ契約の資金全額確保 Reuters",
+      "summary_bullets": [
+        "米オラクル、オープンＡＩ向けインフラ契約の資金全額確保 Reuters"
+      ]
+    },
+    {
+      "id": "1a91ec541efb",
+      "title": "ドル円見通し｜AI好決算でも世界株急落、NASDAQ5.28％安 米金利低下で158円台へ【相場の現在地】 - 外為どっとコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PRlhjNk44QjdXVEZuSVR3RTZ0NGQ1SmdNLURkUHlLTGhKZ3RXYy1Ndk1JUUFqMDAxS2hSeGgxV3NKcHkxVDEtaHZ4blFJcTgxS3JBcWNEUmRuUE9tR2pYanh1VQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ドル円見通し｜AI好決算でも世界株急落、NASDAQ5.28％安 米金利低下で158円台へ【相場の現在地】 外為どっとコム",
+      "summary_bullets": [
+        "ドル円見通し｜AI好決算でも世界株急落、NASDAQ5.28％安 米金利低下で158円台へ"
+      ]
+    },
+    {
+      "id": "7082a5fa74b2",
+      "title": "AIに頼むのは「人に仕事を任せる」のと同じだった ― 頼まれる側の人に読んでほしい、AIとのやりとりで気付いたこと",
+      "url": "https://qiita.com/delta_net/items/2ad1806de475014c9068",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-23T08:59:52+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "はじめに 「AIを使って」と言われたとき、何を頼めばいいか分からなくて困ったことはありませんか。試しに頼んでみても思ったものが返ってこず、自分の頼み方が悪いのか、AIのせいなのか、よく分からないまま使うのをやめてしまった、という人もいると思います。 私はAIを使い始めてか...",
+      "summary_bullets": [
+        "はじめに 「AIを使って」と言われたとき、何を頼めばいいか分からなくて困ったことはありませ",
+        "試しに頼んでみても思ったものが返ってこず、自分の頼み方が悪いのか、AIのせいなのか、よく分",
+        "私はAIを使い始めてか..."
+      ]
+    },
+    {
+      "id": "863af8bf5eaa",
+      "title": "フィリピン超えて第三国へ…韓米がAI・半導体共同進出を検討（中央日報日本語版） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uOUhPM1lkRk5jd3ZDS0ROYTlDQUlub0h4SVpMTzlEeU1kYTZRejJwa2dGSmdsY09HV2dzQUJGRkR3VmtnQnlsenkwQTlUYkppeDFRRkZmOVVaUXdKbDRxNDZVMkh6bGxOUWd5bnVSMzJhcll6aEsxSTRYRkdBbm8?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T08:56:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "フィリピン超えて第三国へ…韓米がAI・半導体共同進出を検討（中央日報日本語版） Yahoo!ニュース",
+      "summary_bullets": [
+        "フィリピン超えて第三国へ…韓米がAI・半導体共同進出を検討（中央日報日本語版） Yahoo"
+      ]
+    },
+    {
+      "id": "a34df1a1fbcd",
+      "title": "年末商戦の個人消費に関心、ＡＩ銘柄売り収まるきっかけにも＝今週の米株式市場 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNm1sc04xREJodmZvWnB5NGZfV0NCN1U3MlFTdmJ6dUpmemJEa1ROTm9pN2xtV0ZQS3pHQVNac21LOHJXSEhxbFljbDR4QzB6bHB1VWhOZXVlRF9ZdlZ5UWNBZjdGT0taVHVULVFpU083cjBWMTAzQy1iLWV0a0Q0V0VzRzYzZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T08:53:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "年末商戦の個人消費に関心、ＡＩ銘柄売り収まるきっかけにも＝今週の米株式市場 Reuters",
+      "summary_bullets": [
+        "年末商戦の個人消費に関心、ＡＩ銘柄売り収まるきっかけにも＝今週の米株式市場 Reuters"
+      ]
+    },
+    {
+      "id": "f7820b022637",
+      "title": "年末商戦の個人消費に関心、ＡＩ銘柄売り収まるきっかけにも＝今週の米株式市場（ロイター） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rekxVNi1kb0d0c1hMekZpajl4MkxoZS1NYzJSYkdmVkpGSzBXNWM4ZHFzWFR5aU1uZzV4UlJ1NnBLcVQwWDZIQWRQaEQ0UHdjb0F2ZXBIenFJbzdIb2ZwVWJoRDgwUzRXc1B3SU5GazdvZGd5OHowbEtpWlRjbDA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T08:52:47+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "年末商戦の個人消費に関心、ＡＩ銘柄売り収まるきっかけにも＝今週の米株式市場（ロイター） Yahoo!ニュース",
+      "summary_bullets": [
+        "年末商戦の個人消費に関心、ＡＩ銘柄売り収まるきっかけにも＝今週の米株式市場（ロイター） Y"
+      ]
+    },
+    {
+      "id": "f8bbefd88d91",
+      "title": "AIでエンタメ制作は低コスト化 収益性は高まるのか - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OQ19TNmZ5dlo3NzR2VW1IUEhmVktOODZINEx2UU4xdmg4c3dNUWlUd01LeWpET0RRME9PZ25vUkpOZVdycXM3Y3hGVEYzOUhlODJON2hwUHloZw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T08:36:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIでエンタメ制作は低コスト化 収益性は高まるのか Forbes JAPAN",
+      "summary_bullets": [
+        "AIでエンタメ制作は低コスト化 収益性は高まるのか Forbes JAPAN"
+      ]
+    },
+    {
+      "id": "377f52d3c3ec",
+      "title": "今まで通り真面目に働く社員が組織の足かせに AI先進企業で何が起きているか - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zUHljU1Iyd3owbkpNbUYtN05zQjVuOUNKNzZxaUltVGp2bXFEZlJkblNmT25EYlpEMXJ0M09XdWlocTdQeWxhS2xQREtKb3Y5LUxWUTVTckpNSnhfUjZTaUZOWGg1dTFY?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T08:12:14+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "今まで通り真面目に働く社員が組織の足かせに AI先進企業で何が起きているか 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "今まで通り真面目に働く社員が組織の足かせに AI先進企業で何が起きているか 株式会社エクサ"
+      ]
+    },
+    {
+      "id": "e225fbae5542",
+      "title": "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\"を再び生み出せるか - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rLV9fdE43al9NT2lfV1VxemEwVFdLOE5fVjd6TnlRMldUMWpOWVNzVXg3VW12WVd5bXJuVzdSRDVRSTFJZ2lyd1JmdzVCSGw5M0NBcHVPbTN1ZXM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\"を再び生み出せるか 東洋経済オンライン",
+      "summary_bullets": [
+        "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\""
+      ]
+    },
+    {
+      "id": "ae7164781c3e",
+      "title": "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\"を再び生み出せるか - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UT0pDRTJJWFh1aTVKc2ZwcEF1c0IyUEhWREhfQ01jY2J6TW9EcWpUcTZuODIyMnNYbXk4cF9GVTBFY1M3Y3hiTGlTanYwNnM2WHdHN1ZiOFJlSnc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\"を再び生み出せるか 東洋経済オンライン",
+      "summary_bullets": [
+        "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\""
+      ]
+    },
+    {
+      "id": "a859f3324cda",
+      "title": "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\"を再び生み出せるか - 東洋経済オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5temJZcnJSM0ZVVHNBT1BsbnpRUlMxdXM4X2U0RGV1alFIaDlvOGpMN0wxdml6MDNXSV92NlMwekZwRnhPbnM1anFqc2xucnhEZDc3ZVhGWHZ3MmU2X3R3?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\"を再び生み出せるか 東洋経済オンライン",
+      "summary_bullets": [
+        "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\""
+      ]
+    },
+    {
+      "id": "fffefc037f85",
+      "title": "「法学試験満点」でAI不正疑惑の男性…韓国警察「不正の有無」と「関与した人物」の捜査継続（KOREA WAVE） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMLTBIRENmUW1xMzZpUHVRUEpKWHZWS1NGbXM4ZGJTX1lhNVREWXR0VlNLS0daTThjVU5DNjdwOTk2eVhFUk04bTZmd0FfSnp2WF84eF9YOGN4eFhrYm9MMnhPUU8wSW5neGVidEtTSDQwMVJwYTQ1Rno3aTRDNUk?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T07:55:15+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「法学試験満点」でAI不正疑惑の男性…韓国警察「不正の有無」と「関与した人物」の捜査継続（KOREA WAVE） Yahoo!ニュース",
+      "summary_bullets": [
+        "「法学試験満点」でAI不正疑惑の男性…韓国警察「不正の有無」と「関与した人物」の捜査継続（"
+      ]
+    },
+    {
+      "id": "328cf6307f6d",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」（ITmedia NEWS） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMZzQ3Sm5VU3BIdEFuTEMzdXlDNjdaYjNTWHA0TXJmZ1ZFUUY2cG5RQ3cxNTFfMm56X0RldGhmTFhOb0QtY3l6ZmFCUzk5WjNRaHI4bGxIQzQtaGZVb2NoMnkta29BV1VOQkg0MmdBZ1h3elVMYTNhM3pDTEduQ0U?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T07:54:54+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」（ITmedia NEWS） Yahoo!ニュース",
+      "summary_bullets": [
+        "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレ"
+      ]
+    },
+    {
+      "id": "bcf27e31da5b",
+      "title": "「2027年に世界最大級のAIインフラ企業へ」SpaceXが発電設備まで内製化する理由 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zdEVPZ01QelJadkRZVEhublJQa2R4S09aV3NtTjQ2dGVGak01TWwwbWFlajBxZkwwOVZudk1QWEVaS0R6Tmx5YkVrRkM3amNrR1VQNkNXaW1sdTRmd3YzcTRKel9hdw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T07:41:49+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「2027年に世界最大級のAIインフラ企業へ」SpaceXが発電設備まで内製化する理由 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "「2027年に世界最大級のAIインフラ企業へ」SpaceXが発電設備まで内製化する理由 株"
+      ]
+    },
+    {
+      "id": "e581af5a4933",
+      "title": "AIの答えを“理解せずに”信じる時代へ…元米国務長官の警告と、人間が戻りかねない新たな「闇」とは？（文春オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oV2hiY29Nenh0TnVpUEpfbWR4RmNTam9oSnRGTVIzZWZ3aUp3azUzUjVVVEhJNG5md21RTDhxU2U5QWVCckV4aWFqeDA3Wm5EbFBxb3FPcXduNVBvczhmQm0tb3hRanA3U0lFNkVkdDcycjl2b0c4Ql94NFItSTg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T07:28:32+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIの答えを“理解せずに”信じる時代へ…元米国務長官の警告と、人間が戻りかねない新たな「闇」とは？（文春オンライン） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIの答えを“理解せずに”信じる時代へ…元米国務長官の警告と、人間が戻りかねない新たな「闇",
+        "（文春オンライン） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "66e89a252697",
+      "title": "「GTA 6」は人間が制作したが、パブリッシャーは管理業務でのAI活用を全面的に支持する - Business Insider Japan",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTlBRUFBDejN1a2wzeXJsQkEtOUY0eDJ3TVZ1WEppakZDZ1JlcWJlUV9DWm9EQ0t1Z1JUZUNSaURzWlhRa1ZCZ2VpNFE1QWZ2cUYzbllpbXhLVzJjendSUlhrYV8xZkloT200TlFSclhDSF9Bek9WMEs5aU5PenlZajBUT1I2WmVoOThMU2s2Q3lyOWtVYzlYZUJGV2pKOEJ1?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T07:15:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "「GTA 6」は人間が制作したが、パブリッシャーは管理業務でのAI活用を全面的に支持する Business Insider Japan",
+      "summary_bullets": [
+        "「GTA 6」は人間が制作したが、パブリッシャーは管理業務でのAI活用を全面的に支持する "
+      ]
+    },
+    {
+      "id": "7558fd4d9d3d",
+      "title": "消費者の74％、買い物でAIエージェントのアドバイスを信頼--Salesforce調査 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Zb3hXdUtWQjZYLTdoODEydGV1WE80SmlreksxNlZodDJGbm1QaG1HQjh0ZjUtOFFSX1hkWlJueHctSHpIZkNwLTE2RGpyMTFxcy0w?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "消費者の74％、買い物でAIエージェントのアドバイスを信頼--Salesforce調査 ZDNET Japan",
+      "summary_bullets": [
+        "消費者の74％、買い物でAIエージェントのアドバイスを信頼--Salesforce調査 Z"
+      ]
+    },
+    {
+      "id": "ac3e3d8ff9c7",
+      "title": "AIが死んでも脳オルガノイドは生きている - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GWUZRY1A0M2lMRzVya3FWVThqRU43d1RMeUdYNmRQVWtLbU11bk5GZEZjNHkzQ1BUR1lMZGlHWXk3OEhyNVotZ3JQT2trWERaZDB6YnJ3aThJUGlBampiVFpCeU5Zb01OLTUyMzNwQ1BWeTNhX2w3M1VyVQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-23T07:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIが死んでも脳オルガノイドは生きている WIRED.jp",
+      "summary_bullets": [
+        "AIが死んでも脳オルガノイドは生きている WIRED.jp"
+      ]
+    },
+    {
+      "id": "ef217f878c7c",
+      "title": "LLMが勾配なしで重みを書き換える「Self-Rewriting」の仕組みとリスク",
+      "url": "https://zenn.dev/nalt/articles/llm-self-rewriting-weights-arxiv-2611",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-23T02:21:40+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "「モデルの弱点を直すには、重い GPU で勾配を回すか、推論時に高いトークン代を払い続けるしかない」――そう思い込んでいませんか？ 実は 「学習と推論の壁」は知能の制約ではなくツールの制約にすぎず、27B のオープン LLM が勾配計算ゼロ・推論のみ（CPU 上の Python 編集）で自分の重みを書き換えて +6.6 ポイント賢くなる ことが実証されました（Jiajun Fan ら, arXiv:2611.21885, 2026年11月）。 ! tl;dr; 何が起きたか: 27B モデル（Q",
+      "summary_bullets": [
+        "「モデルの弱点を直すには、重い GPU で勾配を回すか、推論時に高いトークン代を払い続ける",
+        "実は 「学習と推論の壁」は知能の制約ではなくツールの制約にすぎず、27B のオープン LL",
+        "! tl;dr; 何が起きたか: 27B モデル（Q"
+      ]
+    },
+    {
+      "id": "0f374c46fd09",
+      "title": "Keep the Title Lockup, Change the Genre Art: Book Cover Series",
+      "url": "https://zenn.dev/andytanlinks/articles/b631f156f08358",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-23T00:34:58+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "A small press often has to show a series before every illustration is finished. The typography lockup is already approved: the title, the author name, the imprint mark, and the trim are in the right places, in the typefaces the designer will defend i",
+      "summary_bullets": [
+        "A small press often has to show a series befo"
+      ]
+    },
+    {
+      "id": "4647d182b4ad",
+      "title": "サブエージェントに調査を丸投げする型：Exploreと自作エージェントで本体の文脈を汚さない",
+      "url": "https://zenn.dev/aizangyobu/articles/claude-code-subagent-chousa",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-23T00:26:20+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "結論：調べものは別窓のエージェントに投げ、本体には要約だけを持ち帰らせる コードベースの調査を本体の会話でやると、読んだファイルの中身がそのまま文脈に積もり、やがて本題の指示が埋もれます。サブエージェントはこの問題の答えです。調査は別の文脈ウィンドウで走らせ、返ってくるのは要約だけ。本体はきれいなまま、次の判断に集中できます。扱うのは、組み込みExploreの使い分けと、調査専用エージェントの定義ファイルです。 サブエージェントとは何か サブエージェントとは、特定の種類の作業を扱う専用のAIアシ",
+      "summary_bullets": [
+        "結論：調べものは別窓のエージェントに投げ、本体には要約だけを持ち帰らせる コードベースの調",
+        "サブエージェントはこの問題の答えです",
+        "調査は別の文脈ウィンドウで走らせ、返ってくるのは要約だけ"
+      ]
+    },
+    {
+      "id": "df656685ec07",
+      "title": "Claude CodeのHooksでテストと整形を自動で回す：PostToolUseとPreToolUseの実践レシピ",
+      "url": "https://zenn.dev/aizangyobu/articles/claude-code-hooks-jidouka",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-23T00:26:19+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "結論：頼んだ後の「仕上げ」をHooksに任せると、確認の手間が消える Claude CodeのHooksは、セッションの特定のタイミングで自動実行されるコマンドです。ファイル編集の直後に整形ツールを走らせるPostToolUse、危険なコマンドの実行前に止めるPreToolUse、応答の終わりにテストを走らせるStop。この3つを仕込んでおくと、「書かせたあと整形し直す」「実行前にコマンドを目視で確認する」という手作業が消え、レビューに集中できます。以下、設定ファイルの置き場所から順に、コピーし",
+      "summary_bullets": [
+        "結論：頼んだ後の「仕上げ」をHooksに任せると、確認の手間が消える Claude Cod",
+        "ファイル編集の直後に整形ツールを走らせるPostToolUse、危険なコマンドの実行前に止",
+        "この3つを仕込んでおくと、「書かせたあと整形し直す」「実行前にコマンドを目視で確認する」と"
+      ]
+    },
+    {
+      "id": "b97231e10b06",
+      "title": "AIに「説明して」と頼むと長文が返ってくる。説明を動画で作らせたら、中で起きていることをすぐ追えるようになった",
+      "url": "https://zenn.dev/viewsengineer/articles/ai-output-video-explainer",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-23T00:26:05+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AI にコードを書かせて、「説明して」と頼む。長い文章が返ってきます。合っていそうです。でも、読んでも頭に絵が浮かびません。 説明を文章ではなく動画で作らせてみたら、中で起きていることを、すぐに追えるようになりました。 題材は選びません。どんな難問をやらせても、どんなに専門外のことをやらせても、AI のやっていることが、短い時間で分かるようになります。 この記事では、同じコードについて「文章の説明」と「動画の説明」を並べて見せたあと、その動画を作る仕組みを書きます。画面を「時刻 t の関数」とし",
+      "summary_bullets": [
+        "AI にコードを書かせて、「説明して」と頼む",
+        "長い文章が返ってきます",
+        "合っていそうです"
+      ]
+    },
+    {
+      "id": "8bed2eb912aa",
+      "title": "When the Age Lines Disappear Against the Brief: Casting Portraits",
+      "url": "https://zenn.dev/andytanlinks/articles/dc7e0e19bd31cf",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-23T00:01:54+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "A casting portrait is a brief about time. You asked for a principal in their sixties: lived-in skin, nasolabial folds that stay in a three-quarter turn, crow's feet that do not vanish when the face is at rest, grey at the temples, and a neck that mat",
+      "summary_bullets": [
+        "A casting portrait is a brief about time. You"
+      ]
+    }
+  ]
+}
