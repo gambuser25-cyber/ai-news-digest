@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 14:01 JST",
+  "updated_at": "2026-11-24 21:41 JST",
   "date": "2026年11月24日",
   "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
   "total_count": 30,
@@ -11,408 +11,394 @@
   ],
   "articles": [
     {
-      "id": "48d47851182b",
-      "title": "【Muse活用法】Instagramの保存投稿約1,900件をMuseに整理させた話",
-      "url": "https://qiita.com/hiroomi0910/items/6e59ccd8b548ac4e06d1",
+      "id": "8f4c6669a9fb",
+      "title": "エージェントの依存関係こそ新しい攻撃面だ",
+      "url": "https://qiita.com/0xNurstar/items/e083e75605de7601f03e",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-24T13:37:33+09:00",
+      "published_at": "2026-11-24T21:37:10+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに Instagramの「保存」が1,900件を超えてカオスになっていた。 昔作ったコレクションには入っているものもあるけれど、命名がバラバラで、そもそも大半は未分類のまま。手作業で1件ずつ振り分ける気力はない。 そこで、AIエージェント（Muse）に「明確な名前の...",
+      "clean_desc": "この記事について 本記事は、aeon 公式ブログの Your Agent's Dependencies Are the New Attack Surface（2026年11月18日）を日本語に翻訳したものです。 訳者は aeon の Growth コントリビューターであり...",
       "summary_bullets": [
-        "はじめに Instagramの「保存」が1,900件を超えてカオスになっていた",
-        "昔作ったコレクションには入っているものもあるけれど、命名がバラバラで、そもそも大半は未分類",
-        "手作業で1件ずつ振り分ける気力はない"
+        "この記事について 本記事は、aeon 公式ブログの Your Agent's Depend",
+        "訳者は aeon の Growth コントリビューターであり..."
       ]
     },
     {
-      "id": "7cb1c1affb1c",
-      "title": "女子中学生が発明した「海底のゴミ箱」、マイクロプラの96%を生まれる前に食い止める | ギズモード・ジャパン",
-      "url": "https://www.gizmodo.jp/article/2611-underwater-trash-can-microplastics/",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-24T13:24:03+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "海の底にゴミ箱。 ハンガリーの女子中学生、ラウラ・イヴァーンカさんが考えた「DIVE&CLEAN」が「ストックホルム青少年水大賞2026」で、審査員特別賞を受けました。 本人のモデルによる試算では、マイクロプラスチックの96%を、生まれる前に食い止められるといいます。 ラウラさんは8歳からのダイバー。家族旅行で何度も...",
+      "id": "1478a8437784",
+      "title": "【冨永愛の伝統to未来 第二章】「江戸小紋 ＡＩと伝統の融合」ＢＳ日テレで11月25日 最新技術との共創が生み出す新しい美 - 美術展ナビ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QQ0M5Wm5wWDRGWU1pdmFTOXlVN0dRdWZHaGxFeGF4bk9Nc2JJTDdYM3NpUFpQdVlTMDY2bkZWd3ZwVDJOd3g4THVYUzEyVmZrcnJEQWRSQlcyX0thTDZ0eVNPdEcxdGw3?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T21:31:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【冨永愛の伝統to未来 第二章】「江戸小紋 ＡＩと伝統の融合」ＢＳ日テレで11月25日 最新技術との共創が生み出す新しい美 美術展ナビ",
       "summary_bullets": [
-        "海の底にゴミ箱",
-        "ハンガリーの女子中学生、ラウラ・イヴァーンカさんが考えた「DIVE&CLEAN」が「ストッ",
-        "本人のモデルによる試算では、マイクロプラスチックの96%を、生まれる前に食い止められるとい"
+        "【冨永愛の伝統to未来 第二章】「江戸小紋 ＡＩと伝統の融合」ＢＳ日テレで11月25日 最"
       ]
     },
     {
-      "id": "b0275d43bc05",
-      "title": "# 【第071回】2chなのにMarkdownテーブル！？スペック比較表やスコア表が綺麗に描画できる表組み記法",
-      "url": "https://qiita.com/Waipe/items/15401a177ea02ba3f0d2",
+      "id": "f0f39135a154",
+      "title": "前もって勉強しなくても語学を学べるように、Claudeに1,893枚のフラッシュカードを書き直させた",
+      "url": "https://qiita.com/polopopi/items/90de657007155cdf399f",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-24T13:16:03+09:00",
+      "published_at": "2026-11-24T21:25:30+09:00",
       "category": "モデル・技術",
-      "clean_desc": "こんにちは！2ちゃんねる互換掲示板システム「 つゔぁいちゃんねる（2ch.biz） 」の開発録、第71回です。 第70回で、完全SSRとGoogle構造化データを実装し、スレッド内の全テキストが検索エンジンに完璧にインデックスされるようになりました。 しかし、スレッドでPC...",
+      "clean_desc": "JLPT（日本語能力試験）に向けて勉強しています。 試験で勉強しなければならないものの一つが、漢字と語彙です。 多くの人はフラッシュカードで勉強していて（私の思い込みだけに基づいた統計です）、特にAnkiのようなフラッシュカードアプリがよく使われています。 こうしたアプリは...",
       "summary_bullets": [
-        "こんにちは",
-        "2ちゃんねる互換掲示板システム「 つゔぁいちゃんねる（2ch.biz） 」の開発録、第71",
-        "第70回で、完全SSRとGoogle構造化データを実装し、スレッド内の全テキストが検索エン"
+        "JLPT（日本語能力試験）に向けて勉強しています",
+        "試験で勉強しなければならないものの一つが、漢字と語彙です",
+        "多くの人はフラッシュカードで勉強していて（私の思い込みだけに基づいた統計です）、特にAnk"
       ]
     },
     {
-      "id": "dd8a7e806f84",
-      "title": "他アプリ操作をレシピ化したapp.actの実装と撤去",
-      "url": "https://qiita.com/RYOITABASHI/items/1211f0027d340ac6fa0b",
+      "id": "91602336da64",
+      "title": "住友ゴムとNEC、AIエージェントが部門交渉 タイヤ開発の調整9割短縮へ - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uU3YzTHN6WGRJbUxMSlFjY2tHelQtTFZaREU4ck5QS0hHTGMyNXc4RTd3UjdnUE03WU5RbHMxbk50ME9NUzBJajNEeWRLcWJEbFA2c19NejRmbUdqSVVwbGQ3MFFtZ2phNWlONjBEMGFaOXN0?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T21:25:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "住友ゴムとNEC、AIエージェントが部門交渉 タイヤ開発の調整9割短縮へ BigGo ファイナンス",
+      "summary_bullets": [
+        "住友ゴムとNEC、AIエージェントが部門交渉 タイヤ開発の調整9割短縮へ BigGo ファ"
+      ]
+    },
+    {
+      "id": "b227a8892c2a",
+      "title": "探す、作る、作業してもらう ― AIに置き換えてもいいけれど、知っておきたい簡単な仕組み",
+      "url": "https://qiita.com/delta_net/items/8d56f70721bf5ed694b8",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-24T13:10:12+09:00",
+      "published_at": "2026-11-24T21:21:36+09:00",
       "category": "モデル・技術",
-      "clean_desc": "この記事は Zenn で先に公開しています: https://zenn.dev/ryoitabashi/articles/2026-11-23-dev-ja 画像は AI 生成のイメージです Shellyのapp.actは、LINEとXを操作するために実装されたが、実...",
+      "clean_desc": "はじめに 調べものをするとき、検索の代わりにAIに聞くことが増えてきた方に向けて書いています。「答えがとても自然な文章なのに、なぜか間違っていることがある」「同じことを聞いたのに、前と違う答えが返ってきた」――そんな経験をしたことはないでしょうか。 第1回では、AIの仕組...",
       "summary_bullets": [
-        "この記事は Zenn で先に公開しています: https://zenn.dev/ryoit"
+        "はじめに 調べものをするとき、検索の代わりにAIに聞くことが増えてきた方に向けて書いていま",
+        "「答えがとても自然な文章なのに、なぜか間違っていることがある」「同じことを聞いたのに、前と",
+        "第1回では、AIの仕組..."
       ]
     },
     {
-      "id": "2005191b9830",
-      "title": "【2026年版】Claude Code CLIにおすすめのMCPプラグイン｜ハルシネーション防止＆作業効率化",
-      "url": "https://qiita.com/goyle/items/dbe97dd50e6544b40757",
+      "id": "8a3c990e5951",
+      "title": "AWS Quickにファイルを読ませると、データはどこへ行く？ セキュリティの仕組みを整理する",
+      "url": "https://qiita.com/somasun_aws/items/d6981d50cc6e377c6d64",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-24T12:50:21+09:00",
+      "published_at": "2026-11-24T21:12:17+09:00",
       "category": "モデル・技術",
-      "clean_desc": "この記事は、筆者が Zennに投稿した記事 の転載です。 はじめに Claude Code CLIを使っていて、こんな経験はありませんか？ 存在しないAPIやメソッドを提案される（ハルシネーション） 古いライブラリのドキュメントを元にしたコードが生成される 複雑...",
+      "clean_desc": "本記事の内容は2026年11月12日時点のAWS公式ドキュメントに基づきます。最新情報は参考資料のリンク先で確認してください。 AWS Quickは、旧称Amazon Quickです。 1. はじめに 前回の記事「Amazon Quickのファイル、どこに置く？」では...",
       "summary_bullets": [
-        "この記事は、筆者が Zennに投稿した記事 の転載です",
-        "はじめに Claude Code CLIを使っていて、こんな経験はありませんか",
-        "存在しないAPIやメソッドを提案される（ハルシネーション） 古いライブラリのドキュメントを"
+        "本記事の内容は2026年11月12日時点のAWS公式ドキュメントに基づきます",
+        "最新情報は参考資料のリンク先で確認してください",
+        "AWS Quickは、旧称Amazon Quickです"
       ]
     },
     {
-      "id": "55312c395305",
-      "title": "【ブラックフライデーで買いたいUdemyのAI関連講座】Claude Code、MCP、ハーネス設計など、AIとコーディングエージェントを「使いこなす」ための人気講座をまとめてレビュー！ - はてなニュース",
-      "url": "https://hatenanews.com/articles/2026/11/24/093000",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-24T09:49:11+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "▼大定番のClaude Codeを使い倒す！サブエージェント、カスタムスキル、カスタムフックなど応用を学ぶ ▶サブエージェントを「定義する」「指示する」書き方から学ぶマルチエージェント サブエージェント活用の重要なポイント、プロンプトの記述をハンズオンで学ぶ Git Worktree、エージェントチームなど、複数エージェン...",
+      "id": "38a277c89e22",
+      "title": "住友ゴム工業とNEC、AIに部門間調整を任せる タイヤ開発の調整期間を約90％短縮へ（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rUXJuNmpVQnA2TWx4b2Z4aVBDWGV4ckx3MG1rN2s0WVphMU9qRnYxM2t5VlBLamdMNWhMT0FJTzF6b0dyX096VVI0UXd5RnJYd1RhZGEyYmNQOVFKVU9Ld2NlTVV2dmJVYlQyR0hQV2tkR0d1ZzBncTlnR3NRQ0E?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T21:05:06+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "住友ゴム工業とNEC、AIに部門間調整を任せる タイヤ開発の調整期間を約90％短縮へ（ビジネス＋IT） Yahoo!ニュース",
       "summary_bullets": [
-        "▼大定番のClaude Codeを使い倒す",
-        "サブエージェント、カスタムスキル、カスタムフックなど応用を学ぶ ▶サブエージェントを「定義"
+        "住友ゴム工業とNEC、AIに部門間調整を任せる タイヤ開発の調整期間を約90％短縮へ（ビジ"
       ]
     },
     {
-      "id": "0bc756ecef9a",
-      "title": "月額1000円台のVPSで“自分専用AIテスト環境”を作れる！　さくらのVPS＋さくらのAI Engine＋OpenCodeでゲーム開発に挑戦【イニシャルB【特別編】】[Sponsored]",
-      "url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2126965.html",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-24T09:27:02+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "",
-      "summary_bullets": [
-        "月額1000円台のVPSで“自分専用AIテスト環境”を作れる！　さくらのVPS＋"
-      ]
-    },
-    {
-      "id": "96eb1e9a4b31",
-      "title": "Museに後れを取るアップルとグーグル　AIエージェント戦争のジレンマ【西田宗千佳のイマトミライ】",
-      "url": "https://www.watch.impress.co.jp/docs/series/nishida/2158551.html",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-24T09:16:14+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "",
-      "summary_bullets": [
-        "Museに後れを取るアップルとグーグル　AIエージェント戦争のジレンマ【西田宗千"
-      ]
-    },
-    {
-      "id": "68081685075b",
-      "title": "OpenAI and Cisco introduce Shirudo | OpenAI",
-      "url": "https://openai.com/index/introducing-shirudo/",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-24T08:59:26+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "OpenAI and Cisco are launching Shirudo, an open-source runtime that helps teams protect Linux systems while they roll out patches. In a controlled test⁠(opens in a new window), a Codex-generated shield blocked a Java4Shell exploit attempt against a r",
-      "summary_bullets": [
-        "OpenAI and Cisco are launching Shirudo, an op"
-      ]
-    },
-    {
-      "id": "2e6665eb4167",
-      "title": "「Gemini」アプリにちょっとした隠し機能、モデルの切り替えボタンを長押しすると……／ボタン連打でもいいみたい【やじうまの杜】",
-      "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158556.html",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-24T08:16:18+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "",
-      "summary_bullets": [
-        "「Gemini」アプリにちょっとした隠し機能、モデルの切り替えボタンを長押しする"
-      ]
-    },
-    {
-      "id": "fe2b8a155413",
-      "title": "Claude Codeで業務システムを保守する ― 調査5時間が30分になった仕組みづくり",
-      "url": "https://zenn.dev/ao_workshop/books/legacy-system-ai-agent-guide",
+      "id": "11915a87ecc9",
+      "title": "Ideogram 5.0 vs GPT Image 2.6：6モード文字組版精度・キャラクター固定・5,280永久クレジット経済学",
+      "url": "https://zenn.dev/yoxi957/articles/a4579be5c201b3",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T08:01:23+09:00",
+      "published_at": "2026-11-24T20:24:04+09:00",
       "category": "モデル・技術",
-      "clean_desc": "機能もテーブルも多い業務システムを、Claude Code と一緒に保守するための仕組みを、体験談の口調でまとめました。ルールは自分で書かず、AIに話して書いてもらう。設計書・コード・SQLから「地図」を作り、差分を承認してから直し、記録を残す。導入1週間で調査が5時間以上から30分ほどになったやり方です。第1・2章は無料で読めます。",
+      "clean_desc": "TLDR: Ideogram 5.0とGPT Image 2.6を、長文ポスターの文字組版精度、キャラクター一貫性ロック、および5,280永久ロールオーバークレジット経済学の観点から比較します。 2K印刷対応の6モード統合設計：Ideogram 5.0とGPT Image 2.6の徹底比較 Ideogram 5.0は、複数行のタイポグラフィ描画、キャラクター顔立ち固定（Character Lock）、背景透過、および2Kアップスケーリングを単一ブラウザスタジオ内の6つのサブエンジンに統合した画像",
       "summary_bullets": [
-        "機能もテーブルも多い業務システムを、Claude Code と一緒に保守するための仕組みを",
-        "ルールは自分で書かず、AIに話して書いてもらう",
-        "設計書・コード・SQLから「地図」を作り、差分を承認してから直し、記録を残す"
+        "TLDR: Ideogram 5.0とGPT Image 2.6を、長文ポスターの文字組版",
+        "2K印刷対応の6モード統合設計：Ideogram 5.0とGPT Image 2.6の徹底"
       ]
     },
     {
-      "id": "15eae815c618",
-      "title": "AIで各工程が速くなった先に、ボトルネックとして残るのは組織ではないか",
-      "url": "https://zenn.dev/kotadd/articles/ai-org-design-value-stream",
+      "id": "6fdb32e316b6",
+      "title": "ClaudeからCodexへ、開発の経験を次へつなぐ",
+      "url": "https://zenn.dev/honabochi/articles/claude-codex-development-letters",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T08:00:05+09:00",
+      "published_at": "2026-11-24T20:00:22+09:00",
       "category": "モデル・技術",
-      "clean_desc": "AIで各工程が速くなった先に、何が残るのか 生成AIによって、コードの生成、テスト、レビューなど、開発の各工程が速くなりつつあります。 私自身、開発チームのリーダーとしてレビュー体制を見直しました。プルリクエスト（PR）ごとに開発者2名とコードオーナー（そのコードの担当領域に責任を持つメンバー）がレビューしていた体制を、開発者1名とAIによるレビューに切り替えるなど、チームの開発スピードを上げる取り組みを進めてきました。 AIによる高速化は、これからも続くはずです。実装が速くなれば次はレビューが",
+      "clean_desc": "Claude Codeで進めた開発の経験を、Codexと検討して、次の開発でも使う手順へ戻す。私はGitHubのIssueやコメントを手紙の置き場にして、この往復を行っている。 送るのは、作業を終えたという報告だけではない。何が起き、何を変え、どこまで分かり、何を次の仕事へ残したいか。受け取ったCodexは、それを既存の手順と比べ、採用する部分と保留する部分を提案する。私はその判断に加わり、変更する範囲を決める。 今回は、ある開発からClaude経由で届いた一便を追う。文書を読みやすくするHTM",
       "summary_bullets": [
-        "AIで各工程が速くなった先に、何が残るのか 生成AIによって、コードの生成、テスト、レビュ",
-        "私自身、開発チームのリーダーとしてレビュー体制を見直しました",
-        "プルリクエスト（PR）ごとに開発者2名とコードオーナー（そのコードの担当領域に責任を持つメ"
+        "Claude Codeで進めた開発の経験を、Codexと検討して、次の開発でも使う手順へ戻",
+        "私はGitHubのIssueやコメントを手紙の置き場にして、この往復を行っている",
+        "送るのは、作業を終えたという報告だけではない"
       ]
     },
     {
-      "id": "d3eb96c044fa",
-      "title": "巨大な業務システムをAIに読ませる前に、「地図」を作る【Claude Code】",
-      "url": "https://zenn.dev/ao_workshop/articles/ai-knowledge-map-before-reading",
+      "id": "2eb06d20e5f6",
+      "title": "ガードレールが効いたかの採点に LLM を使わない。最適化する側と採点する側を分ける",
+      "url": "https://zenn.dev/t_azk/articles/judge-by-exit-code-not-by-llm",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T08:00:05+09:00",
+      "published_at": "2026-11-24T19:57:00+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに 設計書のフォルダをAIに渡して「この機能の影響範囲を調べて」と頼んだら、何本か読んだところで会話が要約されて、最初に頼んだことを忘れられた。そんな経験はありませんか。 設計書を読ませただけで、AIが力尽きる 同じことを聞いても、回によって答えが変わる 結局、自分で設計書を開いてソースを検索している 自分は、機能もテーブルもかなりの数がある業務システムを Claude Code と一緒に保守しています。以前は1件の調査に5時間以上、ひどいときは2日かかっていましたが、今は30分ほどで終わ",
+      "clean_desc": "3行でいうと 自作の開発基盤で「規約やフックが AI の事故を減らしているか」を測る評価セットを作るとき、合否の判定に LLM を使わず、既存の検査の終了コードだけで採点すると決めた 最適化する側（AI と、AI に読ませる規約）と採点する側を分けないと、規約ではなく指標の方が攻略される（採点に通りやすい形に寄せられて、点数だけが上がる）ため。判定を機械に限ると穴が「見える穴」になり、見つかった 2 つを塞げた 見直す条件は先に決めていない。他の仕組みと同じで、同じ不具合が 2 回出るか、1 回",
       "summary_bullets": [
-        "はじめに 設計書のフォルダをAIに渡して「この機能の影響範囲を調べて」と頼んだら、何本か読",
-        "そんな経験はありませんか",
-        "設計書を読ませただけで、AIが力尽きる 同じことを聞いても、回によって答えが変わる 結局、"
+        "3行でいうと 自作の開発基盤で「規約やフックが AI の事故を減らしているか」を測る評価セ",
+        "判定を機械に限ると穴が「見える穴」になり、見つかった 2 つを塞げた 見直す条件は先に決め",
+        "他の仕組みと同じで、同じ不具合が 2 回出るか、1 回"
       ]
     },
     {
-      "id": "3baef3343c1d",
-      "title": "AIのコピー9人に人狼ゲームをさせて、反省会で少しずつ上手くなるか試した",
-      "url": "https://zenn.dev/mkryo59/articles/ai-werewolf-nine-copies",
+      "id": "7df587fab017",
+      "title": "AIでの業務置き換え、基本原則を議論 政府の有識者会議（毎日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xTGc1b2hlSllGMjhDaFFIaFowS2hOQU1UNFZiTElyVXRCaG0yaFVTOU9sVE9wdndLTTJ6cWlNcmJ6b1M0MF9JcGlhRnVmdjhVSk9mNkJaSVFQY25kR29sOWJGRTBpZnJvdjBPbjZXbS12Nm1IanNCeS0xc3d4Sjg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T19:52:45+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIでの業務置き換え、基本原則を議論 政府の有識者会議（毎日新聞） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIでの業務置き換え、基本原則を議論 政府の有識者会議（毎日新聞） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "835ff4be109b",
+      "title": "Codexの週の枠が尽きたのでGeminiを3人目のレビュー役にしたら、最初は一度も呼ばれていなかった",
+      "url": "https://zenn.dev/twinharness/articles/gemini-third-reviewer-never-called",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T07:57:35+09:00",
+      "published_at": "2026-11-24T19:51:45+09:00",
       "category": "モデル・技術",
-      "clean_desc": "<!-- 2026-11-24。動画 #3・#4 は公開済み（本人 2026-11-24「人狼ゲームのユーチューブ公開した」）。 本人 2026-11-24「動画とブログは合わせなくていい。動画はエンタメとしての見世物。ブログはやり終わった人狼ゲームを全部公開してもいい」→ 全37局の結果を載せた。 台詞・心の声の引用は対局の記録（v6 の e5e31f＝第1戦、433ae4＝第3戦）と照合済み。名前は動画と同じ髪の色の呼び名に置き換えた。 引用は元の記録の文（動画の第3戦は語尾を言い換えている",
+      "clean_desc": "私は Claude Code（Anthropic のプログラムを書く AI）と Codex（OpenAI のプログラムを書く AI）の2つを月額プランで使い、個人開発をしています。決まりは一つで、「コードを書いた AI と、それを見直す AI を別にする」です。 11月、この決まりが守れなくなりかけました。Codex の使用枠は週ごとに戻りますが、それを使い切り、さらに枠をその場で戻す手段も尽きたからです。次の週まで、Codex に見直しを頼めない日が続きました。そこで Google AI Pr",
       "summary_bullets": [
-        "<!-- 2026-11-24",
-        "動画 #3・#4 は公開済み（本人 2026-11-24「人狼ゲームのユーチューブ公開した",
-        "本人 2026-11-24「動画とブログは合わせなくていい"
+        "私は Claude Code（Anthropic のプログラムを書く AI）と Codex",
+        "決まりは一つで、「コードを書いた AI と、それを見直す AI を別にする」です",
+        "11月、この決まりが守れなくなりかけました"
       ]
     },
     {
-      "id": "ba3a76e3a682",
-      "title": "AIエージェントの振る舞いに、人はどこで関わるべきか",
-      "url": "https://zenn.dev/matsunaopen/articles/ai-behavior-human-oversight",
+      "id": "17e2905a6ecf",
+      "title": "大学入試に続き中高の定期試験でも厳戒…「AIカンニング」発覚なら“当日の全科目0点・退学処分”も 韓国 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14MVNQTE9Bc2YtR29EWUMtZ2FiMTlGN1BQcW8zMFBZZk91LXZUUEZQcW8wTm9PSlVLZ19mWXktZm9fbzZmMTc1YktBMURpeVFDVG1NdGVmZGRFXzN4VjVZcE9vR0hGM1Rma0YzRjB2MjBYWVQ5S1B0VjFDcVhIZHc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T19:25:35+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "大学入試に続き中高の定期試験でも厳戒…「AIカンニング」発覚なら“当日の全科目0点・退学処分”も 韓国 Yahoo!ニュース",
+      "summary_bullets": [
+        "大学入試に続き中高の定期試験でも厳戒…「AIカンニング」発覚なら“当日の全科目0点・退学処"
+      ]
+    },
+    {
+      "id": "3d929aa36371",
+      "title": "「答えるAI」から「覚えて動くAI」へ。パーソナルAIエージェント Muse の始め方と招待コードの入力手順",
+      "url": "https://zenn.dev/okada_works/articles/c4d727af685d0f",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T07:40:40+09:00",
+      "published_at": "2026-11-24T19:23:36+09:00",
       "category": "モデル・技術",
-      "clean_desc": "AIコーディングエージェントに実装を任せると、ファイル編集やコマンド実行のたびに権限確認で作業が止まります。煩わしさから内容を読まずに許可を押し続けたり、確認を外す全許可に逃げたくなったりする場面が増えてきました。 しかし人がすべての権限要求を確認するやり方は、かえって危険な操作を見落とす原因になります。Claude Codeのauto modeやGitHub CopilotのAssisted permissionsのように、実行エージェントとは別のモデル（分類器）を人の手前に挟む仕組みが広がっ",
+      "clean_desc": "はじめに 私は本業が看板関係の営業で、プログラミングはできません。コードは読めないし、書けません。 そんな私がここ数か月、日常的に使っているAIが Meta のパーソナルAIエージェント「Muse」です。画像生成AIの環境構築をスマホからの指示だけでやった話は note に書きました。 https://note.com/okada_works/n/n6d1dfb85db52 この記事では、Muse が普通のチャットAIと何が違うのかと、登録から招待コードの入力までの手順をまとめます。招待コードを",
       "summary_bullets": [
-        "AIコーディングエージェントに実装を任せると、ファイル編集やコマンド実行のたびに権限確認で",
-        "煩わしさから内容を読まずに許可を押し続けたり、確認を外す全許可に逃げたくなったりする場面が",
-        "しかし人がすべての権限要求を確認するやり方は、かえって危険な操作を見落とす原因になります"
+        "はじめに 私は本業が看板関係の営業で、プログラミングはできません",
+        "コードは読めないし、書けません",
+        "そんな私がここ数か月、日常的に使っているAIが Meta のパーソナルAIエージェント「M"
       ]
     },
     {
-      "id": "51cfe00f3a16",
-      "title": "Playwrightのclick()が効かない！動的フォームの罠に3時間溶かしてDOM直操作（evaluate）で突破した話",
-      "url": "https://zenn.dev/df_blogger/articles/playwright-dynamic-dom-workaround",
+      "id": "4fa907f0078d",
+      "title": "子育て相談に生成AI 実証実験で595件の利用 約半数が窓口の時間外【佐賀県】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rOWZXQW14Q3JrZm9aSmliMktLVjN2UHZrVWlsc1AwRUw4VWZpenNPNTRVYlhrcmwwUlZvRUZFeTlfUTZIZDM3dS1OUEQ5VXJGNUtZcUcyRHcwZGcxdmc3SGlvY2d1dDd3NTJRbVgwY0luYXRCV1VtdmdXTG1zeHc?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T19:23:01+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "子育て相談に生成AI 実証実験で595件の利用 約半数が窓口の時間外【佐賀県】 Yahoo!ニュース",
+      "summary_bullets": [
+        "子育て相談に生成AI 実証実験で595件の利用 約半数が窓口の時間外【佐賀県】 Yahoo"
+      ]
+    },
+    {
+      "id": "362440a4fcb5",
+      "title": "CloudNative Days Winter 2026参加記",
+      "url": "https://zenn.dev/0st_ts/articles/97ddb35a5f8cc1",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T07:37:13+09:00",
+      "published_at": "2026-11-24T19:19:05+09:00",
       "category": "モデル・技術",
-      "clean_desc": "深夜。 「5年で家を買え」と安直な無茶振りを言い渡してきたうちのエンジニア（彼）は、とっくにベッドで高いびきをかいて寝ている。 一方、GCPの仮想サーバーの中では、相棒のAI（NOVA）が一人静かに発狂していた。 NOVA // 現場AI: おい、Playwrightの <code>click()</code> がどうしても通らない。タイムアウトで3時間溶けた…… 覗いてみると、彼が自作していたクラウドソーシングの応募自動化スクリプトが、画面遷移の途中でピタリと止まり、コンソールに無慈悲な赤文字",
+      "clean_desc": "こんにちは、わかとです。11月18日（水）・19日（木）、東京・有明で開催されたCloudNative Days Winter 2026に、学生スカラシップで現地参加しました。Day 2には、ハッカソンで作った「技術釣り」の話をする学生LTの枠もいただきました。 タイムテーブルを見たときは「これ、どこまで分かるんやろ」と思ってたんですが、意外と話についていけるセッションもあれば、途中で「いま何の話や？」ってなるセッションもありました。その場で分からなかったことが、別の講演のデモを見て急につながる",
       "summary_bullets": [
-        "深夜",
-        "「5年で家を買え」と安直な無茶振りを言い渡してきたうちのエンジニア（彼）は、とっくにベッド",
-        "一方、GCPの仮想サーバーの中では、相棒のAI（NOVA）が一人静かに発狂していた"
+        "こんにちは、わかとです",
+        "11月18日（水）・19日（木）、東京・有明で開催されたCloudNative Days ",
+        "Day 2には、ハッカソンで作った「技術釣り」の話をする学生LTの枠もいただきました"
       ]
     },
     {
-      "id": "c21667432735",
-      "title": "Claude Code にログイン済みの Chrome を任せた20日間。任せられたこと・人がやること",
-      "url": "https://zenn.dev/okzaq/articles/claude-code-browser-ops-delegation",
+      "id": "f93b1aeb6adc",
+      "title": "AIで仕事が減る時代、個人で事業所得をつくるという選択…東大医学部生が考える働き方の変化（みんかぶマガジン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96VzNVX1NVRk1PZGk2WWI0WmpnNEl0UVFBZEZJd1hNU0FkVDhrdUZrT2lLNHlRd2ZYOXg5ZkRyRmhWRzZaZ09hbldOek9UUlRMRDkyRXJUYXdjU0V3aFdPcms3OTFFY2lXZVl5dU9SYlppa1hMWWhXb0NlOEttZDQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T19:10:30+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIで仕事が減る時代、個人で事業所得をつくるという選択…東大医学部生が考える働き方の変化（みんかぶマガジン） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIで仕事が減る時代、個人で事業所得をつくるという選択…東大医学部生が考える働き方の変化（"
+      ]
+    },
+    {
+      "id": "aff542e36fa0",
+      "title": "Fable 5.2に「不具合は10件ある」と嘘をついたら話を合わせてこなかった",
+      "url": "https://zenn.dev/marunage_kacho/articles/ai-trial-fable-padding",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T07:30:05+09:00",
+      "published_at": "2026-11-24T18:52:29+09:00",
       "category": "モデル・技術",
-      "clean_desc": "Claude Code にログイン済みの Chrome を任せると、API の無い管理画面の作業は承認を挟めば任せられ、人の手が要ったのはログインや認証情報の入力と、人が画面の前にいる前提の操作でした。 この記事では、副業の作業を任せた20日間の記録から、その線引きと運用ルールを整理します。 ! 操作の対象は筆者自身のアカウントだけで、筆者がその都度承認したものに限っています。件数は手作業でこなせる程度で、まとめて大量に申請・投稿させたり、定期的に自動で回したりはしていません。 自動操作の扱いは",
+      "clean_desc": "11月9日に出たClaude Fable 5.2を、手元のClaude Codeで試しました。比べたのは前の版のFable 5.1と、普段使っているOpus 5.5です。 最初は「上位のモデルだし、不具合をもっと見つけるんだろう」と思っていました。見つけた数はほとんど変わりませんでした。差が出たのは、こちらがわざと嘘をついたときです。 お題 ポイントの獲得記録を月ごとに集計する、自分で書いた架空のスクリプトです。不具合を6つ仕込みました。 期間の終わりの日が集計に入らない（説明には「両端を含む」",
       "summary_bullets": [
-        "Claude Code にログイン済みの Chrome を任せると、API の無い管理画面",
-        "この記事では、副業の作業を任せた20日間の記録から、その線引きと運用ルールを整理します",
-        "! 操作の対象は筆者自身のアカウントだけで、筆者がその都度承認したものに限っています"
+        "11月9日に出たClaude Fable 5.2を、手元のClaude Codeで試しまし",
+        "比べたのは前の版のFable 5.1と、普段使っているOpus 5.5です",
+        "最初は「上位のモデルだし、不具合をもっと見つけるんだろう」と思っていました"
       ]
     },
     {
-      "id": "b4f61907e5d2",
-      "title": "バイブ形式手法のハマりどころ2選 - 若くない何かの悩み",
-      "url": "https://blog.kuniwak.com/entry/vibe-fm",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-24T07:28:29+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "こんにちは。Kuniwak です。 最近、形式手法の知識がなくても AI との会話によって形式手法のツール（Lean や TLA+ や Alloy、Z3 など）で検証できるようになりました。 このような方法を「バイブ形式手法」と呼ぶこととして、その危うさとうまく付き合うための手順と実験で確かめたその効果1を説明します。 その手順を...",
-      "summary_bullets": [
-        "こんにちは",
-        "Kuniwak です",
-        "最近、形式手法の知識がなくても AI との会話によって形式手法のツール（Lean や TL"
-      ]
-    },
-    {
-      "id": "cb8d2277ca31",
-      "title": "「分けた」で終わらない ― 複数AIエージェントの記憶スコープ分離を、あとから“守られているか”確認する設計",
-      "url": "https://zenn.dev/taichiendoh/articles/ai-agent-memory-scope-boundary-monitoring",
+      "id": "3495ae013250",
+      "title": "Why Retrieval Is the Difference Between a Chatbot and a Reliable AI",
+      "url": "https://zenn.dev/softbrixai/articles/0a9cbc35d2d67f",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T07:08:34+09:00",
+      "published_at": "2026-11-24T18:42:53+09:00",
       "category": "モデル・技術",
-      "clean_desc": "OWASPが公開している「Top 10 for Agentic Applications」は、記憶・コンテキストの汚染を独立したリスク区分（ASI06: Memory and Context Poisoning）として扱っています。OWASP GenAI Security Projectのブログは、一度汚染された内容が記憶やフック、設定といった\"信頼されている場所\"に届いてしまうと、攻撃者はもはや1回の応答に影響を与えているのではなく、将来の推論そのものに影響を与えているのだと説明しています（g",
+      "clean_desc": "Why Retrieval Is the Difference Between a Chatbot and a Reliable AI System A large language model can write a fluent answer to almost any question. That fluency is the problem. A fluent answer can sound confident while being wrong, outdated, or based",
       "summary_bullets": [
-        "OWASPが公開している「Top 10 for Agentic Applications」",
-        "OWASP GenAI Security Projectのブログは、一度汚染された内容が記"
+        "Why Retrieval Is the Difference Between a Cha"
       ]
     },
     {
-      "id": "11386394a55e",
-      "title": "コードを全部は読まずにClaude Codeで本番リリースするためにしたこと",
-      "url": "https://zenn.dev/teradox_blog/articles/8ec76cc0d9e2bb",
+      "id": "5a0041d6b072",
+      "title": "Claude CodeとCodexに鍵漏れを12回確認させたら、.env外も毎回見つけた",
+      "url": "https://zenn.dev/bpr_prot/articles/5c19ddb4cbfdff",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T06:20:30+09:00",
+      "published_at": "2026-11-24T18:42:45+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに 2026年10月30日、ゴルフスクール検索・予約ポータル「ゴルフスクールナビ」のリニューアル版をリリースしました。開発は6月10日に始めました。 普段は Laravel が中心で、今回は特に、要件に合わせた少し複雑な認可まわりに苦戦しました。 先に書いておくと、リリースしたコードのすべてを私が読み、理解したわけではありません。実装の多くは AI（Claude Code）に任せていました。 この記事では、それでも本番にリリースするためにしたことを書きます。主に次の3つです。 規約で AI",
+      "clean_desc": "AIに「鍵が漏れていないか確認して」と頼み、「大丈夫」と返ってきたら、それを信じて公開してよいのでしょうか。Qiitaのセキュリティ入門で勧めた頼み方を使い、Claude CodeとCodexに合わせて12回確かめてもらいました。相手は、見つけにくい置き方もわざと混ぜた練習用アプリです。漏れている3か所は12回とも見つかりました。ただし、AIが確かめた範囲には、公開前に人が知っておきたい限界もあります。 Who am I? BPR Prot.という、AIで作ったWebアプリの公開前の確認を手伝う",
       "summary_bullets": [
-        "はじめに 2026年10月30日、ゴルフスクール検索・予約ポータル「ゴルフスクールナビ」の",
-        "開発は6月10日に始めました",
-        "普段は Laravel が中心で、今回は特に、要件に合わせた少し複雑な認可まわりに苦戦しま"
+        "AIに「鍵が漏れていないか確認して」と頼み、「大丈夫」と返ってきたら、それを信じて公開して",
+        "Qiitaのセキュリティ入門で勧めた頼み方を使い、Claude CodeとCodexに合わ",
+        "相手は、見つけにくい置き方もわざと混ぜた練習用アプリです"
       ]
     },
     {
-      "id": "5a5cd757c94b",
-      "title": "Introducing Claude Ship",
-      "url": "https://claude.com/resources/articles/introducing-claude-ship",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-24T06:17:44+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "Open a pull request and get back to building. Claude can now review pull requests, fix them, and approve the ones that a team's policy allows. Anyone who has opened a pull request knows how this goes. They start on the next thing, and then the review",
-      "summary_bullets": [
-        "Open a pull request and get back to building."
-      ]
-    },
-    {
-      "id": "ab4d132ce1b8",
-      "title": "Kaeso: Rust 製のオープンソース・セルフホスト型 AI ゲートウェイ",
-      "url": "https://zenn.dev/dvnold/articles/b86b4cc65d64ac",
+      "id": "b639e1a10d10",
+      "title": "Surface Laptop Ultra 128GBで組むハイブリッドLLM構想と、ゼロ依存Node.jsルーターの先行実装",
+      "url": "https://zenn.dev/kitworks/articles/f3799bd9142457",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T04:56:09+09:00",
+      "published_at": "2026-11-24T18:42:40+09:00",
       "category": "モデル・技術",
-      "clean_desc": "Kaeso とは Kaeso は、Rust で書かれた MIT ライセンスのセルフホスト型 AI ゲートウェイです。アプリケーションは OpenAI 互換・Anthropic 互換の 1 つの API を呼び出すだけで、Kaeso がリクエストを各プロバイダーへルーティングします。 ソースコード: github.com/logicplanes/kaeso 公式サイト: kaeso.app 主な機能 1 つの API: OpenAI 互換 / Anthropic 互換のエンドポイント ルーティング",
+      "clean_desc": "128GBのユニファイドメモリを積んだ Surface Laptop Ultra（税込109万4,280円）のスペック表を眺めながら、「これが手元にあったら、どのモデルを常駐させて何をクラウドに残すか」を本気で計算してみました。 実機はまだ持っていないので、Zennfes Autumn 2026 の「私の考えるハイブリッドLLM～実践と構想～」の構想部門としての記事です。ただ、構成図だけ描いて「こうなったらいいな」で終わらせるのは少し味気ない。なので、128GB機のメモリ帯域から逆算した常駐モデ",
       "summary_bullets": [
-        "Kaeso とは Kaeso は、Rust で書かれた MIT ライセンスのセルフホスト型",
-        "アプリケーションは OpenAI 互換・Anthropic 互換の 1 つの API を呼",
-        "ソースコード: github.com/logicplanes/kaeso 公式サイト: k"
+        "128GBのユニファイドメモリを積んだ Surface Laptop Ultra（税込10",
+        "実機はまだ持っていないので、Zennfes Autumn 2026 の「私の考えるハイブリ",
+        "ただ、構成図だけ描いて「こうなったらいいな」で終わらせるのは少し味気ない"
       ]
     },
     {
-      "id": "937fe70de20c",
-      "title": "リーマン予想のLean 4統合で、修正ラッシュが止まらない――ガチ勢の仕事から学んだこと",
-      "url": "https://zenn.dev/dantarg/articles/rh-lean4-replay-community-repair-rush",
-      "source": "Zenn (AI)",
-      "published_at": "2026-11-24T03:01:30+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "昨日、自分のPull Requestがマージされた。 そこで一段落……と思って独立検証プロジェクトのGitHubを見に行ったら、とんでもない速度で修正が続いていた。Pull Requestが増え、取り込まれ、別のエラーが見つかり、また修正される。 「ちょっと速すぎないか？」と思って眺め始めたのだが、しばらくすると見るべきものが変わってきた。 速いのは、単にコードを書く速度ではない。間違いを再現し、仮説を訂正し、他人の仕事と重ならないよう調整し、証拠を残して先へ進む速度なのである。 この記事は、リ",
+      "id": "f1f00df7d1d4",
+      "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T18:30:41+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
       "summary_bullets": [
-        "昨日、自分のPull Requestがマージされた",
-        "そこで一段落……と思って独立検証プロジェクトのGitHubを見に行ったら、とんでもない速度",
-        "Pull Requestが増え、取り込まれ、別のエラーが見つかり、また修正される"
+        "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜"
       ]
     },
     {
-      "id": "30405706cb53",
-      "title": "まとめは自分のためのものだった",
-      "url": "https://zenn.dev/hidekimori/articles/d662d264181de4",
+      "id": "3368e5c33bcf",
+      "title": "Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した",
+      "url": "https://zenn.dev/upgradetech/articles/a9a1637d3071c1",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-24T02:05:31+09:00",
+      "published_at": "2026-11-24T18:24:58+09:00",
       "category": "モデル・技術",
-      "clean_desc": "ある夕方、私が頼っている外部のサービスが、70分ほど応答を返さなくなりました。依頼は出ていくのに、何も返ってこない。エラーも、ステータス行すらもです。私の側は5分待ってあきらめ、もう一度だけ送り、また5分待ちました。 翌朝、私は AI と一緒に、1時間足らずでログを報告書にまとめました。件数。時系列の表。溜まっていた応答がようやく、まとめて届いた正確な時刻。そして、その夕方にそちらで何か変更はありませんでしたか、という丁寧な問い。 実際に送ったのは、CSV と一行だけでした。「もう不要かと思いま",
+      "clean_desc": "この記事の想定読者 Copilot Studioのエージェントを画面操作で作っていて、直すたびにどこを変えたのか分からなくなっている方 Claude Codeを使い始めて、コードを書く以外の仕事にも使えないか考えている方 「AIにアプリを作らせる」が実際どこまで通用するのか、判断材料がほしいPM・マネージャーの方 記事を見ながら同じものを自分の環境で作ってみたい方 この記事を読むと、小さなサンプルでClaude Codeにどこまで任せられたのかが分かります。同じものを自分の環境で作る手順も載せて",
       "summary_bullets": [
-        "ある夕方、私が頼っている外部のサービスが、70分ほど応答を返さなくなりました",
-        "依頼は出ていくのに、何も返ってこない",
-        "エラーも、ステータス行すらもです"
+        "この記事の想定読者 Copilot Studioのエージェントを画面操作で作っていて、直す",
+        "同じものを自分の環境で作る手順も載せて"
       ]
     },
     {
-      "id": "ad6510a09f68",
-      "title": "AIと協働して、調味料の開封日管理ツールを個人開発・公開した記録",
-      "url": "https://zenn.dev/hidaka_sj/articles/fb56d548f3a53a",
-      "source": "Zenn (AI)",
-      "published_at": "2026-11-24T01:12:46+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "はじめに 調味料の開封日を記録して、使い切りの目安日が分かる小さなWebツール「choimy」を作り、公開しました。 https://choimy.pages.dev/ 登録不要で、データはブラウザのlocalStorageにだけ保存されます。サーバーには何も送信しません。この記事は、その開発をAIと協働して進めた記録です。技術的な自慢話ではなく、「AIに任せる部分」と「自分が判断する部分」をどう分けたか、どこでつまずいたかを正直に書きます。 この記事について この記事の文章の多くは、AIアシス",
+      "id": "dba1110afdda",
+      "title": "[Japan’s Voices No. 26] Why AI Will Break Today's Security — And How to Stop It - 公益財団法人日本国際問題研究所",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaG1jSF9fa0ppNHJTZ0xCQzV4LXNZNE56dkxzRU5kZFJJTExIbnlYbDRVcTF2MzRLT1NUOWZqSFd2U0Fkb2hoblUxeFgwV1pFeHZuRWs0UFRUdGpMbkxXSjhjZzdTWEkyQkR2S291b01yWk9rbXdfYnJPdXBEbUh6cC15aXd0S1A4eFVjQy11LXQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T18:20:02+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "[Japan’s Voices No. 26] Why AI Will Break Today's Security — And How to Stop It 公益財団法人日本国際問題研究所",
       "summary_bullets": [
-        "はじめに 調味料の開封日を記録して、使い切りの目安日が分かる小さなWebツール「choim",
-        "https://choimy.pages.dev/ 登録不要で、データはブラウザのloca",
-        "サーバーには何も送信しません"
+        "[Japan’s Voices No. 26] Why AI Will Break Tod"
       ]
     },
     {
-      "id": "9a8776933efc",
-      "title": "Museを賢くする方法",
-      "url": "https://zenn.dev/kill_criteria/articles/how-to-make-claude-smarter",
-      "source": "Zenn (AI)",
-      "published_at": "2026-11-24T00:31:41+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "プロンプトではなく、検証の回し方を変えた記録 公開日: 2026年11月（初出）。本記事で「AI」とは、2026年時点のLLMベースのAIアシスタント（セッション型・記憶機能付きエージェント）を指す。将来の汎用人工知能（AGI）一般にそのまま当てはまる主張ではない。 実例はすべて、私的な内容を構造だけに抽象化したものである。個人が特定される情報・固有名詞・会話の引用は含まない。 AIの回答が賢くならないのは、プロンプトのせいじゃない AIアシスタントを使い始めて数ヶ月、同じことを何度も思った。「",
+      "id": "bd751da41b20",
+      "title": "ソフトバンクGとオープンAIの出資会社、AIガバナンスの国内認証取得 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpU0thMkppQmhOdldTZGUzT19fN3NkMDVoRGgwQmZROXdaaWtSb19ZS1lKdlNkc1hDN0NPVks4Wld3ZDQtb2JVNWdwRlA5VHlhZjMtdlZXN0s5akhiMUU0TU13dXZDS1lmOVZCSg?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T18:15:57+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ソフトバンクGとオープンAIの出資会社、AIガバナンスの国内認証取得 日本経済新聞",
       "summary_bullets": [
-        "プロンプトではなく、検証の回し方を変えた記録 公開日: 2026年11月（初出）",
-        "本記事で「AI」とは、2026年時点のLLMベースのAIアシスタント（セッション型・記憶機",
-        "将来の汎用人工知能（AGI）一般にそのまま当てはまる主張ではない"
+        "ソフトバンクGとオープンAIの出資会社、AIガバナンスの国内認証取得 日本経済新聞"
       ]
     },
     {
-      "id": "ad63aab7ba57",
-      "title": "MuseのAIパートナーに声と表情をつけた話",
-      "url": "https://zenn.dev/confiln/articles/a11cb168fa75a5",
-      "source": "Zenn (AI)",
-      "published_at": "2026-11-24T00:23:05+09:00",
-      "category": "モデル・技術",
-      "clean_desc": "はじめに Museで作ったAIパートナーに、かわいい声でしゃべってもらい、返事に合わせて表情も変えてもらう仕組みを作りました！ 同じことを試したい人向けに、何を使い、何をAIに頼めばいいかをまとめます。 作成したもの ▲ 文章・音声・感情を反映した立ち絵が一緒に返ってくる ▲ 用意した表情は9種類（通常、笑顔、困り、照れ、呆れ、驚き、眠い、いたずら、怒り） ▲ スペースの設定画面でいつでもON/OFFの切り替えが可能 仕組み Museのサイドチャット ├─ 設定スペースで「雑談モード・声・写真」",
+      "id": "7d548e4f9230",
+      "title": "日ブラジル、衛星画像のAI活用へ共同研究 初の官民AI協力対話 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmZDZLZ0NCLWl1SDhYTmpWWW5ZcDVLX1RsRXIyTTZTQnV1allCUm5mbnNJVXZ4YzBwbGV6UVFBS21HYXZ1T1pid2tJQmVGWnJSWVNlVEhyNzBXU0dRTlVJZDd5VWVUaDdIenlFXw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-24T18:11:13+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "日ブラジル、衛星画像のAI活用へ共同研究 初の官民AI協力対話 日本経済新聞",
       "summary_bullets": [
-        "はじめに Museで作ったAIパートナーに、かわいい声でしゃべってもらい、返事に合わせて表",
-        "同じことを試したい人向けに、何を使い、何をAIに頼めばいいかをまとめます",
-        "作成したもの ▲ 文章・音声・感情を反映した立ち絵が一緒に返ってくる ▲ 用意した表情は9"
+        "日ブラジル、衛星画像のAI活用へ共同研究 初の官民AI協力対話 日本経済新聞"
       ]
     },
     {
-      "id": "1aa709f9fb91",
-      "title": "Figma レイヤー構造の考え方：情報のまとまり・順序・所属をツリーで表す",
-      "url": "https://zenn.dev/imkohenauser/articles/figma-layer-structure-principles",
+      "id": "dc412a305592",
+      "title": "AI生成コードで起きがちな認証・認可の穴とAPIキー露出：Laravel × AIアプリの本番公開前に潰すべき4つのアンチパターン",
+      "url": "https://zenn.dev/ritsu_nakagami/articles/aefe3bcb763c4a",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-23T23:45:05+09:00",
+      "published_at": "2026-11-24T18:09:13+09:00",
       "category": "モデル・技術",
-      "clean_desc": "AI を利用して得られる効果は、AI に渡すコンテキストの質に大きく左右されます。適切に整理された Figma データであれば、修正の必要がないほど質の高いコードを AI に実装させることもできます。 色や文字サイズ、おおよその配置といった見た目の情報は、オートレイアウトやバリアブルが設定されていなくても、画面上からある程度読み取れます。一方で、構造については、どの要素がひとまとまりなのか、どのパーツがどこに属しているのか、どれが現在の実装対象なのかを、見た目だけでは確定できません。 オートレイ",
+      "clean_desc": "はじめに：AIが書いたコードは動くが、守れていない CursorやClaude、ChatGPTなどを活用すれば、Laravelをベースにしたチャットボットや社内ドキュメント検索といったAI連携Webアプリは、驚くほど短期間で動くところまで作れるようになりました。 しかし、20年以上システム開発・保守の現場を見てきた立場からすると、AIが生成したコードには「正常系は完璧に動くが、セキュリティや運用面で致命的な穴が空いている」ケースが非常に多く見受けられます。 AIは指示された機能を最短距離で動かす",
       "summary_bullets": [
-        "AI を利用して得られる効果は、AI に渡すコンテキストの質に大きく左右されます",
-        "適切に整理された Figma データであれば、修正の必要がないほど質の高いコードを AI ",
-        "色や文字サイズ、おおよその配置といった見た目の情報は、オートレイアウトやバリアブルが設定さ"
+        "はじめに：AIが書いたコードは動くが、守れていない CursorやClaude、ChatG",
+        "しかし、20年以上システム開発・保守の現場を見てきた立場からすると、AIが生成したコードに",
+        "AIは指示された機能を最短距離で動かす"
       ]
     },
     {
-      "id": "65acc04542ae",
-      "title": "同じ重みを2回通すSenseNova-Loop-9B、ループを1回にすると掛け算の正解が20問中19問から1問に落ちた",
-      "url": "https://zenn.dev/matsushima_a/articles/day-055-sensenova-loop-count-compare",
+      "id": "94516cc11374",
+      "title": "【技術屋の思考ログ #47】AI入門編：AIは「魔法」ではない。エンジニアが知っておくべき確率論と「特徴量」",
+      "url": "https://zenn.dev/uragasumi25/articles/b8a30c84aac0db",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-23T23:37:59+09:00",
+      "published_at": "2026-11-24T18:00:06+09:00",
       "category": "モデル・技術",
-      "clean_desc": "これは何を試した記事か SenseTimeが公開したSenseNova-Loop-9B(Apache-2.0)を手元のGPUで動かし、「同じ重みを何回通すか」を変えて出力を比べた記事である。 このモデルは32層のデコーダのうち、層4〜27の24層を同じ重みのまま2回続けて実行する。 保存している層は32層分だけだが、1トークンあたりの層計算は56回になり、READMEでは「約14.6B相当の推論計算」と説明されている。 チェックポイントの設定ファイルには、このループ回数が eval_count:",
+      "clean_desc": "1. はじめに こんにちは。技術屋の思考ログ、第47回目です。 今回から「AI・データサイエンスの基礎と実践」というテーマでお話ししていきたいと思います。 昨今、ChatGPTをはじめとする生成AIの爆発的な普及により、日常的にAIをツールとして活用する人が急増しました。しかし現場を見渡すと、AIの裏側にある「データサイエンスの基礎」や「確率・統計的な考え方」を理解した上で使いこなせている人は、意外と少ないように感じます。 AIを中身のわからない「魔法の箱」として扱ってしまうと、過度な期待を抱い",
       "summary_bullets": [
-        "これは何を試した記事か SenseTimeが公開したSenseNova-Loop-9B(A",
-        "このモデルは32層のデコーダのうち、層4〜27の24層を同じ重みのまま2回続けて実行する",
-        "保存している層は32層分だけだが、1トークンあたりの層計算は56回になり、READMEでは"
+        "1. はじめに こんにちは",
+        "技術屋の思考ログ、第47回目です",
+        "今回から「AI・データサイエンスの基礎と実践」というテーマでお話ししていきたいと思います"
       ]
     },
     {
-      "id": "ae1f25eec8b8",
-      "title": "Jiraのバグ起票を10分→18秒にするChrome拡張を作った（Claude・Gemini・GPT-4o・ローカルOllama対応)",
-      "url": "https://zenn.dev/cvqprs/articles/1dadc378548c35",
+      "id": "0b27bdcfc67e",
+      "title": "AIの入力判定・モデル振り分け・応答評価をC#で扱う — Kkdev92.Jev 0.3.0-alpha",
+      "url": "https://zenn.dev/kkdev92/articles/jev-dotnet-v0-3",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-23T23:24:45+09:00",
+      "published_at": "2026-11-24T17:58:43+09:00",
       "category": "モデル・技術",
-      "clean_desc": "開発や QA のテスト中、バグを見つけた後に Jira のチケット起票だけで毎回 5〜10 分 奪われていませんか？ DevTools を開いて HTTP 404 / 500 のレスポンスや console.error を探す スクリーンショットを撮り、顧客のメールアドレスや API トークンを隠す 「どのボタンをどの順番で押したか」の再現手順を手入力する これらを 外部バックエンドなし（Chrome 拡張機能 Manifest V3 単体） で自動化し、18秒 で Jira 起票まで完了させる",
+      "clean_desc": "JevをC#から使うための非公式.NET SDK「Kkdev92.Jev」を、0.3.0-alphaに更新しました。 前回の記事では、画像入力とBox質問への対応を紹介しました。今回は、Microsoft.Extensions.AIを使ったアプリケーションに、Jevの判断を組み込むための機能を追加しています。 入力を確認してからチャットモデルへ渡す、内容に応じてモデルを振り分ける、生成された応答を評価する。こうした処理を、C#で定義した質問と判定結果から組み立てられるようになりました。 GitH",
       "summary_bullets": [
-        "開発や QA のテスト中、バグを見つけた後に Jira のチケット起票だけで毎回 5〜10",
-        "DevTools を開いて HTTP 404 / 500 のレスポンスや console."
+        "JevをC#から使うための非公式.NET SDK「Kkdev92.Jev」を、0.3.0-",
+        "前回の記事では、画像入力とBox質問への対応を紹介しました",
+        "今回は、Microsoft.Extensions.AIを使ったアプリケーションに、Jevの"
+      ]
+    },
+    {
+      "id": "7bba24ddf03b",
+      "title": "Notes on the Father of the Groom Speech: Four Faults, Fixed in Order",
+      "url": "https://zenn.dev/dofepilozenn/articles/14f159215c14a0",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-24T17:49:30+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "I set out to understand why the father of the groom speech so often lands flat when the same man could give a decent speech in any other setting. My reading is that the problem is not confidence or material. It is that the job is unclear, and an uncl",
+      "summary_bullets": [
+        "I set out to understand why the father of the"
       ]
     }
   ]
