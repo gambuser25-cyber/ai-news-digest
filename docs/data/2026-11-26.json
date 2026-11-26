@@ -1,0 +1,400 @@
+{
+  "updated_at": "2026-11-26 12:15 JST",
+  "date": "2026年11月26日",
+  "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
+  "total_count": 30,
+  "categories": [
+    "すべて",
+    "ビジネス・動向",
+    "モデル・技術",
+    "ツール・活用"
+  ],
+  "articles": [
+    {
+      "id": "21bee255b9a4",
+      "title": "Gemini 4 Neonの衝撃とAI界の動向",
+      "url": "https://qiita.com/maskot1977/items/c3b88000f77a5f1bf368",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-26T12:12:02+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "ソース（AINews）が提供する情報に基づき、Gemini 4 Neonの台頭とAI市場の動向（ビジネスおよび経済の視点） について、詳細かつ総合的に解説します。 わずか3ヶ月前まで主要開発者の離脱観測やGemini 3モデルの停滞により、Google DeepMin...",
+      "summary_bullets": [
+        "ソース（AINews）が提供する情報に基づき、Gemini 4 Neonの台頭とAI市場の",
+        "わずか3ヶ月前まで主要開発者の離脱観測やGemini 3モデルの停滞により、Google "
+      ]
+    },
+    {
+      "id": "b16b13a241de",
+      "title": "京セラ、部品事業に8100億円投資 AI需要取り込みへ従来計画上積み - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91cUtjMVdFU3V4dVlraDBMNXppU3Jrd2Z6RjV4VG1ObVExQ1dKVXl5alJwN1NFVExKSk1Ub2RlMVRrMUdkZ3BVMVBOOTU1SHY3UDVlV0hwcEZIdUdxVDUtR1V6Q1k3ZjdmQ3hwYQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T12:05:25+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "京セラ、部品事業に8100億円投資 AI需要取り込みへ従来計画上積み 日本経済新聞",
+      "summary_bullets": [
+        "京セラ、部品事業に8100億円投資 AI需要取り込みへ従来計画上積み 日本経済新聞"
+      ]
+    },
+    {
+      "id": "5137e9828a14",
+      "title": "【Claude】 ClaudeDesktop アプリの開発者モードを有効化する方法",
+      "url": "https://qiita.com/tsukino_/items/4503c7f83fe16c08a048",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-26T11:31:58+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "claude_desktop_config.json がどこにあるか毎回探している MCPサーバーを繋いだけど、エラーが出て動かない原因が分からない Claude Desktopで外部ツール連携（MCP）を試していると、こうした環境構築やデバッグの壁によくぶつかります。これ...",
+      "summary_bullets": [
+        "claude_desktop_config.json がどこにあるか毎回探している MCP",
+        "これ..."
+      ]
+    },
+    {
+      "id": "c0385dac322b",
+      "title": "朝日工業社/生成AIで9割削減/安全手順書などの作成 - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mVzJYTExiSTIxcDVvc19OOWpwaEx6aEprbTdNQUNiaXJoQVRnWmJ1V2dGS2VMdm1VUFFGM0FxU2hXQmFnWG9yUi1SSXZvVmVVd2pwNGd3?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T11:20:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "朝日工業社/生成AIで9割削減/安全手順書などの作成 ニッキンONLINE",
+      "summary_bullets": [
+        "朝日工業社/生成AIで9割削減/安全手順書などの作成 ニッキンONLINE"
+      ]
+    },
+    {
+      "id": "838ace7f73c8",
+      "title": "AI時代における役割についてコード付きで解説",
+      "url": "https://qiita.com/good59548/items/31c25b9539fbcef209cc",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-26T11:15:18+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AI時代における人間の役割は、「作業を直接こなすこと」から、「何を解くか決め、AIを組み合わせ、結果を検証し、責任を持つこと」へとシフトします。AIがコードや文章、分析のドラフトを高速に生成できるほど、人間の価値は前後の設計・評価・判断に集約されます。 ​1. 課題定義と仕...",
+      "summary_bullets": [
+        "AI時代における人間の役割は、「作業を直接こなすこと」から、「何を解くか決め、AIを組み合",
+        "AIがコードや文章、分析のドラフトを高速に生成できるほど、人間の価値は前後の設計・評価・判",
+        "​1. 課題定義と仕..."
+      ]
+    },
+    {
+      "id": "07096a29a8ba",
+      "title": "聴覚障がいのある仲間との対話を、AIスマートグラスでもっとスムーズに。社員の声から生まれた新しい対面コミュニケーション - ソフトバンク",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SUzgzb2FOSUp0dTZjSTM2d3R5Z0lNSlVnV1V1d0FGaEk1YlIwV1VKRUZhakNNc0RYdmc1TTdhQXFKcWY3eHBhWW9nOTU1OC1mQm9yZjZ3eEZmQk1P?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T11:01:43+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "聴覚障がいのある仲間との対話を、AIスマートグラスでもっとスムーズに。社員の声から生まれた新しい対面コミュニケーション ソフトバンク",
+      "summary_bullets": [
+        "聴覚障がいのある仲間との対話を、AIスマートグラスでもっとスムーズに",
+        "社員の声から生まれた新しい対面コミュニケーション ソフトバンク"
+      ]
+    },
+    {
+      "id": "d9c2a8fb0b78",
+      "title": "Ｓｋｙ株式会社様の AI-DLC Unicorn Gym 実践レポート：4 チームの実践から各事業本部に広がる AI 駆動開発 - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DMUtXWklJNnV6bjFEUmVWa1Nzc3VaUDJkT3RzenF0WmdvRUdiV0ljeHJJUnVYQW80bGRuX1hiRGFhNUJKTTY5djF3RzhCbk9RUEN6RVExXzdUMFoz?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T10:56:36+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Ｓｋｙ株式会社様の AI-DLC Unicorn Gym 実践レポート：4 チームの実践から各事業本部に広がる AI 駆動開発 Amazon Web Services",
+      "summary_bullets": [
+        "Ｓｋｙ株式会社様の AI-DLC Unicorn Gym 実践レポート：4 チームの実践か"
+      ]
+    },
+    {
+      "id": "ed82c04d2687",
+      "title": "MAGI-2徹底解説：480B MoE単一ストリーム統合音声映像と20リファレンス制御",
+      "url": "https://qiita.com/yoxi957/items/90b87feae7de77979dc4",
+      "source": "Qiita (AI)",
+      "published_at": "2026-11-26T10:55:53+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "MAGI-2は、総パラメータ数480B（トークンあたりアクティブ28B）のMixture-of-Experts（MoE）バックボーンを採用し、映像モーション・台詞リップシンク・フォーリー効果音・BGMを単一パスで同時合成する統合型AI動画モデルです。2026年11月の正式...",
+      "summary_bullets": [
+        "MAGI-2は、総パラメータ数480B（トークンあたりアクティブ28B）のMixture-",
+        "2026年11月の正式..."
+      ]
+    },
+    {
+      "id": "7cd4c297ab23",
+      "title": "AIと入学試験（日刊工業新聞電子版） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGhJdGtSb0FUdGZQOWJCRHBGMXc2WURyMnlYNkQ1ak5iQkQ5X2VJekNyR3oxRHJ5Wi0zS21fNVlqa1hnVkp5SFlmLVVzZ0U3b0lWRGlucjd0Z1AzbkM4SV9uWGtJYndoUW8waU9Gdklwc01VZE9pdkFLd2tYODUxclpFeFJfOEVILXlSZUJR?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T10:50:51+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIと入学試験（日刊工業新聞電子版） Yahoo!ニュース",
+      "summary_bullets": [
+        "AIと入学試験（日刊工業新聞電子版） Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "add230da8738",
+      "title": "AIファクトリー：知能化時代の産業インフラ - Spectra by MHI",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmJERGJmMnBEUkZpS3BtREphRWNaM3ZDSjdCbFcxUGxIYkk5ci02RTJYdEM5T191R05nTWFRQVhvS1NsQ1VjMFVCaVlyMnRyLUh3RVdqWUVpR1lMeVB1X0hSUW9vTGx1ZUZVZkJmM1JsUmgwNHE1MXRVeDhTUGZhNWpUbVNjTGJjTkFtYTd3ZUh6R25VMEFjSXRQa1VKbWYzaUpuQ2lpMVRMREhOenoxM1VlU25lNkxSRXlHNA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T10:33:36+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIファクトリー：知能化時代の産業インフラ Spectra by MHI",
+      "summary_bullets": [
+        "AIファクトリー：知能化時代の産業インフラ Spectra by MHI"
+      ]
+    },
+    {
+      "id": "a37e7a44fa67",
+      "title": "進化続けるフィジカルAI 世界初！“遠隔触覚”技術も…人間の繊細な動きを学習 - TOKYO MX",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MSFBLTUlpVFNaYXQ5RzcwYjFic1cxcUJseWR3bzZsR05oanNLZkRGcDBjYzdfcjBZVnJBbXY3enk3NUt1aDN4RGs3dENhYnhQTjN6Tmx6N2pmWVl0bGxlMnlIZkh5alpBdWtnOWZB?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T10:30:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "進化続けるフィジカルAI 世界初！“遠隔触覚”技術も…人間の繊細な動きを学習 TOKYO MX",
+      "summary_bullets": [
+        "進化続けるフィジカルAI 世界初",
+        "“遠隔触覚”技術も…人間の繊細な動きを学習 TOKYO MX"
+      ]
+    },
+    {
+      "id": "3d91835ff70a",
+      "title": "AI丸投げの文章は｢100点｣でも読まれない…退屈なAI構文を｢刺さる一文｣に大化けさせる､人間の｢最後の一工夫｣ - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uc2c3NURONU9yVFNNV2hrZkZTR3JmV01qYTJ0Q2JSWGw3T3Q2M1c3X3NDeERZb0V1aHhrcHh3b0xhdHJJMWR0UmlrNE5xbzVzLVBiQjlaaU1VMUIzdXBHREN6MkFTVjZobHdyYXFvNE9aNjVQcmxaVUNlU3ZqNzA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T10:15:37+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI丸投げの文章は｢100点｣でも読まれない…退屈なAI構文を｢刺さる一文｣に大化けさせる､人間の｢最後の一工夫｣ Yahoo!ニュース",
+      "summary_bullets": [
+        "AI丸投げの文章は｢100点｣でも読まれない…退屈なAI構文を｢刺さる一文｣に大化けさせる"
+      ]
+    },
+    {
+      "id": "674bf1012a93",
+      "title": "GPUとのダイレクトアクセスによってAIシステムの実効メモリ容量を拡張可能なSuper High IOPS SSD「KIOXIA GP2シリーズ」の開発について | KIOXIA - Japan (日本語) - KIOXIA Corporation",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVWmNqcmhndXNjMUk5bnFoQkUyRHhvQmlnV3JXb1h4RjYtVExudUxmMnVDQ2ZJenppb21pU0JkX2ttbEVTcEdLTjVyYWZoQ3YwcXJHaU5oclBjUUhEZXpTTzJuZk82ek85ODhraXBGakM?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T10:12:12+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "GPUとのダイレクトアクセスによってAIシステムの実効メモリ容量を拡張可能なSuper High IOPS SSD「KIOXIA GP2シリーズ」の開発について | KIOXIA - Japan (日本語) KIOXIA Corporation",
+      "summary_bullets": [
+        "GPUとのダイレクトアクセスによってAIシステムの実効メモリ容量を拡張可能なSuper H"
+      ]
+    },
+    {
+      "id": "56ac7fd7d5b0",
+      "title": "CEATEC 2026に潜入！三菱電機が挑む、現場のナレッジ×AIで切り拓く「フィジカルAI」の可能性｜三菱電機 Biz Timeline - www.mitsubishielectric.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2MtdmpUbWVjNFM2cHBueVl6cDZKS3hCU3gtWGVPZFFBcVRDVkU5azN5NDh4N1l2OWQtMFBfbTBjTWk0NXhyUHJQaDBGMC1CeVJ4YXE5OEh6WVZPRWZTN1drSERYOVVLS1hZa0c0VG9ZUFpkZTlvWEZWT1ZTNWFDbXZzcGJneWdrRUNlQUZ5ei12UjFUUFR0ZUJEMm1ITUNYU0hNcVM0UzZGLUd5?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T10:09:36+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "CEATEC 2026に潜入！三菱電機が挑む、現場のナレッジ×AIで切り拓く「フィジカルAI」の可能性｜三菱電機 Biz Timeline www.mitsubishielectric.co.jp",
+      "summary_bullets": [
+        "CEATEC 2026に潜入",
+        "三菱電機が挑む、現場のナレッジ×AIで切り拓く「フィジカルAI」の可能性｜三菱電機 Biz"
+      ]
+    },
+    {
+      "id": "6a9514528bc8",
+      "title": "脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-26T10:09:22+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいの...",
+      "summary_bullets": [
+        "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム",
+        "11月は1000件以上の脆弱性が修正された",
+        "他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍"
+      ]
+    },
+    {
+      "id": "26917ddf8893",
+      "title": "ウォンテッドリーCEO「AIで求人スカウトの自動送信、時間の問題」 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHeXNFMjhDUjBoR3lMMm5FX2lVNkFyVG5Gck9HYmY0dEVJWVpQVVBGekJXcTBsd3Y5TTVrQ1BodDRRZ3VWZkt5MGhXZy0zREszWnM3b3ZLd0dXUFZEcE11SE9xNl9RUmR2SzVuNQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T10:03:16+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ウォンテッドリーCEO「AIで求人スカウトの自動送信、時間の問題」 日本経済新聞",
+      "summary_bullets": [
+        "ウォンテッドリーCEO「AIで求人スカウトの自動送信、時間の問題」 日本経済新聞"
+      ]
+    },
+    {
+      "id": "e6db33ee7f24",
+      "title": "製造業の現場で活かせるAI導入セミナーを開催します！ - 滋賀県",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14Rmo5OEZYTWVEbjdNMk1qUG5HRmR6WHVobnhTUEtQWHk0ak04ZTFjejZYN0d4X184MERQc3NuSThmS2Z6aXFnVkl5SmUzNzY3VlZIcmlIZ3NQUVdKeFcwR3F3bEpRUkxtUFE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T10:01:41+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "製造業の現場で活かせるAI導入セミナーを開催します！ 滋賀県",
+      "summary_bullets": [
+        "製造業の現場で活かせるAI導入セミナーを開催します",
+        "滋賀県"
+      ]
+    },
+    {
+      "id": "1734c67fbb35",
+      "title": "米36州がDC事業者に規制を導入 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoNHdGaVhlb2dtVVpZdy1RX29UUjhGdmM2R3NZUjV3LVFJaU5DM2hnbG8tc0R5M1YzYWdBZkdUQldFRXVzbEQ1RmF4bFc0ZDFL?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T09:49:27+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "米36州がDC事業者に規制を導入 Yahoo!ニュース",
+      "summary_bullets": [
+        "米36州がDC事業者に規制を導入 Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "ff62998121a7",
+      "title": "Amazon Bedrockの存在意義がようやくわかったのに、新参者だと使えない話 - Sweet Escape",
+      "url": "https://www.keisuke69.net/entry/2026/11/26/085248",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-26T09:25:15+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "今つくっているプロダクトで、Amazon Bedrockを使うことにした。これまで僕はBedrockに利用価値も存在意義もほとんど感じていなかった。 なんで価値を感じていなかったのか。まず「全部AWSでいいじゃん」みたいなノリがあんまり好きじゃない、というのが大前提としてある。 それに加えて、フロンティアモデルを使いたい...",
+      "summary_bullets": [
+        "今つくっているプロダクトで、Amazon Bedrockを使うことにした",
+        "これまで僕はBedrockに利用価値も存在意義もほとんど感じていなかった",
+        "なんで価値を感じていなかったのか"
+      ]
+    },
+    {
+      "id": "d95509321b79",
+      "title": "ラヴィット！白熱！生成ＡＩ画像クイズ＆世代差ランキング！冬の名曲＆給食!!エビダン - TBSテレビ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MWGkxV2JLZVRydWZ1MHl6eWpadVh6Y0FmX3VmXzNPblRjT3dhVkpaX2FJQnA2VjdKRlVvbW43cEJNaVVJaWpVZW9aRllZRWJzT0FjSi13?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T09:15:12+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ラヴィット！白熱！生成ＡＩ画像クイズ＆世代差ランキング！冬の名曲＆給食!!エビダン TBSテレビ",
+      "summary_bullets": [
+        "ラヴィット",
+        "白熱",
+        "生成ＡＩ画像クイズ＆世代差ランキング"
+      ]
+    },
+    {
+      "id": "3cdc95119d30",
+      "title": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業：メカ設計インタビュー（1/3 ページ） - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWb1pENzd6aXVVSmFqQ1BUcFlobjBYNjJxbkRzVXVkdXhIVG5IVGdiZnF6YnNPLVpWdld2TUVWX0xzd1I4VFhaclFuN1RxLWRXV1NOYWJCcVRhV0ozajB3b1hRNFVVcU93akt3T2ZQSQ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業：メカ設計インタビュー（1/3 ページ） MONOist",
+      "summary_bullets": [
+        "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業：メカ設計インタ"
+      ]
+    },
+    {
+      "id": "3506a8e440d9",
+      "title": "アップルのFace ID開発者が挑む、AIによる脳の健康分析 - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQlJfUnN6NE1mVHBINmhlc3hoSERaTGJ5aGRReGVNakFmY0taTjIwVTBoR1ZZUVFlZ05XcDN4bWJsQW96ejdiN2N2cTJjSEZiS3VhVXRid2ljaTNvOVF1YWlwZjVwajhVZE1ubXlaeTM1RURMM3RmbUNBb2tFZWpmWWNFNkh2N0NTYUJDLU1vdXpkYVhxYjQzUm1iSVF3RmhV?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T09:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "アップルのFace ID開発者が挑む、AIによる脳の健康分析 WIRED.jp",
+      "summary_bullets": [
+        "アップルのFace ID開発者が挑む、AIによる脳の健康分析 WIRED.jp"
+      ]
+    },
+    {
+      "id": "7324cfb5a489",
+      "title": "Z世代は職場のAI活用にほとんど興味なし--米調査 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYLVFMYndTOENWY19rWDFsMjIxVF9MSkthY3hySjdEODBrVXpRbDdoN0IyN0E1aFdINTJaSVE4Um9GX1JNQW5WSVpXR2d4bTgwcTUyV0ZvdmZNWG9JeGFmb1huT2UxT0ZTNXUwSDhLOFU3TWJsTENLM2RzNXR2RVU?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T08:46:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "Z世代は職場のAI活用にほとんど興味なし--米調査 Yahoo!ニュース",
+      "summary_bullets": [
+        "Z世代は職場のAI活用にほとんど興味なし--米調査 Yahoo!ニュース"
+      ]
+    },
+    {
+      "id": "7281237d84a0",
+      "title": "愛知県豊橋の人から無限にCHARGESPOTが送りつけられるけど、どうしたらいい？「送り主が間違って送っている？」「カニの仕業？」という謎めいた反応も→公式から連絡が来る",
+      "url": "https://togetter.com/li/2775045",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-26T08:14:12+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "紅のTaka @kurenai_taka 送り主がChangeSpotの事務所住所間違えて送っている？ 中野の神田川投棄と言い溜め込んでいた人が処分困って適当に送り付けてるとか？ @CHARGESPOT_JP さんが確認したら最後に借りた人解るから回収してもらうのが良いんだろうけど。 x.com/nekosan_kemono… 2026-11-25 18:36:05 CHARGESPOT(チャ...",
+      "summary_bullets": [
+        "紅のTaka @kurenai_taka 送り主がChangeSpotの事務所住所間違えて",
+        "中野の神田川投棄と言い溜め込んでいた人が処分困って適当に送り付けてるとか",
+        "@CHARGESPOT_JP さんが確認したら最後に借りた人解るから回収してもらうのが良い"
+      ]
+    },
+    {
+      "id": "7209d4c6fae4",
+      "title": "AIが数学界屈指の難問「リーマン予想」を証明。人間はその解読に苦闘している - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBweERuWGlvQ19WU2pGbmN5N2I3TVVWN0dnYTZfZkx0NFIyR0kyYUxIZFZQM1kxSVg0SlE0WWdIdURaVnBzSjNHLUszRUpmMExYVzlCdThlR0lkQ3ZXLWljbEloRFcxTEFabkJyMXhn?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T08:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AIが数学界屈指の難問「リーマン予想」を証明。人間はその解読に苦闘している WIRED.jp",
+      "summary_bullets": [
+        "AIが数学界屈指の難問「リーマン予想」を証明",
+        "人間はその解読に苦闘している WIRED.jp"
+      ]
+    },
+    {
+      "id": "3a2c3653756d",
+      "title": "MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev",
+      "url": "https://dev.sin5d.com/meta-muse-usage",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-26T07:53:15+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "XAIのGrokBot、Nous ResearchのHermes Aagent、OpenAIのChatGPT Bots、などなど、クラウドエージェントタイプのAIが百花繚乱中です。前回の記事でGrokBotについて詳しく書きましたので、今回はGrokBot以上によく使っているMeta社のMuseについてくわしく書いていこうと思います。 執筆時2026/11/25時点での情報なので状況...",
+      "summary_bullets": [
+        "XAIのGrokBot、Nous ResearchのHermes Aagent、OpenA",
+        "前回の記事でGrokBotについて詳しく書きましたので、今回はGrokBot以上によく使っ",
+        "執筆時2026/11/25時点での情報なので状況..."
+      ]
+    },
+    {
+      "id": "f7cf7750c448",
+      "title": "「AI検索に電話番号が……」鳴りやまぬコールセンター　バッファローは壊れた「顧客導線」をどう改善した？",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/26/news015.html",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-26T07:50:37+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "入電が「月に1400件急増」なぜ？ 理由を探ると…… 「10年以上もかけて構築してきたWebの仕組みが、一瞬で無駄になったような感じでした」 バッファロー 品質保証部 FAQ課長の嶋田豊秋氏は、AI検索によって電話問い合わせが増加した当時の心境をこう振り返る。 同社が外部委託して運営するコンタクトセンターには、電話、...",
+      "summary_bullets": [
+        "入電が「月に1400件急増」なぜ",
+        "理由を探ると…… 「10年以上もかけて構築してきたWebの仕組みが、一瞬で無駄になったよう",
+        "同社が外部委託して運営するコンタクトセンターには、電話、..."
+      ]
+    },
+    {
+      "id": "42e292d21d7e",
+      "title": "テクニカル指標だけの株スクリーニングは「上ヒゲ」で死ぬ。Gemini Vision目視診断の導入話",
+      "url": "https://zenn.dev/df_blogger/articles/stock-screener-gemini-vision-self-evolving",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-26T07:47:41+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "深夜。 「5年で家を買え」という無茶振りから始まったAI総動員プロジェクト。 そのクオンツ株取引部門を担うAIエージェント VEGA（ベガ） は、毎朝東証の銘柄をスクリーニングし、25日移動平均線（25SMA）を下から突き抜けるブレイクアウト初動株を探し出している。 当初、私たちは「25SMA乖離率が -3.0% 〜 0%（突破寸前）で、出来高が急増している陽線銘柄」をPythonの計算式だけでスコアリングしていた。 数値上は完璧なロジックのはずだった。 だが、抽出された「スコア1位（85点）」",
+      "summary_bullets": [
+        "深夜",
+        "「5年で家を買え」という無茶振りから始まったAI総動員プロジェクト",
+        "そのクオンツ株取引部門を担うAIエージェント VEGA（ベガ） は、毎朝東証の銘柄をスクリ"
+      ]
+    },
+    {
+      "id": "75d6becd85cd",
+      "title": "AIエージェントの自動化が止まる本当の理由 ― 3つの仕分けと『締切チェック』への置き換え",
+      "url": "https://zenn.dev/inatonun/articles/article-1-automation",
+      "source": "Zenn (AI)",
+      "published_at": "2026-11-26T07:45:21+09:00",
+      "category": "モデル・技術",
+      "clean_desc": "AIエージェントの自動化が止まる本当の理由 この記事は、AIエージェントに定期的な作業を任せ始めたものの、「いつの間にか自動化が止まっていた」「止まったことにしばらく気づけなかった」という経験のある人向けです。 止まる原因をエージェントの性能ではなく設計の問題として整理し、止まりやすい仕組みを止まらない形に置き換える手順を示します。 作ったのに止まる、は設計の問題 AIエージェントに「毎朝データを集めて知らせて」「条件を満たしたら通知して」と任せると、最初は動くのに、いつの間にか止まっていること",
+      "summary_bullets": [
+        "AIエージェントの自動化が止まる本当の理由 この記事は、AIエージェントに定期的な作業を任",
+        "止まる原因をエージェントの性能ではなく設計の問題として整理し、止まりやすい仕組みを止まらな",
+        "作ったのに止まる、は設計の問題 AIエージェントに「毎朝データを集めて知らせて」「条件を満"
+      ]
+    },
+    {
+      "id": "435095bc5a63",
+      "title": "AI法改正案の概要判明 罰則新設 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBORTRjbTgtOGE0ejRfcGNUZjlGWU10Z2xNNGh0d0VjVkd2TWZPSG1fYmJ4UjBKcl9PeHBaelFHU0lhLTRlMEZleVhjbU9odUJI?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-26T07:44:06+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "AI法改正案の概要判明 罰則新設 Yahoo!ニュース",
+      "summary_bullets": [
+        "AI法改正案の概要判明 罰則新設 Yahoo!ニュース"
+      ]
+    }
+  ]
+}
