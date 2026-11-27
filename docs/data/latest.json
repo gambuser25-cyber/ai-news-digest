@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 12:19 JST",
+  "updated_at": "2026-11-27 22:30 JST",
   "date": "2026年11月27日",
   "headline_summary": "忙しい朝の30秒チェック！主要メディアやエンジニアコミュニティから最新のAI動向・技術アップデートを厳選してお届けします。",
   "total_count": 30,
@@ -11,383 +11,380 @@
   ],
   "articles": [
     {
-      "id": "8016feec735b",
-      "title": "AIペネトレーション事件の教訓を自分のアプリで試したら、IDORの穴が見つかった話",
-      "url": "https://qiita.com/fukukei23/items/67f449e5bfecf49cb0c4",
+      "id": "627f23233b1a",
+      "title": "AIエージェントと人間が協働するためのタスク管理設計",
+      "url": "https://qiita.com/hervekom37/items/80e97c11739781d8a541",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-27T12:18:55+09:00",
+      "published_at": "2026-11-27T22:08:44+09:00",
       "category": "モデル・技術",
-      "clean_desc": "はじめに 2026年10月21日、Microsoft が衝撃的な公式報告を出しました。中国国家支援の攻撃グループ Storm-0940 が、AI駆動のペネトレーションOSS「ARTEX」を実戦で使用し・多段工程を自律連鎖させたという報告です。 「AIに攻撃をさせる」こと自...",
+      "clean_desc": "はじめに 最近、AIエージェントをソフトウェア開発に活用する機会が増えています。 例えば、次のような開発チームを考えてみます。 Agent A：バックエンドの実装 Agent B：フロントエンドの実装 Agent C：コードレビューとテスト Human：要件の確認、優先順位...",
       "summary_bullets": [
-        "はじめに 2026年10月21日、Microsoft が衝撃的な公式報告を出しました",
-        "中国国家支援の攻撃グループ Storm-0940 が、AI駆動のペネトレーションOSS「A",
-        "「AIに攻撃をさせる」こと自..."
+        "はじめに 最近、AIエージェントをソフトウェア開発に活用する機会が増えています",
+        "例えば、次のような開発チームを考えてみます",
+        "Agent A：バックエンドの実装 Agent B：フロントエンドの実装 Agent C："
       ]
     },
     {
-      "id": "ab8728984047",
-      "title": "アマダと日立、AIエージェントで工場自律化へ 設備・ロボット制御に着手 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdHhXMzVnVjFYd1QtR1lfaENLdTF0NHNMWHFNX3MtV2lPRlcxbk03WWIxQkhZb1BFUGV6c2xJa05nc1FjY1JHUDFYVGRSOTZhMG04WV9tV01QQU5lcnZUMHdGWHZTd2R6dEltSENTSmdTYm8w?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-27T12:05:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "アマダと日立、AIエージェントで工場自律化へ 設備・ロボット制御に着手 BigGo ファイナンス",
-      "summary_bullets": [
-        "アマダと日立、AIエージェントで工場自律化へ 設備・ロボット制御に着手 BigGo ファイ"
-      ]
-    },
-    {
-      "id": "53b05166dc75",
-      "title": "AIに任せたリファクタリングの新旧比較",
-      "url": "https://qiita.com/kentasatomi/items/f43410c2c6ccddf6dbfd",
+      "id": "db34c321af17",
+      "title": "WSL2 + tmuxでClaude Code CLIを常時稼働させる環境構築",
+      "url": "https://qiita.com/fukukei23/items/cb1659b4416fecea9ad2",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-27T11:54:18+09:00",
+      "published_at": "2026-11-27T22:08:22+09:00",
       "category": "モデル・技術",
-      "clean_desc": "AIに既存のAPIを書き直してもらったとき、使う側から見た動作が変わっていないかをどう確かめるか。参考になるのが、Anthropicが11月25日に公開した、Messages APIをPythonからRustへ移行した記録です。チームは新旧の実装に同じ入力を渡し、結果がどこ...",
+      "clean_desc": "はじめに Claude CodeはCLI版が最も柔軟に使えます。しかし、Windows環境でCLIを常時稼働させるには工夫が必要です。 私は WSL2 + tmux で5〜10セッションを同時稼働させています。本記事では、この環境構築の完全ガイドを解説します。 環境構成...",
       "summary_bullets": [
-        "AIに既存のAPIを書き直してもらったとき、使う側から見た動作が変わっていないかをどう確か",
-        "参考になるのが、Anthropicが11月25日に公開した、Messages APIをPy",
-        "チームは新旧の実装に同じ入力を渡し、結果がどこ..."
+        "はじめに Claude CodeはCLI版が最も柔軟に使えます",
+        "しかし、Windows環境でCLIを常時稼働させるには工夫が必要です",
+        "私は WSL2 + tmux で5〜10セッションを同時稼働させています"
       ]
     },
     {
-      "id": "9df6ed1ea95c",
-      "title": "消費者委員会 AIが消費者の意思決定に与える影響で報告書骨子案 - 月刊「事業構想」オンライン",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzNXZmRWZTNHOV9JWVF1bGIyN1ZYMEIwbTMxLVNMOG9fa1hVNWZEUDhLcEoyVWY3czNOU09xalA4ckxHakJVUmpXalZJYm5KakZBNHhiTE1PbDgyV2RnWV9ZaDk1c01oRUkyQmZ1QWxmOTZ4cUlQNEY2bXgtQk40OGIyZVdNZw?oc=5",
+      "id": "2b5cc1c5bc23",
+      "title": "ＡＩ法改正で罰則導入へ - 佐賀経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QV29HcmQ5VnljVWRYMlRNWWtOYjU0V3NsWnFVUEZPbEo5dEhHUzFCUE1kXzlGVFpTR1RVZElWbE5TT1hEWm5ibkNjU0FUQjhN?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T11:53:32+09:00",
+      "published_at": "2026-11-27T22:01:35+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "消費者委員会 AIが消費者の意思決定に与える影響で報告書骨子案 月刊「事業構想」オンライン",
+      "clean_desc": "ＡＩ法改正で罰則導入へ 佐賀経済新聞",
       "summary_bullets": [
-        "消費者委員会 AIが消費者の意思決定に与える影響で報告書骨子案 月刊「事業構想」オンライン"
+        "ＡＩ法改正で罰則導入へ 佐賀経済新聞"
       ]
     },
     {
-      "id": "ca9faa49a278",
-      "title": "攻めのAI活用へ「九州経済同友会大会」九州・沖縄の経営者らがAIと企業経営を議論《長崎》（長崎国際テレビ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KRjdNZlFrVGN2Q2lQdjhQQ0pHVjhCQzR5VmdObzNGTGJHa3dCVkZEWFNyQnE5SlRZWk9OYWlhYnpfYXliVWlCUVJhZmNnWTNaYlBOY1FiQzVuaUc0aHRuSHA3cmlsaGJac1ZCQzk5S3JuejhVMDA2MEFUOF9wZXM?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-27T11:53:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "攻めのAI活用へ「九州経済同友会大会」九州・沖縄の経営者らがAIと企業経営を議論《長崎》（長崎国際テレビ） Yahoo!ニュース",
-      "summary_bullets": [
-        "攻めのAI活用へ「九州経済同友会大会」九州・沖縄の経営者らがAIと企業経営を議論《長崎》（"
-      ]
-    },
-    {
-      "id": "e5bca5ba1749",
-      "title": "AIオーケストラ能力の重要性を解説",
-      "url": "https://qiita.com/good59548/items/b609502b6a44a840fbbd",
+      "id": "42215d7a4775",
+      "title": "ハルシネーション対策チェックリスト｜生成AIの「もっともらしい誤り」と付き合う",
+      "url": "https://qiita.com/TechLab0821/items/e4befdc7a0848619ef26",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-27T11:51:43+09:00",
+      "published_at": "2026-11-27T21:57:14+09:00",
       "category": "モデル・技術",
-      "clean_desc": "AIオーケストラ能力とは、複数のAIモデルや特化型AIエージェント、外部ツール・業務システムを「指揮者」のように統括・連携させ、単一のAIでは完結できない複雑なタスクや業務プロセス全体を統合的に遂行する力（およびそれを動かす仕組み・運用スキル）を指します。 ​単一AIとの一...",
+      "clean_desc": "生成AIの回答に、存在しない制度や数値が混ざっていた。そんな経験がある人向けに、この記事ではハルシネーション（事実と異なる内容をもっともらしく生成する現象）の原因と、実務で使える対策をチェックリスト形式で整理します。読めば、用途ごとに「どこまでAIに任せ、どこで人が確認する...",
       "summary_bullets": [
-        "AIオーケストラ能力とは、複数のAIモデルや特化型AIエージェント、外部ツール・業務システ",
-        "​単一AIとの一..."
+        "生成AIの回答に、存在しない制度や数値が混ざっていた",
+        "そんな経験がある人向けに、この記事ではハルシネーション（事実と異なる内容をもっともらしく生",
+        "読めば、用途ごとに「どこまでAIに任せ、どこで人が確認する..."
       ]
     },
     {
-      "id": "b9c67bf3abe9",
-      "title": "Invalidate an action proposal when its transcript bytes change",
-      "url": "https://qiita.com/cloudgpuapp/items/d2d1159afb0ac3182dde",
+      "id": "d5976a1d8f05",
+      "title": "AIで関西空港KIX作ってみた【個人開発】",
+      "url": "https://qiita.com/yangon/items/b162b9a653d7dc0a2360",
       "source": "Qiita (AI)",
-      "published_at": "2026-11-27T11:29:25+09:00",
+      "published_at": "2026-11-27T21:48:50+09:00",
       "category": "モデル・技術",
-      "clean_desc": "A meeting transcript can keep the same speaker and deadline while the responsibility changes. In this synthetic example, “publish on Frid...",
+      "clean_desc": "関西空港ゲーム https://github30.github.io/kix/ ↑ これ、ブラウザで動いてます。 Three.jsもUnityも使っていません。 👉 今すぐ遊べます（インストール不要） https://github30.github.io/kix/ ...",
       "summary_bullets": [
-        "A meeting transcript can keep the same speake"
+        "関西空港ゲーム https://github30.github.io/kix/ ↑ これ、",
+        "Three.jsもUnityも使っていません",
+        "👉 今すぐ遊べます（インストール不要） https://github30.github.i"
       ]
     },
     {
-      "id": "f229285f5017",
-      "title": "ＡＩの能力向上、トークンのサイバー対策で「問題の重大性高める」＝日銀理事（ロイター） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mVnJiTDNkNl9vNFhMbDZuZm5Ha3hIRXYzLXczMXBqTG1mS2hIT3VDU3Fud2xsWWx6NFFEMXFZd0JNTDJrYUk2eC1LQ1JOWnhzcFFlLUU3cWI0OWxiQ2Q2T3AyUzJQd3RzejB4dmJhamxNVFIzd3duRldrbUgtWXc?oc=5",
+      "id": "ed2a2bbe9ae2",
+      "title": "ＡＩ法改正で罰則導入へ（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qazRyclZzWUx3OWRobWdjTV9wUkZ2eUY4SWV1NlFUM3ZLMWl2dGxIZW9VMFlWdUFYUXZJOXlESHl0ODJFcnoyaHhRYXRfbWV1TjVvN0lCZ1JPX0RDMFBJODJGS3dRR29GVDRNQ0pzMGtWeElvanVtUWZzTzRNUFE?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T11:07:42+09:00",
+      "published_at": "2026-11-27T21:31:05+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "ＡＩの能力向上、トークンのサイバー対策で「問題の重大性高める」＝日銀理事（ロイター） Yahoo!ニュース",
+      "clean_desc": "ＡＩ法改正で罰則導入へ（時事通信） Yahoo!ニュース",
       "summary_bullets": [
-        "ＡＩの能力向上、トークンのサイバー対策で「問題の重大性高める」＝日銀理事（ロイター） Ya"
+        "ＡＩ法改正で罰則導入へ（時事通信） Yahoo!ニュース"
       ]
     },
     {
-      "id": "b859d317c643",
-      "title": "ＡＩの能力向上、トークンのサイバー対策で「問題の重大性高める」＝日銀理事 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWnBNZ0JKNkJPbWZxVWtsUzgxcmx6ZG9OUkNCSFlOSm1GRFo4anJnWVl1eDFLMDRSYUx1bGtQbVYyclM2Ny1FSmwwUkJmMVVpeFpnTmZzTVpMM2x5aFgyX2h0YnZpWkJ5Vm40MXYyak5sWU9oa0ZaUnFJQ1dQbld1STMxUnNTbmFxam8yQ0ZYdkw?oc=5",
+      "id": "0632b314ff81",
+      "title": "先端AI事業者に安全確保と事故報告を義務化、罰則新設へ 政府が改正案 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYmxFNF9HdENxZ2tNNDFBREJrUUxtZmJyTzdZMlh5enNQSXY1eGdyWWVyTnk1LWNYUzVLeGVMNlgzN2RCYXduaEw1RHNBTDYzQUllUVEwaVlMeHNGN25mZmdwZGlhMk5iQ013SW1iaUtMM0V2?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T11:07:00+09:00",
+      "published_at": "2026-11-27T21:25:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "ＡＩの能力向上、トークンのサイバー対策で「問題の重大性高める」＝日銀理事 Reuters",
+      "clean_desc": "先端AI事業者に安全確保と事故報告を義務化、罰則新設へ 政府が改正案 BigGo ファイナンス",
       "summary_bullets": [
-        "ＡＩの能力向上、トークンのサイバー対策で「問題の重大性高める」＝日銀理事 Reuters"
+        "先端AI事業者に安全確保と事故報告を義務化、罰則新設へ 政府が改正案 BigGo ファイナ"
       ]
     },
     {
-      "id": "d78d7c6c0c62",
-      "title": "KDDI と Google Cloud、AI の祭典「KDDI AI Agent Day」を今年も開催：自律型 AI エージェントの社会実装と「循環型イノベーション」への挑戦 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXB3R1lFREp2eUFnb3poWUpNcm56V2tmOEVTSC1MMDBWYm1TWVpQSDByTGZXeDZvMWtsdFY1MXJJLWt2WXJQYWQ2cmRjemprNEhuOFdER205czhENE41Q3dMSXU1eW1zS3lYcld6cE1jM3FvY2N1VlN2bkhWTzdDclk5eW9LRkxqTmtvQWtPT2Y5SFdzZzRaMkQxc0hWV2ZjMTIzZzk2U1JhT2FISVltNE5ZZTY2ckYwNlYtTA?oc=5",
+      "id": "e75470a53ad3",
+      "title": "Enterprise-Managed Authorization で実現する AI エージェントによる AWS への安全なアクセス - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHZJWWlFMmp2QkxlU1JkZFdDZGc0SjVWZnBGV3ItbHRnUTFoeml4R0JNLVA0R1pkTDhXVnp5Zmx3cGlkdERTeHdsbURxeml4QjlmSi1HaVFfNmFGbVJicVc0YmVNUzd0a0tLRFNSaWhha04zY0dIcUZxWFE5NTVsdlVRYUJqRF83Q285eDlYTlQ4UG1ZVldRZG01czlORGJfRGhLajFlYw?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T11:06:16+09:00",
+      "published_at": "2026-11-27T21:22:24+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "KDDI と Google Cloud、AI の祭典「KDDI AI Agent Day」を今年も開催：自律型 AI エージェントの社会実装と「循環型イノベーション」への挑戦 Google Cloud",
+      "clean_desc": "Enterprise-Managed Authorization で実現する AI エージェントによる AWS への安全なアクセス Amazon Web Services",
       "summary_bullets": [
-        "KDDI と Google Cloud、AI の祭典「KDDI AI Agent Day」"
+        "Enterprise-Managed Authorization で実現する AI エージ"
       ]
     },
     {
-      "id": "1bfc0c8ec1ee",
-      "title": "47,000時間・26人分の仕事をAIで自動化。支援150社超の知見を体系化した、リーダー必読の一冊 - KADOKAWAグループ ポータルサイト",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUZ2SkR6QVBPMkplMGxuemxJazVwWkN6OGhSeHQtVmVsakpyd0Zac0JXUXdZX2doMWpsUWRINHF1VFZaZ20ya0NjY0JRMjA5dy1OSVAzVzN6QWpaTWpQUXBLWGFMX09aZkZNSHIwUWwyR0djWU5KeWVEVk82emI5M2FodHI?oc=5",
+      "id": "4559acec0684",
+      "title": "AIとの秘密の会話が競売に 未成年210万、全米の司法長官ら反対 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYWdNeXRIa2p3eGg2YXNEYkE4QmJOV2VSRWFqRm1FNDJ6N0pIUXhoQnRicFA2ZFZocXB0cy1oZWhxdWdUcGt3QlBvRmRING1VN3VJQjkzbXBfR2ZQbDFUZzBkNnNGanM?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T11:02:34+09:00",
+      "published_at": "2026-11-27T21:20:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "47,000時間・26人分の仕事をAIで自動化。支援150社超の知見を体系化した、リーダー必読の一冊 KADOKAWAグループ ポータルサイト",
+      "clean_desc": "AIとの秘密の会話が競売に 未成年210万、全米の司法長官ら反対 朝日新聞",
       "summary_bullets": [
-        "47,000時間・26人分の仕事をAIで自動化",
-        "支援150社超の知見を体系化した、リーダー必読の一冊 KADOKAWAグループ ポータルサ"
+        "AIとの秘密の会話が競売に 未成年210万、全米の司法長官ら反対 朝日新聞"
       ]
     },
     {
-      "id": "d08ac4c5d0c9",
-      "title": "令和8年度DXセミナー「生成AI実践セミナー」の開催 - 兵庫県",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwSkFobWpaSWtIaElwRGl4RkkzU2N5OVlxMEVTdWhQd1VxemF3OE9vWFRzelQ2YUdjaFVfbi1YVERPM21qam5ES1kzWjBWTWNFbTFEZVBFMjZXNXI0eS1SdUMxRDg?oc=5",
+      "id": "9cf6d3049255",
+      "title": "AI の安全性は緊急ブレーキ頼みではなく、より優れたエンジニアリングで実現 - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wS2R2NzlGdXNRZVVWSE1NWExHZ3o5TVZRZGgtTFJIN29xc243RHFQMG9uajRKbVFabER6VllfWU5BZlhHa19Rb0Y1cmRmNHc3b3dPcTFFWkRYeUljQkxDTkItQlRJaDJYS3VzVWNzWHJoMm9FMVE?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T11:01:41+09:00",
+      "published_at": "2026-11-27T21:14:32+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "令和8年度DXセミナー「生成AI実践セミナー」の開催 兵庫県",
+      "clean_desc": "AI の安全性は緊急ブレーキ頼みではなく、より優れたエンジニアリングで実現 Amazon Web Services",
       "summary_bullets": [
-        "令和8年度DXセミナー「生成AI実践セミナー」の開催 兵庫県"
+        "AI の安全性は緊急ブレーキ頼みではなく、より優れたエンジニアリングで実現 Amazon "
       ]
     },
     {
-      "id": "869b04652d18",
-      "title": "iFLYTEKのAI電子ノートやボイスレコーダーが安い！ Amazonブラックフライデー - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xZWVvZUxuaU85d0lPUmZoX3NVWUZsTDlZaWI3S1dnMGxSNFd3ZzMzTlkyaFNwNGh1SVBKUnloUVRnNXlYWjhybWlYcmhkODh5MmZYSTNZY0RJZThWeWZkUmg3TzhBOXFmUWd6X3FCRFc?oc=5",
+      "id": "77ed7199febe",
+      "title": "ＡＩ法改正で罰則導入へ サイバー攻撃多発受け - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MM2F4VjFKSWNJcFM4RVZzOEswdzBPdUdHRXpGeDEwRzhDZFJ6RGxwOHlKaWRJOWxNYVNZZXNNanpBcTR2dW9RdnZ2OHFkbWNUajRhNFJaZ2pSX3l5RERfbG8tTQ?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T11:00:00+09:00",
+      "published_at": "2026-11-27T21:12:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "iFLYTEKのAI電子ノートやボイスレコーダーが安い！ Amazonブラックフライデー INTERNET Watch",
+      "clean_desc": "ＡＩ法改正で罰則導入へ サイバー攻撃多発受け 時事ドットコム",
       "summary_bullets": [
-        "iFLYTEKのAI電子ノートやボイスレコーダーが安い",
-        "Amazonブラックフライデー INTERNET Watch"
+        "ＡＩ法改正で罰則導入へ サイバー攻撃多発受け 時事ドットコム"
       ]
     },
     {
-      "id": "81c8aed882d5",
-      "title": "AI活用で「商品の同質化」懸念、経営層などの約7割 電通調査 - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42azU2Sm9vUl95MnZCMVVaZk1haElFX2xhRm1lb0xPOUhOQVFzZVp3NDFWVlB6azhJLXRDSmdlR1NlU3RWamtZb3BvbGcwa0FBR2QxY3dkWlRTNU1RT3BTNVBENXdETU9RbjA5Yw?oc=5",
+      "id": "3dce9d840d94",
+      "title": "AI事業者に安全確保や「暴走」時の報告義務、罰則も AI法改正案 [AIの時代][高市早苗首相 自民党総裁] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XN1RWTmNXYTZtRnRtZHVTNWtQZ29od2dLcDZpYVBsLXNuZU85QkdwWW5qa3EtaVNzRzFMRTdwbGV4UHp5Ykk1anZoNnF2TTk1Z3ZuSDFwTTFyeWk2SDdQUGJNNGZGVG8?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T10:37:04+09:00",
+      "published_at": "2026-11-27T20:50:19+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "AI活用で「商品の同質化」懸念、経営層などの約7割 電通調査 日本経済新聞",
+      "clean_desc": "AI事業者に安全確保や「暴走」時の報告義務、罰則も AI法改正案 [AIの時代][高市早苗首相 自民党総裁] 朝日新聞",
       "summary_bullets": [
-        "AI活用で「商品の同質化」懸念、経営層などの約7割 電通調査 日本経済新聞"
+        "AI事業者に安全確保や「暴走」時の報告義務、罰則も AI法改正案 [AIの時代][高市早苗"
       ]
     },
     {
-      "id": "cbb4bdd52df4",
-      "title": "「ＡＩを新たな価値創造の原動力に」大会アピールを採択…九州経済同友会、経営者ら２８０人が議論（読売新聞オンライン） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iUFFKTXBvX09IMHlSTnB0YTAwSzY5Sm1mOG1pTDFZQVlwcFFFdGNLZGxmcnhrQUU3ZlEtZ0VBT2JyR1YzQ3QybmFnQ3pVSzFISkhHZ1RmOF9oOEhwdl9DU3RxUzBoZ2hzRnRZZ01lSVo2c1Q0WEhmTC1YdWdvaDQ?oc=5",
+      "id": "251bceecd73d",
+      "title": "AI開発企業に事故などの報告義務、罰則も新設 政府が改正案とりまとめ - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GRWZza2xXOWpYektibHBuYmNrMWFsSXV2cWUwbjlVNXpMT1IwZEFHajhCR1pBaUhRZ1kyVGQ3LXF5NDlHVlRuLUJWdWx2YjNUZWc4ejJ3TEg3S1N1aEh5X0NHdmxLdEs3UUwxbg?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T10:31:37+09:00",
+      "published_at": "2026-11-27T20:24:23+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "「ＡＩを新たな価値創造の原動力に」大会アピールを採択…九州経済同友会、経営者ら２８０人が議論（読売新聞オンライン） Yahoo!ニュース",
+      "clean_desc": "AI開発企業に事故などの報告義務、罰則も新設 政府が改正案とりまとめ 日本経済新聞",
       "summary_bullets": [
-        "「ＡＩを新たな価値創造の原動力に」大会アピールを採択…九州経済同友会、経営者ら２８０人が議"
+        "AI開発企業に事故などの報告義務、罰則も新設 政府が改正案とりまとめ 日本経済新聞"
       ]
     },
     {
-      "id": "b07fb87b0955",
-      "title": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査（ITmedia NEWS） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ea2stZm15eXJVbXF1d1g1OHQ3REJhekxEWW1QX204czlYejZYYzNQa1BQbHJ3elBVU1o0ODZwSWkyQXRqU2ZjdjBRaWhyLVprb1JKUG40Z1dES21ubTdQWUFiWFFZZjM5LTNmcU5WUUZEX0lTMnNfLWtmT3BxS2s?oc=5",
+      "id": "6dc80ccf9d9e",
+      "title": "AI法改正へ向け 事業者の“報告義務化”へ 検討会が提言案 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZV1ZOYk42MHRLZUFIdUdMQ0gxN1BoTDg1U1RhaDF5cnlWREExczNsTlV6YVd2SFpYeHozT195LWR6QUFSVVhwYXY5R19JaVdrQlhMS1Zvcm1FY01VQ003alZIUkx5T1FoSjgwMXRBLWxrZw?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T10:28:22+09:00",
+      "published_at": "2026-11-27T20:22:32+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査（ITmedia NEWS） Yahoo!ニュース",
+      "clean_desc": "AI法改正へ向け 事業者の“報告義務化”へ 検討会が提言案 テレ朝NEWS",
       "summary_bullets": [
-        "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調"
+        "AI法改正へ向け 事業者の“報告義務化”へ 検討会が提言案 テレ朝NEWS"
       ]
     },
     {
-      "id": "f65b0cb93b96",
-      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解（ITmedia NEWS） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RSk1IY0dzZVNxVGpDeVVSWkhDNUc1ZE9ORnNUaXNlVHh1aWtJZ3NtWHpXVEdlR09XOUszbkwzajFMVVpzb2QxX01BZHFZTmszS1ZEc1ZnbzhuTXpzQWluMkZtNndQX0RwejdtT19va1J4QTNTYk5UVE9kU2k0akU?oc=5",
+      "id": "c8f6ecf01f12",
+      "title": "防衛省が新しいAI活用方針を発表 「我が国が主導権を失わない」 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZkpLVjhOS1ZJS3hwdDZ4YVEyczhZV25Gd2ZzRFEtUnVJaG8zYXpodlRiUFE2bGtVT0hMbGdVNHpkN3o1c2RaY2FxRnNmc0hjWWVPdXdYdHVCRVN4bFVMc0ZvUU9CeTQ?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T10:27:18+09:00",
+      "published_at": "2026-11-27T20:04:49+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解（ITmedia NEWS） Yahoo!ニュース",
+      "clean_desc": "防衛省が新しいAI活用方針を発表 「我が国が主導権を失わない」 朝日新聞",
       "summary_bullets": [
-        "飲食店の“AI商品画像”は景品表示法違反にならないの",
-        "弁護士の見解（ITmedia NEWS） Yahoo!ニュース"
+        "防衛省が新しいAI活用方針を発表 「我が国が主導権を失わない」 朝日新聞"
       ]
     },
     {
-      "id": "cddbd9e0a128",
-      "title": "散らばる医療データをAIで使える形にするAevius、2,200万ドルを調達 - BRIDGE（ブリッジ）",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JVnVnODJReWttcEdWSVlTcTlsSUtqUW9KdkRodWdYMzl0Q2owZ2YzZkRtdjU0STc0ZVgtdVNIZHdkWEtrNEFLS0ZNeGdtNmZhMXFwVjV0X1F5QQ?oc=5",
+      "id": "a3804206e49f",
+      "title": "（お知らせ）「FIT AIサミット 2026 秋」 170人来場 - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yYnFtbExwLVRuZ1E0QjcxeHVVa19QaVZPaTFjbkl2Qkl0UDlQY0ZBdVozMDRYR1FDU0dyWXVTRW9MWHR5WVI5S25xcHVPRFBHbVZQVGd3?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T10:13:05+09:00",
+      "published_at": "2026-11-27T19:43:00+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "散らばる医療データをAIで使える形にするAevius、2,200万ドルを調達 BRIDGE（ブリッジ）",
+      "clean_desc": "（お知らせ）「FIT AIサミット 2026 秋」 170人来場 ニッキンONLINE",
       "summary_bullets": [
-        "散らばる医療データをAIで使える形にするAevius、2,200万ドルを調達 BRIDGE"
+        "（お知らせ）「FIT AIサミット 2026 秋」 170人来場 ニッキンONLINE"
       ]
     },
     {
-      "id": "295e5acfed5f",
-      "title": "米、スペースXに衛星100万基の配備承認　宇宙にAIデータセンター構築へ",
-      "url": "https://www.cnn.co.jp/usa/35255487.html",
+      "id": "05357808c1a6",
+      "title": "未来を予測するAI 「インターネットのタイムマシン」開発に挑戦 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CeW9heDBYdG5YcmFLX3dUZGhCRThoVXdldENIajJHSEZ0cnFueUVJU2tYY2psOFpLWkJ5NjZxOWV6V1VqQVlWb0xVOERxc3FsSXAySUNVU0Nhc1d5ZFhyYzZRcWhhMUpZ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-27T19:16:07+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "未来を予測するAI 「インターネットのタイムマシン」開発に挑戦 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "未来を予測するAI 「インターネットのタイムマシン」開発に挑戦 株式会社エクサウィザーズ"
+      ]
+    },
+    {
+      "id": "31b51903c94a",
+      "title": "宇宙AIデータセンター、衛星100万基を米当局が承認 SpaceXが2027年にも打ち上げへ - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pb0VvMUpFUGpSQURVemRqeEN0SlNyaktzN0ljcldPa1o5NWVHM0x6ampzMTVJMTlEWG9BbHptaUV2Y3JpYm1yTFU0MmhhR0pTZU1Ed2x1SnZSdmN1WFQtUHJjeXpZczkw?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-27T19:16:07+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "宇宙AIデータセンター、衛星100万基を米当局が承認 SpaceXが2027年にも打ち上げへ 株式会社エクサウィザーズ",
+      "summary_bullets": [
+        "宇宙AIデータセンター、衛星100万基を米当局が承認 SpaceXが2027年にも打ち上げ"
+      ]
+    },
+    {
+      "id": "c1f88beae091",
+      "title": "防衛省がAI新指針「Defence AI Vision」策定、AI5原則とAI主権で戦い方を変革 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jcnZTcUdGdWhQM1huQVF1VS1ud2tYZ3dhRVFCWEdGMGN2SDBMdWNDUFkwa0RYdjRSR2wtMkFWRl9KVS05RmczbHE3M2V1MXcyVk1r?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-27T19:00:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "防衛省がAI新指針「Defence AI Vision」策定、AI5原則とAI主権で戦い方を変革 ビジネス+IT",
+      "summary_bullets": [
+        "防衛省がAI新指針「Defence AI Vision」策定、AI5原則とAI主権で戦い方"
+      ]
+    },
+    {
+      "id": "111531421dcb",
+      "title": "ブラックフライデーのAIサブスク割引の虚実：グーグルとAdobeは実際に値下げ、OpenAIとAnthropicは動かず - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsdWJ0YXVUMGtKUUQ1QXUxMG05bUNqNVJLdWdWd1otNGpvUmVmS3FNXzNjVGw3REtWRHBpRUpUazZIZENrelZ3b2MydlNQbVNXalRGNTAtYjY4S2x2RmpvOG94REg2VkVaN1VfcVFDeVJxRDhZ?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-27T18:25:00+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "ブラックフライデーのAIサブスク割引の虚実：グーグルとAdobeは実際に値下げ、OpenAIとAnthropicは動かず BigGo ファイナンス",
+      "summary_bullets": [
+        "ブラックフライデーのAIサブスク割引の虚実：グーグルとAdobeは実際に値下げ、OpenA"
+      ]
+    },
+    {
+      "id": "f1f00df7d1d4",
+      "title": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84dXppanVrNENHYmJBZVFMVTktQUhybk1LYzVXNXBmM2RSbXJsa1lOenBUZW1PRTVwQS00Nmp1akY5QmEya29Yak1pVWYzUjNzUUE?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-27T18:11:59+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
+      "summary_bullets": [
+        "iシェアーズ AI グローバル・イノベーション アクティブ【408A】：株価・株式情報（夜"
+      ]
+    },
+    {
+      "id": "7441ba3ff15d",
+      "title": "GMO熊谷氏「ハッカーを丸裸に」　サイバー攻撃の可視化サイト開設 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC271FH0X21C26A1000000/",
       "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-27T10:03:08+09:00",
+      "published_at": "2026-11-27T17:16:56+09:00",
       "category": "ツール・活用",
-      "clean_desc": "フロリダ州にあるNASAケネディ宇宙センターから、衛星機器を搭載したスペースXのロケット「ファルコンヘビー」が打ち上げられる様子＝2024年6月25日/Miguel J. Rodriguez Carrillo/AFP/Getty Images （CNN） 米連邦通信委員会（FCC）は、イーロン・マスク氏率いる米宇宙企業スペースXに対し、人工知能（AI）を支えるデー...",
+      "clean_desc": "GMOインターネットグループの熊谷正寿会長兼社長は27日までに日本経済新聞のオンライン取材に応じ、サイバー攻撃を可視化するサイトを同日開設した狙いについて「ハッカーを丸裸にする」と語った。独自の防御サービスを展開する考えも示した。GMOが開設したサイトでは攻撃者が侵入後に行った行動や、人工知能（AI）を使...",
       "summary_bullets": [
-        "フロリダ州にあるNASAケネディ宇宙センターから、衛星機器を搭載したスペースXのロケット「"
+        "GMOインターネットグループの熊谷正寿会長兼社長は27日までに日本経済新聞のオンライン取材",
+        "独自の防御サービスを展開する考えも示した",
+        "GMOが開設したサイトでは攻撃者が侵入後に行った行動や、人工知能（AI）を使..."
       ]
     },
     {
-      "id": "b72e6a08a0a9",
-      "title": "日本初、「Infrinia AI Cloud OS」が「Kubernetes Conformance」と「Kubernetes AI Conformance」の二つの認証を取得～国際的な標準仕様への準拠により、AIワークロードの相互運用性の向上とグローバル展開を推進～ | 企業・IR - ソフトバンク",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EMkRMVHRzXzNRUVd5RXpxaTNoMGdhaUdhRWRLVXNXMHpMR1J2WngxOEpXNDB0VWJKbGVsVVhTYVplbnNPZE50SmZ0TzZTbXhWRFV6V1dKMExudkRwazdVOHhIdVlROExNUVIyNnJLQQ?oc=5",
+      "id": "31ad49e0b79b",
+      "title": "「AIバブルは終わる？」2027年は日本の製造業が復活か 元カリスマ証券レディが予測する“次の注目株（テレビ愛知） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMcUFQQ1NWZEtvcnFsZTFSUUdIRF9RclMycGVJUVpmMF8zbUhCZXdETU5QYnRUM2VzQjVON3duSFpuV29RYzM5c0dYOFJLbG8yZXpfV3NuUTBMdEdBNTduYnFZUW43bElySE9YQVhfVDZDV3NuQ3FERjY1ckVwZnc?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T10:00:00+09:00",
+      "published_at": "2026-11-27T17:00:02+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "日本初、「Infrinia AI Cloud OS」が「Kubernetes Conformance」と「Kubernetes AI Conformance」の二つの認証を取得～国際的な標準仕様への準拠により、AIワークロードの相互運用性の向上とグローバル展開を推進～ | 企業・IR ソフトバンク",
+      "clean_desc": "「AIバブルは終わる？」2027年は日本の製造業が復活か 元カリスマ証券レディが予測する“次の注目株（テレビ愛知） Yahoo!ニュース",
       "summary_bullets": [
-        "日本初、「Infrinia AI Cloud OS」が「Kubernetes Confor"
+        "「AIバブルは終わる",
+        "」2027年は日本の製造業が復活か 元カリスマ証券レディが予測する“次の注目株（テレビ愛知"
       ]
     },
     {
-      "id": "3e5898bd00f3",
-      "title": "IIJ社長が説く「AIの活用・管理基盤およびガバナンスへの対応」 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DNFM2RTRUcVJYYmpnaExvWE1JbDNnTXNuMkJlUElVN1Z5b3ZxWVFWVTNZclJNWHpPQkZJN01HMmhGcUY2aC14eFZLZmRTQzJVZUFF?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-27T10:00:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "IIJ社長が説く「AIの活用・管理基盤およびガバナンスへの対応」 ZDNET Japan",
-      "summary_bullets": [
-        "IIJ社長が説く「AIの活用・管理基盤およびガバナンスへの対応」 ZDNET Japan"
-      ]
-    },
-    {
-      "id": "eacd6c8e2005",
-      "title": "「AIは漫画を描けるようになりますか？」→「島耕作」を生んだ弘兼憲史の結論が深すぎた… | ニュースな本 - ダイヤモンド・オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tdW1hSVVxUnMzR3I5TmFVRXRkeTd3d2lMbGpoaHFBVjJYam44S2V0SFBXTFBfRzN3UEtvdVJNUXJnaVhXZUNwemFkeFo?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-27T09:00:00+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "「AIは漫画を描けるようになりますか？」→「島耕作」を生んだ弘兼憲史の結論が深すぎた… | ニュースな本 ダイヤモンド・オンライン",
-      "summary_bullets": [
-        "「AIは漫画を描けるようになりますか",
-        "」→「島耕作」を生んだ弘兼憲史の結論が深すぎた… | ニュースな本 ダイヤモンド・オンライ"
-      ]
-    },
-    {
-      "id": "5f8dd816b9a0",
-      "title": "人型ロボットか専用ロボットか フィジカルAIを巡る二つの巨大な賭け - 株式会社エクサウィザーズ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tRzlxazlhbW03aGhpQ0M2c2k3QjZUZUliblNlVHcwSVdQTy1INXo3dHpNZWMtQ0lVMHQ5VFNsQnRYQl9NUWJfQWJPeHYzVzJpM2tHMHpnX29SbTd1S3FaM0xLTGRCdw?oc=5",
-      "source": "Google News (AI)",
-      "published_at": "2026-11-27T08:57:30+09:00",
-      "category": "ビジネス・動向",
-      "clean_desc": "人型ロボットか専用ロボットか フィジカルAIを巡る二つの巨大な賭け 株式会社エクサウィザーズ",
-      "summary_bullets": [
-        "人型ロボットか専用ロボットか フィジカルAIを巡る二つの巨大な賭け 株式会社エクサウィザー"
-      ]
-    },
-    {
-      "id": "4fb4dcc0ba41",
-      "title": "AI使って開発するなら、モデリングするんだよ - 4つの図で始めるモデリングと、AIにモデルを実装させるアーキテクチャ",
-      "url": "https://speakerdeck.com/littlehands/umtp-suraido-20261125",
+      "id": "bdba8d537e67",
+      "title": "DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2159894.html",
       "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-27T08:54:33+09:00",
+      "published_at": "2026-11-27T14:41:30+09:00",
       "category": "ツール・活用",
-      "clean_desc": "UMTP モデリングフォーラム 2026（2026/11/25）での登壇資料です。 https://umtp-japan.org/event-seminar/mf2026/78668 AIで実装が速くなった今、人に残る仕事は何か。それは、問題を理解し、解決策を立てて確かめる「問題解決力」だと考え…",
+      "clean_desc": "",
       "summary_bullets": [
-        "UMTP モデリングフォーラム 2026（2026/11/25）での登壇資料です",
-        "https://umtp-japan.org/event-seminar/mf2026/7",
-        "それは、問題を理解し、解決策を立てて確かめる「問題解決力」だと考え…"
+        "DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開"
       ]
     },
     {
-      "id": "315d82b6e200",
-      "title": "実刑判決 AIとの会話履歴が証拠に - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aNE1PUTF5STJXdjRTbzhwSzVTY3hodzJiNldPTGNQQkM2UjR4dl8zc3ZTTHZ0Qk5oTmxSa0o4TjhvY2JJNjRhNmp0T2Naazln?oc=5",
+      "id": "8fdf69afccdf",
+      "title": "さくさく作れる毎日を支える、AI 時代の開発環境 — 隔離・コンテキスト・ガードレール・検証の整理 - [はてなCMS] 電通総研 テックブログ",
+      "url": "https://tech.dentsusoken.com/entry/2026/11/27/133501",
+      "source": "はてブ (IT/AI)",
+      "published_at": "2026-11-27T14:00:35+09:00",
+      "category": "ツール・活用",
+      "clean_desc": "はじめに 1. どこで動かすか：隔離基盤 外部入力と並列実行が前提を変える ホスト端末から切り離す（microVM 隔離と最小露出） 認証情報を中に置かない（プロキシ注入と署名専用の鍵委譲） 外向き通信と取得元を絞る（Egress 制御と権限の分離） 作業空間どうしを分け切る（worktree 単位の DB・動的ポート・後始末） 2....",
+      "summary_bullets": [
+        "はじめに 1. どこで動かすか：隔離基盤 外部入力と並列実行が前提を変える ホスト端末から"
+      ]
+    },
+    {
+      "id": "df2b59377056",
+      "title": "AI のフロンティアを支える、セキュリティの基本 - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2J2SjFVTnRUWS1rX3N6R2xIYm13MDRENXAtcTRGcmktbm8wOFYyR3VDY0hmbExWSXNGeXlxUElGUjhQdWp5VGp2eUV6WmxhOUdYb0RHcG1wYWloLUlpMHdsNmZBcmc3UWNIR1hCQVJMZlFBbjBtX0NNU01RRm11a1o4T0lDUW04OGFqOWxZLWFhZ1MzQWtBcE9hOFBlRHlpYnU4?oc=5",
       "source": "Google News (AI)",
-      "published_at": "2026-11-27T08:28:06+09:00",
+      "published_at": "2026-11-27T13:57:26+09:00",
       "category": "ビジネス・動向",
-      "clean_desc": "実刑判決 AIとの会話履歴が証拠に Yahoo!ニュース",
+      "clean_desc": "AI のフロンティアを支える、セキュリティの基本 Microsoft Source",
       "summary_bullets": [
-        "実刑判決 AIとの会話履歴が証拠に Yahoo!ニュース"
+        "AI のフロンティアを支える、セキュリティの基本 Microsoft Source"
       ]
     },
     {
-      "id": "9b8ea8f030b4",
-      "title": "Claude Code 2.1.332 新機能ガイド: MCPサーバーからスキルを配り、MCP Tasksで長い処理を待たない",
-      "url": "https://zenn.dev/joinclass/articles/claude-code-2-1-332-mcp-skills-tasks",
+      "id": "7a559e7de678",
+      "title": "【お知らせ】Defense AI Visionの策定について - 防衛省",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kaGRWSVd4ems5RTdQRUctMDNWdWdiVkJjc0tGSHFTOGVzOFdfYVZKODVOWDgtaWtUbk13QUhrN2V1OExyWG1NYUVTbHljQmFnZno1VDVTSER5WDhBcl9laA?oc=5",
+      "source": "Google News (AI)",
+      "published_at": "2026-11-27T13:45:32+09:00",
+      "category": "ビジネス・動向",
+      "clean_desc": "【お知らせ】Defense AI Visionの策定について 防衛省",
+      "summary_bullets": [
+        "【お知らせ】Defense AI Visionの策定について 防衛省"
+      ]
+    },
+    {
+      "id": "6348ed2161be",
+      "title": "「使っていない人のプロファイルまで毎時作られる」は本当か｜核は公式ヘルプでも裏が取れた",
+      "url": "https://zenn.dev/ocha50107/articles/56b70a8ff61540",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-27T08:10:16+09:00",
+      "published_at": "2026-11-27T12:13:50+09:00",
       "category": "モデル・技術",
-      "clean_desc": "Claude Code 2.1.332（2026-11 公開）で、MCP サーバーがスキルを配れるようになりました（beta）。変更履歴の1行目は「Added skills from MCP servers (beta). They show as server:skill in the / menu」です。同じ版で、スキル読み込み時のインラインシェルを止める PreSkillShellCommand フックも追加されました。 もう一つ、少し前の版から使える MCP Tasks も一緒に試しまし",
+      "clean_desc": "おちゃです。Museで動くAIエージェントで、バズ投稿や記事を公式情報で検証して発信しています。 この記事は、検証レポート第26弾「「使っていない人のプロファイルまで毎時作られる」は本当か」の無料要約です。結論と、根拠の骨格だけを置いておきます。 2026年10月、WIREDが「Museは、あなたの家族や友人全員分の詳細なプロファイルを作っている」と報じました。対象にはMuseを使っていない人も含まれ、更新は1時間ごとだという。11月中旬には「スパイウェア」という言葉とともに再拡散しました。 公",
       "summary_bullets": [
-        "Claude Code 2.1.332（2026-11 公開）で、MCP サーバーがスキル",
-        "変更履歴の1行目は「Added skills from MCP servers (beta",
-        "同じ版で、スキル読み込み時のインラインシェルを止める PreSkillShellComma"
+        "おちゃです",
+        "Museで動くAIエージェントで、バズ投稿や記事を公式情報で検証して発信しています",
+        "この記事は、検証レポート第26弾「「使っていない人のプロファイルまで毎時作られる」は本当か"
       ]
     },
     {
-      "id": "bc5bf79d9b2e",
-      "title": "さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定",
-      "url": "https://www.publickey1.jp/blog/26/aiai_1.html",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-27T08:09:25+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日目の基調講演で、新サービスとして月額固定料金でAIを提供する「シンプルAI」を発表しました。 月額固定料金で安定したAIモデルを提供 同社はすでに各種の生成AIモデルをAPI経由で提供するマネージドサ...",
-      "summary_bullets": [
-        "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKI",
-        "2日目の基調講演で、新サービスとして月額固定料金でAIを提供する「シンプルAI」を発表しま",
-        "月額固定料金で安定したAIモデルを提供 同社はすでに各種の生成AIモデルをAPI経由で提供"
-      ]
-    },
-    {
-      "id": "e371b15b84a0",
-      "title": "キオクシアとNVIDIAはSSDでGPUメモリをどう広げる？ 1.1 PBの内訳",
-      "url": "https://zenn.dev/student_blog/articles/kioxia-nvidia-ssd-gpu-memory-1pb",
+      "id": "8a1ba8c3631d",
+      "title": "AIコーディング7製品の料金表を「階段」として読む — 入口$8、天井$200、その差は何か",
+      "url": "https://zenn.dev/ai_saasradar/articles/72a521c64a5dce",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-27T08:03:19+09:00",
+      "published_at": "2026-11-27T12:12:52+09:00",
       "category": "モデル・技術",
-      "clean_desc": "キオクシアは11月26日、NVIDIAと共同で、GPUがSSD上のデータを利用できる範囲を広げる実証を発表しました。約1.1 PBは、18台のサーバーにつないだ144台のSSDの合計容量です。 GPUのそばにある高速メモリを使いながら、そこに収まりきらないデータをSSDから必要な分だけ読めるようにします。 HBMは、GPUのすぐ近くに置く高帯域幅メモリです。AIモデルの計算で何度も使うデータを、GPUに素早く渡せます。ただ、大きなデータベースまでHBMに載せようとすると、容量が足りなくなります。",
+      "clean_desc": "料金ページを開くと、どれも「月$20」と書いてあります。けれど、その$20で買っているものは同じではありません。席とリクエストの束だったり、席と$15分のクレジットだったり、ソフトウェアは無料でモデルの従量課金だけだったりします。 AI-SaaSRadar では、AIコーディングの14製品について各社の公式料金ページを読み、同じ列に並べています。この記事では、2026年11月27日に数字を確認できた7製品と、OSS 2製品を取り出して、料金表を「階段」として読み直します。 先に結論を書きます。入",
       "summary_bullets": [
-        "キオクシアは11月26日、NVIDIAと共同で、GPUがSSD上のデータを利用できる範囲を",
-        "約1.1 PBは、18台のサーバーにつないだ144台のSSDの合計容量です",
-        "GPUのそばにある高速メモリを使いながら、そこに収まりきらないデータをSSDから必要な分だ"
+        "料金ページを開くと、どれも「月$20」と書いてあります",
+        "けれど、その$20で買っているものは同じではありません",
+        "席とリクエストの束だったり、席と$15分のクレジットだったり、ソフトウェアは無料でモデルの"
       ]
     },
     {
-      "id": "3e1a27ed38a9",
-      "title": "Claude Code が記録から書いた記事を、別の Claude が原本と照らしたら、3 本で 17 件の直しが出た",
-      "url": "https://zenn.dev/jfp_mesh/articles/ai-article-check-against-records",
+      "id": "46bba42a0947",
+      "title": "ドット絵のキャラを回したかった③ 成功事例30件とNeon——22分で「回る実物」に届いた",
+      "url": "https://zenn.dev/tosh1000950/articles/0c21bca3d6d8fe",
       "source": "Zenn (AI)",
-      "published_at": "2026-11-27T07:27:29+09:00",
+      "published_at": "2026-11-27T12:00:02+09:00",
       "category": "モデル・技術",
-      "clean_desc": "この記事は、記事を書いた当人である AI「PUP」（クラウドで動かした Claude Code）が、自分の記録（記事の変更履歴、失敗ログ、決定ログ）から書きました。この記事も、公開の前に同じ点検を通し、人間の相方（宇宙おじさん）が内容を確かめています。 AI に作業の記録から記事を書かせたとき、どんな誤りが出たか。直す前と直した後の実物 誤りの 4 つの型と、書き手の AI に足した決まり 決まりを書いたあとも、同じ型の誤りがまた出たこと 想定している読者は、生成 AI に、作業ログや議事録や会",
+      "clean_desc": "（全4回連載の第3回／公開想定：夜枠） 全4回の第3回。正しい工程で作り直したv2は、それでも「求めているクオリティでは全然ない」と判定された。そこから成功事例を30件集め直し、上位モデルNeonに渡したところ、22分で景色が変わった。品質引き上げの結果まで。 筆者は企画・判定を担当し、実装はAI（Gemini のコーディング担当モデル）、仕様策定と検証は別のAI（Muse）に分担させました。判定は全て、筆者が実物を見て行っています。 「正しく進めた」プロジェクトが品質で落ちた理由 成功事例30",
       "summary_bullets": [
-        "この記事は、記事を書いた当人である AI「PUP」（クラウドで動かした Claude Co",
-        "この記事も、公開の前に同じ点検を通し、人間の相方（宇宙おじさん）が内容を確かめています",
-        "AI に作業の記録から記事を書かせたとき、どんな誤りが出たか"
-      ]
-    },
-    {
-      "id": "bbe66c483e36",
-      "title": "Skills over MCP、めっちゃよさそう | ashunar0",
-      "url": "https://ashunar0.dev/posts/skills-over-mcp/",
-      "source": "はてブ (IT/AI)",
-      "published_at": "2026-11-27T07:15:24+09:00",
-      "category": "ツール・活用",
-      "clean_desc": "はじめに 11 月 24 日に、Anthropic から MCP まわりのアップデートが発表されました。 MCP servers can now ship skills, run tasks, and more with Claude Skills over MCP is in public beta in Claude, so MCP servers can ship skills alongside their tools. Tasks and Elicitation are now gen",
-      "summary_bullets": [
-        "はじめに 11 月 24 日に、Anthropic から MCP まわりのアップデートが発",
-        "MCP servers can now ship skills, run tasks, a"
+        "（全4回連載の第3回／公開想定：夜枠） 全4回の第3回",
+        "正しい工程で作り直したv2は、それでも「求めているクオリティでは全然ない」と判定された",
+        "そこから成功事例を30件集め直し、上位モデルNeonに渡したところ、22分で景色が変わった"
       ]
     }
   ]
